@@ -6,7 +6,7 @@ decks<-data.frame(structure(list(deck=character(),commander=character(),power=fa
 decks<-decks%>%#priority 4: tournament decks 
   add_row(deck="Doomed by the Obscura",commander="Toluz",power="10",played=3,priority="4",W=T,U=T,B=T,R=F,G=F)%>% 
   add_row(deck="Doomsday Experiment",commander="Jan",power="10",played=0,priority="4",W=T,U=F,B=T,R=T,G=F)%>% 
-  add_row(deck="Hot Girl Summer",commander="Jeska & Tymna",power="9",played=2,priority="4",W=T,U=F,B=F,R=T,G=F)%>%
+  add_row(deck="Hot Girl Summer",commander="Jeska & Tymna",power="9",played=4,priority="4",W=T,U=F,B=F,R=T,G=F)%>%
   add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,priority="4",W=F,U=T,B=T,R=T,G=F)%>%# priority 3: LGS deck
   add_row(deck="Amphibian Hugs",commander="Gor Muldark",power="5",played=5,priority="3",W=F,U=T,B=F,R=F,G=T)%>%
   add_row(deck="Gifts to the Table",commander="Parnesse",power="3",played=1,priority="2",W=F,U=T,B=T,R=T,G=F)%>%
@@ -16,12 +16,13 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Over The Hills",commander="Rubinia",power="5",played=0,priority="3",W=T,U=T,B=F,R=F,G=T)%>%
   add_row(deck="Point Mutation",commander="Otrimi",power="5",played=3,priority="3",W=T,U=T,B=F,R=F,G=T) %>%# priority 2: proxy friendly
   add_row(deck="Abzahn Resurgence",commander="Daghatar",power="6",played=6,priority="2",W=T,U=F,B=T,R=F,G=T)%>%
+  add_row(deck="Ad Astra",commander="Belbe",power="8",played=2,priority="2",W=F,U=F,B=T,R=F,G=T)%>%
   add_row(deck="Bestowing Gifts",commander="Kestia",power="5",played=4,priority="2",W=F,U=T,B=F,R=F,G=T)%>%
   add_row(deck="Biology for the Uninitiated",commander="Runo",power="5",played=6,priority="2",W=F,U=T,B=T,R=F,G=F)%>%  
   add_row(deck="Calculator Manipulation",commander="Obeka",power="6",played=5,priority="2",W=F,U=T,B=T,R=T,G=F)%>% 
   add_row(deck="Chaos for Everybody",commander="Sol'kanar",power="4",played=0,priority="1",W=F,U=T,B=T,R=T,G=F)%>% 
   add_row(deck="Clueing for Looks",commander="Amareth",power="5",played=4,priority="3",W=T,U=T,B=F,R=F,G=T)%>% 
-  add_row(deck="Dancing Goblins",commander="Gaalia",power="9",played=0,priority="2",W=F,U=F,B=F,R=T,G=T)%>%  
+  add_row(deck="Dancing Goblins",commander="Gallia",power="9",played=2,priority="2",W=F,U=F,B=F,R=T,G=T)%>%  
   add_row(deck="Dinosaur Nursery",commander="Gavi",power="6",played=4,priority="2",W=T,U=T,B=F,R=T,G=F)%>%  
   add_row(deck="Directed Acyclic Graphs",commander="Alesha",power="5",played=4,priority="2",W=T,U=F,B=T,R=T,G=F)%>%  
   add_row(deck="Dream-Denn",commander="Killian",power="5",played=2,priority="2",W=T,U=F,B=T,R=F,G=F)%>%  
@@ -38,7 +39,7 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Midnight",commander="Yidris",power="5",played=3,priority="2",W=F,U=T,B=T,R=T,G=T)%>%
   add_row(deck="Necrowarfare",commander="Gisa & Geralf",power="5",played=3,priority="2",W=F,U=T,B=T,R=F,G=F)%>%
   add_row(deck="Off To See The Wizard",commander="Inalla",power="5",played=2,priority="2",W=F,U=T,B=T,R=T,G=F)%>%
-  add_row(deck="Phyrexian Hippos",commander="Perrie",power="6",played=2,priority="2",W=T,U=T,B=F,R=F,G=T) %>%
+  add_row(deck="Phyrexian Hippos",commander="Perrie",power="6",played=3,priority="2",W=T,U=T,B=F,R=F,G=T) %>%
 
   add_row(deck="Snakes In The Snow",commander="Jorn",power="6",played=4,priority="2",W=F,U=T,B=T,R=F,G=T) %>%
   add_row(deck="Stegosaurus Combat Behaviour",commander="Kalamax",power="2",played=5,priority="2",W=F,U=T,B=F,R=T,G=T) %>%
@@ -48,7 +49,7 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Time to Forget",commander="Archelos",power="6",played=5,priority="2",W=F,U=T,B=T,R=F,G=T)%>%
   add_row(deck="In The Shadows",commander="Yennett",power="5",played=3,priority="2",W=T,U=T,B=T,R=F,G=F)%>%
   add_row(deck="You Should Be Nicer",commander="Atla",power="6",played=6,priority="2",W=T,U=F,B=F,R=T,G=T)%>%# priority 1: unsleeved 
-  add_row(deck="Ad Astra",commander="Belbe",power="8",played=1,priority="1",W=F,U=F,B=T,R=F,G=T)%>%
+
   add_row(deck="Astelle's Maze",commander="Nine-Fingers Keene",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T)%>%
   add_row(deck="Be Gay Do Crimes",commander="Vadrik",power="5",played=1,priority="1",W=F,U=T,B=F,R=T,G=F)%>%
   add_row(deck="Biggest Butts",commander="Sidar & Tevesh",power="6",played=0,priority="1",W=T,U=F,B=T,R=F,G=T)%>%
@@ -56,21 +57,24 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Cull The Unworthy",commander="Tasigur",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T)%>% 
   add_row(deck="Curious Beasts",commander="Brallin & Shabraz",power="7",played=16,priority="1",W=F,U=T,B=T,R=T,G=F)%>%  
   add_row(deck="Don't Talk To Me",commander="Florian",power="5",played=0,priority="1",W=F,U=F,B=T,R=T,G=F)%>% 
+  add_row(deck="Exiled to Grixis",commander="Sedris",power="5",played=0,priority="1",W=F,U=T,B=T,R=T,G=F)%>%   
   add_row(deck="Failed Parley",commander="Phabine",power="5",played=2,priority="1",W=F,U=T,B=T,R=F,G=T)%>%
   add_row(deck="Find the Bride",commander="Korvold",power="5",played=0,priority="1",W=F,U=F,B=T,R=T,G=T)%>%
   add_row(deck="Here Be Dragons",commander="Kykar",power="5",played=0,priority="1",W=T,U=T,B=F,R=T,G=F)%>%
-  add_row(deck="Hybrid Zone Ascendancy",commander="Rocco",power="2",played=0,priority="1",W=T,U=F,B=F,R=T,G=T)%>%
+  add_row(deck="Hush Now",commander="Kels",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=F)%>%
+  add_row(deck="Hybrid Zone Ascendancy",commander="Rocco",power="5",played=0,priority="1",W=T,U=F,B=F,R=T,G=T)%>%
   add_row(deck="Kept in Suspense",commander="Illuna",power="5",played=0,priority="1",W=F,U=T,B=F,R=T,G=T)%>%  
   add_row(deck="Leave Me Alone",commander="Xantcha",power="5",played=0,priority="1",W=F,U=F,B=F,R=T,G=0)%>%  
   add_row(deck="Misery Business",commander="Queza",power="5",played=0,priority="1",W=T,U=T,B=T,R=F,G=F)%>%
+  add_row(deck="Pyramid of Zombies",commander="Temmet",power="5",played=0,priority="1",W=T,U=T,B=F,R=F,G=F)%>%
   add_row(deck="Remember the Fallen",commander="Rayami",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T) %>%
   add_row(deck="Shattergang Revenge",commander="Shattergang",power="6",played=0,priority="1",W=F,U=F,B=T,R=T,G=T)%>%
   add_row(deck="Solve for X",commander="Zaxara",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T) %>%
   add_row(deck="Stromkirk Vampires",commander="Evelyn",power="5",played=0,priority="1",W=F,U=T,B=T,R=T,G=F) %>%  
   add_row(deck="True Love",commander="Regna & Krav",power="5",played=0,priority="1",W=T,U=F,B=T,R=F,G=F)%>%  
+  add_row(deck="Will Of The Council",commander="Tivit",power="5",played=0,priority="1",W=T,U=T,B=T,R=F,G=F)%>%  
   add_row(deck="Vicious Cuts",commander="Belbe",power="10",played=0,priority="1",W=F,U=F,B=T,R=F,G=T)%>%  
   add_row(deck="Weather The Storm",commander="Trelassara",power="5",played=0,priority="1",W=T,U=F,B=F,R=F,G=T)%>%
-  add_row(deck="Will Of The Council",commander="Tivit",power="5",played=0,priority="1",W=T,U=T,B=T,R=F,G=F)%>%  
   add_row(deck="Women in STEM",commander="Sophina & Cecily",power="5",played=0,priority="1",W=T,U=T,B=T,R=T,G=F)%>%  
   add_row(deck="Zombies & Jellyfish",commander="Sidisi",power="10",played=0,priority="1",W=F,U=T,B=T,R=F,G=T)
 
