@@ -45,7 +45,7 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Snakes In The Snow",commander="Jorn",power="6",played=4,priority="2",W=F,U=T,B=T,R=F,G=T) %>%
   add_row(deck="Stegosaurus Combat Behaviour",commander="Kalamax",power="2",played=5,priority="2",W=F,U=T,B=F,R=T,G=T) %>%
   add_row(deck="Survival",commander="Ukkima & Cazur",power="8",played=5,priority="2",W=F,U=T,B=T,R=F,G=T) %>%
-  add_row(deck="Tea Time",commander="Dina",power="10",played=4,priority="2",W=F,U=F,B=T,R=F,G=T)%>%
+  add_row(deck="Tea Time",commander="Dina",power="8",played=4,priority="2",W=F,U=F,B=T,R=F,G=T)%>%
   add_row(deck="The Noble House Of Esper",commander="Sydri",power="5",played=1,priority="2",W=T,U=T,B=T,R=F,G=F)%>%
   add_row(deck="Time to Forget",commander="Archelos",power="6",played=5,priority="2",W=F,U=T,B=T,R=F,G=T)%>%
   add_row(deck="In The Shadows",commander="Yennett",power="5",played=3,priority="2",W=T,U=T,B=T,R=F,G=F)%>%
@@ -71,6 +71,7 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Remember the Fallen",commander="Rayami",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T) %>%
   add_row(deck="Shattergang Revenge",commander="Shattergang",power="6",played=0,priority="1",W=F,U=F,B=T,R=T,G=T)%>%
   add_row(deck="Solve for X",commander="Zaxara",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T) %>%
+  add_row(deck="Spores on the Playground",commander="Tana & Keskit",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T) %>% 
   add_row(deck="Stromkirk Vampires",commander="Evelyn",power="5",played=0,priority="1",W=F,U=T,B=T,R=T,G=F) %>%  
   add_row(deck="True Love",commander="Regna & Krav",power="5",played=0,priority="1",W=T,U=F,B=T,R=F,G=F)%>%  
   add_row(deck="Will Of The Council",commander="Tivit",power="5",played=0,priority="1",W=T,U=T,B=T,R=F,G=F)%>%  
