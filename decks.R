@@ -15,14 +15,14 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Over The Hills",commander="Rubinia",power="5",played=0,priority="3",W=T,U=T,B=F,R=F,G=T)%>%
   add_row(deck="Point Mutation",commander="Otrimi",power="5",played=3,priority="3",W=T,U=T,B=F,R=F,G=T) %>%# priority 2: proxy friendly
   add_row(deck="Abzahn Resurgence",commander="Daghatar",power="6",played=6,priority="2",W=T,U=F,B=T,R=F,G=T)%>%
-  add_row(deck="Ad Astra",commander="Belbe",power="8",played=6,priority="2",W=F,U=F,B=T,R=F,G=T)%>%
-  add_row(deck="Bestowing Gifts",commander="Kestia",power="5",played=4,priority="2",W=F,U=T,B=F,R=F,G=T)%>%
+  add_row(deck="Ad Astra",commander="Belbe",power="8",played=7,priority="2",W=F,U=F,B=T,R=F,G=T)%>%
+  add_row(deck="Bestowing Gifts",commander="Kestia",power="5",played=7,priority="2",W=F,U=T,B=F,R=F,G=T)%>%
   add_row(deck="Biology for the Uninitiated",commander="Runo",power="5",played=6,priority="2",W=F,U=T,B=T,R=F,G=F)%>%  
   add_row(deck="Calculator Manipulation",commander="Obeka",power="6",played=5,priority="2",W=F,U=T,B=T,R=T,G=F)%>% 
   add_row(deck="Chaos for Everybody",commander="Sol'kanar",power="4",played=0,priority="1",W=F,U=T,B=T,R=T,G=F)%>% 
   add_row(deck="Clueing for Looks",commander="Amareth",power="5",played=4,priority="3",W=T,U=T,B=F,R=F,G=T)%>% 
   add_row(deck="Dancing Goblins",commander="Gallia",power="9",played=2,priority="2",W=F,U=F,B=F,R=T,G=T)%>%  
-  add_row(deck="Dinosaur Nursery",commander="Gavi",power="6",played=4,priority="2",W=T,U=T,B=F,R=T,G=F)%>%  
+  add_row(deck="Dinosaur Nursery",commander="Gavi",power="6",played=6,priority="2",W=T,U=T,B=F,R=T,G=F)%>%  
   add_row(deck="Directed Acyclic Graphs",commander="Alesha",power="5",played=4,priority="2",W=T,U=F,B=T,R=T,G=F)%>%  
   add_row(deck="Dream-Denn",commander="Killian",power="5",played=2,priority="2",W=T,U=F,B=T,R=F,G=F)%>%  
   add_row(deck="Eat the Rich",commander="Silvar & Trynn",power="6",played=6,priority="2",W=T,U=F,B=T,R=T,G=F)%>%
@@ -31,7 +31,7 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Ethics Violations",commander="Volrath",power="6",played=2,priority="2",W=T,U=F,B=F,R=T,G=T)%>%
   add_row(deck="Hellrider's Pride",commander="Zevlor",power="5",played=1,priority="2",W=F,U=T,B=T,R=T,G=F)%>%
   add_row(deck="Hidden Gems",commander="Kadena",power="5",played=2,priority="2",W=F,U=T,B=T,R=F,G=T)%>%
-  add_row(deck="Hot Girl Summer",commander="Jeska & Tymna",power="9",played=11,priority="2",W=T,U=F,B=F,R=T,G=F)%>%
+  add_row(deck="Hot Girl Summer",commander="Jeska & Tymna",power="9",played=12,priority="2",W=T,U=F,B=F,R=T,G=F)%>%
   add_row(deck="Hunting Time",commander="Neyith",power="6",played=4,priority="2",W=F,U=F,B=F,R=T,G=T)%>%
   add_row(deck="In a Flash",commander="Nymris",power="5",played=0,priority="2",W=F,U=T,B=T,R=F,G=F)%>%
   add_row(deck="Keimi's Revenge",commander="Tatsunari",power="5",played=5,priority="2",W=F,U=T,B=T,R=F,G=T)%>%
@@ -54,6 +54,7 @@ decks<-decks%>%#priority 4: tournament decks
   add_row(deck="Astelle's Maze",commander="Nine-Fingers Keene",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T)%>%
   add_row(deck="Be Gay Do Crimes",commander="Vadrik",power="5",played=1,priority="1",W=F,U=T,B=F,R=T,G=F)%>%
   add_row(deck="Biggest Butts",commander="Sidar & Tevesh",power="6",played=0,priority="1",W=T,U=F,B=T,R=F,G=T)%>%
+  add_row(deck="Challenger",commander="Mr Orfeo",power="4",played=1,priority="1",W=F,U=F,B=T,R=T,G=T)%>%   
   add_row(deck="Collector's Edition",commander="Pharika",power="5",played=0,priority="1",W=F,U=F,B=T,R=F,G=T)%>% 
   add_row(deck="Cull The Unworthy",commander="Tasigur",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T)%>% 
   add_row(deck="Curious Beasts",commander="Brallin & Shabraz",power="7",played=16,priority="1",W=F,U=T,B=T,R=T,G=F)%>%  
@@ -114,5 +115,5 @@ decks%>%filter(priority!="1")%>%count()
 
 # wishlist (This is currently a little behind)
 
-proxies<- as.data.frame(read.csv(proxies.csv,header=T,sep=";"))
+proxies<- as.data.frame(read.csv("proxies.csv",header=T,sep=";"))
 proxies%>%dplyr::filter(str_detect(deck,"Atla Palani"))# example looking for cards I need to Atla 
