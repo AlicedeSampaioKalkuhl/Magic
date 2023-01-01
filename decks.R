@@ -13,7 +13,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Depths of Darkness",commander="Thrasios & Reyhan",power="7",played=7,priority="6",W=F,U=T,B=T,R=F,G=T,artist="Josu Hernaiz,Chris Rallis") %>%
   add_row(deck="Nephalia Nightmares",commander="Jeleva",power="7",played=10,priority="6",W=F,U=T,B=T,R=T,G=F,artist="Cynthia Sheppard")%>% 
   # priority 5: LGS low power 
-  add_row(deck="Ethics Violations",commander="Volrath",power="6",played=2,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Heonhwa Choe")%>%
+  add_row(deck="Ethics Violations",commander="Volrath",power="6",played=3,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Heonhwa Choe")%>%
   add_row(deck="Failed Parley",commander="Phabine",power="5",played=5,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Ryan Pancoast")%>%
   add_row(deck="Gifts to the Table",commander="Parnesse",power="6",played=8,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Svetlin Velinov")%>%
   add_row(deck="Graveyard of Nightmares",commander="Beamtown Bullies",power="5",played=1,priority="5",W=F,U=F,B=T,R=T,G=T,artist="Tyler Jacobson")%>%
@@ -21,7 +21,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Keep People Humble",commander="Ivy",power="5",played=3,priority="5",W=F,U=T,B=F,R=F,G=T,artist="Evyn Fong") %>% 
   add_row(deck="Let Me Borrow This",commander="Yasova",power="5",played=4,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Winona Nelson")%>%
   add_row(deck="Let's All Work Together",commander="Sen Triplets",power="6",played=6,priority="5",W=T,U=T,B=T,R=F,G=F,artist="Greg Staples")%>%
-  add_row(deck="Party of Two",commander="Minthara",power="5",played=1,priority="5",W=T,U=F,B=T,R=F,G=F,artist="Evyn Fong")%>%
+  add_row(deck="Party of Two",commander="Minthara",power="5",played=2,priority="5",W=T,U=F,B=T,R=F,G=F,artist="Evyn Fong")%>%
   add_row(deck="Point Mutation",commander="Otrimi",power="5",played=3,priority="5",W=T,U=T,B=F,R=F,G=T,artist="Victor Adame Minguez") %>%
   # priority 4: non-tournament cEDH 
   add_row(deck="Macbeth's Witches",commander="Jeska & Tymna",power="9",played=0,priority="4",W=T,U=F,B=T,R=T,G=F,artist="Yongjae Choi,Winona Nelson")%>% 
@@ -38,7 +38,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Clueing for Looks",commander="Amareth",power="5",played=4,priority="5",W=T,U=T,B=F,R=F,G=T,artist="Lie Setiawan")%>% 
   add_row(deck="Dinosaur Nursery",commander="Gavi",power="6",played=6,priority="2",W=T,U=T,B=F,R=T,G=F,artist="Randy Vargas")%>%  
   add_row(deck="Directed Acyclic Graphs",commander="Alesha",power="5",played=5,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Winona Nelson")%>%  
-  add_row(deck="Don't Talk To Me",commander="Florian",power="5",played=3,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Justine Cruz")%>% 
+  add_row(deck="Don't Talk To Me",commander="Florian",power="5",played=4,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Justine Cruz")%>% 
   add_row(deck="Dream-Denn",commander="Killian with Lurrus",power="5",played=2,priority="2",W=T,U=F,B=T,R=F,G=F,artist="Ryan Pancoast,Slawomir Maniak")%>%  
   add_row(deck="Eat the Rich",commander="Silvar & Trynn",power="6",played=6,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Jesper Ejsing,Jesper Ejsing")%>%
   add_row(deck="Elspeth of the Nine Realms",commander="Koll",power="7",played=5,priority="2",W=T,U=F,B=F,R=T,G=F,artist="Bram Sels")%>%  
@@ -124,6 +124,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Leave Me Alone",commander="Xantcha",power="5",played=0,priority="1",W=F,U=F,B=T,R=T,G=0,artist="Mark Winters")%>%  
   add_row(deck="Maelstorm Angels",commander="Jenson",power="5",played=0,priority="1",W=T,U=T,B=T,R=T,G=T,artist="Livia Prima")%>%
   add_row(deck="Marine Genomics",commander="Damia",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Steve Argyle")%>%
+  add_row(deck="Midnight",commander="Nekusar",power="5",played=0,priority="1",W=T,U=T,B=T,R=T,G=F,artist="Mark Winters")%>%
   add_row(deck="Misery Business",commander="Queza",power="5",played=0,priority="1",W=T,U=T,B=T,R=F,G=F,artist="Julie Dillon")%>%
   add_row(deck="Necromancy in the Kitchen",commander="Colfenor",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Filip Burburan")%>%
   add_row(deck="News of the Day",commander="Denry Klin",power="5",played=0,priority="1",W=T,U=T,B=F,R=F,G=F,artist="Aaron J. Riley")%>%
@@ -165,7 +166,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="True Love",commander="Regna & Krav",power="5",played=0,priority="1",W=T,U=F,B=T,R=F,G=F,artist="Randy Vargas,Randy Vargas")%>%  
   add_row(deck="Trust the Process",commander="Ukkima & Cazur",power="9",played=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Daarken,Daarken")%>%
   add_row(deck="The Secret Life of Hell",commander="Raphael",power="5",played=0,priority="1",W=F,U=F,B=T,R=T,G=F,artist="Livia Prima")%>%  
-  add_row(deck="Undercity Expedition",commander="Tocasia",power="5",played=0,priority="1",W=T,U=F,B=T,R=F,G=T,artist="Lie Setiawan")%>%  
+  add_row(deck="Undercity Expedition",commander="Tocasia",power="5",played=0,priority="1",W=T,U=T,B=F,R=F,G=T,artist="Lie Setiawan")%>%  
   add_row(deck="Unspeakable Horrors",commander="Kodama & Ghost of Ramirez",power="5",played=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Daarken,Grzegorz Rutkowski")%>%  
   add_row(deck="Welcome to the Circus",commander="Magar",power="5",played=0,priority="1",W=F,U=F,B=T,R=T,G=F,artist="Tomek Larek")%>%
   add_row(deck="Where Are My Lesbians?",commander="Ikra & Kydele ",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Josu Hernaiz,Bastien L. Deharme")%>%
@@ -223,3 +224,6 @@ proxies%>%dplyr::filter(str_detect(Decks,"Atla Palani"))%>%pull(Card)# example l
 artists<-decks%>%separate_rows(artist,sep=',')%>%group_by(artist)%>%summarise(n=n())%>%arrange(desc(n))
 artists
 decks%>%dplyr::filter(str_detect(artist,"Jesper Ejsing"))%>%arrange(commander)%>%pull(commander)
+
+# filter by colour
+decks%>%dplyr::filter(B==T)%>%pull(commander)
