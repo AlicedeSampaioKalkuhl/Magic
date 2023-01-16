@@ -7,18 +7,19 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Dancing Goblins",commander="Gallia",power="9",played=3,priority="7",W=F,U=F,B=F,R=T,G=T,artist="Johannes Voss")%>% 
   add_row(deck="Metallic Shark",commander="Shabraz & Brallin",power="9",played=3,priority="7",W=F,U=T,B=T,R=T,G=F,artist="Paul Scott Canavanm,Paul Scott Canavan")%>%  
   add_row(deck="Obscura Doomsday",commander="Toluz",power="10",played=6,priority="7",W=T,U=T,B=T,R=F,G=F,artist="Donato Giancola")%>% 
-  add_row(deck="Sultai Mean Girls",commander="Sidisi",power="9",played=2,priority="7",W=F,U=T,B=T,R=F,G=T,artist="Karl Kopinski")%>%
+  add_row(deck="Sultai Mean Girls",commander="Sidisi",power="9",played=4,priority="7",W=F,U=T,B=T,R=F,G=T,artist="Karl Kopinski")%>%
   add_row(deck="The Weatherlight is Under Construction",commander="Jhoira",power="9",played=4,priority="7",W=F,U=T,B=F,R=T,G=F,artist="Lisa Heidhoff")%>%
   add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,priority="7",W=F,U=T,B=T,R=T,G=F,artist="Bram Sels")%>%# priority 6: LGS high power 
   add_row(deck="Depths of Darkness",commander="Thrasios & Reyhan",power="7",played=7,priority="6",W=F,U=T,B=T,R=F,G=T,artist="Josu Hernaiz,Chris Rallis") %>%
   add_row(deck="Nephalia Nightmares",commander="Jeleva",power="7",played=10,priority="6",W=F,U=T,B=T,R=T,G=F,artist="Cynthia Sheppard")%>% 
   # priority 5: LGS low power 
+  add_row(deck="Astelle's Maze",commander="Nine-Fingers Keene",power="5",played=0,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Nils Hamm")%>%
   add_row(deck="Ethics Violations",commander="Volrath",power="6",played=3,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Heonhwa Choe")%>%
   add_row(deck="Failed Parley",commander="Phabine",power="5",played=5,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Ryan Pancoast")%>%
-  add_row(deck="Gifts to the Table",commander="Parnesse",power="6",played=8,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Svetlin Velinov")%>%
+  add_row(deck="Gifts to the Table",commander="Parnesse",power="6",played=9,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Svetlin Velinov")%>%
   add_row(deck="Graveyard of Nightmares",commander="Beamtown Bullies",power="5",played=1,priority="5",W=F,U=F,B=T,R=T,G=T,artist="Tyler Jacobson")%>%
   add_row(deck="Hellrider's Pride",commander="Zevlor",power="5",played=3,priority="5",W=F,U=T,B=T,R=T,G=F,artist="David Rapoza")%>%
-  add_row(deck="Keep People Humble",commander="Ivy",power="5",played=3,priority="5",W=F,U=T,B=F,R=F,G=T,artist="Evyn Fong") %>% 
+  add_row(deck="Keep People Humble",commander="Ivy",power="5",played=4,priority="5",W=F,U=T,B=F,R=F,G=T,artist="Evyn Fong") %>% 
   add_row(deck="Let Me Borrow This",commander="Yasova",power="5",played=4,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Winona Nelson")%>%
   add_row(deck="Let's All Work Together",commander="Sen Triplets",power="6",played=6,priority="5",W=T,U=T,B=T,R=F,G=F,artist="Greg Staples")%>%
   add_row(deck="Party of Two",commander="Minthara",power="5",played=2,priority="5",W=T,U=F,B=T,R=F,G=F,artist="Evyn Fong")%>%
@@ -43,11 +44,13 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Eat the Rich",commander="Silvar & Trynn",power="6",played=6,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Jesper Ejsing,Jesper Ejsing")%>%
   add_row(deck="Elspeth of the Nine Realms",commander="Koll",power="7",played=5,priority="2",W=T,U=F,B=F,R=T,G=F,artist="Bram Sels")%>%  
   add_row(deck="Elves Across The Multiverse",commander="Abomination of Llanowar",power="7",played=10,priority="2",W=F,U=F,B=T,R=F,G=T,artist="Vincent Proce")%>%  
+  add_row(deck="Elves With Stones",commander="Akiri & Miara",power="6",played=1,priority="2",W=T,U=F,B=T,R=T,G=F,artist="David Gaillet,Johannes Voss")%>%  
   add_row(deck="Hidden Gems",commander="Kadena",power="5",played=2,priority="2",W=F,U=T,B=T,R=F,G=T,artist="Caio Monteiro")%>%
   add_row(deck="Hunting Time",commander="Neyith",power="6",played=4,priority="2",W=F,U=F,B=F,R=T,G=T,artist="Magali Villeneuve")%>%
   add_row(deck="In The Shadows",commander="Yennett",power="5",played=4,priority="2",W=T,U=T,B=T,R=F,G=F,artist="Chris Rahn")%>%
   add_row(deck="Jeskai Lore",commander="Shu Yun",power="5",played=1,priority="2",W=T,U=T,B=F,R=T,G=F,artist="David Gaillet")%>%
   add_row(deck="Keimi's Revenge",commander="Tatsunari",power="5",played=5,priority="2",W=F,U=T,B=T,R=F,G=T,artist="Justine Cruz")%>%
+  add_row(deck="Kept in Suspense",commander="Illuna",power="5",played=1,priority="2",W=F,U=T,B=F,R=T,G=T,artist="Chris Rahn")%>%
   add_row(deck="Knives Out, Yavimaya!",commander="Meria",power="5",played=1,priority="1",W=F,U=F,B=F,R=T,G=T,artist="Aurore Folny")%>%
   add_row(deck="Lands of Wrath",commander="Aurelia",power="5",played=1,priority="2",W=T,U=F,B=F,R=T,G=F,artist="Slawomir Maniak")%>%  
   add_row(deck="Legion of Blood",commander="Licia",power="6",played=3,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Magali Villeneuve")%>%  
@@ -57,19 +60,18 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Off To See The Wizard",commander="Inalla",power="5",played=3,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Yongjae Choi")%>%
   add_row(deck="Phyrexian Hippos",commander="Perrie with Keruga",power="6",played=6,priority="2",W=T,U=T,B=F,R=F,G=T,artist="Joshua Raphael,Dan Scott") %>%
   add_row(deck="Population of Llanowar",commander="Allenal",power="5",played=1,priority="2",W=T,U=T,B=F,R=F,G=F,artist="Carly Mazur")%>%
-  add_row(deck="Prismari for Life",commander="Galazeth Prismari",power="5",played=0,priority="2",W=F,U=T,B=F,R=T,G=F,artist="Iain McCaig")%>%
+  add_row(deck="Prismari for Life",commander="Galazeth Prismari",power="5",played=1,priority="2",W=F,U=T,B=F,R=T,G=F,artist="Iain McCaig")%>%
+  add_row(deck="Roll for Honey",commander="Xira",power="5",played=1,priority="2",W=F,U=F,B=T,R=T,G=T,artist="Mila Pesic") %>%
   add_row(deck="Snakes In The Snow",commander="Jorn",power="6",played=4,priority="2",W=F,U=T,B=T,R=F,G=T,artist="Magali Villeneuve") %>%
   add_row(deck="Spores on the Playground",commander="Tana & Keskit",power="5",played=1,priority="2",W=F,U=T,B=T,R=F,G=T,artist="Magali Villeneuve,Yongjae Choi") %>% 
   add_row(deck="Stegosaurus Combat Behaviour",commander="Kalamax",power="2",played=5,priority="2",W=F,U=T,B=F,R=T,G=T,artist="Nicholas Gregory") %>%
   add_row(deck="Tea Time",commander="Dina",power="8",played=5,priority="2",W=F,U=F,B=T,R=F,G=T,artist="Chris Rahn")%>%
   add_row(deck="The Noble House Of Esper",commander="Sydri",power="5",played=1,priority="2",W=T,U=T,B=T,R=F,G=F,artist="Therese Nielsen")%>%
-  add_row(deck="Time to Forget",commander="Archelos",power="6",played=5,priority="2",W=F,U=T,B=T,R=F,G=T,artist="Dan Scott")%>%
   add_row(deck="Weather The Storm",commander="Trelasarra",power="5",played=0,priority="1",W=T,U=F,B=F,R=F,G=T,artist="Kieran Yanner")%>%
   add_row(deck="You Should Be Nicer",commander="Atla",power="6",played=6,priority="2",W=T,U=F,B=F,R=T,G=T,artist="Ekaterina Burmak")%>%  #priority 1: unsleeved and unfinished
   add_row(deck="Allies of the Realm",commander="Bruse & Thrasios",power="5",played=0,priority="1",W=T,U=T,B=F,R=T,G=T,artist="Anthony Palumbo,Josu Hernaiz")%>%
   add_row(deck="Amphibian Hugs",commander="Gor Muldrak",power="5",played=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Steven Belledin")%>%
   add_row(deck="And They Were Roommates!",commander="Halana and Alena",power="5",played=0,priority="1",W=F,U=F,B=F,R=T,G=T,artist="Jason Rainville")%>%
-  add_row(deck="Astelle's Maze",commander="Nine-Fingers Keene",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Nils Hamm")%>%
   add_row(deck="At War",commander="Anax and Cymede",power="5",played=0,priority="1",W=T,U=F,B=F,R=T,G=F,artist="Willian Murai")%>%
   add_row(deck="Baby Bears",commander="Ruxa",power="5",played=0,priority="1",W=F,U=F,B=F,R=F,G=T,artist="Ilse Gort")%>%
   add_row(deck="Backstreet's Back",commander="Alena & Ravos",power="5",played=0,priority="1",W=T,U=F,B=T,R=T,G=F,artist="Zoltan Boros,Carmen Sinek")%>%
@@ -117,7 +119,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="In a Flash",commander="Nymris",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=F,artist="Johannes Voss")%>%
   add_row(deck="Itsy Bitsy Graveyard",commander="Ishkanah",power="5",played=0,priority="1",W=F,U=F,B=T,R=F,G=T,artist="Christine Choi")%>%
   add_row(deck="Jasmine Reads Adventures",commander="Jasmine",power="5",played=0,priority="1",W=T,U=F,B=F,R=F,G=T,artist="Bastien L. Deharme")%>%
-  add_row(deck="Kept in Suspense",commander="Illuna",power="5",played=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="Chris Rahn")%>%
+
   add_row(deck="Kithkin War",commander="Vikya",power="5",played=0,priority="1",W=T,U=F,B=F,R=T,G=F,artist="Zoltan Boros")%>%
   add_row(deck="Knights of the Shire",commander="Mazzy",power="5",played=0,priority="1",W=T,U=F,B=F,R=T,G=T,artist="Justyna Dura")%>%
   add_row(deck="Just a Glimpse",commander="Kenessos",power="5",played=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Joshua Raphael")%>%
@@ -146,8 +148,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Responsible Fieldwork",commander="Quintorius",power="5",played=0,priority="1",W=T,U=F,B=F,R=T,G=F,artist="Bryan Sola")%>%
   add_row(deck="Return from the Deep",commander="Vohar",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=F,artist="Nino Vecia") %>%
   add_row(deck="Rogues in the Night",commander="Krydle",power="5",played=0,priority="1",W=F,U=T,B=F,R=F,G=F,artist="Bryan Sola")%>%
-  add_row(deck="Roll for Honey",commander="Xira",power="5",played=0,priority="1",W=F,U=F,B=T,R=T,G=T,artist="Mila Pesic") %>%
-  add_row(deck="Royal Snowball",commander="Queen Marchesa",power="9",played=0,priority="1",W=T,U=F,B=T,R=T,G=F,artist="Kieran Yanner")%>%
+  add_row(deck="Royal Snowball",commander="Queen Marchesa",power="8",played=0,priority="1",W=T,U=F,B=T,R=T,G=F,artist="Kieran Yanner")%>%
   add_row(deck="Runic Lore",commander="Gretchen",power="9",played=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="Mila Pesic")%>%
   add_row(deck="Sands of the Forgotten",commander="Hazezon",power="5",played=0,priority="1",W=T,U=F,B=F,R=T,G=T,artist="Bryan Sola") %>%
   add_row(deck="Searching...",commander="Etrata",power="5",played=0,priority="1",W=F,U=T,B=F,R=F,G=F,artist="Bastien L. Deharme")%>%
@@ -156,7 +157,6 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Shrines to the Death",commander="Ghen",power="6",played=0,priority="1",W=T,U=F,B=T,R=T,G=F,artist="Kieran Yanner")%>%
   add_row(deck="Sleepy Time",commander="Timin & Rhoda",power="5",played=1,priority="0",W=T,U=T,B=F,R=F,G=F,artist="Randy Vargas,Randy Vargas")%>%
   add_row(deck="Solve for X",commander="Zaxara",power="5",played=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Simon Dominic") %>%
-  add_row(deck="So many Spellseekers",commander="Ivy",power="9",played=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Eshpur")%>%
   add_row(deck="Stromkirk Vampires",commander="Evelyn",power="5",played=0,priority="1",W=F,U=T,B=T,R=T,G=F,artist="Marta Nael") %>%
   add_row(deck="The Ashnod Institute for Myr Research",commander="Ashnod",power="5",played=0,priority="1",W=F,U=T,B=T,R=T,G=F,artist="Kieran Yanner")%>%
   add_row(deck="The Stacl is Your Wonderland",commander="Neera",power="5",played=0,priority="1",W=F,U=T,B=F,R=T,G=F,artist="Pauline Voss")%>%
