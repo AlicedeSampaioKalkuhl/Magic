@@ -4,9 +4,10 @@ library(viridis)
 
 decks<-data.frame(structure(list(deck=character(),commander=character(),power=factor(),played=numeric(),priority=factor(),W=logical(),U=logical(),B=logical(),R=logical(),G=logical(),artist=character())))
 decks<-decks%>%#priority 7: Tournament cEDH
-  add_row(deck="Dancing Goblins",commander="Gallia",power="9",played=3,priority="7",W=F,U=F,B=F,R=T,G=T,artist="Johannes Voss")%>% 
+
   add_row(deck="Metallic Shark",commander="Shabraz & Brallin",power="9",played=3,priority="7",W=F,U=T,B=T,R=T,G=F,artist="Paul Scott Canavanm,Paul Scott Canavan")%>%  
   add_row(deck="Obscura Doomsday",commander="Toluz",power="10",played=6,priority="7",W=T,U=T,B=T,R=F,G=F,artist="Donato Giancola")%>% 
+  add_row(deck="Pompeii",commander="Gallia",power="9",played=4,priority="7",W=F,U=F,B=F,R=T,G=T,artist="Johannes Voss")%>% 
   add_row(deck="Sultai Mean Girls",commander="Sidisi",power="9",played=4,priority="7",W=F,U=T,B=T,R=F,G=T,artist="Karl Kopinski")%>%
   add_row(deck="The Weatherlight is Under Construction",commander="Jhoira",power="9",played=4,priority="7",W=F,U=T,B=F,R=T,G=F,artist="Lisa Heidhoff")%>%
   add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,priority="7",W=F,U=T,B=T,R=T,G=F,artist="Bram Sels")%>%# priority 6: LGS high power 
@@ -26,7 +27,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Point Mutation",commander="Otrimi",power="5",played=3,priority="5",W=T,U=T,B=F,R=F,G=T,artist="Victor Adame Minguez") %>%
   # priority 4: non-tournament cEDH 
   add_row(deck="Macbeth's Witches",commander="Jeska & Tymna",power="9",played=0,priority="4",W=T,U=F,B=T,R=T,G=F,artist="Yongjae Choi,Winona Nelson")%>% 
-  add_row(deck="PhD at Trinity",commander="Marath",power="9",played=0,priority="4",W=T,U=F,B=F,R=T,G=T,artist="Tyler Jacobson")%>% 
+  add_row(deck="PhD at Trinity",commander="Marath",power="9",played=1,priority="4",W=T,U=F,B=F,R=T,G=T,artist="Tyler Jacobson")%>% 
   # priority 3: pauper 
   add_row(deck="Challenger",commander="Mr Orfeo",power="4",played=1,priority="1",W=F,U=F,B=T,R=T,G=T,artist="Daarken")%>%
   # priority 2: Casual and Proxied 
@@ -44,7 +45,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Eat the Rich",commander="Silvar & Trynn",power="6",played=6,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Jesper Ejsing,Jesper Ejsing")%>%
   add_row(deck="Elspeth of the Nine Realms",commander="Koll",power="7",played=5,priority="2",W=T,U=F,B=F,R=T,G=F,artist="Bram Sels")%>%  
   add_row(deck="Elves Across The Multiverse",commander="Abomination of Llanowar",power="7",played=10,priority="2",W=F,U=F,B=T,R=F,G=T,artist="Vincent Proce")%>%  
-  add_row(deck="Elves With Stones",commander="Akiri & Miara",power="6",played=1,priority="2",W=T,U=F,B=T,R=T,G=F,artist="David Gaillet,Johannes Voss")%>%  
+  add_row(deck="Elves With Stones",commander="Akiri & Miara",power="6",played=2,priority="2",W=T,U=F,B=T,R=T,G=F,artist="David Gaillet,Johannes Voss")%>%  
   add_row(deck="Hidden Gems",commander="Kadena",power="5",played=2,priority="2",W=F,U=T,B=T,R=F,G=T,artist="Caio Monteiro")%>%
   add_row(deck="Hunting Time",commander="Neyith",power="6",played=4,priority="2",W=F,U=F,B=F,R=T,G=T,artist="Magali Villeneuve")%>%
   add_row(deck="In The Shadows",commander="Yennett",power="5",played=4,priority="2",W=T,U=T,B=T,R=F,G=F,artist="Chris Rahn")%>%
@@ -179,7 +180,7 @@ decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Lulu's Throne",commander="Lulu & Feywild Visitor",power="5",played=0,priority="0",W=T,U=T,B=F,R=F,G=0,artist="Jakob Eirich,Johann Bodin")%>%
   add_row(deck="The Dispossesed",commander="Meren",power="5",played=0,priority="0",W=T,U=T,B=T,R=T,G=F,artist="Mark Winters")%>%
   add_row(deck="Top of the World",commander="Elsha of the Inifinte",power="5",played=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="G-host Lee")%>%
-  add_row(deck="Well-Oiled Machine",commander="Rona",power="5",played=0,priority="0",W=F,U=T,B=T,R=F,G=F,artist="Ryan Alexander Lee")%>%# priority: NA retired 
+  add_row(deck="Well-Oiled Machine",commander="Rona",power="5",played=2,priority="0",W=F,U=T,B=T,R=F,G=F,artist="Ryan Alexander Lee")%>%# priority: NA retired 
 add_row(deck="Hot Girl Summer",commander="Jeska & Tymna",power="9",played=12,priority=NA,W=T,U=F,B=T,R=T,G=F,artist="Yongjae Choi,Winona Nelson")
 
 decks%>%filter(W==T & B==T & R==T)
