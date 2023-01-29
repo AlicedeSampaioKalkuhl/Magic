@@ -6,7 +6,7 @@ decks<-data.frame(structure(list(deck=character(),commander=character(),power=fa
 decks<-decks%>%#priority 7: Tournament cEDH
 
   add_row(deck="Metallic Shark",commander="Shabraz & Brallin",power="9",played=3,priority="7",W=F,U=T,B=T,R=T,G=F,artist="Paul Scott Canavanm,Paul Scott Canavan")%>%  
-  add_row(deck="Obscura Doomsday",commander="Toluz",power="10",played=6,priority="7",W=T,U=T,B=T,R=F,G=F,artist="Donato Giancola")%>% 
+  add_row(deck="Obscura Doomsday",commander="Toluz",power="10",played=11,priority="7",W=T,U=T,B=T,R=F,G=F,artist="Donato Giancola")%>% 
   add_row(deck="Pompeii",commander="Gallia",power="9",played=4,priority="7",W=F,U=F,B=F,R=T,G=T,artist="Johannes Voss")%>% 
   add_row(deck="Sultai Mean Girls",commander="Sidisi",power="9",played=4,priority="7",W=F,U=T,B=T,R=F,G=T,artist="Karl Kopinski")%>%
   add_row(deck="The Weatherlight is Under Construction",commander="Jhoira",power="9",played=4,priority="7",W=F,U=T,B=F,R=T,G=F,artist="Lisa Heidhoff")%>%
