@@ -2,6 +2,7 @@ library(forcats)
 library(tidyverse)
 library(viridis)
 
+# If you don't wan to edit your decks from within R, you can import any table with the same column names. 
 decks<-data.frame(structure(list(deck=character(),commander=character(),power=factor(),played=numeric(),won=numeric(),draw=numeric(),lost=numeric(),priority=factor(),W=logical(),U=logical(),B=logical(),R=logical(),G=logical(),artist=character(),plane=character())))
 decks<-decks%>%#priority 7: Tournament cEDH
   add_row(deck="Destoying Ravnica",commander="Borborygmos and Fblthp",power="9",played=1,won=0,draw=0,lost=1,priority="8",W=T,U=T,B=T,R=F,G=F,artist="Justin Hernandez,Alexis Hernandez",plane='Ravnica,Ravnica')%>% 
