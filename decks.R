@@ -6,10 +6,9 @@ library(ggrepel)
 # If you don't wan to edit your decks from within R, you can import any table with the same column names. 
 decks<-data.frame(structure(list(deck=character(),commander=character(),power=factor(),played=numeric(),won=numeric(),draw=numeric(),lost=numeric(),priority=factor(),W=logical(),U=logical(),B=logical(),R=logical(),G=logical(),artist=character(),plane=character())))
 decks<-decks%>%#priority 6: Tournament cEDH
-  add_row(deck="Destoying Ravnica",commander="Borborygmos and Fblthp",power="9",played=6,won=1,draw=2,lost=3,priority="6",W=T,U=T,B=T,R=F,G=F,artist="Justin Hernandez,Alexis Hernandez",plane='Ravnica,Ravnica')%>% 
+  add_row(deck="Destoying Ravnica",commander="Borborygmos and Fblthp",power="9",played=8,won=2,draw=2,lost=4,priority="6",W=T,U=T,B=T,R=F,G=F,artist="Justin Hernandez,Alexis Hernandez",plane='Ravnica,Ravnica')%>% 
   add_row(deck="Obscura Doomsday",commander="Toluz",power="9",played=11,won=5,draw=1,lost=5,priority="6",W=T,U=T,B=T,R=F,G=F,artist="Donato Giancola",plane='New Capenna')%>% 
-  add_row(deck="Sultai Mean Girls",commander="Sidisi",power="9",played=4,won=2,draw=0,lost=2,priority="6",W=F,U=T,B=T,R=F,G=T,artist="Karl Kopinski",plane='Tarkir')%>%
-  add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,won=0,draw=0,lost=1,priority="6",W=F,U=T,B=T,R=T,G=F,artist="Bram Sels",plane='New Capenna')%>%# priority 5: LGS proxy free
+  add_row(deck="Sultai Mean Girls",commander="Sidisi",power="9",played=4,won=2,draw=0,lost=2,priority="6",W=F,U=T,B=T,R=F,G=T,artist="Karl Kopinski",plane='Tarkir')%>%# priority 5: LGS proxy free
   add_row(deck="As Foretold",commander="Gnostro",power="5",played=6,won=1,draw=0,lost=5,priority="5",W=T,U=T,B=F,R=F,G=F,artist="Lars Grant-West",plane='Theros')%>%
   add_row(deck="Best Poster Award",commander="Zimone and Dina",power="5",played=0,won=0,draw=0,lost=0,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Anato Finnstark,Anato Finnstark",plane='Arcavios,Arcavios')%>%
   add_row(deck="Bestowing Gifts",commander="Kestia",power="5",played=10,won=2,draw=0,lost=8,priority="2",W=F,U=T,B=F,R=F,G=T,artist="Zezhou Chen",plane='Theros')%>%
@@ -58,6 +57,7 @@ decks<-decks%>%#priority 6: Tournament cEDH
   add_row(deck="Jeskai Tales",commander="Shu Yun",power="4",played=1,won=0,draw=0,lost=1,priority="2",W=T,U=T,B=F,R=T,G=F,artist="David Gaillet",plane='Tarkir')%>%
   add_row(deck="Necrowarfare",commander="Gisa and Geralf",power="5",played=4,won=2,draw=0,lost=2,priority="2",W=F,U=T,B=T,R=F,G=F,artist="Aaron J. Riley",plane='Innistrad,Innistrad')%>%
   add_row(deck="Prismari for Life",commander="Galazeth Prismari",power="5",played=2,won=1,draw=0,lost=1,priority="2",W=F,U=T,B=F,R=T,G=F,artist="Iain McCaig",plane='Arcavios')%>%
+  add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,won=0,draw=0,lost=1,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Bram Sels",plane='New Capenna')%>%
  #priority 1: unsleeved and unfinished
   add_row(deck="A Tooting Time",commander="Tusk and Whiskers",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=F,G=T,artist="Chris Seaman,Chris Seaman",plane='Interplanar Galaxy,Interplanar Galaxy')%>% 
   add_row(deck="Bumblebee",commander="St. Traft and Rem",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Lucas Graciano,Lucas Graciano",plane='Innistrad,Innistrad')%>% 
