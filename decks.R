@@ -52,33 +52,38 @@ decks<-decks%>%#priority 6: Tournament cEDH
   # priority 2: Casual and Proxied 
   add_row(deck="Directed Acyclic Graphs",commander="Alesha",power="5",played=5,won=2,draw=0,lost=3,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Winona Nelson",plane='Tarkir')%>%  
   add_row(deck="Don't Talk To Me",commander="Florian w. Obosh",power="5",played=5,won=1,draw=0,lost=4,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Justine Cruz,Denis Medri",plane='Innistrad,Ikoria')%>% 
+  add_row(deck="Enchanted to Meet You",commander="Anikthea",power="7",played=1,won=1,draw=0,lost=0,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Magali Villeneuve",plane='Theros')%>% 
   add_row(deck="Elves Across The Multiverse",commander="Abomination of Llanowar",power="7",played=11,won=6,draw=0,lost=5,priority="2",W=F,U=F,B=T,R=F,G=T,artist="Vincent Proce",plane='Dominaria',)%>%  
+  add_row(deck="Guardian of the Lost",commander="Ephara",power="5",played=1,won=0,draw=0,lost=1,priority="2",W=T,U=T,B=F,R=F,G=F,artist="Jason A. Engle",plane='Theros')%>%
   add_row(deck="Kept in Suspense",commander="Illuna",power="5",played=2,won=1,draw=0,lost=1,priority="2",W=F,U=T,B=F,R=T,G=T,artist="Chris Rahn",plane='Ikoria')%>%
   add_row(deck="Jeskai Tales",commander="Shu Yun",power="4",played=1,won=0,draw=0,lost=1,priority="2",W=T,U=T,B=F,R=T,G=F,artist="David Gaillet",plane='Tarkir')%>%
   add_row(deck="Necrowarfare",commander="Gisa and Geralf",power="5",played=4,won=2,draw=0,lost=2,priority="2",W=F,U=T,B=T,R=F,G=F,artist="Aaron J. Riley",plane='Innistrad,Innistrad')%>%
   add_row(deck="Prismari for Life",commander="Galazeth Prismari",power="5",played=2,won=1,draw=0,lost=1,priority="2",W=F,U=T,B=F,R=T,G=F,artist="Iain McCaig",plane='Arcavios')%>%
   add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,won=0,draw=0,lost=1,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Bram Sels",plane='New Capenna')%>%
  #priority 1: unsleeved and unfinished
-  add_row(deck="A Tooting Time",commander="Tusk and Whiskers",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=F,G=T,artist="Chris Seaman,Chris Seaman",plane='Interplanar Galaxy,Interplanar Galaxy')%>% 
+  add_row(deck="A Tooting Time",commander="Tusk and Whiskers",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=F,G=T,artist="Chris Seaman,Chris Seaman",plane='Interplanar Galaxy,Interplanar Galaxy')%>%
+  add_row(deck="Be Gay, Do Crimes",commander="Kynaios and Tiro",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=T,artist="Willian Murai.Willian Murai",plane='Theros, Theros')%>%   
   add_row(deck="Bumblebee",commander="St. Traft and Rem",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Lucas Graciano,Lucas Graciano",plane='Innistrad,Innistrad')%>% 
+  add_row(deck="Clash of Titans",commander="Mayael",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=T,G=T,artist="Jason Chan",plane='Alara')%>% 
+  add_row(deck="Clash over Bounty",commander="Imoti",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Ekaterina Burmak",plane='Amonkhet')%>% 
   add_row(deck="Collector's Edition",commander="Pharika w. Umori",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=F,B=T,R=F,G=T,artist="Jason A. Engle, Daniel Warren Johnson",plane='Theros,Ikoria')%>% 
   add_row(deck="Cull The Unworthy",commander="Tasigur",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Chris Rahn",plane='Tarkir')%>% 
   add_row(deck="Cursed Gold",commander="Lynde",power="4",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=F,artist="Anna Steinbauer",plane='Innistrad')%>%    
   add_row(deck="Creteaceous Beasts",commander="Nethroi w. Kaheera",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=T,R=F,G=T, artist="Slawomir Maniak,Ryan Pancoast",plane='Ikoria')%>%
   add_row(deck="Defending Fblthp",commander="Fblthp",power="4",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=F,G=F,artist="Marija Tiurina",plane='Ravnica')%>%
   add_row(deck="Due Diligence",commander="Eloise",power="6",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=T,R=F,G=F,artist="Jarel Threat",plane='Innistrad')%>%
-  add_row(deck="Zirda's Honour Guard",commander="Licia w. Zira",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=T,R=T,G=F,artist="Magalie Villeneuve,Jesper Ejsing",plane='Unknown,Ikoria')%>% 
   add_row(deck="Fruit Salad",commander="Tazri",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Chris Rahn",plane='Zendikar')%>% 
   add_row(deck="Gender is a Construct",commander="Alharu & Silas",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=T,R=F,G=F,artist="Chris Rallis,Joseph Meehan",plane='unkown,Alara')%>%
   add_row(deck="Giving Goats Away",commander="Zedruu",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Mark Zug",plane='Ikoria')%>%
-  add_row(deck="Guardian of the Lost",commander="Ephara",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=F,G=F,artist="Eric Deschamps",plane='Theros')%>%
   add_row(deck="Hidden Beasts",commander="Kodama & Ludevic",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=T,R=F,G=T,artist="Daarken,Aaron Miller",plane='Kamigawa,Innistrad')%>%
   add_row(deck="Ixhel's Creations",commander="Ixhel",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=T,R=F,G=T,artist="Campbell White",plane='New Phyrexia')%>%
+  add_row(deck="Iwan Iwanowitsch Goratschin",commander="Ruric Thar",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=F,B=F,R=T,G=T,artist="Alice de Sampaio Kalkuhl (alter)",plane='Ravnica')%>%
   add_row(deck="Jasmine Reads Adventures",commander="Jasmine",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=F,G=T,artist="Bastien L. Deharme",plane='Dominaria')%>%
   add_row(deck="My Turn",commander="Rashmi and Ragavan",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="Joshua Cairos,Joshua Cairos",plane='Kaladesh,Kaladesh')%>%
   add_row(deck="Nope",commander="Ertai",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=T,R=F,G=F,artist="Sidharth Chaturvedi",plane='Dominaria')%>%
   add_row(deck="Pride was a Riot",commander="Kynaios & Tiro",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=T,artist="Willian Murai",plane='Theros')%>%
   add_row(deck="Release the Gremlins",commander="Gimbal",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="Fajareka Setiawan",plane='Kaladesh') %>%
+  add_row(deck="Revenge of the Khans",commander="Narset",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Domenico Cava",plane='Tarkir') %>%
   add_row(deck="Shadowborn Devotion",commander="Raphael",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=F,B=T,R=T,G=F,artist="Livia Prima",plane='Forgotten Realms')%>%
   add_row(deck="Sunburst in the Vastes",commander="The Peregrine Dynamo",power="9",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=F,B=F,R=F,G=F,artist="Zoltan Boros",plane='Dominaria')%>%
   add_row(deck="Spores on the Playground",commander="Slimefoot and Squee",power="5",played=1,won=0,draw=0,lost=1,priority="1",W=F,U=F,B=T,R=T,G=T,artist="Ivan Shavrin,Ivan Shavrin",plane='Dominaria,Dominaria')%>% 
