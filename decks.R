@@ -6,32 +6,34 @@ library(ggrepel)
 # If you don't wan to edit your decks from within R, you can import any table with the same column names. 
 decks<-data.frame(structure(list(deck=character(),commander=character(),power=factor(),played=numeric(),won=numeric(),draw=numeric(),lost=numeric(),priority=factor(),W=logical(),U=logical(),B=logical(),R=logical(),G=logical(),artist=character(),plane=character())))
 decks<-decks%>%#priority 6: Tournament cEDH
-  add_row(deck="Destoying Ravnica",commander="Borborygmos and Fblthp",power="9",played=8,won=2,draw=2,lost=4,priority="6",W=T,U=T,B=T,R=F,G=F,artist="Justin Hernandez,Alexis Hernandez",plane='Ravnica,Ravnica')%>% 
+  add_row(deck="Destoying Ravnica",commander="Borborygmos and Fblthp",power="9",played=10,won=2,draw=3,lost=5,priority="6",W=T,U=T,B=T,R=F,G=F,artist="Justin Hernandez,Alexis Hernandez",plane='Ravnica,Ravnica')%>% 
   add_row(deck="Obscura Doomsday",commander="Toluz",power="9",played=11,won=5,draw=1,lost=5,priority="6",W=T,U=T,B=T,R=F,G=F,artist="Donato Giancola",plane='New Capenna')%>%# priority 5: LGS proxy free
   add_row(deck="As Foretold",commander="Codie",power="5",played=6,won=1,draw=0,lost=5,priority="5",W=T,U=T,B=T,R=T,G=t,artist="Daniel Ljunggren",plane='Arcavios')%>%
   add_row(deck="Best Poster Award",commander="Zimone and Dina",power="5",played=0,won=0,draw=0,lost=0,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Anato Finnstark,Anato Finnstark",plane='Arcavios,Arcavios')%>%
   add_row(deck="Bestowing Gifts",commander="Kestia",power="5",played=10,won=2,draw=0,lost=8,priority="2",W=F,U=T,B=F,R=F,G=T,artist="Zezhou Chen",plane='Theros')%>%
   add_row(deck="Bi Disasters",commander="Kamber & Laurine",power="5",played=2,won=1,draw=0,lost=1,priority="5",W=F,U=F,B=T,R=T,G=F,artist="Andrey Kuzinskiy,Andrey Kuzinskiy",plane='Innistrad,Innistrad')%>%
-  add_row(deck="Calculator Manipulation",commander="Obeka",power="6",played=6,won=2,draw=1,lost=3,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Jesper Ejsing",plane='Unknown')%>% 
+  add_row(deck="Calculator Manipulation",commander="Obeka",power="6",played=7,won=2,draw=1,lost=4,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Jesper Ejsing",plane='Unknown')%>% 
   add_row(deck="Clueing for Looks",commander="Katilda and Lier",power="6",played=2,won=0,draw=0,lost=0,priority="2",W=T,U=T,B=F,R=F,G=T,artist="Lie Setiawan",plane='Innistrad,Innistrad')%>% 
-  add_row(deck="Descend Into Madness",commander="Anhelo",power="5",played=2,won=1,draw=0,lost=1,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Marta Nael",plane='New Capenna') %>%
+  add_row(deck="Descend Into Madness",commander="Xander",power="5",played=2,won=1,draw=0,lost=1,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Tran Nguyen",plane='New Capenna') %>%
   add_row(deck="Elspeth of the Nine Realms",commander="Kroxa and Kunoros",power="5",played=6,won=1,draw=0,lost=5,priority="5",W=T,U=F,B=F,R=T,G=F,artist="Jason A. Engle",plane='Theros,Theros')%>%
   add_row(deck="Elves With Stones",commander="Akiri & Miara w. Lurrus",power="6",played=2,won=1,draw=0,lost=1,priority="2",W=T,U=F,B=T,R=T,G=F,artist="David Gaillet,Johannes Voss,Steve Ellis",plane='Zendikar,Lorwyn,Ikoria')%>% 
   add_row(deck="Ethics Violations",commander="Volrath",power="6",played=3,won=1,draw=0,lost=2,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Heonhwa Choe",plane='Dominaria')%>%
   add_row(deck="Everchosen Snow",commander="Najeela",power="5",played=2,won=0,draw=0,lost=2,priority="5",W=T,U=T,B=T,R=T,G=T,artist="Antonio José Manzanedo",plane='Kylem')%>%
   add_row(deck="Failed Parley",commander="Phabine",power="5",played=5,won=2,draw=0,lost=3,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Ryan Pancoast",plane='New Capenna')%>%
-  add_row(deck="Graveyard of Nightmares",commander="Beamtown Bullies",power="5",played=2,won=0,draw=0,lost=2,priority="5",W=F,U=F,B=T,R=T,G=T,artist="Tyler Jacobson",plane='New Capenna')%>%
+  add_row(deck="Fangorn Composting",commander="Old Man Willow",power="5",played=0,won=0,draw=0,lost=1,priority="1",W=F,U=F,B=T,R=F,G=T,artist="Miklós Ligeti",plane='Middle Earth')%>%
+  add_row(deck="Graveyard of Nightmares",commander="Vial Smasher & Thrasios",power="5",played=2,won=0,draw=0,lost=2,priority="5",W=F,U=T,B=T,R=T,G=T,artist="Deruchenko Alexander,Josu Hernaiz",plane='Tarkir,Theros')%>%
   add_row(deck="Hidden Gems",commander="Tymna & Kydele",power="5",played=2,won=0,draw=0,lost=2,priority="2",W=T,U=T,B=T,R=F,G=T,artist="Winona Nelson,Bastien L. Deharme",plane='Theros,Theros')%>%
   add_row(deck="Keep People Humble",commander="Ivy",power="7",played=5,won=1,draw=0,lost=4,priority="5",W=F,U=T,B=F,R=F,G=T,artist="Evyn Fong",plane='Dominaria') %>% 
   add_row(deck="Let's All Work Together",commander="Sen Triplets",power="6",played=6,won=0,draw=0,lost=6,priority="5",W=T,U=T,B=T,R=F,G=F,artist="Greg Staples",plane='Alara,Alara,Alara')%>%
   add_row(deck="Nephalia Nightmares",commander="Jeleva",power="6",played=12,won=5,draw=1,lost=6,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Cynthia Sheppard",plane='Innistrad')%>% 
-  add_row(deck="Off To See The Wizard",commander="Inalla",power="5",played=5,won=0,draw=0,lost=5,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Yongjae Choi",plane='Unknown')%>%
   add_row(deck="Phyrexian Hippos",commander="Perrie w. Keruga",power="6",played=6,won=2,draw=0,lost=4,priority="5",W=T,U=T,B=F,R=F,G=T,artist="Joshua Raphael,Dan Scott",plane='New Capenna,Ikoria') %>%
   add_row(deck="Remember the Fallen",commander="Rayami",power="6",played=2,won=0,draw=0,lost=2,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Kieran Yanner",plane='Zendikar') %>%
-  add_row(deck="Rolling Blackouts",commander="Yidris",power="5",played=3,priority="5",W=F,U=T,B=T,R=T,G=T,artist="Karl Kopinski",plane='Alara') %>%
+  add_row(deck="Rolling Blackouts",commander="Yidris",power="5",played=4,won=2,draw=0,lost=2,priority="5",W=F,U=T,B=T,R=T,G=T,artist="Karl Kopinski",plane='Alara') %>%
   add_row(deck="Stegosaurus Combat Behaviour",commander="Kalamax",power="2",played=6,won=2,draw=0,lost=4,priority="5",W=F,U=T,B=F,R=T,G=T,artist="Nicholas Gregory",plane='Ikoria') %>%
-  add_row(deck="The Stack Is Your Wonderland",commander="Parnesse",power="6",played=9,won=0,draw=1,lost=8,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Svetlin Velinov",plane='New Capenna')%>%
+  add_row(deck="The Omens of Death",commander="Saruman",power="5",played=1,won=0,draw=0,lost=1,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Leonardo Borazio",plane='Middle Earth')%>%
+  add_row(deck="The Stack Is Your Wonderland",commander="Parnesse",power="6",played=11,won=1,draw=1,lost=9,priority="5",W=F,U=T,B=T,R=T,G=F,artist="Svetlin Velinov",plane='New Capenna')%>%
   add_row(deck="We Ride At Dusk",commander="Elenda and Azor",power="6",played=4,won=2,draw=0,lost=2,priority="5",W=T,U=T,B=T,R=F,G=F,artist="Randy Vargas,Randy Vargas",plane='Ixalan,Ixalan')%>%
+  add_row(deck="What About Second Breakfast?",commander="Merry & Pippin",power="5",played=2,won=0,draw=1,lost=1,priority="2",W=T,U=F,B=T,R=F,G=T,artist="Viko Menezes,Viko Menezes",plane='Middle Earth')%>%
   add_row(deck="Where are my lesbians?",commander="Nine-Fingers Keene",power="5",played=2,won=1,draw=0,lost=1,priority="5",W=F,U=T,B=T,R=F,G=T,artist="Nils Hamm",plane='Forgotten Realms')%>%
   add_row(deck="You Should Be Nicer",commander="Atla",power="6",played=8,won=1,draw=0,lost=7,priority="5",W=T,U=F,B=F,R=T,G=T,artist="Ekaterina Burmak",plane='Ixalan')%>% 
   # priority 4: Other formats
@@ -43,19 +45,19 @@ decks<-decks%>%#priority 6: Tournament cEDH
   add_row(deck="The Weatherlight is Under Construction",commander="Jhoira",power="7",played=8,won=0,draw=0,lost=8,priority="3",W=F,U=T,B=F,R=T,G=F,artist="Lisa Heidhoff",plane='Dominaria')%>%
   # priority 2: Casual and Proxied 
   add_row(deck="Directed Acyclic Graphs",commander="Alesha",power="5",played=5,won=2,draw=0,lost=3,priority="2",W=T,U=F,B=T,R=T,G=F,artist="Winona Nelson",plane='Tarkir')%>%  
-  add_row(deck="Don't Talk To Me",commander="Florian w. Obosh",power="5",played=5,won=1,draw=0,lost=4,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Justine Cruz,Denis Medri",plane='Innistrad,Ikoria')%>% 
+  add_row(deck="Don't Talk To Me",commander="Rowan w. Obosh",power="5",played=6,won=1,draw=0,lost=5,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Abigail Larson,Denis Medri",plane='Eldraine,Ikoria')%>% 
   add_row(deck="Enchanted to Meet You",commander="Anikthea",power="7",played=1,won=1,draw=0,lost=0,priority="2",W=F,U=F,B=T,R=T,G=F,artist="Magali Villeneuve",plane='Theros')%>% 
   add_row(deck="Elves Across The Multiverse",commander="Abomination of Llanowar",power="7",played=11,won=6,draw=0,lost=5,priority="2",W=F,U=F,B=T,R=F,G=T,artist="Vincent Proce",plane='Dominaria',)%>%  
   add_row(deck="Guardian of the Lost",commander="Ephara",power="5",played=1,won=0,draw=0,lost=1,priority="2",W=T,U=T,B=F,R=F,G=F,artist="Jason A. Engle",plane='Theros')%>%
+  add_row(deck="Level Up",commander="Esika",power="5",played=2,won=0,draw=0,lost=2,priority="2",W=T,U=T,B=T,R=T,G=T,artist="Nana Qi,GodMachine",plane='Kaldheim')%>%
   add_row(deck="Necrowarfare",commander="Gisa and Geralf",power="5",played=4,won=2,draw=0,lost=2,priority="2",W=F,U=T,B=T,R=F,G=F,artist="Aaron J. Riley",plane='Innistrad,Innistrad')%>%
   add_row(deck="Prismari for Life",commander="Galazeth Prismari",power="5",played=2,won=1,draw=0,lost=1,priority="2",W=F,U=T,B=F,R=T,G=F,artist="Iain McCaig",plane='Arcavios')%>%
-  add_row(deck="Underworld Heist",commander="Cormela",power="9",played=1,won=0,draw=0,lost=1,priority="2",W=F,U=T,B=T,R=T,G=F,artist="Bram Sels",plane='New Capenna')%>%
+  add_row(deck="Release the Gremlins",commander="Vazi",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="José Parodi",plane='New Capenna') %>%
  #priority 1: unsleeved and unfinished
   add_row(deck="Be Gay, Do Crimes",commander="Kynaios and Tiro",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=T,artist="Willian Murai,Willian Murai",plane='Theros, Theros')%>%   
   add_row(deck="Clash of Titans",commander="Mayael",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=T,G=T,artist="Jason Chan",plane='Alara')%>% 
   add_row(deck="Clash over Bounty",commander="Imoti",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Ekaterina Burmak",plane='Amonkhet')%>% 
   add_row(deck="Cull The Unworthy",commander="Tasigur",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Chris Rahn",plane='Tarkir')%>% 
-  add_row(deck="Cursed Gold",commander="Lynde",power="4",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=F,artist="Anna Steinbauer",plane='Innistrad')%>%    
   add_row(deck="Defending Fblthp",commander="Fblthp",power="4",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=F,G=F,artist="Marija Tiurina",plane='Ravnica')%>%
   add_row(deck="Due Diligence",commander="Eloise",power="6",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=T,R=F,G=F,artist="Jarel Threat",plane='Innistrad')%>%
   add_row(deck="Fruit Salad",commander="Tazri",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Chris Rahn",plane='Zendikar')%>% 
@@ -65,7 +67,6 @@ decks<-decks%>%#priority 6: Tournament cEDH
   add_row(deck="Ixhel's Creations",commander="Ixhel",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=T,R=F,G=T,artist="Campbell White",plane='New Phyrexia')%>%
   add_row(deck="Iwan Iwanowitsch Goratschin",commander="Ruric Thar",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=F,B=F,R=T,G=T,artist="Alice de Sampaio Kalkuhl (alter)",plane='Ravnica')%>%
   add_row(deck="My Turn",commander="Rashmi and Ragavan",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="Joshua Cairos,Joshua Cairos",plane='Kaladesh,Kaladesh')%>%
-  add_row(deck="Release the Gremlins",commander="Gimbal",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=T,G=T,artist="Fajareka Setiawan",plane='Kaladesh') %>%
   add_row(deck="Revenge of the Khans",commander="Narset",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Domenico Cava",plane='Tarkir') %>%
   add_row(deck="Shadowborn Devotion",commander="Raphael",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=F,B=T,R=T,G=F,artist="Livia Prima",plane='Forgotten Realms')%>%
   add_row(deck="Spores on the Playground",commander="Slimefoot and Squee",power="5",played=1,won=0,draw=0,lost=1,priority="1",W=F,U=F,B=T,R=T,G=T,artist="Ivan Shavrin,Ivan Shavrin",plane='Dominaria,Dominaria')%>% 
