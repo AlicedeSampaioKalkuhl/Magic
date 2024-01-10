@@ -1,7 +1,7 @@
 # Magic
 
 Hello! 
-After setting up some code to play around with the cEDH Metagame data @SquirrelmobMTG created, I decided to make my deck stats public, so here they are. I use an R script that creates data for every deck and then I play around with some stats. 
+After setting up some code to play around with the cEDH Metagame data [@SquirrelmobMTG](https://twitter.com/SquirrelmobMTG) created, I decided to make my deck stats public, so here they are. I use an R script that creates data for every deck and then I play around with some stats. 
 
 You can read more about how I codify powerlevel for my own decks here (Article coming soon). If you want decklists, they're on [Moxfield](https://www.moxfield.com/users/AliceInQuantumland).
 
