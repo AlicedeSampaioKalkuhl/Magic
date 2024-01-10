@@ -1,0 +1,92 @@
+    Vela, the Nightclade with Gyruda, Doom of the Depths 
+1 Arcane Signet (CLB) 298
+1 Astral Dragon (CLB) 664
+1 Baleful Strix (C16) 181
+1 Bident of Thassa (LCC) 146
+1 Blood Clock (PLIST) 640
+1 Bojuka Bog (WWK) 132
+1 Burning-Rune Demon (PKHM) 81p
+1 Cabal Coffers (MH2) 301
+1 Call to Heel (BBD) 114
+1 Cavern Harpy (PLS) 97
+1 Chain of Smog (ONS) 132
+1 Cloud of Faeries (WOC) 86
+1 Command Beacon (CMR) 349
+1 Command Tower (NEC) 167
+1 Counterspell (5ED) 77
+1 Cryptic Command (MM2) 43
+1 Cunning Evasion (MH1) 45
+1 Deadeye Navigator (AVR) 47
+1 Dimir Aqueduct (CLB) 891
+1 Dimir Signet (RVR) 256
+1 Displacer Kitten (CLB) 63
+1 Dissipation Field (CLB) 718
+1 Dowsing Dagger / Lost Vale (XLN) 235
+1 Dreadhound (MID) 97
+1 Dreamstone Hedron (JMP) 464
+1 Drowned Catacomb (WHO) 274
+1 Drownyard Temple (C19) 240
+1 Etrata, the Silencer (GRN) 170
+1 Familiar's Ruse (LRW) 64
+1 Feed the Swarm (LTC) 200
+1 Halimar Depths (DDM) 36
+1 Hedron Archive (MOC) 359
+1 Illusionist's Stratagem (AER) 36
+7 Island (M20) 268
+1 Kaito, Dancing Shadow (ONE) 204
+1 Kasmina, Enigmatic Mentor (WAR) 56
+1 Lazav, Dimir Mastermind (ZNC) 92
+1 Leaden Myr (SOM) 170
+1 Lightning Greaves (CMA) 220
+1 Liquimetal Torque (MH2) 428
+1 Machine God's Effigy (BRC) 16
+1 Massacre Wurm (J22) 441
+1 Mind Stone (DMR) 232
+1 Mirror Match (C15) 13
+1 Mirror of Life Trapping (CLB) 326
+1 Morphic Pool (CLB) 357
+1 Mortuary Mire (MIC) 176
+1 Naban, Dean of Iteration (DOM) 58
+1 Naru Meha, Master Wizard (DOM) 59
+1 Ornithopter of Paradise (MH2) 232
+1 Panharmonicon (KLD) 226
+1 Paradoxical Outcome (KLD) 60
+1 Phyrexian Tower (PLIST) 294
+1 Pit Keeper (TSR) 130
+1 Planar Incision (NEO) 72
+1 Port of Karfell (CLB) 908
+1 Prismatic Lens (C18) 215
+1 Professor Onyx (STX) 83
+1 Reliquary Tower (C14) 308
+1 Riptide Laboratory (MH2) 303
+1 Rogue's Passage (LCC) 349
+1 Shipwreck Marsh (WHO) 305
+1 Silver Myr (DDF) 43
+1 Sisay's Ring (CMR) 340
+1 Snap (DMR) 66
+1 Solemn Simulacrum (M21) 239
+1 Stonespeaker Crystal (CLB) 338
+1 Stonybrook Banneret (LCC) 173
+1 Sunken Ruins (SHM) 280
+6 Swamp (GVL) 61
+1 Swiftfoot Boots (C15) 271
+1 Tainted Isle (WOC) 169
+1 Teferi's Time Twist (WAR) 72
+1 Thalakos Seer (TMP) 94
+1 Thassa, Deep-Dwelling (PTHB) 71p
+1 Thought Vessel (WHO) 255
+1 Thran Dynamo (CMM) 658
+1 Umbilicus (DMR) 237
+1 Underground River (LTC) 342
+1 Unsubstantiate (EMN) 79
+1 Ur-Golem's Eye (9ED) 314
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Vedalken Mastermind (10E) 123
+1 Venser, Shaper Savant (2X2) 66
+1 Voidwalk (GTC) 55
+1 Voyage's End (THS) 73
+1 Watcher for Tomorrow (MH1) 76
+1 Witch's Cottage (ELD) 249
+    In 
+
+    Out 

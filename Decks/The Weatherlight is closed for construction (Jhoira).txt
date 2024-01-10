@@ -1,0 +1,102 @@
+    Jhoira, Ageless Innovator 
+1 Abrade (PLIST) 122
+1 Academy Ruins (TSP) 269
+1 An Offer You Can't Refuse (SNC) 464
+1 Ancient Tomb (TMP) 315
+1 Arcane Signet (AFC) 197
+1 Blood Moon (MMA) 106
+1 Brain Freeze (SCG) 29
+1 Brainstorm (STA) 13
+1 Chain of Vapor (C16) 84
+1 Chimil, the Inner Sun (LCI) 249
+1 Clock of Omens (M13) 202
+1 Codex Shredder (RTR) 228
+1 Command Tower (C15) 281
+1 Corridor Monitor (2XM) 46
+1 Cyclonic Rift (C14) 104
+1 Deflecting Swat (C20) 50
+1 Displacer Kitten (CLB) 63
+1 Dockside Extortionist (C19) 24
+1 Dragon's Rage Channeler (PLIST) 776
+1 Dramatic Reversal (SLD) 1083
+1 Dress Down (MH2) 39
+1 Emry, Lurker of the Loch (SLC) 2019
+1 Ensnaring Bridge (STH) 133
+1 Enthusiastic Mechanaut (NEO) 218
+1 Etherium Sculptor (MMA) 44
+1 Fellwar Stone (SLD) 708
+1 Fierce Guardianship (C20) 35
+1 Fiery Islet (MH1) 238
+1 Flusterstorm (MH1) 255
+1 Force of Will (DMR) 50
+1 Gamble (DMR) 433
+1 Gemstone Caverns (TSP) 274
+1 Gitaxian Probe (NPH) 35
+1 Glacial Chasm (ICE) 353
+1 Goblin Engineer (MH1) 128
+1 Grapeshot (STA) 39
+1 Grinding Station (5DN) 127
+1 Hanweir Battlements (EMN) 204
+1 Homeward Path (CMD) 277
+1 Intuition (TMP) 70
+1 Inventors' Fair (KLD) 247
+6 Island (DMU) 278
+1 Isochron Scepter (MRD) 188
+1 Izzet Signet (C21) 247
+1 Jeska's Will (CMR) 187
+1 Krark-Clan Ironworks (5DN) 134
+1 Ledger Shredder (SNC) 46
+1 Lion's Eye Diamond (MIR) 307
+1 Liquimetal Torque (MH2) 228
+1 Lotus Petal (TMP) 294
+1 Mana Crypt (EMA) 225
+1 Mana Drain (IMA) 65
+1 Mana Vault (5ED) 388
+1 Mental Misstep (NPH) 38
+1 Miscast (M21) 57
+1 Mishra's Bauble (BRR) 34
+1 Misty Rainforest (ZEN) 220
+1 Mountain (DMU) 280
+1 Mox Amber (DOM) 224
+1 Mox Opal (2XM) 275
+1 Myr Retriever (MRD) 215
+1 Mystic Forge (M20) 233
+1 Mystic Remora (ICE) 87
+1 Narset, Parter of Veils (SLD) 1041
+1 Otawara, Soaring City (NEO) 414
+1 Pact of Negation (PLIST) 71
+1 Paradoxical Outcome (KLD) 60
+1 Professional Face-Breaker (SNC) 426
+1 Red Elemental Blast (4ED) 218
+1 Reliquary Tower (CON) 143
+1 Rhystic Study (J22) 114
+1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289
+1 Rod of Absorption (AFC) 19
+1 Scalding Tarn (ZEN) 223
+1 Scrap Trawler (AER) 175
+1 Sensei's Divining Top (EMA) 232
+1 Shivan Reef (M15) 246
+1 Simian Spirit Guide (PLC) 122
+1 Sol Ring (PF19) 7 *F*
+1 Spell Pierce (MM3) 51
+1 Spirebluff Canal (KLD) 249
+1 Steam Vents (RTR) 247
+1 Talisman of Creativity (SLD) 1058
+1 The Reality Chip (NEO) 74
+1 Tormod's Crypt (M21) 241
+1 Torpor Orb (NPH) 162
+1 Training Center (CMR) 358
+1 Transmute Artifact (PRM) 65644 *F*
+1 Underworld Breach (PTHB) 161p
+1 Unwinding Clock (BRR) 61
+1 Urza's Saga (MH2) 380
+1 Volcanic Island (3ED) 291
+1 Walking Ballista (J22) 806
+1 Ward of Bones (EVE) 174
+
+    In 
+1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
+1 Faerie Mastermind (MOM) 58
+1 Trinisphere (DST) 154
+
+    Out 

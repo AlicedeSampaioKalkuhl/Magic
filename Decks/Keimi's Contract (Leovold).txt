@@ -1,0 +1,136 @@
+Leovold 
+1 Alchemist's Refuge (AVR) 225
+1 Ancestral Mask (MMQ) 229
+1 Aqueous Form (THS) 39
+1 Arcane Signet (NEC) 144
+1 Argothian Enchantress (EMA) 158
+1 Aura Finesse (ROE) 54
+1 Azusa's Many Journeys / Likeness of the Seeker (NEO) 172
+1 Benefactor's Draught (C16) 21
+1 Bojuka Bog (MB1) 1660
+1 Cabal Coffers (TOR) 139
+1 Cartouche of Ambition (AKH) 83
+1 Cartouche of Knowledge (AKH) 45
+1 Cartouche of Strength (AKH) 158
+1 Chasm Skulker (CLB) 714
+1 Combat Research (DMU) 44
+1 Command Tower (C18) 240
+1 Curiosity (MB1) 340
+1 Deathcap Glade (VOW) 261
+1 Destiny Spinner (THB) 168
+1 Dimir Signet (MM3) 219
+1 Dreamroot Cascade (VOW) 282
+1 Drowned Catacomb (M10) 224
+1 Dryad of the Ilysian Grove (PTHB) 169p
+1 Enchantress's Presence (C18) 141
+1 Endless Evil (CLB) 665
+1 Essence Warden (MB1) 1199
+1 Estrid's Invocation (C18) 8
+1 Eutropia the Twice-Favored (THB) 216
+1 Exclude (JMP) 152
+1 Exotic Orchard (C20) 273
+1 Favor of the Overbeing (EVE) 151
+3 Forest (THB) 254
+1 Generous Visitor (NEO) 185
+1 Golgari Signet (GK1) 73
+1 Grim Guardian (JOU) 73
+1 Hadana's Climb / Winged Temple of Orazca (RIX) 158
+1 Halt Order (SOM) 34
+1 Hateful Eidolon (THB) 101
+1 Helm of the Gods (ORI) 230
+1 Herald of the Pantheon (ORI) 180
+1 Hinterland Harbor (DMR) 248
+1 Hydra's Growth (THB) 172
+1 In Too Deep (NCC) 27
+4 Island (THB) 251
+1 Ivy, Gleeful Spellthief (DMU) 201
+1 Kami of Transience (NEO) 197
+1 Karametra's Favor (BNG) 125
+1 Kaya's Ghostform (WAR) 94
+1 Keen Sense (TSR) 213
+1 Kenrith's Transformation (ELD) 395
+1 Laboratory Maniac (UMA) 61
+1 Mark of Sakiko (BOK) 135
+1 Mirrormade (ELD) 55
+1 Morphic Pool (BBD) 83
+1 Oath of the Ancient Wood (M14) 187
+1 Ominous Seas (IKO) 61
+1 Phyresis (MBS) 49
+1 Rancor (A25) 186
+1 Rejuvenating Springs (CMR) 354
+1 Reliquary Tower (M13) 227
+1 Rending Vines (SOK) 143
+1 Rogue's Passage (MIC) 179
+1 Rune of Flight (KHM) 75
+1 Rune of Might (KHM) 191
+1 Rune of Mortality (KHM) 108
+1 Sanctum Weaver (MH2) 171
+1 Seal of Primordium (TSR) 228
+1 Season of Growth (M20) 191
+1 Setessan Champion (PTHB) 198p
+1 Shapers' Sanctuary (PXLN) 206p
+1 Shielding Plax (UMA) 222
+1 Shipwreck Marsh (MID) 285
+1 Simic Signet (C16) 270
+1 Sixth Sense (AKH) 187
+1 Snake Umbra (MB1) 1336
+1 Spellwild Ouphe (FUT) 151
+3 Swamp (THB) 252
+1 Tatsunari, Toad Rider (NEO) 123
+1 Temple of Deceit (CLB) 922
+1 Temple of Malady (M20) 254
+1 Temple of Mystery (NCC) 434
+1 The Meathook Massacre (MID) 112
+1 Undergrowth Stadium (CMR) 359
+1 Urborg, Tomb of Yawgmoth (PLIST) 452
+1 Urza's Saga (MH2) 259
+1 Villainous Wealth (C20) 233
+1 Weaver of Harmony (PNEO) 213p
+1 Witness Protection (SNC) 66
+1 Wizard Class (AFR) 81
+1 Woodland Cemetery (DMR) 261
+1 Yavimaya Enchantress (EMA) 194
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zagoth Triome (PIKO) 259p
+    In 
+1 Bastion of Remembrance (IKO) 73
+1 Blight Mound (C21) 36
+1 Blood Funnel (RAV) 77
+1 Branching Evolution (JMP) 29
+1 Callaphe, Beloved of the Sea (THB) 45
+1 Callaphe, Beloved of the Sea (PLIST) 414
+1 Combat Research (DMU) 44
+1 Confounding Conundrum (ZNR) 53
+1 Copy Enchantment (RAV) 42
+1 Courser of Kruphix (A25) 164
+1 Destiny Spinner (THB) 168
+1 Enchantress's Presence (MH2) 283
+1 Eternal Thirst (IMA) 89
+1 Eutropia the Twice-Favored (THB) 216
+1 Fang of Shigeki (NEO) 347
+1 Frogify (ELD) 47
+1 Gift of Paradise (M20) 173
+1 Gloomshrieker (NEO) 219
+1 Grim Guardian (JOU) 73
+1 Grisly Transformation (BNG) 74
+1 Hydra's Growth (THB) 172
+1 Imprisoned in the Moon (AFC) 85
+1 Kasmina's Transmutation (WAR) 57
+1 Kenrith's Transformation (ELD) 395
+1 Lampad of Death's Vigil (THB) 103
+1 Mirrormade (ELD) 55
+1 Nurgle's Rot (40K) 45
+1 Oath of the Ancient Wood (M14) 187
+1 Okiba Reckoner Raid / Nezumi Road Captain (NEO) 117
+1 Omen of the Hunt (THB) 192 *F*
+1 Propaganda (C20) 123
+1 Retreat to Hagra (C18) 116
+1 Retreat to Kazandu (ZNC) 78
+1 Sanctum Weaver (MH2) 171
+1 Shielding Plax (UMA) 222
+1 Simic Ascendancy (RNA) 207
+1 Snake Umbra (ROE) 207
+1 Sylvan Library (CC1) 5
+1 Thirst for Meaning (THB) 74
+1 Tymaret, Chosen from Death (THB) 119
+1 Viridian Revel (SOM) 132

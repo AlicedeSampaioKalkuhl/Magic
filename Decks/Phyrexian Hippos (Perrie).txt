@@ -1,0 +1,119 @@
+Perrie, the Pulverizer with 1 Keruga, the Macrosage (MUL) 48 *F*
+1 Agent's Toolkit (NCC) 66
+1 Ajani, Sleeper Agent (DMU) 192
+1 Aven Mimeomancer (ARB) 2
+1 Avenging Huntbonder (C20) 22
+1 Azorius Chancery (2X2) 400
+1 Bant Panorama (C13) 276
+1 Beastmaster Ascension (ZEN) 159
+1 Blightwidow (MBS) 77
+1 Bribe Taker (NCC) 55
+1 Brokers Ascendancy (SNC) 170 *F*
+1 Brokers Hideout (SNC) 248
+1 Careful Cultivation (NEO) 178
+1 Carrion Call (SOM) 115
+1 Cathars' Crusade (JMP) 95
+1 Chulane, Teller of Tales (ELD) 326 *F*
+1 Command Tower (C15) 281
+1 Contagion Engine (SLD) 1095
+1 Contractual Safeguard (NCC) 14
+1 Core Prowler (MBS) 103
+1 Corpse Cur (SOM) 147
+1 Cystbearer (SOM) 117
+1 Damning Verdict (NCC) 15
+1 Decimator Web (MBS) 105
+1 Deepglow Skate (2XM) 48
+1 Elspeth Resplendent (SNC) 11
+1 Eternal Witness (2X2) 145
+1 Evolution Sage (WAR) 159
+1 Evolving Wilds (ORI) 246
+1 Exotic Orchard (MIC) 173
+1 Falco Spara, Pactweaver (SNC) 186
+1 Fathom Mage (NCC) 339
+6 Forest (SNC) 281 *F*
+1 Galadriel, Light of Valinor (LTC) 542 *F*
+1 Ichorspit Basilisk (ONE) 170 *F*
+1 Inexorable Tide (SOM) 35
+4 Island (SNC) 275 *F*
+1 Karametra, God of Harvests (PLIST) 557
+1 Karn's Bastion (WAR) 248
+1 Lifecrafter's Bestiary (PAER) 162p
+1 Llanowar Reborn (NCC) 413
+1 Llanowar Visionary (M21) 193
+1 Master Biomancer (2X2) 250
+1 Murkfiend Liege (2X2) 259
+1 Myriad Landscape (NCC) 416
+1 Nesting Grounds (NCC) 418
+1 Overwhelming Stampede (C15) 196
+1 Park Heights Maverick (NCC) 63
+1 Phyrexian Digester (MBS) 120
+1 Phyrexian Hydra (MBS) 85
+1 Phyrexian Swarmlord (NPH) 119
+4 Plains (SNC) 273 *F*
+1 Prairie Stream (NCC) 421
+1 Priests of Norn (MBS) 16
+1 Putrefax (SOM) 126
+1 Resourceful Defense (NCC) 19
+1 Rift Sower (MH2) 170
+1 Rishkar, Peema Renegade (NEC) 126
+1 Roalesk, Apex Hybrid (NCC) 349
+1 Rot Wolf (MBS) 90
+1 Saltcrusted Steppe (TSR) 283
+1 Search for Tomorrow (TSP) 216
+1 Seaside Citadel (NCC) 425
+1 Seedborn Muse (9ED) 270
+1 Sejiri Refuge (DDI) 36
+1 Selesnya Sanctuary (2X2) 411
+1 Shriek Raptor (NPH) 24
+1 Simic Growth Chamber (C19) 274
+1 Slippery Bogbonder (NCC) 312
+1 Smothering Tithe (PRNA) 22p
+1 Spinebiter (NPH) 121
+1 Storm of Forms (NCC) 32
+1 Tangle Angler (SOM) 128
+1 Tel-Jilad Fallen (SOM) 130
+1 Temple of the False God (C19) 280
+1 Terramorphic Expanse (TSP) 279
+1 Tezzeret's Gambit (MM2) 63
+1 Trigon of Infestation (SOM) 214
+1 Triumph of the Hordes (NPH) 123
+1 Venture Forth (CLB) 683
+1 Viral Drake (NPH) 49
+1 Viridian Betrayers (NPH) 124
+1 Viridian Corrupter (MBS) 94
+1 Vivid Creek (PC2) 131
+1 Vivid Grove (CMD) 295
+1 Vivid Meadow (LRW) 279
+1 Wilderness Reclamation (RNA) 149
+1 Wingspan Mentor (IKO) 72
+1 Wood Elves (P30A) 5 *F*
+
+    In 
+1 Ancient Ziggurat (CON) 141
+1 Arwen, Mortal Queen (LTR) 193
+1 Bloated Contaminator (ONE) 159
+1 Contaminant Grafter (ONC) 17
+1 Denry Klin, Editor in Chief (NCC) 71
+1 Gavony Township (ISD) 239
+1 Gemstone Mine (WTH) 164
+1 Gilder Bairn (EVE) 152
+1 Glistening Sphere (ONC) 20
+1 Inga and Esika (MOM) 229
+1 Invasion of Moag / Bloomwielder Dryads (MOM) 237
+1 Kami of Whispered Hopes (MOM) 196
+1 Luminous Broodmoth (IKO) 371
+1 Midnight Clock (CLB) 727
+1 Mirrex (ONE) 254
+1 Norn's Choirmaster (ONC) 8
+1 Phyrexian Atlas (ONE) 237
+1 Replicating Ring (KHM) 244
+1 Spara's Headquarters (PSNC) 257p
+1 Strixhaven Stadium (STX) 259
+1 Tekuthal, Inquiry Dominus (ONE) 71
+1 Tribute to the World Tree (MOM) 211
+
+    Out 
+Myriad Landscape 
+Prairie Stream  
+Evolving Wilds 
+Terramorphic Expanse

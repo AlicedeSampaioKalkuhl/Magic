@@ -1,0 +1,48 @@
+1 Counterspell (EMA) 43
+2 Death's Shadow (MM3) 64
+1 Inquisition of Kozilek (2X2) 355
+1 Marsh Flats (MH2) 248
+1 Murktide Regent (MH2) 52
+1 Spell Pierce (MM3) 51
+1 Spell Pierce (NEO) 80
+1 Tainted Indulgence (SNC) 227
+1 Thought Scour (DKA) 52
+2 Thoughtseize (SLD) 1117
+
+    In 
+1 Archmage's Charm (MH1) 40
+1 Assassin's Trophy (PGRN) 152p
+1 Bloodchief's Thirst (ZNR) 94
+1 Bloodstained Mire (KTK) 230
+1 Breeding Pool (PRNA) 246p
+1 Chalice of the Void (MRD) 150
+1 Consider (MID) 44
+1 Dauthi Voidwalker (MH2) 81
+1 Dismember (NPH) 57
+1 Dress Down (MH2) 39
+1 Drown in the Loch (ELD) 188
+1 Fatal Push (2XM) 93
+1 Flooded Strand (KTK) 233
+1 Force of Vigor (MH1) 164
+1 Grist, the Hunger Tide (MH2) 202
+2 Infernal Grasp (MID) 107
+1 Infernal Grasp (DBL) 107
+1 Inquisition of Kozilek (2X2) 80
+1 Island (DDT) 31
+1 Ledger Shredder (SNC) 46
+1 Leyline of the Void (M11) 101
+1 Mishra's Bauble (2XM) 274
+1 Misty Rainforest (MH2) 250
+4 Overgrown Tomb (RTR) 243
+1 Scalding Tarn (ZEN) 223
+1 Street Wraith (DMR) 102
+1 Stubborn Denial (KTK) 56
+1 Surgical Extraction (2X2) 94
+1 Swamp (ZNR) 382
+1 Torpor Orb (NPH) 162
+1 Traverse the Ulvenwald (SOI) 234
+1 Vapor Snag (MB1) 537
+1 Veil of Summer (M20) 198
+1 Verdant Catacombs (MM3) 249
+1 Void Mirror (MH2) 242
+4 Watery Grave (GTC) 249

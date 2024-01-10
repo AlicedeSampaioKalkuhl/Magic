@@ -1,0 +1,111 @@
+    Old Man Willow 
+1 Command Tower (40K) 270
+1 Culling Ritual (ONC) 117
+1 Darksteel Garrison (MB1) 1571
+1 Llanowar Wastes (C20) 286
+1 Rogue's Passage (MOC) 421
+1 Temple of the False God (C19) 280
+1 Tocasia's Dig Site (BRO) 266
+1 Undercity Upheaval (MAT) 125 *E*
+    In 
+1 Ancient Greenwarden (ZNR) 357
+1 Argoth, Sanctum of Nature (BRO) 256a
+1 Ashaya, Soul of the Wild (ZNR) 358
+1 Ashnod's Altar (EMA) 218
+1 Assemble the Entmoot (LTC) 36
+1 Awaken the Woods (BRO) 170
+1 Ayula's Influence (MH1) 156
+1 Azusa, Lost but Seeking (PM21) 173p
+1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180
+1 Blight Mound (C21) 36
+1 Blighted Woodland (C21) 280
+1 Blood Artist (2X2) 70
+1 Boseiju, Who Endures (PNEO) 266p
+1 Brawn (MOC) 292
+1 Broken Bond (MB1) 1150
+1 Cabal Coffers (MH2) 301
+1 Circle of the Land Druid (CLB) 220
+1 Crawling Barrens (ZNR) 262
+1 Crawling Infestation (VOW) 193
+1 Crawling Sensation (SOI) 199
+1 Crypt of Agadeem (ZEN) 212
+1 Cultivator Colossus (VOW) 195
+1 Dakmor Salvage (UMA) 240
+1 Darkmoss Bridge (MH2) 245
+1 Darksteel Citadel (2XM) 315
+1 Death's Presence (MIC) 137
+1 Deathbloom Ritualist (BRO) 208
+1 Deathcap Cultivator (SOI) 202
+1 Deathrite Shaman (RTR) 213
+1 Deeproot Wayfinder (MOM) 184
+1 Dread Statuary (WWK) 135
+1 Dryad Arbor (FUT) 174
+1 Earth Surge (GPT) 84
+1 Embodiment of Insight (OGW) 131
+1 Entish Restoration (LTR) 163
+1 Erinis, Gloom Stalker (CLB) 230
+1 Essence Harvest (AVR) 100
+1 Fangorn, Tree Shepherd (LTR) 166
+1 Field of the Dead (M20) 247
+1 Filth (JUD) 66
+1 Greater Good (AFC) 160
+1 Grim Backwoods (C13) 292
+1 Hagra Mauling / Hagra Broodpit (ZNR) 106
+1 Haunted Mire (DMU) 248
+1 High Market (MMQ) 320
+1 Hissing Quagmire (OGW) 171
+1 Jarad, Golgari Lich Lord (DDJ) 45 *F*
+1 Kamahl, Heart of Krosa (CMR) 237
+1 Kamahl's Will (CMR) 238
+1 Kokusho, the Evening Star (MMA) 89
+1 Krosan Restorer (DMR) 168
+1 Kura, the Boundless Sky (PNEO) 200p
+1 Leyline of Abundance (M20) 179
+1 Llanowar Loamspeaker (PDMU) 170p
+1 Loamcrafter Faun (WOC) 19
+1 Mishra's Factory (MH2) 302
+1 Mishra's Foundry (BRO) 265
+1 Mobilized District (WAR) 249
+1 Mutavault (MOR) 148
+1 Nature's Revolt (TMP) 240
+1 Nissa, Who Shakes the World (WAR) 169
+1 Nurturing Peatland (MH1) 243
+1 Old Rutstein (VOW) 244
+1 Old-Growth Troll (PKHM) 185p
+1 Overgrown Tomb (GRN) 253
+1 Phyrexian Altar (2X2) 311
+1 Phyrexian Tower (UMA) 248
+1 Pitiless Plunderer (RIX) 81
+1 Ramunap Excavator (HOU) 129
+1 Restless Cottage (WOE) 258
+1 Satyr Wayfinder (BNG) 136
+1 Savra, Queen of the Golgari (RAV) 225
+1 Skull Prophet (IKO) 206
+1 Spider Spawning (2X2) 158
+1 Splendid Reclamation (VOW) 221
+1 Svogthos, the Restless Tomb (RAV) 283
+1 Sylvan Advocate (DDU) 23
+1 Sylvan Awakening (DOM) 183
+1 Syr Konrad, the Grim (ELD) 107
+1 Tainted Wood (ONC) 168
+1 Takenuma, Abandoned Mire (NEO) 416
+1 The Gitrog Monster (MB1) 1430
+1 Timber Protector (LRW) 238
+1 Titania, Nature's Force (PRM) 105770
+1 Titania, Protector of Argoth (MH2) 287
+1 Titania, Voice of Gaea (BRO) 193
+1 Treetop Village (10E) 361
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Uurg, Spawn of Turg (DMU) 225
+1 Verdant Catacombs (ZEN) 229
+1 Vito, Thorn of the Dusk Rose (M21) 127
+1 Waker of the Wilds (ZNC) 86
+1 Witherbloom Command (STX) 248
+1 Woodland Chasm (KHM) 274
+1 World Shaper (RIX) 151
+1 Worm Harvest (C18) 194
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Yedora, Grave Gardener (C21) 70
+
+    Out 
+    

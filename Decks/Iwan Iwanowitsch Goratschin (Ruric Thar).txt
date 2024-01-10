@@ -1,0 +1,173 @@
+    Ruric Thar (Iwan Iwanowitch Goratschin Alter)
+1 Accomplished Alchemist (STX) 119
+1 Aetherflux Reservoir (MB1) 1539
+1 Ageless Entity (DDH) 18
+1 Akroma's Memorial (M13) 200
+1 Alhammarret's Archive (C21) 233
+1 Arni Slays the Troll (KHM) 201
+1 Basilisk Collar (MB1) 1547
+1 Batterbone (MH2) 221
+1 Batterskull (NPH) 130
+1 Beamtown Beatstick (MOM) 131
+1 Blossoming Bogbeast (C21) 386
+1 Bonders' Enclave (IKO) 245
+1 Bone Sabres (40K) 88
+1 Centaur Nurturer (WAR) 156
+1 City on Fire (MOM) 135
+1 Command Beacon (CMR) 349
+1 Command Tower (C13) 281
+1 Dryad Arbor (FUT) 174
+1 Essence Warden (LTC) 242
+1 Fiery Emancipation (PM21) 143p
+1 Fiery Encore (C21) 51
+1 Fire-Lit Thicket (SHM) 271
+1 Fortifying Draught (STX) 132
+1 Glittermonger (SNC) 149
+1 Gratuitous Violence (ONS) 212
+1 Greenweaver Druid (DPA) 68
+1 Heal the Scars (LRW) 217
+1 Healing Technique (C21) 63
+1 Homeward Path (C16) 301
+1 Honor Troll (STX) 134
+1 Ignite Memories (TSP) 164
+1 Invigorating Falls (TOR) 128
+1 Jeska's Will (CMR) 187
+1 Karplusan Forest (PDMU) 250p
+1 Kessig Wolf Run (MOC) 410
+1 Lightning Greaves (CMD) 253
+1 Llanowar Elves (EMA) 175
+1 Llanowar Loamspeaker (DMU) 428
+1 Loxodon Warhammer (MRD) 201
+1 Mana Geyser (5DN) 75
+1 Meria, Scholar of Antiquity (DMU) 206 *F*
+1 Mithril Coat (LTR) 245
+1 Momentous Fall (JMP) 411
+1 Mosswort Bridge (CLB) 902
+1 Naga Vitalist (AKH) 176
+1 Nettlecyst (MOC) 367
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Nylea's Disciple (THS) 167
+1 Opaline Unicorn (THS) 218
+1 Ornithopter of Paradise (MH2) 232
+1 Orochi Merge-Keeper (NEO) 203
+1 Orochi Sustainer (CHK) 236
+1 Paradise Druid (J22) 704
+1 Predator's Rapport (GTC) 129
+1 Quirion Elves (MIR) 234
+1 Quirion Explorer (PLS) 90
+1 Resurrection Orb (40K) 165
+1 Rhythm of the Wild (RNA) 201
+1 Rockfall Vale (MID) 266
+1 Rogue's Passage (DDM) 77
+1 Rootbound Crag (C16) 317
+1 Rousing Refrain (C21) 56
+1 Rugged Highlands (C19) 271
+1 Sculpting Steel (MOC) 374
+1 Selvala, Heart of the Wilds (CN2) 70
+1 Setessan Petitioner (THB) 199
+1 Shadowspear (PTHB) 236p
+1 Sheltering Word (AVR) 192
+1 Skarrg, the Rage Pits (PCA) 127
+1 Song of Inspiration (AFC) 42
+1 Spinerock Knoll (CLB) 916
+1 Spire Garden (CLB) 361
+1 Swiftfoot Boots (C14) 275
+1 Sword of the Paruns (CMA) 234
+1 Sword of Vengeance (C14) 276
+1 Tangled Florahedron / Tangled Vale (ZNR) 211
+1 Trudge Garden (C21) 69
+1 Ulvenwald Captive / Ulvenwald Abomination (EMN) 175
+1 Unnatural Growth (PMID) 206p
+1 Vine Trellis (MMQ) 285
+1 Weather the Storm (MH1) 191
+1 Wellwisher (MB1) 1370
+1 Whisperer of the Wilds (FRF) 144
+1 Witch's Clinic (C21) 81
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zhur-Taa Druid (GK2) 101
+    In 
+1 Ancient Tomb (UMA) 236
+1 Astral Cornucopia (BRR) 68
+1 Bigger on the Inside (WHO) 115
+1 Bloom Hulk (WAR) 154
+1 Bonders' Enclave (PIKO) 245p
+1 Bootleggers' Stash (PSNC) 134p
+1 Carnivorous Canopy (ONE) 162
+1 Castle Garenbrig (PELD) 240p
+1 Cavern of Souls (AVR) 226
+1 Churning Reservoir (ONE) 127
+1 Cinderslash Ravager (ONE) 200
+1 Claws of Gix (TSB) 107
+1 Coalition Relic (DDE) 54
+1 Command Beacon (PLIST) 284
+1 Command Tower (SCD) 297
+1 Contagion Clasp (DDF) 63
+1 Contagion Engine (SOM) 145
+1 Core Prowler (MBS) 103
+1 Courage in Crisis (WAR) 158
+1 Cragcrown Pathway / Timbercrown Pathway (ZNR) 261
+1 Druids' Repository (AVR) 176
+1 Essence Warden (LTC) 242
+1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
+1 Etali, Primal Storm (NCC) 268
+1 Everflowing Chalice (DDF) 60
+1 Evolved Spinoderm (ONE) 166
+1 Flaming Tyrannosaurus (WHO) 85
+1 Free from Flesh (ONE) 131
+1 Furnace Skullbomb (ONE) 228
+1 Gemstone Array (5DN) 124
+1 Gemstone Caverns (TSR) 280
+1 Glistening Sphere (ONC) 20
+1 Glowcap Lantern (LCI) 187
+1 Gruul Turf (C16) 300
+1 Helm of the Host (PDOM) 217p
+1 Incubation Sac (ONE) 171
+1 Karn's Bastion (PWAR) 248p
+1 Karplusan Forest (PDMU) 250p
+1 Kessig Wolf Run (MOC) 410
+1 Lightning Greaves (MRD) 199
+1 Majestic Genesis (CLB) 240
+1 Mechanized Warfare (BRO) 139
+1 Migloz, Maze Crusher (ONE) 210
+1 Mirrex (ONE) 254
+1 Mirrodin's Core (DST) 165
+1 Mosswort Bridge (C18) 267
+1 Nalfeshnee (CLB) 632
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Panharmonicon (KLD) 226
+1 Park Heights Maverick (NCC) 63
+1 Passionate Archaeologist (CLB) 633
+1 Ranging Raptors (GN2) 49
+1 Regal Behemoth (CN2) 69
+1 Rockfall Vale (PMID) 266p
+1 Rogue's Passage (CN2) 220
+1 Rootbound Crag (M10) 227
+1 Smell Fear (MH2) 173
+1 Spinerock Knoll (C20) 316
+1 Spire Garden (CLB) 606
+1 Staff of Compleation (ONE) 242
+1 Strax, Sontaran Nurse (WHO) 160
+1 Strionic Resonator (MOC) 384
+1 Tablet of Compleation (ONE) 245
+1 Temple of Abandon (CLB) 921
+1 Temple of the False God (C13) 327
+1 Tendo Ice Bridge (BOK) 165
+1 The Autonomous Furnace (ONE) 247
+1 The Filigree Sylex (ONE) 227
+1 The Great Henge (PELD) 161p
+1 The Hunter Maze (ONE) 253
+1 The Millennium Calendar (LCI) 257
+1 The Monumental Facade (ONE) 401
+1 The Mycosynth Gardens (ONE) 256
+1 The Seedcore (ONE) 259
+1 Thirsting Roots (ONE) 185
+1 Topiary Stomper (PSNC) 160p
+1 Unnatural Restoration (ONE) 191
+1 Urabrask's Anointer (ONE) 152
+1 Urabrask's Forge (ONE) 153
+1 Vexing Puzzlebox (CLB) 343
+1 Vivid Crag (CM2) 276
+1 Vivid Grove (C15) 318
+1 Volt Charge (NPH) 100
+1 Wayward Swordtooth (PRIX) 150p
+1 Yavimaya, Cradle of Growth (MH2) 261

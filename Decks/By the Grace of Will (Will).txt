@@ -1,0 +1,100 @@
+Will, Scion of Peace
+1 Absorb (RNA) 151
+1 Adarkar Wastes (PDMU) 243p
+1 Aetherflux Reservoir (KLD) 192
+1 Alhammarret's Archive (ORI) 221
+1 Altar of the Pantheon (THB) 231
+1 Angel's Feather (DVD) 23
+1 Angelic Chorus (10E) 4
+1 Approach of the Second Sun (AKH) 4
+1 Archangel's Light (DKA) 1
+1 Ashes of the Abhorrent (XLN) 2
+1 Authority of the Consuls (KLD) 5
+1 Azorius Charm (MB1) 1393
+1 Beacon of Immortality (MB1) 35
+1 Boon Reflection (SHM) 5
+1 Brokers Hideout (SNC) 248
+1 Chalice of Life / Chalice of Death (DKA) 146
+1 Cleric Class (AFR) 6
+1 Command Tower (C17) 242
+1 Congregate (MB1) 60
+1 Cursebreak (AVR) 14
+1 Deserted Beach (PMID) 260p
+1 Dramatic Reversal (KLD) 44
+1 Emeria, the Sky Ruin (ZEN) 213
+1 Emeria's Call / Emeria, Shattered Skyclave (ZNR) 12
+1 Fall of the Gavel (RTR) 161
+1 Followed Footsteps (RAV) 51
+1 Freed from the Real (SOK) 38
+1 Fumigate (LTC) 170
+1 Gates of Istfell (KHM) 256
+1 Ghostly Prison (CN2) 86
+1 Glacial Fortress (XLN) 255
+1 Golem's Heart (SOM) 161
+1 Hallow (DST) 4
+1 Hallowed Fountain (RNA) 251
+1 Heliod's Intervention (PTHB) 19p
+1 Helm of the Host (PDOM) 217p
+1 Idyllic Beachfront (DMU) 249
+1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
+1 Invasion of Belenon / Belenon War Anthem (MOM) 20
+1 Invasion of Dominaria / Serra Faithkeeper (MOM) 21
+1 Invasion of Gobakhan / Lightshield Array (MOM) 22
+1 Invasion of Kamigawa / Rooftop Saboteurs (MOM) 62
+1 Invasion of New Phyrexia / Teferi Akosa of Zhalfir (MOM) 239
+1 Invasion of Ravnica / Guildpact Paragon (MOM) 1
+1 Invasion of Segovia / Caetus, Sea Tyrant of Segovia (MOM) 63
+1 Invasion of Theros / Ephara, Ever-Sheltering (MOM) 23
+1 Invasion of Vryn / Overloaded Mage-Ring (MOM) 64
+1 Invasion of Xerex / Vertex Paladin (MOM) 242
+1 Irenicus's Vile Duplication (CLB) 78
+1 Irrigated Farmland (AKH) 245
+2 Island (WOE) 263
+1 Kabira Crossroads (DDF) 33
+1 Kraken's Eye (M11) 210
+1 Machine God's Effigy (BRC) 16
+1 Magewright's Stone (DIS) 162
+1 Minamo, School at Water's Edge (CHK) 279
+1 Mirror Box (PNEO) 250p
+1 Mystic Gate (2XM) 324
+1 Nimbus Maze (FUT) 178
+1 Norn's Annex (ONC) 83
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Nyx Lotus (THB) 235
+1 Opal Palace (CMR) 352
+1 Paradise Plume (C21) 255
+1 Path of Ancestry (C20) 298
+1 Patriar's Seal (CLB) 332
+1 Phyrexian Altar (UMA) 232
+2 Plains (WOE) 262
+1 Prairie Stream (VOC) 179
+1 Pristine Talisman (BRR) 43
+1 Profane Memento (M15) 226
+1 Propaganda (C16) 94
+1 Quantum Misalignment (WHO) 52
+1 Radiant Fountain (M21) 248
+1 Recruit the Worthy (MH1) 22
+1 Righteous Cause (DVD) 22
+1 Riot Control (DGM) 6
+1 Rite of Replication (ZEN) 61
+1 Rogue's Passage (CMM) 426
+1 Sanguine Sacrament (XLN) 33
+1 Sea of Clouds (BBD) 84
+1 Search Warrant (RTR) 193
+1 Secluded Courtyard (LTC) 330
+1 Sejiri Refuge (MB1) 1687
+1 Self-Reflection (LCI) 74
+1 Seraph Sanctuary (AVR) 228
+1 Sphinx's Revelation (RVR) 228
+1 Stolen Identity (ZNC) 37
+1 Storm Herd (SCD) 36
+1 Subjugate the Hobbits (LTC) 24
+1 Tranquil Cove (M21) 258
+1 Venser's Journal (C16) 279
+1 War Report (NPH) 26
+1 Wave of Reckoning (C16) 79
+1 Whispers of the Muse (TSB) 35
+1 Will Kenrith (CLB) 738
+1 Witch's Clinic (C21) 81
+
+    In 

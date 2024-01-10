@@ -1,0 +1,54 @@
+	Ian, Convalescent Charmer 
+1 Adric, Mathematical Genius (WHO) 33
+1 Armored Kincaller (LCI) 174
+1 Augmenter Pugilist / Echoing Equation (STX) 147
+1 Battering Krasis (DGM) 41
+1 Biomathematician (STX) 164
+1 Blight Mamba (ONC) 105
+1 Body of Research (STX) 168
+1 Change the Equation (MOM) 50
+1 Clinging Anemones (GTC) 31
+1 Combat Research (DMU) 44
+1 Compulsive Research (CLB) 715
+1 Coral Reef (HML) 24
+1 Displaced Dinosaurs (WHO) 100
+1 Ecological Appreciation (STX) 128
+1 Elusive Krasis (GTC) 160
+1 Environmental Sciences (STX) 1
+1 Field Research (ZNR) 58
+10 Forest (LCI) 291
+1 Gurmag Angler (TSR) 324
+1 Halimar Depths (C18) 253
+1 Hand of the Praetors (SOM) 66
+1 Intrepid Paleontologist (LCI) 193
+10 Island (LCI) 288
+1 Nagging Thoughts (MB1) 442
+1 Outmuscle (ELD) 170
+1 Overgrown Armasaur (MB1) 1285
+1 Paleontologist's Pick-Axe / Dinosaur Headdress (LCC) 16
+1 Perilous Research (CMD) 54
+1 Plague of Vermin (SHM) 73
+10 Rat Colony (PLIST) 677
+1 Reconstruction (3ED) 77
+12 Relentless Rats (A25) 105
+1 Research the Deep (MOR) 46
+1 Rethink (PCY) 42
+1 Runic Armasaur (M19) 200
+1 Savage Stomp (XLN) 205
+1 Scattered Thoughts (VOW) 74
+1 Septic Rats (MBS) 55
+1 Shambleshark (GTC) 193
+1 Shifting Ceratops (LCC) 258
+1 Solve the Equation (STX) 54
+1 Spectral Searchlight (CMR) 342
+1 Spike-Tailed Ceratops (XLN) 209
+1 Stronghold Biologist (NEM) 45
+10 Swamp (LCI) 289
+1 Tail Swipe (DMU) 182
+1 Tainted Strike (SOM) 80
+1 Think Tank (ODY) 104
+1 Thirst for Discovery (VOW) 85
+1 Thought Vessel (WHO) 255
+1 Undercity Plague (GTC) 83
+1 Zimone and Dina (MOM) 318 *F*
+	In 

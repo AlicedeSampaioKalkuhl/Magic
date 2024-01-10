@@ -1,0 +1,154 @@
+   Tayam, Luminous Enigma
+1 Barren Moor (CMD) 266
+1 Birthing Pod (NPH) 104
+1 Blight Sickle (PLIST) 245
+1 Carrion Call (SOM) 115
+1 Cauldron of Souls (SHM) 248
+1 Command Tower (CC2) 8
+1 Contagion Clasp (TSR) 391
+1 Contagious Nim (SOM) 58
+1 Cystbearer (SOM) 117
+1 Desert of the Glorified (40K) 275
+1 Devoted Druid (PLIST) 782
+1 Disciple of the Vault (MRD) 62
+1 Drown in Ichor (ONE) 91 *F*
+1 Flourishing Defenses (SHM) 114
+8 Forest (MID) 277
+1 Fynn, the Fangbearer (MUL) 26 *F*
+1 Grasping Dunes (AKH) 244
+1 Hapatra, Vizier of Poisons (AKH) 199
+1 Ichor Rats (SOM) 67 *F*
+1 Ifnir Deadlands (HOU) 179 *F*
+1 Incubation Druid (NCC) 296
+1 Infectious Inquiry (ONE) 97 *F*
+1 Lesser Masticore (MH1) 225
+1 Melira, Sylvok Outcast (NPH) 115
+1 Mirrodin's Core (FMB1) 119 *F*
+1 Myriad Landscape (MIC) 177
+1 Nest of Scarabs (AKH) 101
+1 Nesting Grounds (C20) 71
+1 Phyresis (MBS) 49
+1 Phyrexian Juggernaut (MBS) 121
+1 Phyrexian Vatmother (MBS) 52
+1 Polluted Mire (USG) 323
+1 Protean Hulk (DIS) 90
+1 Putrefax (SOM) 126
+1 Reanimate (CC2) 5
+1 Renata, Called to the Hunt (THB) 267
+1 Replicating Ring (KHM) 244
+1 Rogue's Passage (C17) 272
+1 Rot Wolf (MBS) 90
+1 Skinrender (SOM) 78
+1 Skithiryx, the Blight Dragon (SOM) 79
+1 Smell Fear (MH2) 173
+1 Sol Ring (CC2) 7
+1 Soul Snuffers (EVE) 45
+1 Study Hall (C21) 80
+7 Swamp (MID) 272
+1 Tainted Strike (SOM) 80
+1 Triumph of the Hordes (SLD) 445
+1 Twinblade Slasher (EVE) 79
+1 Viridian Corrupter (MBS) 94
+1 Virulent Wound (MBS) 57
+1 Viscera Seer (CMR) 158
+1 Vivien on the Hunt (SNC) 162
+1 Young Wolf (J22) 746
+    In 
+1 Blowfly Infestation (SHM) 58
+1 Crumbling Ashes (EVE) 35
+1 Culling Ritual (STX) 172
+1 Fuel for the Cause (MBS) 25
+1 Abzan Ascendancy (C20) 198
+1 Antler Skulkin (EVE) 167
+1 Ashnod's Altar (CHR) 92
+1 Blackcleave Goblin (SOM) 54
+1 Blight Mamba (ONC) 105
+1 Blightsteel Colossus (MBS) 99
+1 Blightwidow (MBS) 77
+1 Blowfly Infestation (SHM) 58
+1 Bojuka Bog (WWK) 132
+1 Bountiful Promenade (CLB) 348
+1 Cauldron Haze (EVE) 84
+1 Caves of Koilos (PDMU) 244p
+1 Chainbreaker (SHM) 249
+1 Choking Fumes (MBS) 4
+1 Cinderbones (SHM) 59
+1 Core Prowler (MBS) 103
+1 Corrosive Mentor (SHM) 61
+1 Crumbling Ashes (EVE) 35
+1 Culling Ritual (STX) 172
+1 Cystbearer (SOM) 117
+1 Desecrated Tomb (M19) 230
+1 Dusk Legion Sergeant (LCC) 80
+1 Exotic Orchard (DMC) 209
+1 Fang Skulkin (EVE) 168
+1 Farmstead Gleaner (MB1) 1581
+1 Flensermite (MBS) 41
+1 Forgotten Ancient (NEC) 117
+1 Gavony Township (MOC) 406
+1 Generous Patron (BBD) 70
+1 Glistening Oil (NPH) 62
+1 Glistening Sphere (ONC) 20
+1 Grafted Exoskeleton (ONC) 132
+1 Grim Affliction (MB1) 678
+1 Grim Poppet (SHM) 252
+1 Hand of the Praetors (SOM) 66
+1 Harvest Gwyllion (EVE) 90
+1 Heartmender (SHM) 228
+1 Hex Parasite (NPH) 137
+1 Ichorclaw Myr (SOM) 166
+1 Indatha Triome (PIKO) 248p
+1 Juvenile Gloomwidow (SHM) 121
+1 Kami of Whispered Hopes (MOM) 196
+1 Karn's Bastion (MOC) 409
+1 Kitchen Finks (SHM) 229
+1 Kithkin Spellduster (EVE) 8
+1 Liliana, Death Wielder (AKH) 275 *F*
+1 Lingering Tormentor (EVE) 36
+1 Lockjaw Snapper (SHM) 255
+1 Luminous Broodmoth (PIKO) 21p
+1 Midnight Banshee (MM2) 86
+1 Mirrex (ONE) 254
+1 Mortuary (STH) 66
+1 Necropede (SOM) 185
+1 Necroskitter (EVE) 38
+1 Needle Specter (EVE) 39
+1 Noxious Hatchling (EVE) 124
+1 Obelisk Spider (MB1) 1461
+1 Overgrown Farmland (WHO) 292
+1 Phyrexian Hydra (MBS) 85
+1 Phyrexian Swarmlord (ONC) 111
+1 Plague Myr (ONC) 139
+1 Plague Stinger (ONC) 96
+1 Priests of Norn (MBS) 16
+1 Puppeteer Clique (WOC) 115
+1 Reaper of Sheoldred (NPH) 72
+1 Rendclaw Trow (EVE) 127
+1 Rishkar, Peema Renegade (SCD) 207
+1 Sandsteppe Citadel (DMC) 229
+1 Scarecrone (JMP) 482
+1 Scaretiller (ZNC) 117
+1 Scuttlemutt (M20) 238
+1 Shriek Raptor (NPH) 24
+1 Spinebiter (NPH) 121
+1 Strangleroot Geist (DKA) 127
+1 Sunpetal Grove (M10) 228
+1 Tangle Angler (SOM) 128
+1 Tarrian's Journal / The Tomb of Aclazotz (LCI) 126
+1 Thornwatch Scarecrow (SHM) 265
+1 Thran Vigil (BRO) 114
+1 Tower Above (SHM) 131
+1 Toxic Nim (NPH) 75
+1 Trigon of Infestation (SOM) 214
+1 Twilight Shepherd (SHM) 25
+1 Tyvar, Jubilant Brawler (ONE) 344
+1 Undergrowth Stadium (CMR) 359
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Vault of Champions (CMM) 436
+1 Vraska, Betrayal's Sting (ONE) 115
+1 Wall of Roots (IMA) 190
+1 Wicker Warcrawler (SHM) 269
+1 Wildslayer Elves (SHM) 133
+1 Woodland Cemetery (DOM) 248
+1 Yavimaya, Cradle of Growth (MH2) 261
+    Out 

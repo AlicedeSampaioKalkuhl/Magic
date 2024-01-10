@@ -1,0 +1,111 @@
+    Henry Wu 
+1 Arcane Signet (CMM) 367
+1 Bastion of Remembrance (IKO) 73
+1 Bird Admirer / Wing Shredder (MID) 298
+1 Command Tower (CMM) 420
+1 Conjurer's Closet (C13) 239
+1 Dictate of Erebos (JOU) 65
+1 Disciple of Bolas (NCC) 247
+1 Displace (MB1) 351
+1 Double Major (STX) 179
+1 Eloise, Nephalia Sleuth (MIC) 3 *F*
+1 Exotic Orchard (CMM) 993
+1 Fake Your Own Death (SNC) 79
+1 Ghostly Flicker (KHC) 39
+1 Grim Haruspex (CLB) 754
+1 Helm of the Host (BRR) 19
+1 Hound Tamer / Untamed Pup (MID) 187
+1 Hypnotic Siren (JOU) 42 *F*
+1 Midnight Reaper (GRN) 77
+1 Mikaeus, the Unhallowed (SLD) 490
+1 Mortuary (STH) 66
+1 Panharmonicon (TSR) 399
+1 Planar Incision (NEO) 72
+1 Reclamation Sage (C20) 186
+1 Replication Technique (C21) 31
+1 Rogue's Passage (CLB) 913
+1 Scute Swarm (NCC) 310
+1 Sol Ring (C20) 252
+1 Spawnwrithe (CMD) 171
+1 Stolen Identity (ZNC) 37
+1 Temple of the False God (40K) 300
+1 The Mimeoplasm (2X2) 383 *F*
+1 Weaver of Blossoms / Blossom-Clad Werewolf (VOW) 226 *F*
+1 Zulaport Cutthroat (C20) 142
+    In 
+1 Activated Sleeper (DMC) 24
+1 Aether Channeler (PDMU) 42p
+1 Avabruck Caretaker / Hollowhenge Huntmaster (VOW) 384
+1 Baneblade Scoundrel / Baneclaw Marauder (MID) 289
+1 Bojuka Bog (ONC) 145
+1 Brawn (CMD) 145
+1 Burly Breaker / Dire-Strain Demolisher (MID) 299
+1 Caldaia Guardian (NCC) 56
+1 Culling Ritual (CMM) 921
+1 Cult of the Waxing Moon (SOI) 201
+1 Damping Sphere (DOM) 213
+1 Deathcap Glade (VOW) 261
+1 Deathgreeter (ALA) 71
+1 Dimir Signet (RAV) 260
+1 Dreamroot Cascade (WHO) 273
+1 Drivnod, Carnage Dominus (ONE) 305
+1 Entreat the Dead (PLIST) 423
+1 Eternal Witness (2X2) 145
+1 Extravagant Replication (NCC) 25
+1 Fable of Wolf and Owl (EVE) 150
+1 Filth (JUD) 66
+1 Garruk Relentless / Garruk, the Veil-Cursed (ISD) 181
+1 Gatstaf Shepherd / Gatstaf Howler (ISD) 182
+1 Glasspool Mimic / Glasspool Shore (ZNR) 60
+1 Golgari Signet (RAV) 262
+1 Graveyard Trespasser / Graveyard Glutton (MID) 104
+1 Hedron Archive (J22) 774
+1 Hermit of the Natterknolls / Lone Wolf of the Natterknolls (SOI) 209
+1 Hinterland Harbor (DMR) 248
+1 Howling Moon (VOW) 204
+1 Infestation Expert / Infested Werewolf (VOW) 206
+1 Journey to Eternity / Atzal, Cave of Eternity (RIX) 160
+1 Kinnan, Bonder Prodigy (IKO) 192
+1 Littjara Mirrorlake (KHM) 264
+1 Lurking Predators (C16) 156
+1 Machine God's Effigy (BRC) 16
+1 Mayor of Avabruck / Howlpack Alpha (ISD) 193
+1 Meren of Clan Nel Toth (CMM) 685
+1 Mimic Vat (C20) 246
+1 Morphic Pool (CLB) 357
+1 Nightmare Shepherd (THB) 108
+1 Oakshade Stalker / Moonlit Ambusher (VOW) 212
+1 Opulent Palace (C16) 313
+1 Outland Liberator / Frenzied Trapbreaker (MID) 303
+1 Pawn of Ulamog (ROE) 122
+1 Phyrexian Vivisector (DMU) 100
+1 Rejuvenating Springs (CMM) 424
+1 Rug of Smothering (CLB) 336
+1 Sage of Ancient Lore / Werewolf of Ancient Hunger (SOI) 225
+1 Scorned Villager / Moonscarred Werewolf (DKA) 125
+1 Shady Traveler / Stalking Predator (MID) 120
+1 Shipwreck Marsh (WHO) 305
+1 Simic Signet (C15) 266
+1 Skull Prophet (IKO) 206
+1 Skull Skaab (VOW) 248
+1 Strionic Resonator (LCC) 116 *F*
+1 Suspicious Stowaway / Seafaring Werewolf (MID) 288
+1 Syr Konrad, the Grim (ELD) 107
+1 Tangleclaw Werewolf / Fibrous Entangler (EMN) 174
+1 Teferi's Time Twist (WAR) 72
+1 The Celestus (PMID) 252p
+1 The Great Henge (ELD) 161
+1 The Grey Havens (LTR) 255
+1 The Skullspore Nexus (LCI) 212
+1 Tireless Hauler / Dire-Strain Brawler (MID) 305
+1 Tovolar's Huntmaster / Tovolar's Packleader (MID) 204
+1 Ulvenwald Captive / Ulvenwald Abomination (EMN) 175
+1 Ulvenwald Mystics / Ulvenwald Primordials (ISD) 208
+1 Undergrowth Stadium (CMM) 435
+1 Urborg, Tomb of Yawgmoth (M15) 248
+1 Wolfkin Outcast / Wedding Crasher (VOW) 229
+1 Wonder (C13) 67
+1 Woodland Cemetery (ISD) 249
+1 Yarok, the Desecrated (M20) 220
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zagoth Triome (IKO) 259

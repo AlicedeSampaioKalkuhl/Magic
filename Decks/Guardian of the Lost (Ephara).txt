@@ -1,0 +1,96 @@
+    Ephara 
+1 Abstruse Interference (OGW) 40
+1 Access Denied (NEC) 11
+1 Adarkar Wastes (PDMU) 243p
+1 Alrund's Epiphany (KHM) 41
+1 Anointed Procession (AKH) 2
+1 Arcane Signet (AFC) 197
+1 Azorius Signet (MM3) 215
+1 Call the Coppercoats (C20) 23
+1 Castle Ardenvale (ONC) 149
+1 Cenn's Enlistment (EVE) 3
+1 Command Tower (C19) 237
+1 Decanter of Endless Water (CLB) 309
+1 Deserted Beach (PMID) 260p
+1 Elspeth, Sun's Champion (SLD) 1140
+1 Empyrial Storm (C18) 2
+1 Evolving Wilds (MM2) 241
+1 Extravagant Replication (NCC) 25
+1 Eyes in the Skies (MM3) 5
+1 Fabled Passage (PW21) 4 *F*
+1 Fated Infatuation (BNG) 39
+1 Felidar Retreat (ZNR) 16
+1 Field of the Dead (M20) 247
+1 Finale of Glory (ONC) 67
+1 Geometric Nexus (C21) 77
+1 Glacial Fortress (XLN) 255
+1 Grand Crescendo (NCC) 16
+1 Hallowed Fountain (RTR) 241
+1 Halo Fountain (PSNC) 15p
+1 High Market (C15) 289
+1 Hour of Reckoning (C19) 65
+1 Idol of Oblivion (BRC) 144
+1 Idyllic Beachfront (DMU) 249
+1 Inquisitorial Rosette (40K) 159
+1 Inspiring Leader (CLB) 28
+1 Intangible Virtue (ISD) 19
+1 Invasion of Belenon / Belenon War Anthem (MOM) 20 *F*
+1 Irrigated Farmland (AKH) 245
+5 Island (THB) 251
+1 Jace, Cunning Castaway (XLN) 60
+1 Karn's Bastion (PWAR) 248p
+1 Kasmina, Enigmatic Mentor (PLIST) 356
+1 Legion's Landing / Adanto, the First Fort (XLN) 22
+1 Metallurgic Summonings (C21) 122
+1 Midnight Clock (PELD) 54p
+1 Mimic Vat (NCC) 372
+1 Mirrex (ONE) 254
+1 Mordenkainen (AFR) 283
+1 Nomads' Assembly (C14) 82
+1 Ominous Seas (PLIST) 757
+1 Path of the Ghosthunter (MOC) 105
+1 Perplexing Test (C21) 30
+5 Plains (THB) 250
+1 Prairie Stream (DMC) 225
+1 Primal Amulet / Primal Wellspring (XLN) 243
+1 Prismatic Vista (MH1) 244
+1 Recruit the Worthy (MH1) 22
+1 Release to Memory (NEC) 9
+1 Reliquary Tower (C16) 316
+1 Replicating Ring (KHM) 244
+1 Retreat to Emeria (BFZ) 44
+1 Retrofitter Foundry (C18) 57
+1 Rise from the Tides (UMA) 67
+1 Sacred Mesa (TSB) 13
+1 Saheeli's Artistry (KLD) 62
+1 Sea of Clouds (CLB) 360
+1 Secure the Wastes (DTK) 36
+1 Shark Typhoon (SLC) 2020 *F*
+1 Sleep with the Fishes (SNC) 61
+1 Smothering Tithe (PRNA) 22p
+1 Sol Ring (C14) 270
+1 Song of the Worldsoul (C19) 6
+1 Spawning Bed (BFZ) 248
+1 Springjack Pasture (C13) 326
+1 Sram's Expertise (AER) 24
+1 Staff of the Storyteller (ONC) 10
+1 Starnheim Unleashed (KHM) 294
+1 Stolen by the Fae (ELD) 66
+1 Stolen Identity (ZNC) 37
+1 Storm Herd (C19) 75
+1 Supplant Form (PFRF) 54 *F*
+1 Talisman of Progress (40K) 258
+1 Teferi, Temporal Pilgrim (BRO) 66
+1 The Golden Throne (40K) 157
+1 Theoretical Duplication (C21) 34
+1 Thorough Investigation (AFC) 12
+1 Triplicate Spirits (PLIST) 38
+1 Warping Wail (OGW) 12
+1 Wedding Announcement / Wedding Festivity (VOW) 45
+1 White Sun's Twilight (ONE) 38
+1 White Sun's Zenith (C14) 95
+1 Wizard Class (PLIST) 765
+    In 
+1 Invasion of Theros / Ephara, Ever-Sheltering (MOM) 23
+1 Leyline of Anticipation (WOT) 23
+    Out 

@@ -1,0 +1,114 @@
+    Toluz, Clever Conductor 
+1 Ancient Tomb (ZNE) 21
+1 Arcane Signet (P30M) 1F★ *E*
+1 Archivist of Oghma (CLB) 4
+1 Arid Mesa (MH2) 244
+1 Bile Blight (BNG) 61
+1 Bloodstained Mire (EXP) 18 *F*
+1 Brainstorm (2XM) 44
+1 Cabal Ritual (TOR) 51
+1 Chrome Mox (SLC) 2003
+1 Command Tower (C19) 237
+1 Counterbalance (CSP) 31
+1 Culling the Weak (EXO) 55
+1 Cyclonic Rift (2XM) 47
+1 Damn (MH2) 80
+1 Dark Ritual (STA) 26
+1 Dauntless Dismantler (LCI) 8
+1 Dauthi Voidwalker (MH2) 81
+1 Deadly Dispute (AFR) 94
+1 Demonic Consultation (ICE) 121
+1 Demonic Tutor (3ED) 105
+1 Doomsday (6ED) 121
+1 Drannith Magistrate (PIKO) 11p
+1 Emergence Zone (WAR) 245
+1 Enlightened Tutor (DMR) 412
+1 Esper Sentinel (MH2) 12
+1 Everybody Lives! (WHO) 18
+1 Exotic Orchard (SLD) 1231 *F*
+1 Fellwar Stone (SLD) 708
+1 Fierce Guardianship (C20) 35
+1 Flooded Strand (KTK) 233
+1 Flusterstorm (MH1) 255
+1 Force of Will (DMR) 50
+1 Ghostly Pilferer (NCC) 223
+1 Gitaxian Probe (NPH) 35
+1 Godless Shrine (GTC) 242
+1 Grand Abolisher (SLD) 1285
+1 Hallowed Fountain (RTR) 241
+1 Island (SNC) 275
+1 Jace, Wielder of Mysteries (PWAR) 54p
+1 Jeweled Lotus (CMR) 319
+1 Ledger Shredder (SNC) 412
+1 Lion's Eye Diamond (VMA) 271
+1 Lotho, Corrupt Shirriff (LTR) 370
+1 Lotus Petal (TMP) 294
+1 Mana Confluence (SLD) 1012a
+1 Mana Crypt (MB1) 1603
+1 March of Swirling Mist (PNEO) 61p
+1 Marsh Flats (MH2) 248
+1 Mental Misstep (NPH) 38
+1 Misty Rainforest (ZEN) 220
+1 Morphic Pool (CLB) 357
+1 Mox Amber (BRR) 98
+1 Mox Diamond (V10) 10 *F*
+1 Mox Opal (SOM) 179
+1 Mystic Remora (DMR) 59 *F*
+1 Mystical Tutor (SS1) 6
+1 Necropotence (SLC) 1995 *F*
+1 Notion Thief (ZNC) 96
+1 Orcish Bowmasters (LTR) 103
+1 Otawara, Soaring City (NEO) 271
+1 Pact of Negation (TSR) 77
+1 Peer into the Abyss (M21) 360
+1 Permission Denied (REX) 42 *F*
+1 Plains (SNC) 273 *F*
+1 Polluted Delta (KTK) 239
+1 Ranger-Captain of Eos (MH1) 21
+1 Reanimate (TMP) 151
+1 Reprieve (LTR) 26
+1 Rhystic Study (J22) 114
+1 Scalding Tarn (MH2) 439
+1 Scrubland (VMA) 313
+1 Sea of Clouds (CLB) 360
+1 Sensei's Divining Top (PLIST) 721
+1 Sheoldred, the Apocalypse (PDMU) 107p
+1 Silence (TSR) 302
+1 Snow-Covered Island (MH1) 251
+1 Snow-Covered Plains (MH1) 250
+1 Snow-Covered Swamp (MH1) 252
+1 Sol Ring (SLD) 1011
+1 Spell Snare (MMA) 64
+1 Swamp (SNC) 276
+1 Swan Song (THS) 65
+1 Swords to Plowshares (BRC) 75
+1 Talisman of Dominance (MRD) 253
+1 Talisman of Progress (MRD) 256
+1 Thassa's Oracle (SLD) 1280
+1 The One Ring (LTR) 451 *F*
+1 Tolarian Winds (USG) 104
+1 Touch the Spirit Realm (NEO) 40
+1 Tundra (VMA) 322
+1 Uba Mask (CHK) 272
+1 Underground Sea (VMA) 323
+1 Vampiric Tutor (DMR) 108 *F*
+1 Verdant Catacombs (MM3) 249
+1 Village Rites (KHM) 117
+1 Watery Grave (GTC) 249
+1 Windfall (USG) 111
+1 Windswept Heath (KTK) 248
+1 Yahenni's Expertise (AER) 75
+
+    In 
+1 Blind Obedience (C17) 57
+1 Slip Out the Back (SNC) 62
+
+    Out 
+Windswept Heath 
+Maybeboard
+Ad Nauseam 
+Waste Not 
+Isochron scepter 
+Dramatic Reversal 
+Chain of Vapor 
+Dark Deal 

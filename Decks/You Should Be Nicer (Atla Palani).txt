@@ -1,0 +1,180 @@
+Atla Palani, Nest Tender 
+1 Archon of Absolution (ELD) 3
+1 Archon of Valor's Reach (C20) 202
+1 Avacyn's Pilgrim (MM3) 119
+1 Aven Mindcensor (CLB) 688
+1 Axgard Cavalry (KHM) 121
+1 Bane of Progress (C13) 137
+1 Basandra, Battle Seraph (CMA) 174
+1 Blossoming Sands (M21) 244
+1 Bogardan Dragonheart (MH1) 120
+1 Boros Garrison (2X2) 319
+1 Burnished Hart (CMR) 302
+1 Cathar Commando (MID) 10
+1 Centaur Nurturer (WAR) 156
+1 Cinder Glade (DMC) 203
+1 Command Tower (C20) 264
+1 Dawnhart Rejuvenator (MID) 180
+1 Dragon Broodmother (MB1) 1417
+1 Dragon Egg (MB1) 908
+1 Dreamshaper Shaman (2X2) 108
+1 Dryad Militant (PRTR) 214
+1 Eidolon of Obstruction (THB) 12
+1 Elesh Norn, Grand Cenobite (IMA) 18
+1 Evolving Wilds (DKA) 155
+1 Exotic Orchard (MIC) 173
+1 Farhaven Elf (C14) 196
+1 Fierce Empath (MB1) 1212
+1 Fireflux Squad (C20) 51
+1 Flamescroll Celebrant / Revel in Silence (STX) 150
+8 Forest (M20) 279
+1 Fyndhorn Elves (CMR) 228
+1 Fynn, the Fangbearer (KHM) 316
+1 Goblin Anarchomancer (MH2) 200
+1 Graypelt Refuge (C19) 249
+1 Gruul Turf (C16) 300
+1 Guardian Augmenter (C21) 389
+1 Humble Naturalist (IKO) 160
+1 Hyrax Tower Scout (THB) 173
+1 Imposing Sovereign (M14) 22
+1 Jungle Shrine (C16) 304
+1 Kazandu Refuge (C13) 301
+1 Kinjalli's Sunwing (XLN) 19
+1 Krosan Verge (C18) 263
+1 Lightning-Rig Crew (XLN) 150
+1 Llanowar Tribe (KHC) 66
+1 Michiko Konda, Truth Seeker (SOK) 19
+1 Mirror Entity (CLB) 701
+4 Mountain (EVG) 61
+1 Murasa Rootgrazer (ZNR) 229
+1 Myriad Landscape (ZNC) 135
+1 Naya Panorama (ZNC) 136
+1 Nikya of the Old Ways (RNA) 193
+1 Orchard Strider (MH2) 169
+1 Pilgrim's Eye (EMA) 229
+7 Plains (SOM) 233
+1 Qasali Pridemage (C17) 189
+1 Reclamation Sage (M19) 196
+1 Roc Egg (M12) 32
+1 Rogue's Passage (UMA) 250
+1 Rugged Highlands (M20) 250
+1 Ruric Thar, the Unbowed (DGM) 99
+1 Sakura-Tribe Elder (C15) 200
+1 Scuttlemutt (M20) 238
+1 Seedborn Muse (10E) 296
+1 Selesnya Eulogist (C19) 35
+1 Selesnya Sanctuary (C13) 322
+1 Spectator Seating (CMR) 356
+1 Spelltithe Enforcer (GPT) 18
+1 Sun Titan (C21) 106
+1 Sundown Pass (VOW) 266
+1 Sungrass Prairie (C19) 277
+1 Tahngarth, First Mate (C19) 50
+1 Temple of the False God (MB1) 1691
+1 Terastodon (C15) 204
+1 Terramorphic Expanse (10E) 360
+1 Thalia, Guardian of Thraben (VOW) 38
+1 Tomik, Distinguished Advokist (WAR) 34
+1 Village Bell-Ringer (MB1) 266
+1 Vryn Wingmare (M21) 43
+1 Wandering Archaic / Explore the Vastlands (STX) 6
+1 Windborn Muse (C16) 80
+1 Yasharn, Implacable Earth (PZNR) 240p
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zhur-Taa Druid (GK2) 101
+
+	In 
+1 Archon of Absolution (ELD) 3
+1 Archon of Valor's Reach (C20) 202
+1 Avacyn's Pilgrim (MM3) 119
+1 Aven Mindcensor (CLB) 688
+1 Axgard Cavalry (KHM) 121
+1 Bane of Progress (C13) 137
+1 Basandra, Battle Seraph (CMA) 174
+1 Blossoming Sands (M21) 244
+1 Bogardan Dragonheart (MH1) 120
+1 Boros Garrison (2X2) 319
+1 Burnished Hart (CMR) 302
+1 Cathar Commando (MID) 10
+1 Centaur Nurturer (WAR) 156
+1 Cinder Glade (DMC) 203
+1 Command Tower (C20) 264
+1 Dawnhart Rejuvenator (MID) 180
+1 Dragon Broodmother (MB1) 1417
+1 Dragon Egg (MB1) 908
+1 Dreamshaper Shaman (2X2) 108
+1 Dryad Militant (PRTR) 214
+1 Eidolon of Obstruction (THB) 12
+1 Elesh Norn, Grand Cenobite (IMA) 18
+1 Evolving Wilds (DKA) 155
+1 Exotic Orchard (MIC) 173
+1 Farhaven Elf (C14) 196
+1 Fierce Empath (MB1) 1212
+1 Fireflux Squad (C20) 51
+1 Flamescroll Celebrant / Revel in Silence (STX) 150
+8 Forest (M20) 279
+1 Fyndhorn Elves (CMR) 228
+1 Fynn, the Fangbearer (KHM) 316
+1 Goblin Anarchomancer (MH2) 200
+1 Graypelt Refuge (C19) 249
+1 Gruul Turf (C16) 300
+1 Guardian Augmenter (C21) 389
+1 Humble Naturalist (IKO) 160
+1 Hyrax Tower Scout (THB) 173
+1 Imposing Sovereign (M14) 22
+1 Jungle Shrine (C16) 304
+1 Kazandu Refuge (C13) 301
+1 Kinjalli's Sunwing (XLN) 19
+1 Krosan Verge (C18) 263
+1 Lightning-Rig Crew (XLN) 150
+1 Llanowar Tribe (KHC) 66
+1 Michiko Konda, Truth Seeker (SOK) 19
+1 Mirror Entity (CLB) 701
+4 Mountain (EVG) 61
+1 Murasa Rootgrazer (ZNR) 229
+1 Myriad Landscape (ZNC) 135
+1 Naya Panorama (ZNC) 136
+1 Nikya of the Old Ways (RNA) 193
+1 Orchard Strider (MH2) 169
+1 Pilgrim's Eye (EMA) 229
+7 Plains (SOM) 233
+1 Qasali Pridemage (C17) 189
+1 Reclamation Sage (M19) 196
+1 Roc Egg (M12) 32
+1 Rogue's Passage (UMA) 250
+1 Rugged Highlands (M20) 250
+1 Ruric Thar, the Unbowed (DGM) 99
+1 Sakura-Tribe Elder (C15) 200
+1 Scuttlemutt (M20) 238
+1 Seedborn Muse (10E) 296
+1 Selesnya Eulogist (C19) 35
+1 Selesnya Sanctuary (C13) 322
+1 Spectator Seating (CMR) 356
+1 Spelltithe Enforcer (GPT) 18
+1 Sun Titan (C21) 106
+1 Sundown Pass (VOW) 266
+1 Sungrass Prairie (C19) 277
+1 Tahngarth, First Mate (C19) 50
+1 Temple of the False God (MB1) 1691
+1 Terastodon (C15) 204
+1 Terramorphic Expanse (10E) 360
+1 Thalia, Guardian of Thraben (VOW) 38
+1 Tomik, Distinguished Advokist (WAR) 34
+1 Village Bell-Ringer (MB1) 266
+1 Vryn Wingmare (M21) 43
+1 Wandering Archaic / Explore the Vastlands (STX) 6
+1 Windborn Muse (C16) 80
+1 Yasharn, Implacable Earth (PZNR) 240p
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zhur-Taa Druid (GK2) 101
+Full art Guardian Augmenter from binder 
+
+	Out 
+Aven Mindcensor 
+Eidolon of Obsctruction 
+Elesh Norn, Grand Cenobite 
+Fynn, the Fangbearer
+Imposing Sovereign 
+Kinjalli's Sunwing 
+Lightning-Rig Crew 
+Spelltithe Enforcer 

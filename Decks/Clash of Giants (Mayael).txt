@@ -1,0 +1,113 @@
+    Mayael 
+1 Adder-Staff Boggart (LRW) 148
+1 Arcane Signet (CMR) 297
+1 Archetype of Endurance (BNG) 116
+1 Battlemage's Bracers (C21) 48
+1 Bloom Tender (2X2) 366
+1 Bonders' Enclave (PIKO) 245p
+1 Borderland Behemoth (MOR) 87
+1 Boros Garrison (CMR) 477
+1 Bountiful Promenade (BBD) 81
+1 Branchloft Pathway / Boulderloft Pathway (ZNR) 284
+1 Calamity Bearer (PKHM) 125p
+1 Castle Garenbrig (ELD) 240
+1 Chancellor of the Forge (NPH) 81
+1 Command Tower (KHC) 108
+1 Congregation at Dawn (RAV) 198
+1 Cragcrown Pathway / Timbercrown Pathway (ZNR) 261
+1 Cream of the Crop (MOR) 117
+1 Doomskar Titan (KHM) 130
+1 Druid of the Anima (ALA) 128
+1 Drumhunter (ALA) 129
+1 Dryad of the Ilysian Grove (CMM) 891
+1 Earthshaker Giant (GN2) 5 *F*
+1 Elvish Piper (10E) 262
+1 Entangling Trap (LRW) 13
+1 Exotic Orchard (WOC) 159
+1 Fire Juggler (MOR) 90
+1 Fistful of Force (LRW) 212
+4 Forest (M19) 280
+1 Giant Harbinger (LRW) 169
+1 Gilt-Leaf Ambush (LRW) 214
+1 Grasping Giant (THB) 288
+1 Gruul Turf (PC2) 119
+1 Gwenna, Eyes of Gaea (BRO) 347
+1 Hamletback Goliath (LRW) 173
+1 Homeward Path (C16) 301
+1 Illusionist's Bracers (GTC) 231
+1 Jetmir's Garden (PSNC) 250p
+1 Jungle Shrine (MB1) 1677
+1 Karametra, God of Harvests (C20) 218
+1 Knotvine Mystic (CON) 114
+1 Lantern of Insight (5DN) 135
+1 Lash Out (LRW) 183
+1 Lurking Predators (M10) 190
+1 Mayael's Aria (2X2) 253
+1 Mina and Denn, Wildborn (SLD) 1270 *F*
+1 Mirari's Wake (MH2) 291
+1 Mosswort Bridge (C18) 267
+4 Mountain (DDT) 62
+1 Nath's Elite (LRW) 231
+1 Needleverge Pathway / Pillarverge Pathway (ZNR) 263
+1 Nylea's Colossus (C18) 33
+1 Nyxbloom Ancient (SLD) 1275 *F*
+1 Oaken Brawler (LRW) 33
+1 Oathsworn Giant (RAV) 27
+1 Obelisk of Naya (ALA) 216
+1 Oracle of Mul Daya (2X2) 154
+4 Plains (DMU) 262
+1 Pollen Lullaby (CMD) 26
+1 Quakebringer (PKHM) 145p
+1 Realm-Cloaked Giant / Cast Off (WOC) 71
+1 Rebellion of the Flamekin (LRW) 188
+1 Recross the Paths (MOR) 133
+1 Redeem the Lost (MOR) 21
+1 Release the Ants (MOR) 98
+1 Reliquary Tower (C16) 316
+1 Rings of Brighthearth (CMR) 335
+1 Rogue's Passage (C17) 272
+1 Runadi, Behemoth Caller (J22) 44
+1 Scroll Rack (TMP) 308
+1 Seedborn Muse (10E) 296
+1 Selesnya Sanctuary (C19) 272
+1 Sentry Oak (LRW) 38
+1 Spectator Seating (CMM) 427
+1 Spinerock Knoll (C16) 327
+1 Spire Garden (CLB) 361
+1 Spring Cleaning (LRW) 236
+1 Springjack Knight (LRW) 41
+1 Sun Titan (WOC) 77
+1 Sunrise Sovereign (LRW) 192
+1 Surtland Flinger (KHM) 377
+1 Swathcutter Giant (GRN) 202
+1 Swiftfoot Boots (CLB) 339
+1 Sylvan Echoes (LRW) 237
+1 Temple of Plenty (THB) 248
+1 Temple of the False God (SCG) 143
+1 Temple of Triumph (M21) 256
+1 The Great Henge (ELD) 161
+1 Titan's Revenge (MOR) 110
+1 Towering Titan (JMP) 31
+1 Warchief Giant (CM2) 127
+1 Where Ancients Tread (C13) 130
+1 Woodland Guidance (LRW) 243
+1 Worldly Tutor (CC1) 6
+    In 
+1 Arbor Colossus (C15) 174
+1 Bearer of the Heavens (JOU) 89
+1 Doors of Durin (LTR) 199
+1 Furnace Host Charger (MOM) 140
+1 Greater Good (9ED) 245
+1 Howling Giant (M20) 177
+1 Last March of the Ents (LTR) 172
+1 Patron of the Orochi (BOK) 138
+1 Sarinth Greatwurm (BRO) 220
+1 Unnatural Growth (WOT) 62
+    Out 
+Sun Titan 
+Oathsworn Giant 
+Surtland Flinger 
+Towering Titan 
+Giant Harbinger 
+Oracle of Mul Daya 
+Calamity Bearer 

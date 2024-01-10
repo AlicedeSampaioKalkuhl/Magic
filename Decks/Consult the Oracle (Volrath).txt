@@ -1,0 +1,33 @@
+    Volrath, the Shapestealer 
+1 Deeproot Pilgrimage (LCI) 52
+1 Demonic Consultation (ICE) 121
+1 Emperor Mihail II (DMC) 23
+1 Kopala, Warden of Waves (LCC) 160
+1 Svyelun of Sea and Sky (MH2) 310
+1 Sygg, River Cutthroat (ZNC) 103
+1 Thada Adel, Acquisitor (WWK) 40
+1 Thassa's Oracle (THB) 73
+    In 
+1 Deepfathom Echo (LCI) 228
+1 Deeproot Elite (LCC) 237
+1 Deeproot Historian (LCC) 91
+1 Forerunner of the Heralds (RIX) 129
+1 Hadana's Climb / Winged Temple of Orazca (RIX) 158
+1 Hakbal of the Surging Soul (LCC) 3 *F*
+1 Jadelight Spelunker (LCI) 403
+1 Kiora, Master of the Depths (BFZ) 213
+1 Kiora's Follower (MB1) 1443
+1 Kumena, Tyrant of Orazca (LCC) 274
+1 Merfolk Mistbinder (LCC) 276
+1 Merfolk Skydiver (WAR) 205
+1 Nicanzil, Current Conductor (LCI) 236
+1 Prime Speaker Zegana (RVR) 211
+1 Sentinel of the Nameless City (LCI) 211
+1 Simic Ascendancy (LCC) 288
+1 Tatyova, Benthic Druid (LCC) 290
+1 Tishana, Voice of Thunder (LCC) 291
+1 Topography Tracker (LCC) 95
+1 Tributary Instructor (LCC) 96
+1 Twists and Turns / Mycoid Maze (LCI) 217
+1 Zegana, Utopian Speaker (LCC) 298
+    Out 

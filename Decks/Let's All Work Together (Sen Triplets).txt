@@ -1,0 +1,103 @@
+Sen Triplets 
+1 Alms Collector (SLD) 1227 *F*
+1 Arcane Signet (VOC) 159
+1 Azorius Signet (VOC) 161
+1 Braids, Conjurer Adept (PLC) 36
+1 Breena, the Demagogue (C21) 1 *F*
+1 Bring Down (BBD) 26
+1 Chromatic Lantern (40K) 232
+1 Combat Calligrapher (C21) 14
+1 Command Tower (KHC) 108
+1 Coveted Jewel (C18) 54
+1 Curse of the Swine (C21) 118
+1 Dictate of Kruphix (JOU) 37
+1 Diplomatic Immunity (MMQ) 75
+1 Dissipation Field (CLB) 718
+1 Divine Gambit (STA) 4
+1 Dream Fracture (CLB) 66
+1 Eon Frolicker (C20) 33
+1 Evolving Wilds (DMC) 208
+1 Excavation Technique (C21) 16
+1 Exotic Orchard (VOC) 173
+1 Extraction Specialist (SNC) 12 *F*
+1 Fractured Identity (WHO) 236
+1 Gang Up (BBD) 47
+1 Ghirapur Orrery (KLD) 216
+1 Ghostly Prison (VOC) 87
+1 Huddle Up (BBD) 36
+1 Hunted Horror (CLB) 758
+1 Hunted Lammasu (RAV) 22
+1 Infernal Offering (C21) 146
+1 Inkshield (C21) 71
+8 Island (KHM) 395
+1 Jace, Architect of Thought (C20) 114
+1 Jailbreak (NCC) 17
+1 Keen Duelist (C21) 42
+1 Knight of the White Orchid (C21) 95
+1 Kor Chant (CNS) 73
+1 Kwain, Itinerant Meddler (CMR) 604 *E*
+1 Master of Ceremonies (PNCC) 18p *F*
+1 Mikokoro, Center of the Sea (C21) 302
+1 Mind Stone (AFC) 211
+1 Myriad Landscape (VOC) 176
+1 Nils, Discipline Enforcer (C21) 20
+1 Noble Benefactor (WTH) 44
+1 Oblation (C21) 97
+1 Opal Palace (C21) 306
+1 Orzhov Advokist (CMR) 35
+1 Orzhov Signet (C21) 254
+1 Out of Bounds (BBD) 38
+1 Path of Ancestry (VOC) 177
+1 Pendant of Prosperity (C21) 256
+9 Plains (KHM) 394
+1 Planar Incision (NEO) 72 *F*
+1 Portal Mage (C20) 122
+1 Promise of Loyalty (C21) 21
+1 Propaganda (MB1) 462
+1 Reins of Power (CLB) 734
+1 Scholarship Sponsor (C21) 22
+1 Secret Rendezvous (STX) 26
+1 Skyclave Apparition (PZNR) 39p
+1 Sol Ring (C21) 263
+1 Spectral Searchlight (CMR) 342 *F*
+1 Study Hall (C21) 80
+1 Sudden Salvation (VOC) 48
+1 Suture Priest (NPH) 25
+8 Swamp (ONE) 264
+1 Swiftfoot Boots (NEC) 163
+1 Temple of the False God (VOC) 187
+1 Tempt with Glory (CMA) 26
+1 The Golden Throne (40K) 157
+1 Tidal Barracuda (C20) 39
+1 Victory Chimes (C21) 274
+1 Vislor Turlough (WHO) 74
+1 Wernog, Rider's Chaplain (SLX) 8
+1 Witch Engine (PLIST) 914
+1 Words of Wisdom (ODY) 114
+1 Wrong Turn (CMR) 107
+1 Zndrsplt's Judgment (BBD) 43
+
+	In 
+1 Aku Djinn (VIS) 51
+1 Benevolent Offering (VOC) 78
+1 Exhume (BRB) 24
+1 Homeward Path (C13) 295
+1 Lightning Greaves (AFC) 331
+1 Maralen of the Mornsong (MOR) 65
+1 Master of Ceremonies (PNCC) 18p
+1 Maze of Ith (2XM) 322
+1 Misleading Signpost (WOC) 11
+1 Morphic Pool (CLB) 357
+1 Norn's Annex (NPH) 17
+1 Paradox Haze (TSP) 71
+1 Plague of Vermin (SHM) 73
+1 Regna's Sanction (BBD) 30
+1 Sea of Clouds (BBD) 84
+1 Show and Tell (CN2) 121
+1 Swans of Bryn Argoll (SHM) 151
+1 Tempt with Reflections (C13) 60
+1 Teyo, Geometric Tactician (CMM) 725
+1 Vault of Champions (CMR) 360
+1 Virtus's Maneuver (BBD) 54
+
+	Out 

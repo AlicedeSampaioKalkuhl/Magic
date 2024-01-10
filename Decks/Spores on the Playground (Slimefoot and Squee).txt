@@ -1,0 +1,100 @@
+    Slimefoot and Squee 
+1 Slimefoot, the Stowaway (SLD) 1138
+
+    In 
+1 Artifact Mutation (C20) 203
+1 Ashnod's Altar (6ED) 274
+1 Blightreaper Thallid / Blightsower Thallid (MOM) 92
+1 Cabal Coffers (HOP) 132
+1 Carnivorous Canopy (ONE) 162
+1 Command Tower (C20) 264
+1 Courage in Crisis (WAR) 158
+1 Cryptolith Rite (SOI) 200
+1 Culling Ritual (ONC) 117
+1 Deadly Dispute (AFR) 94
+1 Deathbloom Thallid (M21) 94
+1 Deathcap Glade (DBL) 528
+1 Deathspore Thallid (TSR) 109
+1 Dictate of Erebos (JOU) 65
+1 Doubling Season (RAV) 158
+1 Dragonskull Summit (M11) 223
+1 Dreampod Druid (PCA) 64
+1 Drown in Ichor (ONE) 91
+1 Elvish Farmer (FEM) 66
+1 Exotic Orchard (C16) 295
+1 Fecundity (8ED) 247
+1 Flash Foliage (DIS) 85
+1 Fungal Bloom (FEM) 70
+1 Fungal Infection (MB1) 665
+1 Fungal Plots (DOM) 160
+1 Fungal Rebirth (M21) 182
+1 Fungal Sprouting (M13) 173
+1 Goblin Bombardment (DDN) 24
+1 Golgari Germination (RAV) 209
+1 Grim Affliction (NPH) 63
+1 Grim Backwoods (DKA) 156
+1 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun (LCI) 188
+1 Haunted Ridge (PMID) 263p
+1 High Market (MMQ) 320
+1 Impact Tremors (MOC) 285
+1 Jund Battlemage (ALA) 106
+1 Karn's Bastion (PWAR) 248p
+1 Life and Limb (PLC) 133
+1 Luxury Suite (CLB) 355
+1 Mana Echoes (ONS) 218
+1 Mycoloth (C16) 158
+1 Nemata, Grove Guardian (PLS) 85
+1 Nemata, Primeval Warden (PDMU) 209p
+1 Nim Deathmantle (2X2) 309
+1 Parallel Lives (ISD) 199
+1 Phyrexian Altar (2X2) 311
+1 Phyrexian Tower (UMA) 248
+1 Primal Growth (C15) 198
+1 Psychotrope Thallid (PLC) 137
+1 Reliquary Tower (CON) 143
+1 Rootbound Crag (M11) 227
+1 Saproling Cluster (NEM) 114
+1 Savage Lands (C17) 275
+1 Savage Thallid (TSP) 213
+1 Scatter the Seeds (MM2) 159
+1 Skullclamp (DST) 140
+1 Spire Garden (CLB) 361
+1 Spore Swarm (DOM) 180
+1 Sporecrown Thallid (DOM) 181
+1 Sporemound (JMP) 433
+1 Sporesower Thallid (TSR) 231
+1 Sporeweb Weaver (M21) 208
+1 Sporoloth Ancient (MMA) 163
+1 Spread the Sickness (MM2) 98
+1 Sprout (TSP) 221
+1 Sprout Swarm (FUT) 138
+1 Sprouting Thrinax (ALA) 197
+1 Squee, Goblin Nabob (SLC) 1999
+1 Squirming Emergence (LCI) 241
+1 Sword of Truth and Justice (MH1) 229
+1 Tana, the Bloodsower (PZ2) 55
+1 Tendershoot Dryad (PRIX) 147p
+1 Thallid (FEM) 74a
+1 Thallid Germinator (MMA) 168
+1 Thallid Omnivore (DOM) 106
+1 Thallid Shell-Dweller (TSP) 226
+1 The Mycotyrant (LCI) 305
+1 Thelonite Hermit (C16) 171
+1 Tukatongue Thallid (CON) 96
+1 Ulasht, the Hate Seed (2X2) 289
+1 Undercellar Myconid (CLB) 259
+1 Undergrowth Stadium (CMR) 359
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Utopia Mycon (TSR) 244
+1 Verdant Force (CMA) 161
+1 Village Rites (KHM) 117
+1 Vitaspore Thallid (PLC) 143
+1 Volt Charge (ONE) 155
+1 Whisper of the Dross (ONE) 117
+1 Woodland Cemetery (DOM) 248
+1 Yavimaya Sapherd (DOM) 189
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Yawgmoth, Thran Physician (DMR) 431
+1 Ziatora's Proving Ground (PSNC) 261p
+
+    Out 

@@ -1,0 +1,125 @@
+    Elenda and Azor 
+1 Arcane Signet (CMR) 297
+1 Arterial Flow (RIX) 62
+1 Astarion, the Decadent (CLB) 524 *E*
+1 Bident of Thassa (THS) 42
+1 Bishop of the Bloodstained (XLN) 91
+1 Blood Artist (2X2) 70
+1 Bold Plagiarist (C21) 37
+1 Boon Reflection (2XM) 10
+1 Champion of Dusk (RIX) 64
+1 Command Tower (BRC) 178
+1 Cordial Vampire (VOC) 125
+1 Crossway Troublemakers (VOC) 17
+1 Drana, Liberator of Malakir (NCC) 248
+1 Edgar, Charmed Groom / Edgar Markov's Coffin (VOW) 341 *F*
+1 Epicure of Blood (M19) 95
+1 Eternal Thirst (M15) 95
+1 Falkenrath Noble (MM3) 70
+1 Indulging Patrician (M21) 219
+1 Knight of the Ebon Legion (M20) 105
+1 Legion Lieutenant (RIX) 163
+1 Legion Vanguard (MH2) 90
+1 Legion's Landing / Adanto, the First Fort (XLN) 22
+1 Marauding Blight-Priest (ZNR) 112
+1 Marshland Bloodcaster (C21) 43
+1 Necropolis Regent (VOC) 132
+1 Olivia's Wrath (VOC) 20
+1 Orzhov Signet (BRC) 154
+1 Path of Ancestry (VOC) 177
+1 Patron of the Vein (C17) 20
+1 Phyrexian Tower (USG) 322
+1 Queza, Augur of Agonies (SNC) 391 *F*
+1 Reconnaissance Mission (40K) 193
+1 Reliquary Tower (M13) 227
+1 Sanctum Seeker (XLN) 120
+1 Sangromancer (C16) 116
+1 Sanguine Bond (C21) 153
+1 Sanguine Spy (SNC) 93
+1 Search the Premises (MH2) 29
+1 Skullclamp (SLD) 1112
+1 Sol Ring (BRC) 160
+1 Sorin, Vengeful Bloodlord (WAR) 217
+1 Talisman of Dominance (SLD) 1053
+1 Talisman of Progress (40K) 258
+1 Teferi's Puzzle Box (VIS) 156
+1 Unclaimed Territory (XLN) 258
+1 Urge to Feed (DDK) 22
+1 Vampire Scrivener (SNC) 98
+1 Vermin Gorger (MH2) 107
+1 Verrak, Warped Sengir (DMC) 16
+1 Vindictive Vampire (RNA) 90
+1 Welcoming Vampire (VOW) 287 *F*
+    In 
+1 Alhammarret's Archive (MB1) 1543
+1 Astarion's Thirst (CLB) 114
+1 Azor, the Lawbringer (RIX) 154
+1 Azorius Signet (MM3) 215
+1 Bartolomé del Presidio (LCI) 224
+1 Blade of the Bloodchief (ZEN) 196
+1 Bloodcrazed Paladin (XLN) 93
+1 Bloodletter of Aclazotz (LCI) 92
+1 Bloodthirsty Aerialist (J22) 381
+1 Cabal Coffers (MH2) 301
+1 Carmen, Cruel Skymarcher (LCC) 26
+1 Cleric Class (AFR) 6
+1 Clever Concealment (ONC) 5
+1 Cliffhaven Vampire (OGW) 153
+1 Cruel Celebrant (PLIST) 629
+1 Curiosity (JMP) 147
+1 Decanter of Endless Water (CLB) 309
+1 Deserted Beach (PMID) 260p
+1 Dimir Signet (MM3) 219
+1 Dismal Backwater (IKO) 246
+1 Dovin's Veto (WAR) 193
+1 Drana and Linvala (MOM) 305
+1 Drana's Emissary (BFZ) 210
+1 Dusk Legion Duelist (MOM) 11
+1 Elenda, the Dusk Rose (PRIX) 157s *F*
+1 Elenda's Hierophant (LCC) 39
+1 Elixir of Immortality (DDF) 62
+1 Etrata, the Silencer (GRN) 170
+1 Exotic Orchard (DMC) 209
+1 Felisa, Fang of Silverquill (CLB) 845
+1 Forerunner of the Legion (RIX) 9
+1 Hierophant's Chalice (XLN) 240
+1 Jwar Isle Refuge (C17) 258
+1 Kabira Crossroads (DDF) 33
+1 Mavren Fein, Dusk Apostle (XLN) 24
+1 Morphic Pool (CLB) 357
+1 Mystic Reflection (PKHM) 69p
+1 Obelisk of Esper (ARC) 113
+1 Obscura Storefront (SNC) 252
+1 Paladin of Atonement (RIX) 16
+1 Preacher of the Schism (LCI) 113
+1 Pristine Talisman (BRR) 43
+1 Radiant Fountain (IMA) 244
+1 Reconnaissance Mission (VOC) 111
+1 Sanguine Evangelist (LCI) 34
+1 Scoured Barrens (FRF) 171
+1 Sea of Clouds (CLB) 360
+1 Sejiri Refuge (C13) 320
+1 Shattered Sanctum (VOW) 283
+1 Shipwreck Marsh (PMID) 267p
+1 Staggering Insight (SCD) 246
+1 Talisman of Hierarchy (CLB) 878
+1 Teferi, Temporal Pilgrim (BRO) 66
+1 Temple of Deceit (MIC) 184
+1 Temple of Enlightenment (SCD) 325
+1 Temple of Silence (C21) 325
+1 Temple of the False God (ONC) 172
+1 Tenured Inkcaster (STX) 88
+1 The One Ring (LTR) 246
+1 Thought Vessel (MB1) 1639
+1 Tithe Drinker (MB1) 1498
+1 Tranquil Cove (FRF) 174
+1 Twilight Prophet (PLIST) 604
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Vault of Champions (CMR) 360
+1 Vault of the Archangel (CLB) 927
+1 Viscera Seer (CMR) 158
+1 Vito, Thorn of the Dusk Rose (PM21) 127p
+1 Void Rend (SNC) 338
+1 Vona, Butcher of Magan (XLN) 231
+1 Wizard Class (AFR) 81
+    Out 

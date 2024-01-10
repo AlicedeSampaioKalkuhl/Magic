@@ -1,0 +1,118 @@
+
+Ahelo, the Painter 
+1 A Little Chat (SNC) 47 *F*
+1 Alchemist's Greeting (C19) 133
+1 An Offer You Can't Refuse (SNC) 51
+1 Anje Falkenrath (C19) 37 *F*
+1 Anje's Ravager (VOC) 141
+1 Arcane Signet (KHC) 96
+1 Archfiend of Spite (C19) 14
+1 Asylum Visitor (C19) 103
+1 Avacyn's Judgment (VOC) 142
+1 Beacon of Unrest (C16) 107
+1 Blood Artist (C17) 99
+1 Blood Petal Celebrant (VOW) 146 *F*
+1 Bloodhall Priest (C19) 188
+1 Bloodtithe Harvester (VOW) 310 *F*
+1 Bone Miser (PLIST) 421
+1 Boneyard Parley (C19) 107
+1 Butcher of Malakir (CLB) 741
+1 Call to the Netherworld (TSP) 97
+1 Chaos Warp (STA) 36
+1 Circular Logic (DMR) 42 *F*
+1 Command Tower (SCD) 297
+1 Cormela, Glamour Thief (SNC) 301
+1 Corpse Appraiser (SNC) 178
+1 Curse of Fool's Wisdom (C19) 16
+1 Dark Withering (MB1) 612
+1 Demonic Gifts (KHM) 84
+1 Dimir Aqueduct (IMA) 234
+1 Dimir Signet (RAV) 260
+1 Dismal Backwater (IKO) 246
+1 Evelyn, the Covetous (SNC) 184
+1 Evolving Wilds (J22) 813
+1 Expressive Iteration (STX) 186 *F*
+1 Fake Your Own Death (SNC) 79
+1 Falkenrath Celebrants (VOW) 306 *F*
+1 Falkenrath Gorger (VOC) 146
+1 Fiery Temper (UMA) 129
+1 From Under the Floorboards (SOI) 111
+1 Gift of Fangs (VOW) 113
+1 Glamorous Outlaw (SNC) 374 *F*
+1 Gluttonous Guest (VOW) 114 *F*
+1 Grave Scrabbler (UMA) 100
+1 Hedron Archive (40K) 240
+1 Illicit Shipment (SNC) 83
+8 Island (VOW) 270
+1 Izzet Boilerworks (GPT) 159
+1 Maestros Ascendancy (SNC) 381 *F*
+1 Maestros Diabolist (SNC) 383 *F*
+1 Maestros Theater (SNC) 251
+1 Malevolent Whispers (UMA) 139
+1 Mask of the Schemer (NCC) 28
+1 Maskwood Nexus (CLB) 865
+8 Mountain (VOW) 274
+1 Murderous Compulsion (SOI) 126
+1 Nahiri's Wrath (EMN) 137
+1 Necropolis Regent (VOC) 132
+1 Nightshade Assassin (C19) 123
+1 Olivia, Mobilized for War (SLD) 492
+1 Olivia's Attendants (VOW) 172
+1 Ponder (SLC) 2007 *F*
+1 Preordain (C15) 101
+1 Rakdos Carnarium (IMA) 245
+1 Rakdos Signet (DIS) 165
+1 Rix Maadi, Dungeon Palace (C19) 269
+1 Runo Stromkirk / Krothuss, Lord of the Deep (VOW) 327
+1 Skirge Familiar (MH2) 276
+1 Stromkirk Captain (VOC) 157
+1 Stromkirk Condemned (EMN) 106
+1 Stromkirk Mentor (SOI) 137
+1 Stromkirk Noble (ISD) 164
+1 Stromkirk Occultist (VOC) 151
+1 Stromkirk Patrol (CN2) 149
+8 Swamp (MID) 272
+1 Swiftwater Cliffs (M21) 251
+1 Vampiric Tutor (PLIST) 606
+1 Voldaren Epicure (VOW) 308
+1 Warstorm Surge (CLB) 815
+1 Wayfarer's Bauble (NCC) 384
+1 Witness Protection (SNC) 66
+    in 
+1 Archmage of Echoes (WOC) 9
+1 Blade of the Bloodchief (C17) 204
+1 Bojuka Bog (CMD) 267
+1 Cascade Bluffs (NCC) 390
+1 Coral Atoll (CMR) 480
+1 Cordial Vampire (VOC) 125
+1 Dormant Volcano (CM2) 246
+1 Dragonskull Summit (M12) 225
+1 Drowned Catacomb (M12) 226
+1 Drownyard Temple (CLB) 892
+1 Emergence Zone (WAR) 245
+1 Everglades (VIS) 162
+1 Exotic Orchard (MIC) 173
+1 Geier Reach Sanitarium (DMC) 213
+1 Glass-Cast Heart (VOC) 18
+1 Graven Cairns (IMA) 237
+1 Haunted Ridge (PMID) 263p
+1 Markov Baron (MAT) 64
+1 Markov Enforcer (VOC) 26
+1 Memorial to Folly (DOM) 242
+1 Mephidross Vampire (5DN) 53
+1 Mortuary Mire (BFZ) 240
+1 Olivia, Crimson Bride (PVOW) 245p
+1 Patron of the Vein (VOC) 135
+1 Reflections of Littjara (CLB) 733
+1 Sanctum of Eternity (C19) 59
+1 Shipwreck Marsh (MID) 285
+1 Stensia Masquerade (VOC) 150
+1 Stormcarved Coast (VOW) 265
+1 Sulfur Falls (ISD) 248
+1 Sunken Ruins (SHM) 280
+1 Xander's Lounge (SNC) 260
+    out 
+Brainstorm 
+Ponder
+Ad Nauseam
+Lim Dul's Vault 

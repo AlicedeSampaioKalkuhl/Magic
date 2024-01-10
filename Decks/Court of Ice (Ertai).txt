@@ -1,0 +1,110 @@
+    Ertai, the Corrupted 
+1 Ajani's Chosen (C18) 61
+1 Alela, Artful Provocateur (SLD) 1197 *F*
+1 Arcane Sanctum (NCC) 385
+1 Archon of Sun's Grace (WOC) 61
+1 Astral Dragon (CLB) 664
+1 Aura Thief (PLIST) 753
+1 Baleful Eidolon (THS) 78
+1 Baral, Chief of Compliance (SLD) 1164
+1 Bastion of Remembrance (CMM) 138
+1 Besotted Knight / Betroth the Beast (WOE) 4
+1 Bitterblossom (WOT) 27
+1 Blind Obedience (SLD) 1030
+1 Bojuka Bog (C21) 281
+1 Cabal Coffers (MH2) 301
+1 Cavern Lampad (THS) 81
+1 Celestial Archon (C18) 64
+1 Command Tower (ZNC) 124
+1 Conceited Witch / Price of Beauty (WOE) 84
+1 Cursed Courtier (WOE) 9
+1 Dark Tutelage (WOT) 28
+1 Daxos, Blessed by the Sun (PLIST) 304
+1 Deserted Beach (WHO) 270
+1 Dictate of Erebos (MB1) 625
+1 Dovescape (GK2) 11
+1 Dovin, Hand of Control (WAR) 229
+1 Dream Spoilers (WOE) 85
+1 Drowned Catacomb (WHO) 274
+1 Drumbellower (NEC) 6
+1 Eidolon of Countless Battles (WOC) 66
+1 Erebos's Emissary (THS) 86
+1 Esper Panorama (ALA) 223
+1 Exotic Orchard (MOC) 398
+1 Flitterstep Eidolon (BNG) 40
+1 Freed from the Real (A25) 58
+1 Ghostblade Eidolon (C15) 70
+1 Ghostly Prison (C16) 66
+1 Glacial Fortress (WHO) 285
+1 Glen Elendra Liege (2X2) 217
+1 Hall of Heliod's Generosity (WOC) 162
+1 Hateful Eidolon (THB) 101
+1 Heliod's Emissary (THS) 18
+1 Hidden Stockpile (2XM) 201
+1 Hopeful Eidolon (THS) 19
+1 Hypnotic Siren (JOU) 42
+1 Hypnotic Sprite / Mesmeric Glare (ELD) 49 *F*
+1 Inspired Sprite (MOR) 37
+1 Intruder Alarm (SLD) 229 *F*
+3 Island (BRO) 281
+1 Isolated Chapel (DMR) 249
+1 Leyline of Anticipation (CLB) 726
+1 Magewright's Stone (DIS) 162
+1 Minamo, School at Water's Edge (CHK) 279
+1 Mind's Dilation (SLD) 1180
+1 Morphic Pool (CLB) 357
+1 Narset, Parter of Veils (SLD) 1141
+1 Nighthowler (MB1) 722
+1 Nimbus Naiad (THS) 56
+1 Notorious Throng (ZNC) 33
+1 Nyxborn Eidolon (BNG) 78
+1 Nyxborn Shieldmate (BNG) 21
+1 Obelisk of Esper (C13) 250
+1 Obscura Storefront (SNC) 252
+1 Observant Alseid (THS) 24
+1 Obyra, Dreaming Duelist (WOE) 210
+1 Oona, Queen of the Fae (MMA) 193
+1 Patriar's Seal (CLB) 332
+1 Phyrexian Tower (UMA) 248
+3 Plains (BRO) 278
+1 Propaganda (C13) 53
+1 Puppeteer Clique (NCC) 257
+1 Queen of Ice / Rage of Winter (ELD) 285 *F*
+1 Raffine's Tower (PSNC) 254p
+1 Reliquary Tower (CM2) 262
+1 Riptide Laboratory (MH2) 303
+1 Sea of Clouds (BBD) 84
+1 Serra's Sanctum (USG) 325
+1 Shattered Sanctum (DBL) 531
+1 Shipwreck Marsh (WHO) 305
+1 Space Beleren (UNF) 178
+1 Spell Stutter (WOE) 69
+1 Spiteful Returned (BNG) 84
+3 Swamp (BRO) 282 *F*
+1 Tegwyll, Duke of Splendor (WOC) 39 *F*
+1 Thassa's Emissary (THS) 68
+1 Thousand-Year Elixir (LRW) 263
+1 Threadbind Clique / Rip the Seams (WOE) 239
+1 Twining Twins / Swift Spiral (WOE) 240
+1 Urborg, Tomb of Yawgmoth (PLIST) 452
+1 Vantress Transmuter / Croaking Curse (WOE) 75
+1 Westvale Abbey / Ormendahl, Profane Prince (SOI) 281
+1 Wicked Visitor (WOE) 118
+1 Zur the Enchanter (SLD) 726 *F*
+1 Zur, Eternal Schemer (PDMU) 228p
+
+    In 
+1 Alela, Cunning Conqueror (WOC) 3
+1 Asinine Antics (WOE) 42
+1 Eriette of the Charmed Apple (WOE) 202
+1 Faerie Slumber Party (WOE) 371
+1 Get Lost (LCI) 14
+1 Lord Skitter's Blessing (WOE) 98
+1 Neva, Stalked by Nightmares (WOE) 209
+1 Spellbook Vendor (WOE) 31
+1 Spiteful Hexmage (WOE) 108
+1 Stab Wound (MB1) 780
+1 Tegwyll's Scouring (WOC) 16
+
+    Out 
+    

@@ -1,0 +1,190 @@
+        The Omens of Death 
+Saruman, the White Hand *F*
+1 Arcane Denial (LTC) 184
+1 Arcane Signet (LTC) 273
+1 Arcane Subtraction (STX) 36
+1 Aspirant's Ascent (ONE) 40
+1 Barad-dûr (LTR) 253
+1 Basalt Monolith (LTC) 274
+1 Bill Potts (WHO) 76
+1 Blasphemous Act (LTC) 211
+1 Book of Mazarbul (LTR) 116
+1 Choked Estuary (LTC) 299
+1 Command Tower (LTC) 301
+1 Commander's Sphere (LTC) 276
+1 Consider (LTC) 187
+1 Corsairs of Umbar (LTC) 19
+1 Crumbling Necropolis (LTC) 302
+1 Decree of Pain (SLD) 187
+1 Demonic Gifts (KHM) 84
+1 Desolate Lighthouse (LTC) 303
+1 Dragonskull Summit (LTC) 304
+1 Drowned Catacomb (LTC) 305
+1 Dynacharge (RTR) 92
+1 Empty the Warrens (TSR) 162
+1 Everflowing Chalice (LTC) 278
+1 Evolving Wilds (LTC) 306
+1 Eyetwitch (STX) 70
+1 Fact or Fiction (LTC) 190
+1 Fae of Wishes / Granted (ELD) 282
+1 Feed the Swarm (LTC) 200
+1 Field of Ruin (LTC) 308
+1 First Day of Class (STX) 102
+1 Foray of Orcs (LTR) 417
+1 Foreboding Ruins (LTC) 310
+1 Frostboil Snarl (LTC) 312
+1 Goblin Dark-Dwellers (LTC) 219
+1 Gothmog, Morgul Lieutenant (LTR) 429
+1 Grishnákh, Brash Instigator (LTR) 134
+1 Guttersnipe (LTC) 220
+1 Hunt for Specimens (STX) 73
+1 Igneous Inspiration (STX) 107
+6 Island (LTR) 264
+1 March from the Black Gate (LTR) 94
+1 Mauhúr, Uruk-hai Captain (LTR) 214
+1 Maximize Velocity (GRN) 111
+1 Mind Stone (LTC) 282
+1 Mizzium Skin (RTR) 45
+1 Moria Scavenger (LTC) 63
+7 Mountain (LTR) 278
+1 Octavia, Living Thesis (C21) 356
+1 Orcish Medicine (LTR) 104
+1 Orcish Siegemaster (LTC) 33
+1 Path of Ancestry (LTC) 322
+1 Poet's Quill (STX) 82 *F*
+1 Pop Quiz (STX) 49
+1 Reanimate (LTC) 206
+1 Relic of Sauron (LTC) 79
+1 Reliquary Tower (CMM) 663 *F*
+1 Revenge of Ravens (LTC) 207
+1 Rogue's Passage (LTC) 326
+1 Rona, Sheoldred's Faithful (MUL) 123 *E*
+1 Saruman the White (LTR) 67 *F*
+1 Saruman's Trickery (LTR) 68
+1 Sauron, Lord of the Rings (LTC) 4 *F*
+1 Scourge of the Throne (SLD) 1033
+1 Siege-Gang Commander (LTC) 228
+1 Smoldering Marsh (LTC) 332
+1 Sol Ring (LTC) 284
+1 Subjugate the Hobbits (LTC) 24
+1 Sulfur Falls (LTC) 333
+1 Sulfurous Springs (LTC) 334
+1 Summons of Saruman (LTC) 70
+1 Sunken Hollow (LTC) 335
+1 Surrounded by Orcs (LTR) 73
+6 Swamp (LTR) 266
+1 Swarming of Moria (LTR) 150
+1 Tainted Strike (SOM) 80
+1 The Black Gate (LTC) 80
+1 The Mouth of Sauron (LTR) 216
+1 The Torment of Gollum (LTR) 110
+1 Treason of Isengard (LTR) 74 *F*
+1 Treasure Nabber (LTC) 230
+1 Underground River (LTC) 342
+1 Wish (AFR) 382 *F*
+1 Zada, Hedron Grinder (BFZ) 162
+
+    Lesson Board
+1 Environmental Sciences (STX) 1
+1 Expanded Anatomy (STX) 2
+1 Illuminate History (STX) 108
+1 Introduction to Annihilation (STX) 3
+1 Introduction to Prophecy (STX) 4
+1 Mascot Exhibition (STX) 5
+1 Mercurial Transformation (STX) 47
+1 Necrotic Fumes (STX) 78
+1 Start from Scratch (STX) 114
+1 Teachings of the Archaics (STX) 57
+
+    In
+1 Academic Dispute (STX) 91
+1 Angrath, Captain of Chaos (WAR) 227
+1 Aphotic Wisps (SHM) 55
+1 Assault on Osgiliath (LTR) 386
+1 Auntie's Hovel (LRW) 267
+1 Boggart Mob (LRW) 104
+1 Boggart Shenanigans (LRW) 155
+1 Bojuka Bog (C13) 278
+1 Brightstone Ritual (ONS) 191
+1 Butcher's Glee (MB1) 586
+1 Command Tower (C15) 281
+1 Dark Ritual (MIR) 116
+1 Distortion Strike (ROE) 60
+1 Dive Down (XLN) 53
+1 Divide by Zero (STX) 41
+1 Dragonskull Summit (PXLN) 252p
+1 Drowned Catacomb (M12) 226
+1 Essence Harvest (AVR) 100
+1 Essence Infusion (STX) 69
+1 Exotic Orchard (C17) 249
+1 Fall of Cair Andros (LTR) 124
+1 Fists of Flame (MH1) 123
+1 Goblin Assault (MM3) 95
+1 Goblin Wizardry (M21) 148
+1 Grasping Shadows / Shadows' Lair (LCI) 108
+1 Harmonic Prodigy (MH2) 132
+1 Haunted Ridge (MID) 282
+1 Heightened Reflexes (IKO) 123
+1 Invade the City (PLIST) 792
+1 Jace's Sanctum (PORI) 61p
+1 Lazotep Plating (WAR) 59
+1 Luxury Suite (CLB) 355
+1 Machine God's Effigy (BRC) 16
+1 Maestros Theater (SNC) 251
+1 Maximize Altitude (GRN) 43
+1 Morphic Pool (CLB) 357
+1 Mystic Sanctuary (ELD) 247
+1 Orcish Bowmasters (LTR) 103
+1 Ovika, Enigma Goliath (ONE) 213
+1 Pyromancer's Goggles (C21) 259
+1 Reliquary Tower (C14) 308
+1 Rush of Vitality (KLD) 99
+1 Sauron, the Dark Lord (LTR) 224
+1 Saw in Half (UNF) 88
+1 Seething Song (9ED) 216
+1 Shipwreck Marsh (PMID) 267p
+1 Soul's Fire (UMA) 148
+1 Stormcarved Coast (DBL) 532
+1 Sudden Breakthrough (STX) 116
+1 Sulfur Falls (DMR) 258
+1 Temple of Deceit (MOC) 431
+1 Temple of Epiphany (M20) 253
+1 Temple of Malice (PTHB) 247p
+1 Temple of the False God (C19) 280
+1 Temur Battle Rage (FRF) 116
+1 Thousand-Year Storm (2X2) 390
+1 Training Center (CMR) 358
+1 Unleash Fury (M21) 170
+1 Urborg, Tomb of Yawgmoth (UMA) 254
+1 Virulent Swipe (ROE) 131
+1 Xander's Lounge (PSNC) 260p
+
+    Out
+Moria Scavenger
+Treasure Nabber
+Stardrake 
+Siege-gang Commander
+Blasphemeous act 
+The Mouth of Sauron
+Reanimate 
+Surrounded By Orcs 
+Desolate Lighthouse 
+Drowned Catacomb 
+Evolving Wilds 
+Field of Ruin 
+Frostboil Snarl 
+Foreboding Ruin 
+Smoldering Marsh 
+Sulfurous Springs 
+Sunken Hollow 
+Underground River
+The Torment of Gollum 
+Consider
+Fact or Fiction
+Dynacharge 
+Everflowing Chalice 
+Revenge of Ravens 
+Basalt Monolith 
+Book of Mazarbul 
+Commander's Sphere 
+Arcane Denial 

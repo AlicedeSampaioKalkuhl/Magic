@@ -1,0 +1,94 @@
+    Alibou, Ancient Witness
+1 Alloy Myr (JMP) 457
+1 Ancient Den (MB1) 1652
+1 Arcane Signet (CLB) 298
+1 Ashnod's Altar (CMM) 368
+1 Axgard Armory (KHM) 250
+1 Battlefield Forge (C20) 257
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
+1 Blasting Station (5DN) 107
+1 Blightsteel Colossus (MBS) 99
+1 Boros Signet (RVR) 251
+1 Bronze Guardian (BRC) 70
+1 Buried Ruin (JMP) 491
+1 Clifftop Retreat (LTC) 300
+1 Clock of Omens (M13) 202
+1 Cloudstone Curio (RAV) 257
+1 Command Tower (NEC) 167
+1 Contagion Clasp (MB1) 1564
+1 Contagion Engine (SOM) 145
+1 Core Prowler (MBS) 103
+1 Cursed Mirror (WHO) 226
+1 Darksteel Citadel (2XM) 315
+1 Darksteel Ingot (CMM) 378
+1 Dune Mover (ONE) 226
+1 Ethersworn Canonist (MMA) 14
+1 Everflowing Chalice (DDF) 60
+1 Fabrication Foundry (LCI) 12
+1 Filigree Vector (MOC) 15
+1 Forge Anew (LTR) 17
+1 Foundry Inspector (CMM) 385
+1 Glimmervoid (MRD) 281
+1 Glistening Sphere (ONC) 20
+1 Glittering Stockpile (SNC) 107
+1 Gold Myr (SOM) 157
+1 Grafted Exoskeleton (ONC) 132
+1 Great Furnace (DDU) 67
+1 Hall of Tagsin (BRO) 263
+1 Halo Fountain (PSNC) 15p
+1 Halo Hopper (MOM) 260
+1 Helm of the Host (DOM) 217
+1 Ichorclaw Myr (SOM) 166
+1 Illustrious Wanderglyph (LCC) 9
+1 Inkmoth Nexus (MBS) 145
+1 Inspiring Statuary (CMM) 394
+1 Inventors' Fair (KLD) 247
+1 Iron Myr (MRD) 187
+1 Jhoira's Familiar (2XM) 265
+1 Koll, the Forgemaster (KHM) 325
+1 Lightning Greaves (CMA) 220
+1 Liquimetal Torque (MH2) 228
+1 Manifold Key (CLB) 319
+1 Memnite (SOM) 174
+1 Mishra's Foundry (BRO) 265
+4 Mountain (DMU) 273
+1 Mox Opal (SOM) 179
+1 Myr Convert (ONE) 297
+1 Myr Moonvessel (DST) 133
+1 Nahiri, Storm of Stone (WAR) 233
+1 Necropede (SOM) 185
+1 Ornithopter (6ED) 304
+1 Ornithopter of Paradise (MH2) 232
+1 Palladium Myr (CM2) 207
+1 Phyrexia's Core (C14) 306
+1 Phyrexian Altar (2X2) 311
+1 Phyrexian Digester (MBS) 120
+1 Plague Myr (ONC) 139
+4 Plains (M21) 262
+1 Power Depot (MH2) 251
+1 Puresteel Paladin (CMM) 51
+1 Replicating Ring (MOC) 372
+1 Rogue's Passage (LCC) 349
+1 Rugged Prairie (CMM) 1022
+1 Rustvale Bridge (MH2) 253
+1 Shuko (BOK) 159
+1 Skrelv, Defector Mite (ONE) 33
+1 Skullclamp (C15) 267
+1 Slagstone Refinery (BRO) 243
+1 Sol Ring (CM2) 217
+1 Spectator Seating (CMM) 427
+1 Spire of Industry (MOC) 426
+1 Springleaf Drum (BRR) 55
+1 Stone Haven Outfitter (OGW) 37
+1 Strionic Resonator (MOC) 384
+1 Sunbaked Canyon (WHO) 309
+1 Sundown Pass (WHO) 310
+1 Sword of the Animist (ORI) 240
+1 The Mycosynth Gardens (ONE) 256
+1 Thought Vessel (WHO) 255
+1 Throne of Geth (2XM) 301
+1 Throne of the God-Pharaoh (AKH) 237
+1 Treasure Vault (PAFR) 261p
+1 Unstable Glyphbridge / Sandswirl Wanderglyph (LCI) 41
+1 Wand of the Worldsoul (MOC) 20
+1 Will-Forged Golem (M15) 239

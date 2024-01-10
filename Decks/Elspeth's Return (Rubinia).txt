@@ -1,0 +1,87 @@
+Rubinia
+1 Angelic Intervention (MOM) 5 *F*
+1 Arcane Signet (C21) 234
+1 Archangel Elspeth (MOM) 320
+1 Ash Barrens (C16) 56
+1 Austere Command (CLB) 687
+1 Command Tower (C21) 284
+1 Contagion Clasp (SOM) 144
+1 Elspeth Resplendent (SNC) 282
+1 Elspeth Tirel (ONC) 64
+1 Elspeth, Knight-Errant (DDF) 1 *F*
+1 Elspeth, Sun's Champion (SLC) 2013
+1 Elspeth, Sun's Nemesis (THB) 14 *F*
+1 Elspeth, Undaunted Hero (PLIST) 728
+1 Elspeth's Talent (MOC) 80
+1 Geier Reach Sanitarium (DMC) 213
+1 Gods Willing (2X2) 12 *F*
+1 Karn's Bastion (PWAR) 248 *F*
+1 Lightning Greaves (C19) 217
+1 Opal Palace (C21) 306
+1 Sol Ring (CMA) 231
+1 Temple of the False God (MIC) 186
+1 Vanish into Eternity (ONE) 36
+
+    In  
+1 Arcane Lighthouse (CMM) 985
+1 Arcane Signet (C21) 234
+1 Azorius Signet (MM3) 215
+1 Blue Sun's Twilight (ONE) 379
+1 Bountiful Promenade (BBD) 81
+1 Cloudshift (MB1) 57
+1 Command Tower (CLB) 351
+1 Conjurer's Closet (C13) 239
+1 Control Magic (4ED) 64
+1 Deification (MAT) 151
+1 Deserted Beach (WHO) 270
+1 Desertion (CN2) 107
+1 Detection Tower (M19) 249
+1 Double Major (PSTX) 179s *F*
+1 Dreamroot Cascade (WHO) 273
+1 Elspeth Conquers Death (THB) 13
+1 Entrancing Melody (XLN) 55
+1 Exotic Orchard (MIC) 173
+1 Extravagant Replication (PNCC) 25p *F*
+1 Followed Footsteps (CN2) 111
+1 Fractured Identity (WHO) 236
+1 Ghostly Prison (PC2) 7
+1 Glacial Fortress (WHO) 285
+1 Glaring Spotlight (GTC) 229
+1 Godsend (JOU) 12
+1 Greater Good (9ED) 245
+1 Hall of Triumph (PJOU) 162 *F*
+1 Helm of the Host (PDOM) 217p
+1 High Market (AFC) 246
+1 Hinterland Harbor (DMR) 248
+1 Inexorable Tide (SOM) 35
+1 Luxior, Giada's Gift (SNC) 240
+1 Mass Manipulation (PRNA) 42p
+1 Minamo, School at Water's Edge (CHK) 279
+1 Mind Control (M12) 67
+1 Mind Stone (C14) 250
+1 Mind's Dilation (EMN) 70
+1 Overgrown Farmland (WHO) 292
+1 Patriar's Seal (CLB) 332
+1 Privileged Position (RAV) 251
+1 Propaganda (C13) 53
+1 Rejuvenating Springs (CMM) 424
+1 Rings of Brighthearth (LRW) 259
+1 Sakashima's Will (CMR) 91
+1 Sea of Clouds (BBD) 84
+1 Seaside Citadel (C18) 277
+1 See Double (MOM) 77
+1 Selesnya Signet (MM3) 226
+1 Shadowspear (PTHB) 236p
+1 Simic Signet (C13) 258
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (C17) 223
+1 Spara's Headquarters (PSNC) 257p
+1 Stolen by the Fae (ELD) 66
+1 Stolen Identity (GK1) 2
+1 Sunpetal Grove (XLN) 257
+1 Teferi's Talent (MOC) 74
+1 Temple of the False God (C13) 327
+1 The Chain Veil (M15) 215
+1 Thousand-Year Elixir (C13) 266
+1 Treachery (UDS) 50
+1 Vivien's Talent (MOC) 78

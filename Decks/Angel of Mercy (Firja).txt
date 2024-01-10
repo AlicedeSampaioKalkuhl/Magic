@@ -1,0 +1,123 @@
+    Firja 
+1 Evra, Halcyon Witness (MB1) 97
+1 Gray Merchant of Asphodel (MB1) 677
+1 Kambal, Consul of Allocation (2X2) 237
+1 Viscera Seer (CMR) 158 *F*
+
+    Planes 
+
+    In 
+1 Acererak the Archlich (PAFR) 87p
+1 Arcane Signet (CLB) 298
+1 Archpriest of Shadows (MOM) 89
+1 Ashnod's Altar (CMM) 368
+1 Barrowin of Clan Undurr (AFR) 218
+1 Blood Money (CLB) 116
+1 Bloodcrazed Paladin (XLN) 93
+1 Bloodsky Berserker (KHM) 80
+1 Bojuka Bog (CMA) 243
+1 Bonehoard (ZNC) 108
+1 Boneyard Mycodrax (C20) 40
+1 Brightclimb Pathway / Grimclimb Pathway (ZNR) 259
+1 Buried Ruin (JMP) 491
+1 Cabal Coffers (HOP) 132
+1 Cabal Stronghold (PDOM) 238p
+1 Caves of Koilos (PDMU) 244p
+1 Clarion Spirit (KHM) 6
+1 Cloister Gargoyle (AFR) 7
+1 Cloudstone Curio (RAV) 257
+1 Command Tower (C20) 264
+1 Deadly Dispute (AFR) 94
+1 Deep Gnome Terramancer (CLB) 658
+1 Delver's Torch (AFR) 10
+1 Doomskar Oracle (KHM) 10
+1 Drakestown Forgotten (CNS) 27
+1 Drannith Ruins (MAT) 185
+1 Drownyard Temple (CLB) 892
+1 Dungeon Descent (AFR) 255
+1 Dungeon Map (AFR) 242
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 297
+1 Eldrazi Displacer (OGW) 13
+1 Elesh Norn, Mother of Machines (ONE) 416
+1 Emergence Zone (WAR) 245
+1 Emeria Shepherd (BFZ) 22
+1 Emeria, the Sky Ruin (SLD) 1291
+1 Exotic Orchard (DMC) 209
+1 Fates' Reversal (AFR) 102
+1 Feast of the Victorious Dead (MAT) 30
+1 Fetid Heath (2XM) 316
+1 Fifty Feet of Rope (PLIST) 804
+1 Fracture (STX) 378
+1 Gold Myr (MRD) 180
+1 Grim Bounty (AFR) 106
+1 Grim Hireling (CLB) 755
+1 Hallow (DST) 4
+1 Helm of the Host (DOM) 217
+1 Infernal Pet (KHM) 99
+1 Invasion of Tolvada / The Broken Sky (MOM) 241
+1 Isolated Chapel (MD1) 16
+1 Kaya the Inexorable (KHM) 288
+1 Leaden Myr (SOM) 170
+1 Legions to Ashes (BRO) 215
+1 Lotho, Corrupt Shirriff (LTR) 213
+1 Malakir Rebirth / Malakir Mire (ZNR) 111
+1 Memorial to Folly (DOM) 242
+1 Minthara, Merciless Soul (CLB) 543 *E*
+1 Monk of the Open Hand (AFR) 25
+1 Mortuary (STH) 66
+1 Mortuary Mire (AFC) 249
+1 Nadaar, Selfless Paladin (AFR) 27
+1 Nighthowler (C15) 129
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Opaline Unicorn (THS) 218
+1 Ornithopter of Paradise (MH2) 232
+1 Orzhov Basilica (C13) 311
+1 Orzhov Signet (GK2) 48
+1 Panharmonicon (KLD) 226
+1 Passageway Seer (CLB) 141
+1 Path of Ancestry (WOC) 165
+1 Phyrexian Altar (UMA) 232
+1 Phyrexian Tower (UMA) 248
+1 Planar Ally (AFR) 31
+1 Radiant Fountain (IMA) 244
+1 Radiant Solar (AFC) 9
+1 Rammas Echor, Ancient Shield (LTC) 505
+1 Ranger's Hawk (AFR) 37
+1 Ravenloft Adventurer (CLB) 142
+1 Ravos, Soultender (CMR) 533 *E*
+1 Rebuff the Wicked (TSR) 35
+1 Remember the Fallen (2XM) 27 *F*
+1 Reprieve (LTR) 26
+1 Revel in Riches (PXLN) 117p
+1 Revenge of Ravens (ELD) 104
+1 Runechanter's Pike (ISD) 231
+1 Safana, Calimport Cutthroat (CLB) 143
+1 Sarevok's Tome (CLB) 685
+1 Seasoned Dungeoneer (CLB) 660
+1 Seraph Sanctuary (AVR) 228
+1 Shattered Sanctum (VOW) 264
+1 Shineshadow Snarl (ONC) 164
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (CLB) 871
+1 Strionic Resonator (NCC) 381
+1 Strip Bare (SHM) 24
+1 Swiftfoot Boots (VOC) 169
+2 Tainted Field (E02) 47
+1 Takenuma, Abandoned Mire (PNEO) 278p
+1 Thorough Investigation (AFC) 12
+1 Triumphant Adventurer (PAFR) 237p
+1 Undercellar Sweep (CLB) 47
+1 Urborg, Tomb of Yawgmoth (M15) 248
+1 Vault of Champions (CMM) 436
+1 Vault of the Archangel (MOC) 443
+1 Veteran Dungeoneer (AFR) 40
+1 Whispersilk Cloak (M11) 221
+1 White Plume Adventurer (CLB) 49
+1 Witch's Cottage (ELD) 249
+1 You're Ambushed on the Road (AFR) 43
+1 You're Confronted by Robbers (CLB) 53
+1 Your Temple Is Under Attack (CLB) 52
+1 Yuan-Ti Fang-Blade (AFR) 128
+1 Zombie Ogre (AFR) 129
+
+    Out 

@@ -1,0 +1,104 @@
+Vazi, Keen Negotiator
+1 Aether Chaser (AER) 76
+1 Aether Herder (AER) 102
+1 Aether Hub (MB1) 1650
+1 Aether Poisoner (AER) 51
+1 Aetherwind Basker (AER) 104
+1 Agent of the Iron Throne (CLB) 107
+1 Ancient Copper Dragon (HBG) 174
+1 Ancient Runes (TMP) 161
+1 Architect of the Untamed (KLD) 143
+1 Atraxa's Fall (MOM) 176
+1 Attune with Aether (KLD) 145
+1 Big Score (SNC) 102
+1 Black Market (CLB) 739
+1 Black Market Connections (CLB) 669
+1 Black Market Tycoon (SNC) 167
+1 Blisterspit Gremlin (IKO) 108 *F*
+1 Blood Money (HBG) 146
+1 Bojuka Bog (MOC) 391
+1 Bonders' Enclave (IKO) 363
+1 Boseiju, Who Endures (PNEO) 266p
+1 Brass's Bounty (MOC) 272
+1 Brazen Scourge (KLD) 107
+1 By Force (SLD) 1086
+1 Cabal Coffers (MH2) 301
+1 Command Tower (C20) 264
+1 Crack Open (MH2) 154
+1 Creeping Corrosion (MBS) 78
+1 Culling Ritual (ONC) 117
+1 Deadly Dispute (HBG) 150
+1 Deathcap Glade (VOW) 281
+1 Deconstruct (MRD) 118
+1 Demon of Dark Schemes (KLD) 73
+1 Descent into Avernus (CLB) 169
+1 Die Young (KLD) 76
+1 Disciple of the Vault (2XM) 86
+1 Dragonskull Summit (DMC) 207
+1 Exotic Orchard (C16) 295
+1 Fain, the Broker (BRC) 105
+1 Fangren Marauder (MBS) 79
+1 Forest (SNC) 280
+1 Gleeful Sabotage (FMB1) 68 *F*
+1 Glint-Sleeve Siphoner (AER) 62
+1 Glissa Sunseeker (SLD) 491
+1 Glittermonger (SNC) 149
+1 Goldspan Dragon (J22) 550
+1 Gonti's Machinations (AER) 63
+1 Gremlin Infestation (AER) 83
+1 Hall of Tagsin (BRO) 263
+1 Haunted Ridge (MID) 282
+1 Jaheira, Friend of the Forest (CLB) 237
+1 Jolene, the Plunder Queen (NCC) 73
+1 Kalain, Reclusive Painter (AFR) 225
+1 Karn's Bastion (PWAR) 248p
+1 Kessig Wolf Run (C20) 284
+1 Kibo, Uktabi Prince (J22) 40
+1 Krosan Grip (CMA) 123
+1 Live Fast (KLD) 87
+1 Luxury Suite (CLB) 355
+1 Marionette Master (BRC) 109
+1 Mayhem Devil (WAR) 204
+1 Mazirek, Kraul Death Priest (CMA) 185
+1 Molten Blast (ZNR) 149
+1 Mosswort Bridge (C15) 294
+1 Mountain (SNC) 278
+1 Mystic Melting (CSP) 114
+1 Nadier's Nightblade (CMR) 136
+1 Old Gnawbone (PLIST) 786
+1 Primal Vigor (SLD) 314
+1 Rain of Riches (NCC) 50
+1 Ravenous Intruder (AER) 94 *F*
+1 Release the Gremlins (MB1) 1039
+1 Reliquary Tower (BRC) 196
+1 Revel in Riches (XLN) 117
+1 Rockfall Vale (PMID) 266p
+1 Rogue's Passage (C20) 303
+1 Ruinous Gremlin (KLD) 128
+1 Ruinous Intrusion (MIC) 28
+1 Ruthless Knave (XLN) 119
+1 Salivating Gremlins (2XM) 143 *F*
+1 Savage Lands (ALA) 228
+1 Seize the Spotlight (NCC) 52
+1 Spinerock Knoll (C16) 327
+1 Spire Garden (CLB) 361
+1 Spiteful Repossession (NCC) 90
+1 Stimulus Package (SNC) 225 *F*
+1 Structural Assault (PSNC) 126p
+1 Svella, Ice Shaper (KHM) 331
+1 Temple of the False God (C21) 326
+1 Territorial Gorger (KLD) 136
+1 Thriving Grubs (KLD) 138 *F*
+1 Treasure Vault (AFR) 261
+1 Undergrowth Stadium (CMR) 359
+1 Urborg, Tomb of Yawgmoth (PUMA) U40 *F*
+1 Viridian Revel (SOM) 132
+1 Vraska, Relic Seeker (XLN) 232
+1 Woodland Cemetery (DOM) 248
+1 Xorn (AFR) 167
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Ziatora's Proving Ground (SNC) 261
+
+    In 
+
+    Out 

@@ -1,0 +1,192 @@
+    Tymna & Kydele 
+1 Adventurous Impulse (STA) 49 *F*
+1 Ainok Survivalist (C19) 156
+1 Bane of the Living (C19) 104
+1 Biomass Mutation (C19) 187
+1 Bojuka Bog (C19) 232
+1 Broodhatch Nantuko (ONS) 250 *F*
+1 Cabal Executioner (ONS) 130
+1 Caller of the Claw (LGN) 121
+1 Chromeshell Crab (C19) 81
+1 Command Tower (C19) 237
+1 Coral Trickster (TSR) 58 *F*
+1 Cultivate (C19) 159
+1 Deathmist Raptor (C19) 160
+1 Den Protector (C19) 161
+1 Disruptive Pitmage (ONS) 81
+1 Dream Chisel (ONS) 308
+1 Evolving Wilds (C19) 241
+1 Exotic Orchard (C19) 242
+1 Explore (C19) 164
+1 Farseek (C19) 165
+1 Fathom Seer (TSR) 68
+9 Forest (KTK) 267 *F*
+1 Formless Nurturing (FRF) 129
+1 Ghastly Conscription (C19) 115
+1 Gift of Doom (C19) 17
+1 Grim Haruspex (C19) 118
+1 Grinning Demon (ONS) 153
+1 Headhunter (ONS) 156
+1 Hooded Hydra (C19) 172
+1 Icefeather Aven (C19) 194
+9 Island (KTK) 254 *F*
+1 Ixidron (C19) 87
+1 Jungle Hollow (C19) 254
+1 Kadena's Silencer (C19) 8
+1 Kheru Spellsnatcher (C19) 89
+1 Leyline of Anticipation (M11) 61
+1 Master Biomancer (C21) 224
+1 Mistfire Weaver (KTK) 46
+1 Monastery Flock (KTK) 47 *F*
+1 Muraganda Petroglyphs (FUT) 146
+1 Myriad Landscape (C19) 261
+1 Nantuko Vigilante (C19) 174
+1 Obscuring Aether (DTK) 194
+1 Opulent Palace (C19) 264
+1 Phyrexian Arena (CC2) 4
+1 Pine Walker (KTK) 143 *F*
+1 Reality Shift (C19) 92
+1 Riptide Biologist (ONS) 106
+1 Ruthless Ripper (A25) 107 *F*
+1 Ruxa, Patient Professor (C21) 66
+1 Sagu Mauler (C19) 200
+1 Scroll of Fate (C19) 58
+1 Secret Plans (KTK) 198
+1 Serpentine Basilisk (ONS) 280
+1 Sidisi's Pet (KTK) 90
+1 Silumgar Assassin (C19) 128
+1 Skinthinner (C19) 129
+1 Sol Ring (C19) 221
+1 Soul Collector (SCG) 74
+1 Stratus Dancer (C19) 96
+1 Sunken Hollow (C19) 278
+8 Swamp (KTK) 261 *F*
+1 Temple of the False God (C19) 280
+1 Temur War Shaman (PFRF) 142 *F*
+1 Terramorphic Expanse (C19) 281
+1 Thelonite Hermit (C19) 184
+1 Thieving Amalgam (C19) 21
+1 Thornwood Falls (C19) 283
+1 Thousand Winds (C19) 100
+1 Trail of Mystery (C19) 186
+1 Unblinking Bleb (FUT) 45
+1 Vesuvan Shapeshifter (C19) 101
+1 Wildcall (FRF) 146
+1 Willbender (C19) 102
+1 Write into Being (MB1) 556
+1 Zoetic Cavern (FUT) 180
+    In 
+1 Ainok Survivalist (MB1) 1115
+1 Always Watching (SOI) 1
+1 Aphetto Alchemist (ONS) 64
+1 Arcane Signet (CMR) 297
+1 Ardenvale Tactician / Dizzying Swoop (ELD) 273 *F*
+1 Atraxa's Fall (MOM) 176
+1 Aura Mutation (NCC) 328
+1 Backslide (ONS) 70
+1 Beanstalk Giant / Fertile Footsteps (ELD) 295 *F*
+1 Blessed Hippogriff / Tyr's Blessing (CLB) 11 *F*
+1 Blessed Sanctuary (JMP) 1
+1 Bonders' Enclave (IKO) 363
+1 Bountiful Promenade (CLB) 348
+1 Brine Elemental (C14) 99
+1 Bronze Sable (M15) 214
+1 Brushland (BRO) 298
+1 Canopy Vista (DMC) 201
+1 Castle Ardenvale (PELD) 238p
+1 Castle Garenbrig (PELD) 240p
+1 Cathars' Crusade (AVR) 10
+1 Collective Unconscious (SCD) 176
+1 Colossal Badger / Dig Deep (CLB) 223 *F*
+1 Command Tower (C19) 237
+1 Coral Trickster (MB1) 334
+1 Crash the Party (NCC) 57
+1 Crystal Dragon / Rob the Hoard (CLB) 13 *F*
+1 Curious Pair / Treats to Share (ELD) 296 *F*
+1 Cyber Conversion (WHO) 38
+1 Daru Mender (LGN) 8
+1 Daru Sanctifier (LGN) 9
+1 Dermoplasm (LGN) 35
+1 Dulcet Sirens (C14) 14
+1 Edgewall Innkeeper (ELD) 151
+1 Emerald Dragon / Dissonant Wave (CLB) 229 *F*
+1 Ettercap / Web Shot (CLB) 231
+1 Exotic Orchard (PCA) 117
+1 Fabled Passage (PELD) 244p
+1 Faerie Guidemother / Gift of the Fae (ELD) 274 *F*
+1 Flaxen Intruder / Welcome Home (ELD) 297 *F*
+1 Force of Virtue (MH1) 10
+1 Fortifying Provisions (ELD) 13 *F*
+1 Garenbrig Carver / Shield's Might (ELD) 298 *F*
+1 Garenbrig Squire (ELD) 158 *F*
+1 Gavony Township (C20) 276
+1 Giant Killer / Chop Down (ELD) 275
+1 Gingerbread Cabin (ELD) 245
+1 Great Hart (BNG) 15
+1 Guardian Shield-Bearer (MB1) 1231
+1 Gudul Lurker (DTK) 56
+1 Heraldic Banner (ELD) 222
+1 Hidden Dragonslayer (DTK) 23
+1 Horn of Valhalla / Ysgard's Call (CLB) 26 *F*
+1 Hunter's Insight (CMR) 232 *F*
+1 Idyllic Grange (ELD) 246
+1 Invasion of Moag / Bloomwielder Dryads (MOM) 237
+1 Jasmine Boreal (TSB) 93
+1 Jasmine Boreal of the Seven (DMC) 33
+1 Kadena, Slinking Sorcerer (C19) 45 *F*
+1 Karona's Zealot (SCG) 18
+1 Knight of the Keep (ELD) 19 *F*
+1 Lonesome Unicorn / Rider in Need (ELD) 276 *F*
+1 Lucky Clover (ELD) 226
+1 Lumithread Field (FUT) 25
+1 Master of Pearls (KTK) 18
+1 Mastery of the Unseen (FRF) 19
+1 Mirari's Wake (MH2) 291
+1 Mistfire Weaver (KTK) 46
+1 Monster Manual / Zoological Study (CLB) 242
+1 Mosswort Bridge (C17) 261
+1 Mysterious Pathlighter (ELD) 22 *F*
+1 Nessian Courser (FUT) 148
+1 Nyxborn Colossus (THB) 191
+1 Nyxborn Courser (THB) 29
+1 Oakhame Ranger / Bring Back (ELD) 302 *F*
+1 Oreskos Swiftclaw (M15) 22
+1 Outflank (ELD) 23 *F*
+1 Overgrown Farmland (MID) 283
+1 Pegasus Guardian / Rescue the Foal (CLB) 36 *F*
+1 Pheres-Band Centaurs (THS) 171
+1 Qarsi Deceiver (DTK) 71
+1 Rally for the Throne (ELD) 25
+1 Reliquary Tower (C14) 308
+1 Return to Nature (ELD) 173 *F*
+1 Rishkar's Expertise (AFC) 170
+1 Rosethorn Acolyte / Seasonal Ritual (ELD) 300 *F*
+1 Shepherd of the Flock / Usher to Safety (ELD) 278
+1 Silent Artisan (THS) 31
+1 Silverflame Squire / On Alert (ELD) 279 *F*
+1 Soul Collector (SCG) 74
+1 Spinning Wheel (ELD) 234
+1 Starlight Spectacular (UNF) 28
+1 Sunpetal Grove (M11) 228
+1 Swordwise Centaur (BNG) 142 *F*
+1 Temple Garden (RAV) 284
+1 The Great Henge (PELD) 161p
+1 Tome of Legends (ELD) 332
+1 Traveling Philosopher (THS) 34
+1 Tribute to the World Tree (MOM) 211
+1 True Love's Kiss (ELD) 34 *F*
+1 Tuinvale Treefolk / Oaken Boon (ELD) 301 *F*
+1 Ugin's Mastery (CMM) 751
+1 Unknown Shores (XLN) 259
+1 Unnatural Growth (MID) 365
+1 Vesuvan Shapeshifter (TSP) 90
+1 Wedding Announcement / Wedding Festivity (VOW) 45
+1 Wheel of Sun and Moon (SLD) 1105
+1 Windbrisk Heights (C20) 321
+1 Wolf's Quarry (ELD) 184 *F*
+1 Wooded Bastion (2XM) 332
+1 Wrap in Vigor (FUT) 141
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Yedora, Grave Gardener (C21) 70
+1 Yoked Ox (M20) 41
+1 Zopandrel, Hunger Dominus (ONE) 195

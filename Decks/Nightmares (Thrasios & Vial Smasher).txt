@@ -1,0 +1,103 @@
+    Thasios & Vial Smasher
+1 Chaos Wand (AFC) 201
+1 Propaganda (TMP) 80
+1 Role Reversal (WAR) 214
+1 Stolen Strategy (CLB) 807
+    In 
+1 Ashiok, Nightmare Muse (THB) 256
+1 Black Market (MB1) 575
+1 Bojuka Bog (CMD) 267
+1 Captive Audience (RNA) 160
+1 Chainer, Nightmare Adept (MH2) 289
+1 Chance Encounter (MH2) 277 *F*
+1 Command Tower (C13) 281
+1 Court of Locthwain (WOC) 23
+1 Crawlspace (DMR) 217
+1 Culling Ritual (STX) 172
+1 Curse of Bloodletting (DKA) 85
+1 Curse of Clinging Webs (MIC) 25
+1 Curse of Disturbance (C17) 16
+1 Curse of Echoes (DKA) 34
+1 Curse of Hospitality (VOW) 152
+1 Curse of Inertia (C13) 36
+1 Curse of Misfortunes (DKA) 56
+1 Curse of Opulence (C17) 24
+1 Curse of Shaken Faith (MID) 353
+1 Curse of Surveillance (MID) 46 *F*
+1 Curse of the Bloody Tome (PW11) 80 *F*
+1 Curse of Thirst (DKA) 57
+1 Curse of Vengeance (C16) 12
+1 Disrupt Decorum (AFC) 122
+1 Dissipation Field (CLB) 718
+1 Don Andres, the Renegade (LCC) 28
+1 Dragonskull Summit (XLN) 252
+1 Drowned Catacomb (XLN) 253
+1 Enchantress's Presence (MH2) 283
+1 Ensnaring Bridge (8ED) 300
+1 Eternal Dominion (SOK) 36
+1 Exotic Orchard (NCC) 400
+1 Extravagant Replication (NCC) 126
+1 Fevered Suspicion (AFC) 47
+1 Fiery Gambit (MRD) 90
+1 Forced Fruition (SLD) 1177
+1 Forgeborn Oreads (JOU) 98
+1 Goblin Bomb (WTH) 103
+1 Goblin Festival (UDS) 83
+1 Guff Rewrites History (CMM) 737
+1 Harmless Offering (EMN) 131
+1 Haunted Ridge (MID) 282
+1 Hurl Through Hell (AFC) 48
+1 Jeska's Will (CMR) 668
+1 Krark, the Thumbless (CMR) 189
+1 Krark's Thumb (MRD) 190
+1 Leveler (TSR) 397
+1 Luxury Suite (CLB) 602
+1 Lynde, Cheerful Tormentor (MIC) 38
+1 Maddening Hex (AFC) 32
+1 Maze of Ith (2XM) 322
+1 Mind's Dilation (EMN) 70
+1 Mirror March (RNA) 108
+1 Mogg Assassin (EXO) 88
+1 Morphic Pool (CLB) 603
+1 Nicol Bolas, God-Pharaoh (2X2) 260
+1 Okaun, Eye of Chaos (BBD) 6
+1 Paradox Haze (TSP) 71
+1 Path of Ancestry (40K) 287
+1 Planar Chaos (JUD) 97
+1 Puca's Mischief (FMB1) 29 *F*
+1 River Song's Diary (WHO) 182
+1 Riveteers Confluence (NCC) 79
+1 Seedborn Muse (10E) 296
+1 Shadow in the Warp (40K) 140
+1 Share the Spoils (AFC) 34
+1 Shipwreck Marsh (MID) 285
+1 Silent Arbiter (CNS) 204
+1 Smoldering Marsh (VOC) 183
+1 Sphinx of the Second Sun (CMR) 643
+1 Squee's Revenge (APC) 123
+1 Stitch in Time (GPT) 132
+1 Stormcarved Coast (VOW) 284
+1 Sulfur Falls (ISD) 248
+1 Synthesis Pod (ONC) 23
+1 Tasha, the Witch Queen (CLB) 294
+1 Tavern Scoundrel (MH2) 144
+1 Temple of the False God (40K) 300
+1 Tergrid, God of Fright / Tergrid's Lantern (KHM) 112 *F*
+1 The Beamtown Bullies (NCC) 6
+1 The Rani (WHO) 149
+1 The Ruinous Powers (40K) 139
+1 The Sound of Drums (WHO) 97
+1 Tibalt's Trickery (KHM) 153
+1 Tide of War (CHK) 194
+1 Tortured Existence (STH) 74
+1 Training Center (CMR) 713
+1 Trespasser's Curse (AKH) 112
+1 Uba Mask (CHK) 272
+1 Vexing Shusher (2XM) 225
+1 Wand of Wonder (CLB) 204
+1 Wild Magic Surge (CLB) 206
+1 Xantcha, Sleeper Agent (C18) 50
+1 Yusri, Fortune's Flame (MH2) 492 *F*
+1 Zara, Renegade Recruiter (CMR) 294
+1 Zndrsplt, Eye of Wisdom (BBD) 5
+    Out 

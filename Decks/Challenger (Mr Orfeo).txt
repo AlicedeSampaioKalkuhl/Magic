@@ -1,0 +1,99 @@
+1 Arc Runner (M11) 123
+1 Blackcleave Goblin (SOM) 54
+1 Blight Mamba (SOM) 112
+1 Blightbelly Rat (ONE) 289
+1 Bloodfell Caves (C17) 236
+1 Bojuka Bog (WWK) 132
+1 Elvish Mystic (M14) 169
+1 Eternal Thirst (IMA) 89
+1 Evolving Wilds (M13) 224
+1 Feign Death (AFR) 103
+1 Flensermite (MBS) 41
+1 Fling (SLD) 1038
+1 Fyndhorn Elves (CMR) 228
+1 Glistener Elf (NPH) 111
+1 Golgari Signet (RAV) 262
+1 Gravitic Punch (GRN) 105 *F*
+1 Haunted Cloak (CMR) 313 *F*
+1 Ichorclaw Myr (SOM) 166
+1 Jungle Hollow (C19) 254
+1 Kodama's Reach (DMC) 134
+1 Llanowar Elves (MB1) 1262
+1 Marsh Viper (5ED) 315
+1 Murder (CLB) 134 *F*
+1 Nature's Lore (CLB) 244
+1 Ogre Menial (NPH) 89
+1 Pestilent Souleater (NPH) 149
+1 Pestilent Syphoner (ONE) 103
+1 Phyrexian Digester (MBS) 120
+1 Pistus Strike (MBS) 86 *F*
+1 Pit Scorpion (4ED) 153
+1 Plague Stinger (PDCI) 59 *F*
+1 Racers' Ring (SNC) 352
+1 Razor Swine (NPH) 92
+1 Relic Putrescence (SOM) 77
+1 Riveteers Overlook (SNC) 255
+1 Rugged Highlands (DDS) 59
+1 Sakura-Tribe Elder (CHK) 239
+1 Scourge Servant (MBS) 54
+1 Sheoldred's Headcleaver (ONE) 109
+1 Soul's Fire (CMR) 200
+1 Stinging Hivemaster (ONE) 110
+1 Tel-Jilad Fallen (SOM) 130
+1 Temur Battle Rage (MB1) 1081
+1 Terramorphic Expanse (HOP) 139
+1 Thriving Bluff (JMP) 33
+1 Thriving Grove (JMP) 34
+1 Thriving Moor (AFC) 271
+1 Tramway Station (SNC) 356
+1 Vector Asp (SOM) 219
+1 Viridian Betrayers (NPH) 124
+1 Witherbloom Campus (STX) 275
+    In 
+1 Abrade (VOW) 139
+1 Anoint with Affliction (ONE) 81
+1 Atraxa's Fall (MOM) 176
+1 Blightwidow (MBS) 77
+1 Command Tower (CMR) 479
+1 Commander's Sphere (KHC) 99
+1 Contagious Nim (SOM) 58
+1 Corpse Cur (SOM) 147
+1 Cystbearer (SOM) 117
+1 Dune Mover (ONE) 226
+1 Farseek (RAV) 163
+6 Forest (SNC) 280
+1 Goblin Anarchomancer (MH2) 421
+1 Golgari Cluestone (DGM) 139
+1 Golgari Locket (GRN) 237
+1 Gruul Cluestone (DGM) 140
+1 Gruul Locket (RNA) 234
+1 Gruul Signet (CMD) 250
+1 Infectious Inquiry (ONE) 97
+1 Jund Panorama (C13) 298
+6 Mountain (SNC) 278
+1 Obelisk of Jund (ALA) 215
+1 Path of Ancestry (KHC) 117
+1 Phyresis (MBS) 49
+1 Phyrexian Atlas (ONE) 237
+1 Plague Nurse (ONE) 179
+1 Rakdos Cluestone (DGM) 143
+1 Rakdos Locket (RNA) 237
+1 Rakdos Signet (GK2) 76
+1 Ram Through (IKO) 170
+1 Rampant Growth (9ED) 263
+1 Return to Nature (MID) 195
+1 Rot Wolf (MBS) 90
+1 Sabertooth Cobra (MIR) 238
+1 Snake Cult Initiation (FUT) 89
+1 Snakeskin Veil (KHM) 194
+1 Sticky Fingers (SNC) 124
+6 Swamp (SNC) 277
+1 Swamp Mosquito (ALL) 63b
+1 Tainted Strike (SOM) 80
+1 Tamiyo's Safekeeping (NEO) 211
+1 Toxic Nim (NPH) 75
+1 Tyrranax Atrocity (ONE) 188
+1 Undying Malice (DBL) 401
+1 Virulent Wound (MBS) 57
+    Out 
+Fling

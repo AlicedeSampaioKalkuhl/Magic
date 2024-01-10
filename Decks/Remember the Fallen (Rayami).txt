@@ -1,0 +1,126 @@
+	Rayami 
+1 Aeve, Progenitor Ooze (MH2) 459 *F*
+1 Aqueous Form (CMR) 56
+1 Arcane Signet (ELD) 331
+1 Ashiok, Nightmare Weaver (THS) 188
+1 Banehound (WAR) 77
+1 Beast Whisperer (C20) 167
+1 Biomass Mutation (C21) 209
+1 Blade of the Bloodchief (C17) 204
+1 Blood Artist (JMP) 206
+1 Bojuka Bog (ONC) 145
+1 Bone Splinters (SLD) 1037
+1 Bred for the Hunt (40K) 222
+1 Cerulean Drake (M20) 53
+1 Cloak of Mists (GS1) 13
+1 Colossal Majesty (C19) 158
+1 Command Beacon (SLD) 470 *F*
+1 Command Tower (KHC) 108
+1 Costly Plunder (MB1) 602
+1 Dimir Signet (ZNC) 112
+1 Drana, Liberator of Malakir (DMC) 111
+1 Elvish Mystic (M15) 173
+1 Eradicator Valkyrie (PKHM) 94p
+1 Eternal Scourge (EMN) 7
+1 Evolutionary Leap (NCC) 288
+1 Exotic Orchard (C20) 273
+1 Fallen Ideal (C15) 125
+1 Feed the Pack (DKA) 114
+1 Fell Stinger (VOW) 112
+1 Food Chain (MMQ) 246
+8 Forest (BFZ) 270
+1 Gravelighter (NEO) 98
+1 Grim Backwoods (C13) 292
+1 Gurmag Swiftwing (KTK) 74
+1 Hydra's Growth (THB) 172
+1 Invisible Stalker (ZNC) 27
+9 Island (ZNR) 269
+1 Kruphix, God of Horizons (MB1) 1446
+1 Leyline Prowler (C21) 222
+1 Life's Legacy (NCC) 300
+1 Llanowar Elves (MB1) 1262
+1 Majestic Myriarch (C20) 182
+1 Maraleaf Pixie (ELD) 196
+1 Misthollow Griffin (FMB1) 26 *F*
+1 Mu Yanling (GS1) 1 *F*
+1 Nashi, Moon Sage's Scion (SLC) 2022
+1 Needlethorn Drake (STX) 208
+1 Neoform (WAR) 206
+1 Netherborn Altar (C20) 45
+1 Nightveil Predator (GRN) 191
+1 Opal Palace (NEC) 172
+1 Opulent Palace (C20) 295
+1 Phyrexian Vivisector (DMU) 100
+1 Planar Incision (NEO) 72
+1 Primal Empathy (IKO) 200
+1 Prime Speaker Vannifar (RNA) 195
+1 Propaganda (CMD) 55
+1 Return to Nature (MID) 195
+1 Rogue's Passage (C21) 312
+1 Sanguine Spy (SNC) 420
+1 Security Bypass (SNC) 59
+1 Selective Adaptation (C20) 65
+1 Sol Ring (MOC) 381
+1 Spark Harvest (CMR) 150 *F*
+1 Stonecoil Serpent (SLD) 1226 *F*
+1 Sunken Hollow (MOC) 428
+8 Swamp (ZNR) 272
+1 Tamiyo, Collector of Tales (PWAR) 220p
+1 Temple of the False God (MB1) 1691
+1 Torment of Hailfire (HOU) 77
+1 Village Rites (STA) 35 *F*
+1 Villainous Wealth (KTK) 211
+1 Vivien on the Hunt (SNC) 347
+1 Volo, Guide to Monsters (AFR) 347
+1 Volo, Itinerant Scholar (CLB) 491 *E*
+1 Vraska the Unseen (C19) 207
+1 Vraska, Golgari Queen (PGRN) 213p
+1 Zulaport Cutthroat (BFZ) 126
+
+	In 
+1 Atraxa's Fall (MOM) 176
+1 Attrition (CMD) 72
+1 Beastcaller Savant (BFZ) 170
+1 Birds of Paradise (MB1) 1138
+1 Black Knight (MB1) 574
+1 Blightbeetle (M20) 87
+1 Deadly Dispute (CLB) 124
+1 Deathcap Glade (VOW) 261
+1 Demonmail Hauberk (ISD) 221
+1 Dreamroot Cascade (VOW) 262
+1 Drowned Catacomb (XLN) 253
+1 Great Sable Stag (M10) 186
+1 Greater Good (2XM) 170
+1 High Market (MMQ) 320
+1 Indominus Rex, Alpha (REX) 14
+1 Mirri the Cursed (TSR) 125
+1 Morphic Pool (CLB) 357
+1 Mwonvuli Beast Tracker (M13) 177
+1 Ornithopter of Paradise (MH2) 430
+1 Paradigm Shift (WTH) 46
+1 Phyrexian Tower (JMP) 493
+1 Primal Growth (PLS) 87
+1 Rejuvenating Springs (CMR) 354
+1 Revel in Riches (PXLN) 117p
+1 Ring of Xathrid (M13) 215
+1 Siren Stormtamer (CMR) 96
+1 Skylasher (DGM) 49
+1 Sylvan Caryatid (THS) 180
+1 Tyrite Sanctum (KHM) 272
+1 Undergrowth Stadium (CMR) 359
+1 Vampire of the Dire Moon (M20) 120
+1 Volo, Guide to Monsters (AFR) 238
+1 Wilson, Refined Grizzly (CLB) 261
+1 Woodland Cemetery (DMR) 261
+1 Yahenni, Undying Partisan (2X2) 99
+1 Zagoth Triome (IKO) 313
+	Out 
+
+Zulaport Cutthroat 
+Fallen Ideal 
+Drana, Liberator of Malakir 
+Kruphix, God of Horizons 
+Primal Empathy 
+Llanowar Elves
+Gravelighter 
+Elvish Mystic 

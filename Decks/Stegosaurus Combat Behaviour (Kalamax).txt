@@ -1,0 +1,106 @@
+Kalamax, the Stormsire 
+1 Applied Biomancy (RNA) 153
+1 Archmage Emeritus (STX) 377 *F*
+1 Artifact Mutation (C20) 203
+1 Aspirant's Ascent (ONE) 40
+1 Bioshift (GTC) 214 *F*
+1 Chancellor of Tales (WOE) 45 *F*
+1 Charge Through (STX) 124
+1 Command Tower (C20) 264
+1 Curious Herd (C20) 59
+1 Decisive Denial (STX) 177
+1 Deekah, Fractal Theorist (C21) 26
+1 Dualcaster Mage (C20) 150
+1 Empty the Warrens (DDS) 15
+1 Exotic Orchard (C20) 273
+1 Fae of Wishes / Granted (PRM) 78734
+1 Ferocious Werefox / Guard Change (WOE) 170
+1 Fists of Flame (MH1) 123
+10 Forest (ZNR) 278 *F*
+1 Frolicking Familiar / Blow Off Steam (WOE) 226
+1 Hypnotic Sprite / Mesmeric Glare (ELD) 283
+9 Island (ZNR) 269 *F*
+1 Jace's Sanctum (C19) 88
+1 Khalni Ambush / Khalni Territory (ZNR) 192 *F*
+1 Krosan Grip (C21) 198
+1 Lucky Clover (PLIST) 807
+1 Lunar Frenzy (MID) 147
+1 Mizzix of the Izmagnus (2X2) 257
+10 Mountain (ZNR) 275 *F*
+1 Narset's Reversal (WAR) 62
+1 Natural Connection (C20) 184
+1 Nexus of Fate (M19) 306 *F*
+1 Obyra's Attendants / Desperate Parry (WOE) 63
+1 Opal Palace (C13) 310
+1 Open the Omenpaths (KHM) 143
+1 Pause for Reflection (GRN) 140 *F*
+1 Perplexing Test (C21) 30
+1 Presence of Gond (SHM) 125
+1 Pyretic Ritual (SLD) 1064
+1 Quandrix Command (STX) 217
+1 Ral, Storm Conduit (WAR) 211
+1 Ratcatcher Trainee / Pest Problem (WOE) 144
+1 Rewind (M21) 63 *F*
+1 Rimrock Knight / Boulder Rush (ELD) 137
+1 Rush of Blood (AVR) 154
+1 Sea Hag / Aquatic Ingress (CLB) 95
+1 Simic Guildmage (DIS) 148
+1 Slice in Twain (C20) 190
+1 Soul's Fire (CMR) 200
+1 Spikefield Hazard / Spikefield Cave (ZNR) 166
+1 Sprite Dragon (IKO) 382 *F*
+1 Stern Lesson (BRO) 64
+1 Sudden Breakthrough (STX) 116
+1 Swarm Intelligence (C20) 124
+1 Swiftfoot Boots (KHC) 105
+1 Sword Coast Serpent / Capsizing Wave (CLB) 99
+1 Temur Battle Rage (2XM) 146 *F*
+1 Temur Charm (C20) 230
+1 The Celestus (MID) 252
+1 Twinning Staff (C20) 70
+1 Two-Headed Hunter / Twice the Rage (WOE) 155 *F*
+1 Unity of Purpose (OGW) 66
+1 Unleash Fury (M21) 170 *F*
+1 Vadrik, Astral Archmage (MID) 248 *F*
+1 Vault Skyward (SOM) 51
+1 Vodalian Arcanist (DOM) 73
+1 Volshe Tideturner (DMU) 77 *F*
+1 Wash Away (VOW) 87
+1 Weapon Surge (DGM) 40
+1 Wilderness Reclamation (C20) 196
+1 Witch's Web (VOW) 227 *F*
+1 Wort, the Raidmother (C20) 234
+1 Young Red Dragon / Bathe in Gold (CLB) 210
+1 Zada, Hedron Grinder (MUL) 25 *F*
+
+	In 
+1 Beamsplitter Mage (GRN) 155
+1 Beluna Grandsquall / Seek Thrills (WOE) 220
+1 Deflecting Swat (C20) 50
+1 Dragonsguard Elite (STX) 376 *F*
+1 Dreamroot Cascade (VOW) 262
+1 Frantic Search (DMR) 51
+1 Frontier Bivouac (C20) 275
+1 Fully Grown (IKO) 154
+1 Heightened Reflexes (IKO) 123
+1 Horned Loch-Whale / Lagoon Breach (WOE) 53
+1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
+1 Mirrorwing Dragon (EMN) 136
+1 Moonshae Pixie / Pixie Dust (CLB) 84
+1 Mossfire Valley (NCC) 414
+1 Ram Through (J22) 91
+1 Rimrock Knight / Boulder Rush (ELD) 294
+1 Stormcarved Coast (VOW) 265
+1 Sulfur Falls (ISD) 248
+1 The Celestus (MID) 252
+1 The Twelfth Doctor (WHO) 164
+1 Thousand-Year Storm (2X2) 286
+1 Training Center (CMR) 358
+1 Unwind (DOM) 72
+1 Urabrask / The Great Work (MOM) 169
+1 Veyran, Voice of Duality (C21) 3 *F*
+1 Virtue of Knowledge / Vantress Visions (WOE) 76
+1 Wild Defiance (AVR) 203
+1 Yavimaya, Cradle of Growth (MH2) 261
+
+	Out 

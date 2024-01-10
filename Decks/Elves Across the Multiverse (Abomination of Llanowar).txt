@@ -1,0 +1,104 @@
+Abomination of Llanowar
+1 Allosaurus Shepherd (JMP) 28
+1 Arcane Signet (VOC) 159
+1 Beast Whisperer (KHC) 54
+1 Beastcaller Savant (BFZ) 170
+1 Bone Shards (MH2) 76
+1 Canopy Tactician (KHM) 378
+1 Command Tower (KHC) 108
+1 Copperhorn Scout (SOM) 116
+1 Crown of Skemfar (KHC) 13
+1 Culling Ritual (STX) 172
+1 Deathbloom Ritualist (BRO) 208
+1 Elderfang Ritualist (KHM) 385
+1 Elderfang Venom (KHC) 15
+1 Elven Ambush (KHM) 391
+1 Elvish Archdruid (KHC) 57
+1 Elvish Mystic (KHC) 58
+1 Elvish Promenade (KHC) 59
+1 Elvish Warmaster (KHM) 167
+1 Exotic Orchard (VOC) 173
+1 Eyeblight's Ending (EMA) 88
+1 Farhaven Elf (KHC) 62
+10 Forest (KHM) 398
+1 Freyalise, Llanowar's Fury (CC1) 1 *F*
+1 Fyndhorn Elves (CMR) 228
+1 Gilt-Leaf Ambush (LRW) 214
+1 Gilt-Leaf Palace (LRW) 268
+1 Glistener Elf (NPH) 111
+1 Greater Good (AFC) 160
+1 Harald, King of Skemfar (KHM) 212
+1 Harvest Season (KHC) 63
+1 Hunting Triad (MOR) 127
+1 Immaculate Magistrate (CMR) 234
+1 Imperious Perfect (KHC) 64
+1 Incubation Druid (C21) 195
+1 Insidious Dreams (TOR) 66
+1 Jagged-Scar Archers (KHC) 65
+1 Jarad, Golgari Lich Lord (RTR) 174
+1 Jarad's Orders (RTR) 175
+1 Lathril, Blade of the Elves (KHC) 1 *F*
+1 Living Death (PLIST) 103
+1 Llanowar Elves (DOM) 168
+1 Llanowar Reborn (C21) 296
+1 Llanowar Tribe (H1R) 22 *E*
+1 Llanowar Wastes (C21) 297
+1 Lys Alana Huntmaster (KHC) 67
+1 Lys Alana Scarblade (KHC) 50
+1 Marwyn, the Nurturer (KHC) 68
+1 Moldervine Reclamation (C21) 225
+1 Nadier's Nightblade (CMR) 136
+1 Nullmage Shepherd (KHC) 70
+1 Overgrown Tomb (PGRN) 253p
+1 Pact of the Serpent (KHC) 9
+1 Phyresis (MBS) 49
+1 Poison-Tip Archer (KHC) 90
+1 Presence of Gond (C13) 161
+1 Priest of Titania (MB1) 1299
+1 Prowess of the Fair (KHC) 53
+1 Putrefy (MB1) 1466
+1 Rhys the Exiled (KHC) 73
+1 Ruthless Winnower (KHC) 10
+1 Secluded Courtyard (NEO) 512
+1 Shaman of the Pack (KHC) 92
+1 Skemfar Avenger (KHM) 109 *F*
+1 Skemfar Elderhall (KHM) 268
+1 Skemfar Shadowsage (KHM) 110
+1 Skyshroud Poacher (NEM) 119
+1 Storrev, Devkarin Lich (WAR) 219
+9 Swamp (KHM) 396
+1 Tainted Strike (SOM) 80
+1 Tel-Jilad Fallen (SOM) 130
+1 Temple of the False God (VOC) 187
+1 Timberwatch Elf (KHC) 76
+1 Triumph of the Hordes (MB1) 1363
+1 Twilight Mire (NCC) 443
+1 Tyvar Kell (PKHM) 198p
+1 Undergrowth Stadium (CMR) 359
+1 Unnatural Growth (MID) 365
+1 Viridian Betrayers (NPH) 124
+1 Viridian Corrupter (MBS) 94 *F*
+1 Wirewood Channeler (KHC) 79
+1 Wolverine Riders (KHC) 14
+1 Wood Elves (KHC) 80
+
+	In 
+1 Ancient Ziggurat (CON) 141
+1 Anoint with Affliction (ONE) 81
+1 Branchblight Stalker (ONE) 160
+1 Elvish Eulogist (LRW) 205
+1 Elvish Guidance (ONS) 255
+1 Elvish Lyrist (8ED) 242
+1 Galadhrim Ambush (LTC) 121
+1 Galadhrim Brigade (LTC) 546 *F*
+1 Infectious Inquiry (ONE) 97
+1 Llanowar Dead (APC) 109
+1 Llanowar Mentor (FUT) 131
+1 Lothlórien Blade (LTC) 77
+1 Mirrex (ONE) 254
+1 Phyresis Outbreak (ONC) 12
+1 Tyvar the Bellicose (MAT) 48
+1 Vraska's Fall (ONE) 116
+1 Windswift Slice (LTC) 128
+
+	Out 

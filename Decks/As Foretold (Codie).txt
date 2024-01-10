@@ -1,0 +1,169 @@
+    Codie
+1 Access Tunnel (STX) 262 *F*
+1 Akroma's Vengeance (C18) 62
+1 Alrund, God of the Cosmos / Hakka, Whispering Raven (KHM) 302
+1 Angel of the Ruins (C21) 11
+1 Approach of the Second Sun (Q06) 1
+1 Arcane Signet (NCC) 360
+1 Ash Barrens (SLD) 469 *F*
+1 Augury Raven (KHM) 44 *F*
+1 Behold the Multiverse (KHM) 46
+1 Cast Out (MB1) 46
+1 Command Tower (C20) 264
+1 Cosmic Intervention (KHC) 3
+1 Cosmos Charger (KHM) 51
+1 Demon Bolt (KHM) 129
+1 Depart the Realm (KHM) 53
+1 Desert of the Fervent (C21) 286
+1 Desert of the Mindful (HOU) 173
+1 Desert of the True (C20) 268
+1 Dismantling Wave (C20) 25
+1 Doomskar Oracle (KHM) 10
+1 Drifting Meadow (C20) 271
+1 Edgin, Larcenous Lutenist (SLD) 1242 *F*
+1 Ephara, God of the Polis (BNG) 145
+1 Etali, Primal Storm (SLD) 1123
+1 Ethereal Valkyrie (KHC) 16
+1 Exotic Orchard (MIC) 173
+1 Forgotten Cave (CMD) 273
+1 Future Sight (DDM) 33
+1 Gates of Istfell (KHM) 256
+1 Gavi, Nest Warden (C20) 7 *F*
+1 Glorious Protector (KHM) 335 *F*
+1 Gods' Hall Guardian (KHM) 13
+1 Hands of Binding (GTC) 37
+1 Hidden Strings (DGM) 12
+1 Hostile Desert (HOU) 178
+1 Inevitable Betrayal (MH2) 446
+1 Invasion of Kaldheim / Pyre of the World Tree (MOM) 145 *F*
+1 Iron Verdict (KHM) 17
+1 Irrigated Farmland (AKH) 245
+1 Jace, Arcane Strategist (WAR) 270 *F*
+1 Karfell Harbinger (KHM) 65
+1 Kaya's Onslaught (KHM) 18 *F*
+1 Key to the City (KLD) 220 *F*
+1 Lonely Sandbar (C20) 287
+1 Magus of the Future (TSR) 75
+1 Midnight Clock (VOC) 108
+1 Nadir Kraken (THB) 55
+1 Nephalia Academy (EMN) 205
+1 Neutralize (IKO) 59
+1 Niko Defies Destiny (KHM) 226 *F*
+1 Nimble Obstructionist (C20) 121
+1 Nomads' Assembly (ROE) 39
+1 Ominous Seas (IKO) 61 *F*
+1 One with the Multiverse (BRO) 59
+1 Platinum Angel (SLD) 496
+1 Psychosis Crawler (J22) 792
+1 Ranar the Ever-Watchful (KHC) 2 *F*
+1 Raugrin Crystal (IKO) 238
+1 Ravenform (KHM) 72
+1 Reconnaissance Mission (IKO) 65
+1 Reliquary Tower (DMC) 227
+1 Remote Isle (C20) 302
+1 Rogue's Passage (CN2) 220
+1 Sage of the Beyond (KHC) 6
+1 Saw It Coming (KHM) 76
+1 Scavenger Grounds (C20) 306
+1 Secluded Steppe (DDC) 25
+1 Shepherd of the Cosmos (KHM) 28 *F*
+1 Slice and Dice (C20) 159
+1 Smoldering Crater (C20) 313
+4 Snow-Covered Island (MH1) 251
+4 Snow-Covered Mountain (MH1) 253
+4 Snow-Covered Plains (MH1) 250
+1 Sol Talisman (MH2) 236 *F*
+1 Spectral Deluge (KHC) 7
+1 Spelltwine (DDM) 34
+1 Stoic Farmer (KHC) 5
+1 Stolen Identity (NCC) 233
+1 Tales of the Ancestors (KHC) 8
+1 Temple of the False God (MB1) 1691
+1 The Locust God (C20) 219
+1 Thought Vessel (CMR) 346 *F*
+1 Unpredictable Cyclone (IKO) 139
+1 Vega, the Watcher (KHM) 332 *F*
+1 Venser's Journal (C21) 273
+1 Vizier of Tumbling Sands (C20) 126
+1 Voidwalk (GTC) 55
+1 Warhorn Blast (KHM) 38
+1 Wizard Class (PLIST) 765
+1 Zenith Seeker (AKH) 77
+
+    In 
+1 Aid from the Cowl (AER) 105
+1 Alrund's Epiphany (KHM) 41
+1 Arbiter of the Ideal (BNG) 31
+1 Arwen Undómiel (LTR) 194
+1 Atla Palani, Nest Tender (DMC) 142
+1 Atraxa, Grand Unifier (ONE) 196
+1 Bag of Tricks (AFC) 37
+1 Battle Mammoth (CLB) 818
+1 Beacon of Unrest (2XM) 77
+1 Breaking / Entering (DGM) 124
+1 Castle Vantress (ELD) 242
+1 Clarion Ultimatum (ALA) 163
+1 Crystal Grotto (DMU) 246
+1 Delayed Blast Fireball (CLB) 676
+1 Dream Devourer (KHM) 90
+1 Elminster (CLB) 274
+1 Elrond, Master of Healing (LTR) 200
+1 Elvish Mariner (LTR) 283
+1 Frost Fair Lure Fish (WHO) 129
+1 Galadriel of Lothlórien (LTR) 206
+1 Gallifrey Falls / No More (WHO) 131
+1 Gandalf, White Rider (LTR) 389
+1 Geier Reach Sanitarium (DMC) 213
+1 Genesis Storm (C18) 30
+1 Genesis Ultimatum (IKO) 336
+1 Genesis Wave (LTC) 245
+1 Gnostro, Voice of the Crags (CMR) 276
+1 Green Slime (CLB) 680
+1 Hostile Hostel / Creeping Inn (MID) 264
+1 Impending Flux (WHO) 87
+1 Indatha Triome (IKO) 309
+1 Isolated Watchtower (C18) 59
+1 Jo Grant (WHO) 23
+1 Ketria Triome (IKO) 310
+1 Legolas, Counter of Kills (LTR) 212
+1 Lorehold Campus (STX) 268
+1 Majestic Genesis (CLB) 240
+1 Mnemonic Deluge (CMR) 82
+1 New Benalia (DDI) 35
+1 Nissa's Revelation (ORI) 191
+1 Peregrination (BNG) 132
+1 Planar Bridge (AER) 171
+1 Poison the Cup (KHM) 403
+1 Prismari Campus (STX) 270
+1 Quandrix Campus (STX) 271
+1 Raugrin Triome (IKO) 311
+1 Reshape the Earth (CMR) 249
+1 Rise of the Dread Marn (PKHM) 107p
+1 Savai Triome (IKO) 312
+1 See the Unwritten (KTK) 149
+1 Selvala's Stampede (CN2) 71
+1 Silverquill Campus (MOC) 423
+1 Slip Out the Back (SNC) 62
+1 Sonic Screwdriver (WHO) 184
+1 Starlit Mantle (THB) 67
+1 Starnheim Unleashed (KHM) 294
+1 Struggle for Skemfar (KHM) 196
+1 Temple of Abandon (THS) 224
+1 Temple of Deceit (CLB) 922
+1 Temple of Enlightenment (NEC) 180
+1 Temple of Enlightenment (BRC) 206
+1 Temple of Epiphany (CLB) 923
+1 Temple of Epiphany (BRC) 207
+1 Temple of Malady (M21) 253
+1 Temple of Malice (PTHB) 247p
+1 Temple of Mystery (40K) 299
+1 Temple of Plenty (BNG) 165
+1 Temple of Silence (ONC) 171
+1 Temple of Triumph (ONC) 173
+1 The Grey Havens (LTR) 255
+1 Turntimber Symbiosis / Turntimber, Serpentine Wood (ZNR) 215
+1 Witherbloom Campus (STX) 275
+1 Zagoth Triome (IKO) 313
+    Out 
+Hands of Binding 
+Hidden Strings
