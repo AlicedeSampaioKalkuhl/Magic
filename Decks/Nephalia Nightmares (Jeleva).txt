@@ -2,28 +2,29 @@ Jeleva, Nephalia's Scourge
 1 Access Tunnel (STX) 262
 1 Acquire (5DN) 21
 1 Aqueous Form (CMR) 56
-1 Arcane Signet (KHC) 96
+1 Arcane Signet (C21) 234
 1 Beyeen Veil / Beyeen Coast (ZNR) 46
-1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (PKHM) 123s *F*
-1 Bojuka Bog (MIC) 167
-1 Brain Freeze (PLIST) 46
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
+1 Bojuka Bog (C19) 232
+1 Brain Freeze (SCG) 29
 1 Brainstorm (STA) 13
-1 Clone Legion (DTK) 48
+1 Breach the Multiverse (MOM) 358
+1 Call Forth the Tempest (LTC) 553 *F*
+1 Clone Legion (C17) 84
 1 Clout of the Dominus (EVE) 99
 1 Command Tower (C15) 281
-1 Crumbling Necropolis (DDH) 74
+1 Crumbling Necropolis (C13) 283
 1 Cut Your Losses (SNC) 410 *F*
+1 Dance with Calamity (MOC) 29
 1 Didn't Say Please (ELD) 42
 1 Dimir Cluestone (DGM) 138
 1 Double Vision (M21) 142
-1 Drown in the Loch (ELD) 188
+1 Dragonskull Summit (WHO) 490 *F*
 1 Drowned Secrets (GRN) 39 *F*
-1 Enter the Infinite (GTC) 34
 1 Fated Return (ZNC) 42
-1 Flood of Recollection (CMR) 61
 1 Fractured Sanity (MH2) 44
-1 Glimpse the Unthinkable (GK1) 15
 1 Hall of Oracles (STX) 267
+1 Haunted Ridge (WHO) 1093 *F*
 1 Hunted by The Family (WHO) 46
 1 In Garruk's Wake (PM15) 100 *F*
 6 Island (MID) 270
@@ -34,21 +35,21 @@ Jeleva, Nephalia's Scourge
 1 Maddening Cacophony (ZNR) 67
 1 Mana Geode (WAR) 241
 1 Memory Lapse (STA) 16
-1 Memory Plunder (CLB) 849
 1 Metallurgic Summonings (KLD) 56
 1 Mind Funeral (ARB) 26
 1 Mind Stone (PW21) 5 *F*
 1 Mnemonic Deluge (CMR) 82
 6 Mountain (VOW) 274
 1 Mystical Tutor (6ED) 83
-1 Necromantic Selection (ZNC) 48
-1 Nightscape Familiar (DDH) 44
+1 Necromantic Selection (C17) 117
+1 Nightscape Familiar (C13) 83
 1 Obelisk of Grixis (E01) 88
 1 Otawara, Soaring City (NEO) 414
+1 Paranoid Delusions (GTC) 186
 1 Peer into the Abyss (PM21) 117p
 1 Perplex (RAV) 217
 1 Propaganda (TMP) 80
-1 Rakdos Signet (CMD) 257
+1 Rakdos Signet (VOC) 166
 1 Ring of Valkas (M13) 214
 1 Rise from the Tides (UMA) 67 *F*
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289
@@ -56,50 +57,38 @@ Jeleva, Nephalia's Scourge
 1 Seer's Lantern (OGW) 165
 1 Seize the Day (SLD) 1172
 1 Shelldock Isle (SLD) 230 *F*
-1 Sleep (M10) 71
 1 Sokenzan, Crucible of Defiance (NEO) 415
-1 Sol Ring (C17) 223
+1 Sol Ring (C21) 263
+1 Sorcerous Squall (LTC) 548 *F*
 1 Spell Pierce (NEO) 80
-1 Spell Satchel (STX) 258
-1 Sphinx's Tutelage (MB1) 502
+1 Sphinx's Tutelage (ORI) 76
 1 Startled Awake / Persistent Nightmare (SOI) 88
 1 Stolen Goods (C15) 107
 1 Stolen Identity (NCC) 233
 1 Strionic Resonator (NCC) 381
 1 Study Hall (C21) 80
-1 Sunken Hollow (BFZ) 249
+1 Subjugate the Hobbits (LTC) 107
+1 Summons of Saruman (LTC) 70
 5 Swamp (MID) 272
 1 Tasha, the Witch Queen (CLB) 294
 1 Tasha's Hideous Laughter (AFR) 368
-1 Teferi's Tutelage (M21) 296
+1 Teferi's Tutelage (M21) 78
 1 Temple of Deceit (MIC) 184
-1 Temple of Malice (VOC) 186
-1 Thassa's Oracle (PTHB) 73p
+1 Temple of Malice (WHO) 908 *F*
+1 Thassa's Oracle (THB) 73
 1 The Biblioplex (STX) 264
 1 Thousand-Year Storm (GRN) 207 *F*
 1 Training Center (CMR) 358
 1 Traumatize (10E) 119
 1 Tunnel Vision (RAV) 72
 1 Umbris, Fear Manifest (VOC) 38
-1 Waste Management (NCC) 40
-1 Watery Grave (GTC) 249
 1 Whispersilk Cloak (PC2) 115
 1 World at War (ROE) 172
-
-
 	In 
 1 Archive Trap (PLIST) 355
-1 Blightstep Pathway / Searstep Pathway (KHM) 252
-1 Breach the Multiverse (MOM) 94
-1 Call Forth the Tempest (LTC) 509
-1 Clearwater Pathway / Murkwater Pathway (ZNR) 260
-1 Dance with Calamity (MOC) 29
-1 Dragonskull Summit (C16) 292
 1 Drowned Catacomb (M11) 224
 1 Glamdring (LTR) 239
-1 Haunted Ridge (PMID) 263p
 1 Hit the Mother Lode (LCI) 153
-1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
 1 Nephalia Academy (EMN) 205
 1 Psychic Corrosion (M19) 68
 1 Rise of the Dark Realms (M14) 111
@@ -107,10 +96,8 @@ Jeleva, Nephalia's Scourge
 1 Shipwreck Marsh (MID) 267
 1 Skull Storm (C18) 18
 1 Stormcarved Coast (VOW) 265
-1 Subjugate the Hobbits (LTC) 107
 1 Sulfur Falls (PDOM) 247p
 1 Telemin Performance (CON) 35
-1 Urabrask / The Great Work (MOM) 169
 1 Xander's Lounge (SNC) 260
-
 	Out 
+Riverglide Pathway 

@@ -86,6 +86,7 @@ decks<-decks%>%#priority 5: Tournament cEDH
   add_row(deck="Through Time and Space",commander="Susan & The Twelfth Doctor",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=T,R=F,G=T,artist="Wangjie Li,Alexander Mokhov",plane='Tardis,Tardis')%>% 
   add_row(deck="Walls With Spikes",commander="Donna Noble & The Fifth Doctor",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=F,R=T,G=F,artist="Andrey Kuzinskiy,Jake Murray",plane='Tardis,Tardis')%>%
   add_row(deck="Wanted for Treason",commander="Rex Nebula",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=F,B=F,R=T,G=F,artist="Alexander Mokhov",plane='Space')%>%
+  add_row(deck="Wolf in Sheep's Clothing",commander="Vislor & The Second Doctor",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=T,U=T,B=T,R=F,G=F,artist="Wangjie Li,Bryan Sola",plane='Tardis,Tardis')%>%
   add_row(deck="Yorkshire Puddings",commander="The Thirteenth Doctor & K-9 Mart I",power="5",played=0,won=0,draw=0,lost=0,priority="1",W=F,U=T,B=F,R=F,G=T,artist="Lenka Šimečková,Tyler Walpole",plane='Tardis,Tardis')
 
 # colour distibution

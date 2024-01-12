@@ -1,0 +1,104 @@
+    Vislor Turlough & The Second Doctor
+1 Arcane Denial (ALL) 22b
+1 Arcane Laboratory (7ED) 60
+1 Arcane Sanctum (NCC) 385
+1 Arcane Signet (LTC) 273
+1 Azorius Signet (RVR) 250
+1 Baleful Mastery (STX) 64
+1 Black Vise (SUM) 236
+1 Blue Sun's Zenith (MBS) 20
+1 Bojuka Bog (WWK) 132
+1 Boseiju, Who Shelters All (CHK) 273
+1 Breena, the Demagogue (C21) 1 *F*
+1 Clone (M11) 49
+1 Collective Restraint (INV) 49
+1 Command Tower (NEC) 167
+1 Consecrated Sphinx (2X2) 345
+1 Crawlspace (DMR) 217
+1 Curse of Fool's Wisdom (C19) 16
+1 Cut a Deal (ONC) 63
+1 Dark Deal (FRF) 66
+1 Decanter of Endless Water (CLB) 444
+1 Depopulate (PSNC) 10p
+1 Deserted Beach (WHO) 270
+1 Dictate of Kruphix (JOU) 37
+1 Dimir Signet (RVR) 256
+1 Diplomatic Immunity (MMQ) 75
+1 Dovin's Veto (WAR) 193
+1 Drowned Catacomb (LTC) 305
+1 Ebony Owl Netsuke (SOK) 154
+1 Everybody Lives! (WHO) 18
+1 Exotic Orchard (DMC) 209
+1 Fate Unraveler (C15) 126
+1 Folio of Fancies (PELD) 46p
+1 Followed Footsteps (RAV) 51
+1 Font of Mythos (CON) 136
+1 Forced Fruition (WOT) 18
+1 Fractured Identity (WHO) 236
+1 Geier Reach Sanitarium (LCC) 335
+1 Ghostly Prison (CN2) 86
+1 Glacial Fortress (WHO) 285
+1 Gwafa Hazid, Profiteer (C16) 202
+1 Heliod, the Radiant Dawn / Heliod, the Warped Eclipse (MOM) 17
+1 Horn of Greed (CN2) 211
+1 Howling Mine (9ED) 298
+1 Iron Maiden (ULG) 127
+4 Island (M20) 268
+1 Isolated Chapel (LTC) 318
+1 Kami of the Crescent Moon (SOK) 42
+1 Kwain, Itinerant Meddler (CMR) 284
+1 Laboratory Maniac (MB1) 415
+1 Lightning Greaves (CMA) 220
+1 Loran of the Third Path (BRO) 12
+1 Malleable Impostor (WOC) 10
+1 Master of the Feast (JOU) 75
+1 Maze of Ith (DMR) 250
+1 Mikokoro, Center of the Sea (C21) 302
+1 Minds Aglow (CM2) 46
+1 Misleading Signpost (WOC) 11
+1 Morphic Pool (CLB) 357
+1 Norn's Annex (ONC) 83
+1 Ob Nixilis, the Hate-Twisted (WAR) 100
+1 Orcish Bowmasters (LTR) 103
+1 Orzhov Signet (RVR) 263
+1 Peer into the Abyss (M21) 117
+4 Plains (M21) 262
+1 Price of Knowledge (C13) 89
+1 Propaganda (C16) 94
+1 Raffine's Tower (PSNC) 254p
+1 Reliquary Tower (C14) 308
+1 Render Silent (DGM) 96
+1 Reverse the Polarity (WHO) 54
+1 Sea of Clouds (CLB) 360
+1 Seizan, Perverter of Truth (J22) 463
+1 Shattered Sanctum (PVOW) 264s *F*
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Shipwreck Marsh (WHO) 305
+1 Smothering Tithe (PRNA) 22p
+1 Sol Ring (CM2) 217
+1 Solitary Confinement (MH2) 265
+1 Sphinx of the Final Word (OGW) 63
+1 Supreme Verdict (LTC) 272
+4 Swamp (GVL) 61
+1 Sword of War and Peace (NPH) 161
+1 Taigam, Ojutai Master (C17) 46
+1 Teferi's Puzzle Box (8ED) 316
+1 Telepathy (9ED) 101
+1 Temple Bell (C16) 277
+1 The Council of Four (CLB) 271
+1 The Wedding of River Song (WHO) 31
+1 Thought Distortion (M20) 117
+1 Thought Vessel (WHO) 255
+1 Tidal Barracuda (C20) 39
+1 Triskaidekaphile (PMID) 81p
+1 Underworld Dreams (THB) 121
+1 Urborg, Tomb of Yawgmoth (LTC) 405 *F*
+1 Vault of Champions (CMM) 436
+1 Viseling (NEM) 140
+1 Void Rend (PSNC) 230p
+1 Wedding Ring (WHO) 213
+1 Wheel and Deal (ONS) 121
+1 Windborn Muse (ONC) 91
+1 Windfall (LCC) 180
+1 Words of Wisdom (ODY) 114
+1 Wound Reflection (WHO) 223

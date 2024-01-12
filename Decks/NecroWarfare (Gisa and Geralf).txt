@@ -116,6 +116,8 @@ Gisa and Geralf
 1 Vengeful Dead (SCG) 80
 1 Vengeful Pharaoh (M12) 116
 1 Wand of Orcus (AFC) 297
+Zombie Master
+Corpse Harvester
 
 	Out 
 Lilia, Death's Mastery
