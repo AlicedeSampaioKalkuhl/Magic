@@ -1,7 +1,9 @@
     Ertai, the Corrupted 
 1 Ajani's Chosen (C18) 61
 1 Alela, Artful Provocateur (SLD) 1197 *F*
+1 Alela, Cunning Conqueror (WOC) 3 *F*
 1 Arcane Sanctum (NCC) 385
+1 Archmage of Echoes (WOC) 9
 1 Archon of Sun's Grace (WOC) 61
 1 Astral Dragon (CLB) 664
 1 Aura Thief (PLIST) 753
@@ -19,11 +21,9 @@
 1 Conceited Witch / Price of Beauty (WOE) 84
 1 Cursed Courtier (WOE) 9
 1 Dark Tutelage (WOT) 28
-1 Daxos, Blessed by the Sun (PLIST) 304
 1 Deserted Beach (WHO) 270
 1 Dictate of Erebos (MB1) 625
 1 Dovescape (GK2) 11
-1 Dovin, Hand of Control (WAR) 229
 1 Dream Spoilers (WOE) 85
 1 Drowned Catacomb (WHO) 274
 1 Drumbellower (NEC) 6
@@ -38,9 +38,8 @@
 1 Glacial Fortress (WHO) 285
 1 Glen Elendra Liege (2X2) 217
 1 Hall of Heliod's Generosity (WOC) 162
-1 Hateful Eidolon (THB) 101
 1 Heliod's Emissary (THS) 18
-1 Hidden Stockpile (2XM) 201
+1 Hidden Stockpile (AER) 129
 1 Hopeful Eidolon (THS) 19
 1 Hypnotic Siren (JOU) 42
 1 Hypnotic Sprite / Mesmeric Glare (ELD) 49 *F*
@@ -48,7 +47,8 @@
 1 Intruder Alarm (SLD) 229 *F*
 3 Island (BRO) 281
 1 Isolated Chapel (DMR) 249
-1 Leyline of Anticipation (CLB) 726
+1 Leyline of Anticipation (WOT) 23 *F*
+1 Lord Skitter's Blessing (WOE) 98 *F*
 1 Magewright's Stone (DIS) 162
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mind's Dilation (SLD) 1180
@@ -77,7 +77,6 @@
 1 Serra's Sanctum (USG) 325
 1 Shattered Sanctum (DBL) 531
 1 Shipwreck Marsh (WHO) 305
-1 Space Beleren (UNF) 178
 1 Spell Stutter (WOE) 69
 1 Spiteful Returned (BNG) 84
 3 Swamp (BRO) 282 *F*
@@ -94,16 +93,13 @@
 1 Zur, Eternal Schemer (PDMU) 228p
 
     In 
-1 Alela, Cunning Conqueror (WOC) 3
 1 Asinine Antics (WOE) 42
 1 Eriette of the Charmed Apple (WOE) 202
 1 Faerie Slumber Party (WOE) 371
 1 Get Lost (LCI) 14
-1 Lord Skitter's Blessing (WOE) 98
 1 Neva, Stalked by Nightmares (WOE) 209
 1 Spellbook Vendor (WOE) 31
 1 Spiteful Hexmage (WOE) 108
-1 Stab Wound (MB1) 780
 1 Tegwyll's Scouring (WOC) 16
 
     Out 

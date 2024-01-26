@@ -1,94 +1,121 @@
     Clara Oswald & The Ninth Doctor 
-1 Adric, Mathematical Genius (WHO) 33
+1 Adric, Mathematical Genius (WHO) 351
 1 Archivist of Gondor (LTC) 18
-1 As Foretold (2X2) 38
+1 As Foretold (WHO) 1060 *F*
+1 Azure Fleet Admiral (LCC) 144
 1 Bloodgift Demon (ISD) 89
-1 Bojuka Bog (LCC) 320
 1 Braid of Fire (SLD) 1247 *F*
-1 Cabal Coffers (MH2) 301
-1 Caves of Chaos Adventurer (CLB) 167
-1 Command Tower (C13) 281
-1 Court of Ambition (CMR) 114
+1 Caves of Chaos Adventurer (CLB) 167 *F*
+1 Command Tower (WHO) 265
+1 Copy Enchantment (WOT) 16 *F*
 1 Court of Cunning (CMR) 63
-1 Court of Embereth (WOC) 24
 1 Court of Ire (CMR) 170
-1 Court of Vantress (WOC) 22
+1 Court of Locthwain (WOC) 23 *F*
+1 Court of Vantress (WOC) 22 *F*
 1 Coward / Killer (WHO) 77
-1 Creeping Bloodsucker (J22) 21
-1 Crumbling Necropolis (LCC) 326
-1 Darksteel Reactor (DST) 114
+1 Crown of Gondor (LTC) 75
+1 Crumbling Necropolis (WHO) 268
+1 Cursed Mirror (BRC) 115
+1 Custodi Lich (NCC) 244
 1 Dragonmaster Outcast (ONC) 98
+1 Emberwilde Captain (CMR) 175 *F*
+1 Endless Ranks of the Dead (J22) 410
+1 Entrails Feaster (ONS) 143
+1 Exotic Orchard (WHO) 493 *F*
+1 Goblin Assault (MM3) 95
+1 Haunted Ridge (WHO) 286
+1 Herald of Leshrac (CSP) 62 *F*
+1 Inspiring Refrain (C21) 354
+10 Island (WHO) 198 *F*
+1 Jhoira of the Ghitu (DDS) 1 *F*
+1 Keeper of Keys (CN2) 34 *F*
+1 Lithoform Engine (ZNR) 375
+1 Loot Dispute (CLB) 677
+1 Midnight Clock (CLB) 727
+1 Mirror Box (NEO) 250
+1 Mirrorhall Mimic / Ghastly Mimicry (VOW) 361 *F*
+1 Moonsnare Prototype (NEO) 69
+1 Gallifrey Council Chamber (WHO) 188
+9 Mountain (WHO) 1163 *F*
+1 Patriar's Seal (CLB) 332
+1 Ravenloft Adventurer (CLB) 577 *F*
+1 Relic of Legends (DMU) 236
+1 Reliquary Tower (BRC) 196
+1 Replicating Ring (KHM) 244 *F*
+1 Replication Technique (C21) 358
+1 Reverse the Polarity (WHO) 54
+1 Rousing Refrain (C21) 56
+1 Run for Your Life (WHO) 154
+1 Sarevok's Tome (CLB) 685
+1 Skyline Despot (CMM) 254
+1 Sol Ring (WHO) 245 *F*
+1 Sol Talisman (MH2) 472
+1 Sonic Screwdriver (WHO) 185 *F*
+1 Spark Double (WAR) 68
+1 Sphinx of the Second Sun (CMR) 643 *F*
+1 Springleaf Drum (LRW) 261
+1 Stolen Identity (NCC) 233
+1 Stolen Strategy (CLB) 807
+1 Strionic Resonator (BRC) 165
+9 Swamp (WHO) 1161 *F*
+1 Tamiyo's Journal (J22) 800
+1 TARDIS (WHO) 187
+1 Temple of the False God (C20) 319
+1 The Brothers' War (BRC) 22 *F*
+1 The Master, Multiplied (WHO) 146
+1 The Parting of the Ways (WHO) 91
+1 The Tenth Doctor (WHO) 561 *F*
+1 There and Back Again (LTR) 151
+1 Thopter Spy Network (BRC) 97
+1 Time Lord Regeneration (WHO) 664 *F*
+1 Tomb of Horrors Adventurer (CLB) 100 *F*
+1 Trenzalore Clocktower (WHO) 1054 *F*
+1 Twilight Prophet (RIX) 88
+1 Venser's Journal (C21) 273
+    In 
+1 Bojuka Bog (LCC) 320
+1 Cabal Coffers (MH2) 301
+1 Court of Ambition (CMR) 114
+1 Court of Embereth (WOC) 24
+1 Creeping Bloodsucker (J22) 21
+1 Darksteel Reactor (DST) 114
 1 Dragonskull Summit (WHO) 272
 1 Drowned Catacomb (WHO) 274
 1 Dungeon Delver (CLB) 67
-1 Emberwilde Captain (CMR) 175
 1 Endless Evil (CLB) 665
-1 Endless Ranks of the Dead (J22) 410
-1 Entrails Feaster (ONS) 143
 1 Estrid's Invocation (C18) 8
-1 Exotic Orchard (LCC) 329
 1 Extravagant Replication (NCC) 25
 1 Followed Footsteps (RAV) 51
-1 Goblin Assault (MM3) 95
-1 Haunted Ridge (WHO) 286
+1 Gemstone Array
 1 Helm of the Host (PDOM) 217p
-1 Herald of Leshrac (CSP) 62
-1 Inspiring Refrain (C21) 27
-4 Island (UNF) 241
-1 Jhoira of the Ghitu (DDS) 1 *F*
-1 Keeper of Keys (CN2) 34
-1 Kiora Bests the Sea God (PTHB) 52p
-1 Lithoform Engine (PZNR) 245p
-1 Loot Dispute (CLB) 677
 1 Luxury Suite (CLB) 355
 1 Maestros Theater (SNC) 251
 1 Marchesa's Decree (CN2) 44
-1 Mirrorhall Mimic / Ghastly Mimicry (VOW) 68
-1 Moonsnare Prototype (NEO) 69
 1 Morphic Pool (CLB) 357
-4 Mountain (UNF) 243
 1 Mox Tantalite (MH1) 226
 1 Paradox Haze (TSP) 71
 1 Portal to Phyrexia (BRO) 240
-1 Ravenloft Adventurer (CLB) 142
-1 Relic of Legends (DMU) 236
-1 Reliquary Tower (C14) 308
-1 Replicating Ring (KHM) 244
 1 Rogue's Passage (LCC) 349
-1 Rousing Refrain (C21) 56
-1 Run for Your Life (WHO) 154
 1 Sakashima of a Thousand Faces (CMR) 89
-1 Sarevok's Tome (CLB) 685
-1 Sheoldred, Whispering One (MUL) 16
+1 Sheoldred, Whispering One (SLD) 211
 1 Shipwreck Marsh (WHO) 305
-1 Skyline Despot (CMM) 254
-1 Sol Talisman (MH2) 236
-1 Sonic Screwdriver (WHO) 184
-1 Spark Double (WAR) 68
-1 Sphinx of the Second Sun (CMR) 99
-1 Springleaf Drum (BRR) 55
-1 Stolen Strategy (CLB) 807
 1 Stormcarved Coast (WHO) 308
-1 Strionic Resonator (LCC) 116
 1 Sulfur Falls (DOM) 247
-3 Swamp (UNF) 242
-1 Tamiyo's Journal (J22) 800
-1 TARDIS (WHO) 187
-1 Temple of the False God (VOC) 187
-1 The Brothers' War (BRC) 22
-1 The Parting of the Ways (WHO) 91
-1 The Tenth Doctor (WHO) 561
-1 There and Back Again (LTR) 151
-1 Thopter Spy Network (MOC) 241
 1 Throne of the High City (LTC) 339
-1 Tomb of Horrors Adventurer (CLB) 100
 1 Training Center (CMM) 434
-1 Trenzalore Clocktower (WHO) 190
-1 Twilight Prophet (LCC) 211
-1 Urborg, Tomb of Yawgmoth (PLC) 165
-1 Venser's Journal (C16) 279
-1 Virtue of Persistence / Locthwain Scorn (WOE) 115
+1 Urborg, Tomb of Yawgmoth (PLC) 165g
 1 Weed-Pruner Poplar (MOR) 83
-    In 
-
+Propaganda
+Dominus of FealtyMana Flare g
     Out 
+Archivist of Gondor out
+Enthrails Feaster out
+Coward / Killer out
+Keeper of Keys out
+The Brothers' War out
+There and Back Again out
+The Parting of the Ways out
+Sol Ring out
+Arcane Signet out 
+Corwn of Gondor out
+

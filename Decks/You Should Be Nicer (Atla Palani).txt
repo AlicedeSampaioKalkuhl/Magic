@@ -2,7 +2,8 @@ Atla Palani, Nest Tender
 1 Ancient Ziggurat (MB1) 1653
 1 Archon of Absolution (ELD) 3
 1 Archon of Valor's Reach (C20) 202
-1 Arni Brokenbrow (KHM) 120
+1 Arni Brokenbrow (KHM) 120	
+1 Atzocan Seer
 1 Avacyn's Pilgrim (MM3) 119 *F*
 1 Axgard Cavalry (KHM) 121
 1 Bane of Progress (CC1) 3
@@ -69,7 +70,6 @@ Atla Palani, Nest Tender
 1 Terastodon (P30A) 18 *F*
 1 Terramorphic Expanse (10E) 360
 1 Thalia, Guardian of Thraben (VOW) 331 *F*
-1 Tithe Taker (WOC) 80
 1 Tomik, Distinguished Advokist (WAR) 34 *F*
 1 Trostani's Summoner (PDGM) 110
 1 Urabrask the Hidden (CLB) 811

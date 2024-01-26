@@ -1,4 +1,3 @@
-    Quintorius, Field Historian 
 1 Aether Shockwave (SOK) 1
 1 Afterlife (C14) 64
 1 Andúril, Flame of the West (LTR) 236
@@ -8,7 +7,7 @@
 1 Ashnod's Altar (CMM) 368
 1 Balefire Liege (2X2) 180
 1 Battlefield Forge (ORI) 244
-1 Blazing Shoal (PLIST) 682
+1 Blazing Shoal (PLST) BOK-96
 1 Boon of the Spirit Realm (CMM) 720
 1 Boros Locket (GRN) 231
 1 Buried Ruin (JMP) 491
@@ -97,3 +96,4 @@
     In 
 
     Out 
+    

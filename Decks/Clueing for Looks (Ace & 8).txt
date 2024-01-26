@@ -1,97 +1,131 @@
     Ace, Fearless Rebel & The Eigth Doctor 
-1 Academy Manufactor (MH2) 219
-1 Agent's Toolkit (NCC) 66
+1 Academy Manufactor (MH2) 469
+1 Ace's Baseball Bat (WHO) 170
 1 Aid from the Cowl (MOC) 290
-1 All That Glitters (CMM) 9
-1 Alloy Myr (JMP) 457
+1 Alistair, the Brigadier (WHO) 112 *F*
+1 Alloy Myr (MB1) 1544
 1 Amareth, the Lustrous (CMR) 266
-1 Ancient Den (MB1) 1652
 1 Angelic Sleuth (NCC) 12
+1 Arcane Signet (WHO) 239
+1 Blossoming Sands (SCD) 291
+1 Briarbridge Patrol (SOI) 195
+1 Bronze Guardian (C21) 13
+1 Bronze Walrus (CLB) 302 *F*
+1 Bygone Bishop (SOI) 8
+1 Call for Unity (AER) 9
+1 Command Tower (40K) 271
+1 Copper Myr (SOM) 146
+1 Cyberdrive Awakener (NEC) 12
+1 Darksteel Citadel (C21) 285
+1 Duggan, Private Detective (WHO) 409 *F*
+1 Encroaching Mycosynth (ONE) 380
+1 Exotic Orchard (WHO) 276
+1 Fae Offering (MH2) 158
+1 Faerie Vandal (SNC) 44
+1 Filigree Attendant (MH2) 41
+1 Filigree Vector (MOC) 102
+1 Find the Path (AFR) 183
+1 Five Hundred Year Diary (WHO) 42
+1 Fleeting Memories (SOI) 62
+6 Forest (WHO) 204
+1 Gingerbread Cabin (ELD) 245
+1 Gold Myr (SOM) 157
+1 Hard Evidence (MH2) 46
+1 Hargilde, Kindly Runechanter (SLX) 5
+1 Idol of Oblivion (C19) 55
+1 Investigator's Journal (VOW) 345 *F*
+7 Island (WHO) 198
+1 Jaheira, Friend of the Forest (CLB) 237
+1 Katsumasa, the Animator (NEC) 15
+1 Killer Service (NCC) 61
+1 Lonis, Cryptozoologist (MH2) 370
+1 Magnifying Glass (SOI) 258 *F*
+1 Martha Jones (WHO) 48
+1 Metallic Rebuke (2XM) 59
+1 Nettlecyst (MOC) 367
+1 Ongoing Investigation (SOI) 77
+1 Palladium Myr (SOM) 190
+1 Parcel Myr (MH2) 54
+4 Plains (WHO) 196
+1 Press for Answers (SOI) 80
+1 Rise and Shine (MOC) 233
+1 Rogue's Passage (WHO) 299
+1 Root Out (SOI) 224
+1 Sarah Jane Smith (WHO) 6 *F*
+1 Search the Premises (MH2) 332
+1 Seaside Citadel (C13) 318
+1 Shimmer Dragon (MOC) 236
+1 Silver Myr (SOM) 202
+1 Smothering Tithe (PRNA) 22p
+1 Sol Ring (CC1) 7
+1 Survive the Night (MB1) 252
+1 Tamiyo, Compleated Sage (NEO) 238
+1 Tamiyo, Field Researcher (SLD) 89 *F*
+1 Tamiyo's Journal (J22) 800
+1 Tanglepool Bridge (MH2) 257
+1 Temple of Enlightenment (MOC) 432
+1 Temple of Mystery (C21) 324
+1 Temple of Plenty (WHO) 319
+1 Temple of the False God (WHO) 320
+1 Tezzeret, Betrayer of Flesh (NEO) 84
+1 The Fourth Doctor (WHO) 1146 *F*
+1 The Goose Mother (WOE) 204
+1 The Third Doctor (WHO) 554
+1 Thorough Investigation (AFC) 12
+1 Thousand Moons Smithy / Barracks of the Thousand (LCI) 39
+1 Tireless Provisioner (MOC) 313
+1 Tireless Tracker (SLD) 711
+1 Trail of Evidence (SOI) 93
+1 Tranquil Cove (40K) 303
+1 Ulvenwald Mysteries (2XM) 184
+1 Vitu-Ghazi, the City-Tree (WOC) 173
+1 Wavesifter (MH2) 217
+1 Weirding Wood (SOI) 240
+1 Whirler Rogue (ZNC) 39
+    In 
+1 Agent's Toolkit (NCC) 66
+1 All That Glitters (CMM) 9
+1 Ancient Den (MB1) 1652
 1 Anointed Procession (AKH) 2
-1 Arcane Signet (LCC) 299
 1 Bootleggers' Stash (PSNC) 134p
 1 Bountiful Promenade (BBD) 81
-1 Briarbridge Patrol (SOI) 195
 1 Briarbridge Tracker (MID) 172
-1 Bronze Guardian (BRC) 70
-1 Bygone Bishop (SOI) 8
-1 Call for Unity (LTC) 163
 1 Candy Trail (WOE) 243
 1 Command Tower (NEC) 167
 1 Confirm Suspicions (SOI) 53
 1 Confront the Unknown (SOI) 198
-1 Copper Myr (HOP) 109
 1 Crack Open (MH2) 154
-1 Cyberdrive Awakener (NEC) 12
 1 Deserted Beach (WHO) 270
 1 Disorder in the Court (VOC) 29
 1 Dreamroot Cascade (WHO) 273
-1 Duggan, Private Detective (WHO) 123
-1 Eccentric Apprentice (AFR) 57
-1 Encroaching Mycosynth (ONE) 47
 1 Ethereal Investigator (VOC) 12
 1 Exotic Orchard (MOC) 398
-1 Fae Offering (MH2) 158
-1 Filigree Vector (MOC) 15
-1 Find the Path (AFR) 183
-1 Five Hundred Year Diary (WHO) 42
-1 Fleeting Memories (SOI) 62
 3 Forest (KLD) 263
 1 Gallifrey Council Chamber (WHO) 188
 1 Glacial Fortress (WHO) 285
-1 Gold Myr (SOM) 157
 1 Graf Mole (SOI) 207
 1 Hinterland Harbor (LCC) 336
 1 Hold for Questioning (J22) 11
-1 Idol of Oblivion (BRC) 144
 1 In Too Deep (NCC) 27
 1 Inspiring Statuary (CMM) 394
 1 Inventors' Fair (KLD) 247
-1 Investigator's Journal (VOW) 345
 3 Island (MOM) 278
-1 Jaheira, Friend of the Forest (CLB) 237
-1 Killer Service (NCC) 61
 1 Krark-Clan Ironworks (5DN) 134
-1 Lonis, Cryptozoologist (MH2) 370
-1 Magnifying Glass (SOI) 258
-1 Martha Jones (WHO) 48
-1 Nettlecyst (MH2) 231
-1 Ongoing Investigation (SOI) 77
 1 Overgrown Farmland (WHO) 292
-1 Palladium Myr (CM2) 207
-1 Parcel Myr (MH2) 54
 3 Plains (M21) 262
-1 Press for Answers (SOI) 80
 1 Rampage of the Clans (RNA) 134
 1 Rejuvenating Springs (CMM) 424
 1 Reliquary Tower (C14) 308
-1 Rise and Shine (MOC) 233
-1 Root Out (MOC) 311
 1 Sea of Clouds (BBD) 84
-1 Search the Premises (MH2) 29
-1 Seaside Citadel (WHO) 302
 1 Seat of the Synod (DDF) 74
-1 Shimmer Dragon (MOC) 236
-1 Silver Myr (SOM) 202
-1 Smothering Tithe (PRNA) 22p
-1 Sol Ring (CM2) 217
 1 Spara's Headquarters (PSNC) 257p
 1 Sunpetal Grove (PXLN) 257p
-1 Survive the Night (MB1) 252
-1 Tamiyo, Field Researcher (SLD) 89 *F*
-1 Tamiyo's Journal (SOI) 265
-1 Temple of Enlightenment (PTHB) 246p
-1 Temple of Mystery (LCC) 357
-1 Temple of Plenty (MOC) 435
-1 Tezzeret, Betrayer of Flesh (NEO) 84
-1 Thorough Investigation (AFC) 12
-1 Tireless Provisioner (MH2) 180
-1 Tireless Tracker (SOI) 233
-1 Trail of Evidence (SOI) 93
 1 Tree of Tales (MRD) 285
-1 Ulvenwald Mysteries (PLIST) 196
-1 Weirding Wood (SOI) 240
-    In 
-
     Out 
-    
+Bygone Bishop 
+Sol Ring 
+Ace's Baseball Bat 
+Wavesifter 
+Whirler Rogue
+Arcane Signet 
+Alistair, the Brigadier 
