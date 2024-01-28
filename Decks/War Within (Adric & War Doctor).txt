@@ -89,6 +89,7 @@
 1 Chains of Custody (J22) 3
 1 Curiosity (WOT) 17
 1 Curse of Hospitality (VOW) 152
+1 Agrus Kos, Spirit of Justice (MKM) 184
 1 Delayed Blast Fireball (CLB) 676
 1 Extravagant Replication (NCC) 25
 1 Faith Unbroken (EMN) 24

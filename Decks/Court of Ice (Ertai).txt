@@ -97,10 +97,12 @@
 1 Eriette of the Charmed Apple (WOE) 202
 1 Faerie Slumber Party (WOE) 371
 1 Get Lost (LCI) 14
+1 Illicit Masquerade (MKM) 401
+1 Mindslaver (MRD) 206
 1 Neva, Stalked by Nightmares (WOE) 209
+1 Sen Triplets (2XM) 218
 1 Spellbook Vendor (WOE) 31
 1 Spiteful Hexmage (WOE) 108
 1 Tegwyll's Scouring (WOC) 16
-
     Out 
     

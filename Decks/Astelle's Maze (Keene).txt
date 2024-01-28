@@ -112,6 +112,8 @@
 1 Verdant Catacombs (MH2) 260
 1 Watery Grave (RAV) 286
 1 Zagoth Triome (IKO) 259
+Case of the Locked Hoothouse 
+
     Out 
 Thriving Isle 
 

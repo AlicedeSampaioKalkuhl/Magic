@@ -89,7 +89,6 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Accomplished Alchemist (STX) 119
 1 Aerialephant (UNF) 2
 1 Agent of the Iron Throne (CLB) 107
-1 Aragorn and Arwen, Wed (LTR) 394
 1 Blorbian Buddy (UNF) 131
 1 Blossoming Bogbeast (C21) 386
 1 Blossoming Sands (M20) 243
@@ -97,63 +96,48 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Cabal Coffers (MH2) 301
 1 Cauldron Familiar (ELD) 81
 1 Cleric Class (AFR) 6
-1 Conclave Mentor (MOC) 320
 1 Conclave Sledge-Captain (MOC) 36
-1 Contagion Clasp (SOM) 144
-1 Courage in Crisis (WAR) 158
 1 Deathcap Glade (VOW) 281
 1 Disciple of the Vault (2XM) 86
 1 Door of Destinies (M14) 208
-1 Eastfarthing Farmer (LTR) 8
 1 Elanor Gardner (LTR) 286
 1 Experimental Confectioner (WOE) 314
-1 Explorer's Cache (LCI) 184
 1 Fae Offering (MH2) 158
 1 Fairgrounds Trumpeter (KLD) 155
 1 Fangren Marauder (MBS) 79
-1 Gavony Township (MOC) 406
 1 Giant's Skewer (ELD) 91
 1 Gingerbread Cabin (C21) 290
 1 Gyome, Master Chef (C21) 332
 1 Hamza, Guardian of Arashin (CMR) 278
-1 Hardened Scales (KTK) 133
 1 High Market (C15) 289
 1 Indatha Triome (PIKO) 248p
 1 Inspiring Statuary (BRR) 22
 1 Jaheira, Friend of the Forest (CLB) 237
-1 Jungle Hollow (MB1) 1676
-1 Kami of Whispered Hopes (MOM) 196
+1 Jungle Hollow (PLST) KTK-235
 1 Karn's Bastion (PWAR) 248p
 1 Krark-Clan Ironworks (5DN) 134
+1 Krovod Haunch (MKM) 21
 1 Late to Dinner (MH2) 19
-1 Lathiel, the Bounteous Dawn (CMR) 285
+1 Loxodon Eavesdropper (MKM) 168
 1 Lulu, Loyal Hollyphant (CLB) 32
 1 Marionette Master (BRC) 109
-1 Mazirek, Kraul Death Priest (CMA) 185
 1 Nadier's Nightblade (CMR) 136
 1 Overgrown Farmland (PMID) 265p
 1 Park Bleater (UNF) 21
 1 Phyrexian Reclamation (C13) 88
 1 Pin Collection (UNF) 23
 1 Radiant Fountain (M21) 248
-1 Replicating Ring (KHM) 244
 1 Return from the Wilds (WOE) 181
 1 Sandsteppe Mastodon (FRF) 137
 1 Sapseep Forest (DDH) 36
 1 Shattered Sanctum (VOW) 283
-1 Song of Freyalise (DOM) 179
 1 Talisman of Unity (MRD) 257
-1 The Great Henge (ELD) 370
-1 Throne of Geth (SOM) 211
-1 Unbounded Potential (MH2) 36
+1 The Great Henge (PELD) 161p
 1 Undergrowth Stadium (CMR) 359
 1 Urborg, Tomb of Yawgmoth (UMA) 254
 1 Vault of Champions (CMR) 360
-1 Vivid Grove (MMA) 227
-1 Vivid Meadow (MMA) 229
 1 Vraska, Golgari Queen (GRN) 213
 1 Whip of Erebos (THS) 110
 1 Wicker Picker (UNF) 196
-1 Witch of the Moors (PLIST) 531
 1 Witch's Clinic (C21) 81
 1 Yavimaya, Cradle of Growth (MH2) 261

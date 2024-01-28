@@ -1,5 +1,4 @@
-General Tazri or 1 Tazri, Beacon of Unity (ZNR) 44 or Tazri, Stalwart 
-
+    Tazri 
 1 Adventure Awaits (ZNR) 177 *F*
 1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90 *F*
 1 Allied Assault (ZNR) 1
@@ -8,19 +7,19 @@ General Tazri or 1 Tazri, Beacon of Unity (ZNR) 44 or Tazri, Stalwart
 1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180
 1 Bala Ged Thief (ZEN) 79
 1 Barkchannel Pathway / Tidechannel Pathway (SLU) 11 *F*
-1 Blightstep Pathway / Searstep Pathway (PCTB) 63
+1 Blightstep Pathway / Searstep Pathway (PLST) KHM-252
 1 Bojuka Brigand (WWK) 51
-1 Branchloft Pathway / Boulderloft Pathway (PCTB) 64
-1 Brightclimb Pathway / Grimclimb Pathway (PCTB) 65
+1 Branchloft Pathway / Boulderloft Pathway (PLST) ZNR-258
+1 Brightclimb Pathway / Grimclimb Pathway (PLST) ZNR-259
 1 Cascading Cataracts (DMC) 202
 1 Chromatic Lantern (BRR) 73
-1 Clearwater Pathway / Murkwater Pathway (PCTB) 66
+1 Clearwater Pathway / Murkwater Pathway (PLST) ZNR-260
 1 Cliffhaven Vampire (OGW) 153
 1 Concerted Defense (ZNR) 52 *F*
 1 Conjurer's Closet (C13) 239
 1 Coveted Prize (ZNR) 95
-1 Cragcrown Pathway / Timbercrown Pathway (PCTB) 68
-1 Darkbore Pathway / Slitherbore Pathway (PCTB) 69
+1 Cragcrown Pathway / Timbercrown Pathway (PLST) ZNR-261
+1 Darkbore Pathway / Slitherbore Pathway (PLST) KHM-254
 1 Door of Destinies (M14) 208
 1 Drana's Emissary (BFZ) 210
 1 Emeria's Call / Emeria, Shattered Skyclave (ZNR) 12
@@ -32,15 +31,15 @@ General Tazri or 1 Tazri, Beacon of Unity (ZNR) 44 or Tazri, Stalwart
 1 Halimar Excavator (WWK) 29
 1 Halimar Tidecaller (BFZ) 79 *F*
 1 Haunted One (CLB) 654 *F*
-1 Hengegate Pathway / Mistgate Pathway (PCTB) 73
+1 Hengegate Pathway / Mistgate Pathway (PLST) KHM-260
 1 Icon of Ancestry (M20) 229
-1 Impact Tremors (MB1) 978
+1 Impact Tremors (PLST) DTK-140
 1 Joraga Bard (DDP) 17
 1 Jwari Disruption / Jwari Ruins (ZNR) 64 *F*
 1 Kabira Evangel (ZEN) 15
 1 Kabira Takedown / Kabira Plateau (ZNR) 19
 1 Kalastria Healer (BFZ) 114
-1 Kalastria Nightwatch (MB1) 696
+1 Kalastria Nightwatch (PLST) BFZ-115
 1 Kazuul Warlord (ZEN) 134
 1 Kazuul's Fury / Kazuul's Cliffs (ZNR) 146
 1 Khalni Ambush / Khalni Territory (ZNR) 192 *F*
@@ -99,7 +98,3 @@ General Tazri or 1 Tazri, Beacon of Unity (ZNR) 44 or Tazri, Stalwart
 1 Warstorm Surge (CLB) 815
 1 Zof Consumption / Zof Bloodbog (ZNR) 132 *F*
 1 Zulaport Cutthroat (BFZ) 126
-
-    In 
-
-    Out 

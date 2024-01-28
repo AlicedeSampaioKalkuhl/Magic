@@ -95,11 +95,13 @@
 1 Confirm Suspicions (SOI) 53
 1 Confront the Unknown (SOI) 198
 1 Crack Open (MH2) 154
+1 Curious Inquiry (MKM) 51
 1 Deserted Beach (WHO) 270
 1 Disorder in the Court (VOC) 29
 1 Dreamroot Cascade (WHO) 273
 1 Ethereal Investigator (VOC) 12
 1 Exotic Orchard (MOC) 398
+1 Forensic Gadgeteer (MKM) 342
 3 Forest (KLD) 263
 1 Gallifrey Council Chamber (WHO) 188
 1 Glacial Fortress (WHO) 285
@@ -111,16 +113,23 @@
 1 Inventors' Fair (KLD) 247
 3 Island (MOM) 278
 1 Krark-Clan Ironworks (5DN) 134
+1 Lavinia, Foil to Conspiracy (CLU) 36
+1 Morska, Undersea Sleuth (MKC) 317
+1 No Witnesses (MKM) 27
+1 Officious Interrogation (MKM) 314
 1 Overgrown Farmland (WHO) 292
 3 Plains (M21) 262
 1 Rampage of the Clans (RNA) 134
 1 Rejuvenating Springs (CMM) 424
 1 Reliquary Tower (C14) 308
+1 Scene of the Crime (MKM) 267
 1 Sea of Clouds (BBD) 84
 1 Seat of the Synod (DDF) 74
+1 Senator Peacock (CLU) 2
 1 Spara's Headquarters (PSNC) 257p
 1 Sunpetal Grove (PXLN) 257p
 1 Tree of Tales (MRD) 285
+1 Wojek Investigator (MKM) 36
     Out 
 Bygone Bishop 
 Sol Ring 
