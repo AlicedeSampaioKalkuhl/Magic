@@ -1,0 +1,103 @@
+    Ashnod, the Uncaring) 
+
+    In 
+1 Academy Manufactor (MKC) 221
+1 Academy Ruins (2XM) 309
+1 Artificer Class (CLB) 663
+1 Auton Soldier (WHO) 36
+1 Ayara, Widow of the Realm / Ayara, Furnace Queen (MOM) 90
+1 Bojuka Bog (MKC) 250
+1 Boompile (CMM) 371
+1 Buried Ruin (2XM) 312
+1 Cabal Coffers (MH2) 301
+1 Chance Encounter (MH2) 277
+1 Chaos Warp (MKC) 149
+1 Chaotic Goo (TMP) 168
+1 Chaotic Strike (INV) 140
+1 Command Tower (MKC) 256
+1 Commander's Sphere (LCC) 301
+1 Crazed Firecat (TOR) 94
+1 Creepy Doll (ISD) 220
+1 Crooked Scales (MMQ) 291
+1 Daretti, Scrap Savant (CMM) 213
+1 Darksteel Citadel (C21) 285
+1 Detective's Satchel (MKM) 196
+1 Dragonskull Summit (DMC) 207
+1 Drossforge Bridge (MH2) 246
+1 Drowned Catacomb (XLN) 253
+1 Encroaching Mycosynth (ONE) 47
+1 Exotic Orchard (MKC) 260
+1 Expedition Map (2XM) 255
+1 Fain, the Broker (C21) 40
+1 Fiery Gambit (MRD) 90
+1 Frenetic Efreet (MIR) 264
+1 Gamble (DMR) 121
+1 Goblin Archaeologist (DST) 63
+1 Goblin Assassin (LGN) 95
+1 Goblin Bangchuckers (M12) 137
+1 Goblin Engineer (MH1) 128
+1 Goblin Psychopath (SCG) 95
+1 Goblin Traprunner (MH2) 130
+1 Great Furnace (C21) 292
+1 Haunted Ridge (MID) 263
+1 Havengul Laboratory / Havengul Mystery (SLX) 9
+1 Helm of the Host (DOM) 217
+1 Inventors' Fair (KLD) 247
+1 Island (IKO) 265
+1 Karplusan Minotaur (CSP) 86
+1 Krark, the Thumbless (CMR) 189
+1 Krark's Thumb (MRD) 190
+1 Liquimetal Torque (MH2) 228
+1 Luxury Suite (CLB) 355
+1 Mana Crypt (2XM) 270
+1 Manifold Key (CLB) 319
+1 Mayhem Devil (RVR) 199
+1 Mind Stone (MKC) 232
+1 Mirror March (RNA) 108
+1 Mistvault Bridge (MH2) 249
+1 Mogg Assassin (EXO) 88
+1 Molten Sentry (RAV) 136
+1 Monumental Corruption (ONC) 24
+1 Morphic Pool (CLB) 357
+1 Mortuary (STH) 66
+1 Mountain (M21) 269
+1 Mox Opal (2XM) 275
+1 Mutalith Vortex Beast (40K) 134
+1 Okaun, Eye of Chaos (BBD) 6
+1 Phyrexian Tower (JMP) 493
+1 Pia's Revolution (AER) 91
+1 Planar Chaos (JUD) 97
+1 Priest of Forgotten Gods (RVR) 90
+1 Rakdos, the Showstopper (CLU) 205
+1 Ral Zarek (RVR) 216
+1 Reliquary Tower (MKC) 282
+1 Saheeli, Sublime Artificer (CMM) 935
+1 Scrap Mastery (CM2) 116
+1 Seat of the Synod (C18) 278
+1 Shipwreck Marsh (MID) 267
+1 Silas Renn, Seeker Adept (C16) 43 *F*
+1 Skyclaw Thrash (ARB) 89
+1 Squee's Revenge (APC) 123
+1 Stitch in Time (RVR) 229
+1 Storm the Vault / Vault of Catlacan (RIX) 173
+1 Stormcarved Coast (VOW) 265
+1 Strionic Resonator (MOC) 384
+1 Sulfur Falls (LCC) 354
+1 Swamp (M19) 271
+1 Syr Ginger, the Meal Ender (WOE) 252
+1 Tavern Scoundrel (MH2) 144
+1 Tavern Swindler (SNC) 96
+1 Terisiare's Devastation (BRC) 9
+1 Tezzeret, Master of the Bridge (WAR) 275 *F*
+1 The Mycosynth Gardens (ONE) 256
+1 Thopter Spy Network (MOC) 241
+1 Tide of War (CHK) 194
+1 Training Center (CMM) 434
+1 Treasure Vault (AFR) 261
+1 Two-Headed Giant (DOM) 147
+1 Urborg, Tomb of Yawgmoth (TSR) 287
+1 Vault of Whispers (HOP) 141
+1 Xander's Lounge (SNC) 260
+1 Yusri, Fortune's Flame (MH2) 492 *F*
+1 Zndrsplt, Eye of Wisdom (BBD) 5
+    Out 

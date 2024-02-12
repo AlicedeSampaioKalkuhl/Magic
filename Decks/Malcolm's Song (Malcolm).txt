@@ -9,8 +9,10 @@
 1 As Foretold (WHO) 214
 1 Astral Cornucopia (BNG) 157
 1 Auramancer's Guise (PLC) 34
+1 Broken Concentration (SOI) 50
 1 Caged Sun (NPH) 132
 1 Chorus of the Tides (BNG) 33
+1 Circular Logic (DMR) 42
 1 Cloaked Siren (CN2) 104
 1 Combat Research (DMU) 44
 1 Commander's Plate (CMR) 305
@@ -21,11 +23,9 @@
 1 Dive Down (XLN) 53
 1 Drake Umbra (ROE) 63
 1 Dreamcaller Siren (XLN) 54
-1 Dulcet Sirens (C14) 14
 1 Eel Umbra (PLST) C18-89
 1 Eldrazi Conscription (UMA) 3
 1 Everflowing Chalice (DDF) 60
-1 Extravagant Replication (NCC) 25
 1 False Demise (MMQ) 80
 1 Fireshrieker (MRD) 171
 1 Glistening Sphere (ONC) 20
@@ -36,16 +36,17 @@
 1 Inexorable Tide (SOM) 35
 25 Island (LCI) 288
 1 Jace, Wielder of Mysteries (PWAR) 54p
+1 Just the Wind (UMA) 60
 1 Karn's Bastion (MOC) 409
 1 Kasmina, Enigmatic Mentor (WAR) 56
 1 Maeve, Insidious Singer (GN3) 2 *F*
 1 Malcolm, Keen-Eyed Navigator (LCC) 161
 1 Mesmerizing Dose (ONE) 62
-1 Midnight Clock (NCC) 226
-1 Mind's Dilation (EMN) 70
 1 Mistral Singer (M21) 58
+1 Nagging Thoughts (SOI) 74
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Nyx Lotus (THB) 235
+1 Obsessive Search (DMR) 61
 1 Octopus Umbra (PLST) C18-11
 1 One with the Multiverse (BRO) 59
 1 Propaganda (C16) 94
@@ -57,7 +58,6 @@
 1 Shore Up (DMU) 64
 1 Siren Lookout (XLN) 78
 1 Siren of the Fanged Coast (BNG) 50
-1 Siren Reaver (RIX) 54
 1 Siren Stormtamer (XLN) 79
 1 Slip Out the Back (SNC) 62
 1 Spyglass Siren (LCI) 78
@@ -67,13 +67,13 @@
 1 Teferi's Veil (WTH) 53
 1 Terrain Generator (CLB) 926
 1 Thassa's Rebuff (BNG) 54
-1 Thirst for Meaning (THB) 74
 1 Thought Vessel (WHO) 255
 1 Threnody Singer (THB) 75
 1 Throne of Eldraine (WOC) 28
 1 Traveler's Cloak (CNS) 109
 1 War Room (WHO) 330
 1 War-Wing Siren (JOU) 57
+1 Welcome to the Fold (SOI) 96
 1 Witness Protection (SNC) 66
 1 Zephyr Singer (MOM) 86
     Out 

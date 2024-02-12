@@ -1,74 +1,143 @@
     Gavi, Nest Warden
+1 Abandoned Sarcophagus (C20) 236
+1 Akim, the Soaring Wind (C20) 6 *F*
+1 Angelsong (PLST) DDC-15
+1 Arch of Orazca (LCC) 319
+1 Ash Barrens (SLD) 469 *F*
+1 Battle Plan (MH2) 114
+1 Belligerent Yearling (LCI) 320
+1 Bellowing Aegisaur (LCC) 127
+1 Blasted Landscape (PLST) CM2-238
+1 Bonehoard Dracosaur (LCI) 134
+1 Boon of the Wish-Giver (IKO) 43
+1 Brainstorm (2XM) 44 *F*
+1 Bronzebeak Foragers (LCC) 37
+1 Choking Tethers (PLST) A25-48
+1 Clear the Mind (PLST) RNA-34
+1 Crystalline Resonance (C20) 31
+1 Decree of Justice (C20) 85
+1 Desert of the Fervent (C20) 266
+1 Desert of the Mindful (C21) 287
+1 Desert of the True (C20) 268
+1 Dinosaurs on a Spaceship (WHO) 122 *F*
+1 Dismantling Wave (C20) 25
+1 Don't Blink (WHO) 40
+1 Drifting Meadow (C20) 271
+1 Etali, Primal Storm (SLD) 1389
+1 Everybody Lives! (WHO) 18
+1 Faithless Salvaging (MH2) 349
+1 Flaming Tyrannosaurus (WHO) 85
+1 Fluctuator (C20) 241
+1 Forgotten Cave (C21) 289
+1 Fractured Sanity (CLB) 722
+1 Gold-Forged Thopteryx (MAT) 81
+1 Goring Ceratops (XLN) 13
+1 Harnessed Snubhorn (MAT) 103 *E*
+1 Hieroglyphic Illumination (C20) 112
+1 Irrigated Farmland (WHO) 288
+4 Island (ZNR) 270
+1 Island (AKH) 251
+1 Jace Beleren (SS1) 1
+1 Jace, Memory Adept (M14) 60
+1 Jace, the Perfected Mind (ONE) 360 *F*
+1 Key to the City (BRR) 90
+1 Kinjalli's Sunwing (XLN) 19
+1 Lonely Sandbar (C21) 298
+1 Lorehold Campus (STX) 268
+1 Migratory Route (KHC) 87
+1 Mnemonic Sphere (NEO) 64
+1 Mountain (BFZ) 267
+1 Mountain (ZNR) 276
+1 Mountain (BFZ) 269
+1 Mountain (HOU) 188 *F*
+1 Mountain (ZNR) 277
+1 Mystic Redaction (MH2) 338
+1 Nephalia Academy (EMN) 205
+1 Neutralize (IKO) 59
+1 New Perspectives (C20) 119
+1 Opt (LTC) 194
+1 Otepec Huntmaster (LCC) 229
+1 Past in Flames (SS3) 4
+1 Patient Rebuilding (M19) 67 *F*
+2 Plains (ZNR) 266 *F*
+1 Plains (BFZ) 252
+2 Plains (ZNR) 267 *F*
+1 Prismari Campus (STX) 270
+1 Psychic Corrosion (M19) 68
+1 Pyroceratops (IKO) 130
+1 Rampaging Ceratops (LCI) 322
+1 Raugrin Crystal (IKO) 238
+1 Reflections of Littjara (KHM) 73 *F*
+1 Reliquary Tower (C20) 301
+1 Remote Isle (C20) 302
+1 Renewed Faith (PLST) A25-31
+1 Scytheclaw Raptor (LCI) 323 *F*
+1 Secluded Steppe (C21) 315
+1 Shared Animosity (C20) 158
+1 Shark Typhoon (IKO) 67
+1 Shelter (EMA) 29 *F*
+1 Skullclamp (DST) 140
+1 Slice and Dice (CMM) 255
+1 Smoldering Crater (C20) 313
+1 Sphinx's Tutelage (ORI) 76
+1 Star of Extinction (PLST) XLN-161
+1 Starstorm (NEC) 110
+1 Surly Badgersaur (C20) 57
+1 Temple Altisaur (LCC) 138
+1 Temple of the False God (C20) 319
+1 Thought Vessel (CMR) 346 *F*
+1 Thrill of Possibility (STA) 46
+1 Unpredictable Cyclone (IKO) 139
+1 Wakening Sun's Avatar (LCC) 139
+1 Wizard Class (AFR) 81
+1 Wrathful Raptors (LCC) 88
+1 Zenith Flare (IKO) 217
+1 Zetalpa, Primal Dawn (C21) 112
     In 
-Akim, the Soaring Wind 
-Belligerent Yearling 
-Bonehoard Dracosaur 
-Bronzebeak Foragers 
-Charging Tuskodon 
-Dinosaurs on a Spaceship
-Etali, Primal Storm 
-Flaming Tyrannosaur 
-Goring Ceratops 
-Cresting Mosasaurus 
-Hunting Velociraptor 
-Harnessed Snubhorn 
-Imposing Vantasaur 
-Kinjalli's Sunwing 
-Marauding Brinefang 
-Nezahal, Primal tide 
-Pyroceratops 
-Seismic Monstrosaur 
-Soaring Sandwing 
-Surly Badgersaur 
-Swooping Pteranodon 
-Temple Altisaur 
-Wakening Sun's Avatar 
-Trumpeting Carnosaur 
-Yidaro, Wandering Monster 
-Wrathful Raptors 
-Zetalpa, Primal Dawn 
-Huatli, Dinosaur Knight 
-Sun-Blessed Mount
-Abandoned Sacrophagus 
-Ash Barrens 
-Angelsong 
-Akroma's Blessing 
-Stral Drift 
-Blasted Landscape 
+1 Altar of Dementia (BRR) 3
+1 Altar of the Brood (KTK) 216
+1 Archive Trap (ZEN) 41
+1 Astral Slide (ONS) 4
+1 Complicate (ONS) 76
+1 Cresting Mosasaurus (REX) 2
+1 Cut Your Losses (PSNC) 38p
+1 Decree of Annihilation (SCG) 85
+1 Decree of Silence (SCG) 32
+1 Deem Worthy (AKH) 127
+1 Djeru's Resolve (AKH) 11
+1 Fraying Sanity (WOT) 19
+1 Huatli, Dinosaur Knight (XLN) 285 *F*
+1 Hunting Velociraptor (REX) 4
+1 Imposing Vantasaur (IKO) 17
+1 Jace, Arcane Strategist (J22) 310
+1 Jace's Erasure (M11) 59
+1 Maddening Cacophony (PZNR) 67p
+1 Marauding Brinefang (LCI) 64
+1 Mindcrank (IMA) 220
+1 Raugrin Triome (PIKO) 251p
+1 Seismic Monstrosaur (LCI) 166
+1 Soaring Sandwing (LCI) 35
+1 Swooping Pteranodon (REX) 19
+1 Sword of Body and Mind (SOM) 208
+1 Tectonic Reformation (C20) 162
+1 Thought Scour (DDM) 21
+1 Traumatize (10E) 119
+1 Trumpeting Carnosaur (LCI) 171
+1 Yidaro, Wandering Monster (IKO) 141
+    Out 
+Rampaging Ceratops 
+Bellowing Aegisaur 
+Cystalline Resonance 
 Battle Plan 
-Astral Slide 
-Boon of the Wish-Giver 
-Choking Tethers 
-Censor 
-Complicate 
-Countervailing Winds 
-Crystalline Resonance 
-Decree of Annilation 
-Decree of Justice 
-Decree of Silence 
-Desert of the Fervent 
-Desert of the Mindful 
-Desert of the True 
-Deem Worthy 
-Dismanting Wave 
+Abandoned Sarcophagus 
+Key to the City 
+Mnemonic Sphere 
+Faithless Salvaging 
 Don't Blink 
-Djeru's Resolve 
-Drifting Meadow 
-Fluctuator 
-Forgotten Cave 
-Gleam of Resistance 
-Irrigated Farmland 
-Jace, Arcane Strategist 
-Lonely Sandbar 
-Mashalling Cry 
-New Perspectives 
-Raugrin Crystal 
-Raugrin Triome 
-Sacred Excavation 
-Secluded Steppe 
-Smoldering Crater 
-Slice and Dice 
-Starstorm 
-Tectonic Reformation 
-Unpredictable Cyclone 
-Zenith Flare
+Opt 
+Brainstorm 
+Thrill of Possibility 
+Neutralize 
+Hieroglyphic Illumination
+Boon of the Wish-Giver 
+Jace Beleren 
