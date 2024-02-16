@@ -1,6 +1,7 @@
     Gavi, Nest Warden
 1 Abandoned Sarcophagus (C20) 236
 1 Akim, the Soaring Wind (C20) 6 *F*
+1 Altar of Dementia (BRR) 3
 1 Angelsong (PLST) DDC-15
 1 Arch of Orazca (LCC) 319
 1 Ash Barrens (SLD) 469 *F*
@@ -10,7 +11,7 @@
 1 Blasted Landscape (PLST) CM2-238
 1 Bonehoard Dracosaur (LCI) 134
 1 Boon of the Wish-Giver (IKO) 43
-1 Brainstorm (2XM) 44 *F*
+1 Brain Freeze (SCG) 29
 1 Bronzebeak Foragers (LCC) 37
 1 Choking Tethers (PLST) A25-48
 1 Clear the Mind (PLST) RNA-34
@@ -21,7 +22,6 @@
 1 Desert of the True (C20) 268
 1 Dinosaurs on a Spaceship (WHO) 122 *F*
 1 Dismantling Wave (C20) 25
-1 Don't Blink (WHO) 40
 1 Drifting Meadow (C20) 271
 1 Etali, Primal Storm (SLD) 1389
 1 Everybody Lives! (WHO) 18
@@ -33,19 +33,18 @@
 1 Gold-Forged Thopteryx (MAT) 81
 1 Goring Ceratops (XLN) 13
 1 Harnessed Snubhorn (MAT) 103 *E*
-1 Hieroglyphic Illumination (C20) 112
 1 Irrigated Farmland (WHO) 288
 4 Island (ZNR) 270
 1 Island (AKH) 251
-1 Jace Beleren (SS1) 1
-1 Jace, Memory Adept (M14) 60
+1 Jace, Memory Adept (M13) 56
 1 Jace, the Perfected Mind (ONE) 360 *F*
 1 Key to the City (BRR) 90
 1 Kinjalli's Sunwing (XLN) 19
 1 Lonely Sandbar (C21) 298
 1 Lorehold Campus (STX) 268
+1 Memory Erosion (CMD) 50
 1 Migratory Route (KHC) 87
-1 Mnemonic Sphere (NEO) 64
+1 Mindcrank (NPH) 144
 1 Mountain (BFZ) 267
 1 Mountain (ZNR) 276
 1 Mountain (BFZ) 269
@@ -53,9 +52,7 @@
 1 Mountain (ZNR) 277
 1 Mystic Redaction (MH2) 338
 1 Nephalia Academy (EMN) 205
-1 Neutralize (IKO) 59
 1 New Perspectives (C20) 119
-1 Opt (LTC) 194
 1 Otepec Huntmaster (LCC) 229
 1 Past in Flames (SS3) 4
 1 Patient Rebuilding (M19) 67 *F*
@@ -83,10 +80,13 @@
 1 Star of Extinction (PLST) XLN-161
 1 Starstorm (NEC) 110
 1 Surly Badgersaur (C20) 57
+1 Teferi's Ageless Insight (MKC) 119
+1 Teferi's Puzzle Box (VIS) 156
 1 Temple Altisaur (LCC) 138
 1 Temple of the False God (C20) 319
+1 Thought Collapse (RNA) 57 *F*
+1 Thought Scour (2X2) 351
 1 Thought Vessel (CMR) 346 *F*
-1 Thrill of Possibility (STA) 46
 1 Unpredictable Cyclone (IKO) 139
 1 Wakening Sun's Avatar (LCC) 139
 1 Wizard Class (AFR) 81
@@ -94,14 +94,12 @@
 1 Zenith Flare (IKO) 217
 1 Zetalpa, Primal Dawn (C21) 112
     In 
-1 Altar of Dementia (BRR) 3
 1 Altar of the Brood (KTK) 216
 1 Archive Trap (ZEN) 41
 1 Astral Slide (ONS) 4
 1 Complicate (ONS) 76
 1 Cresting Mosasaurus (REX) 2
 1 Cut Your Losses (PSNC) 38p
-1 Decree of Annihilation (SCG) 85
 1 Decree of Silence (SCG) 32
 1 Deem Worthy (AKH) 127
 1 Djeru's Resolve (AKH) 11
@@ -113,31 +111,20 @@
 1 Jace's Erasure (M11) 59
 1 Maddening Cacophony (PZNR) 67p
 1 Marauding Brinefang (LCI) 64
-1 Mindcrank (IMA) 220
 1 Raugrin Triome (PIKO) 251p
 1 Seismic Monstrosaur (LCI) 166
-1 Soaring Sandwing (LCI) 35
+1 Soaring Sandwing (LCI) 35 
 1 Swooping Pteranodon (REX) 19
 1 Sword of Body and Mind (SOM) 208
 1 Tectonic Reformation (C20) 162
-1 Thought Scour (DDM) 21
 1 Traumatize (10E) 119
 1 Trumpeting Carnosaur (LCI) 171
 1 Yidaro, Wandering Monster (IKO) 141
     Out 
 Rampaging Ceratops 
 Bellowing Aegisaur 
-Cystalline Resonance 
 Battle Plan 
 Abandoned Sarcophagus 
 Key to the City 
-Mnemonic Sphere 
-Faithless Salvaging 
-Don't Blink 
-Opt 
-Brainstorm 
-Thrill of Possibility 
-Neutralize 
-Hieroglyphic Illumination
 Boon of the Wish-Giver 
-Jace Beleren 
+ 
