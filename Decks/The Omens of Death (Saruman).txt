@@ -189,3 +189,12 @@ Basalt Monolith
 Book of Mazarbul 
 Commander's Sphere 
 Arcane Denial 
+    Tokens
+Elemental 
+Goblin 
+Inkling 
+Orc Army 
+Pest 
+Spirt (STX)
+The Ring 
+Treasure 

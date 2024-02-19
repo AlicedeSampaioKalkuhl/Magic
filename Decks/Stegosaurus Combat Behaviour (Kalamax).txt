@@ -105,3 +105,16 @@ Kalamax, the Stormsire
 Doppelgang
 	Out 
 Setn Lesson 
+
+	Tokens 
+Beast (CMR)
+Day 
+Elf Warrior 
+Fractal (STX)
+Goblin (DOM) 9
+Goblin Warrior (SHM) 11
+Monster (WOE) 15
+Powerstone 
+Rat 
+Saproling 
+Treasure 

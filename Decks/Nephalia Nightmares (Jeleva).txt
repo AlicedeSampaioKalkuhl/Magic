@@ -101,3 +101,9 @@ Jeleva, Nephalia's Scourge
 1 Xander's Lounge (SNC) 260
 	Out 
 Riverglide Pathway 
+	Tokens 
+Construct
+Demon 
+Orc Army 
+Spirit (2X2)
+Zombie (EMN)

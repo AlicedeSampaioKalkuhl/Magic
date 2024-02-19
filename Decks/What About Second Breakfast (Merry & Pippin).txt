@@ -141,3 +141,11 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Wicker Picker (UNF) 196
 1 Witch's Clinic (C21) 81
 1 Yavimaya, Cradle of Growth (MH2) 261
+    Tokens 
+Bird 
+Food 
+Goat 
+Hafling 
+Soldier 
+Treasure
+Treefolk 

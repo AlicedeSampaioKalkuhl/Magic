@@ -98,3 +98,12 @@ Will, Scion of Peace
 1 Witch's Clinic (C21) 81
 
     In 
+
+    Tokens 
+Fish 
+Human 
+Knight 
+Samurai 
+Soldier 
+Teferi Akosa of Zhalfir Emblem 
+Will Kenrith Emblem 

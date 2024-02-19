@@ -108,3 +108,11 @@
 1 Veyran, Voice of Duality (C21) 330
     Out 
 1 Metallurgic Summonings (KLD) 56
+    Tokens 
+Construct 
+Drake 
+Elemental 
+Jaya, Fierce Negotiator Emblem 
+Monk 
+Spawn 
+Treasure 

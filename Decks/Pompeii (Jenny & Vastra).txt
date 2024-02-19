@@ -180,3 +180,8 @@ Stonehoof Chieftain
 Xantid Swarm
 Analyze the Pollen 
 Bloodstained Mire 
+    Tokens 
+Clue 
+Copy 
+Food 
+Treasure 

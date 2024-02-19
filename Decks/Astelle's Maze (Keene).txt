@@ -118,4 +118,14 @@ Case of the Locked Hoothouse
 Thriving Isle 
 
     Replace 
-1 Dimir Acqueduct (2X2) 404
+1 Dimir Acqueduct (2X2) 404 in 
+
+    Tokens 
+Beast 
+Elemental 
+Faerie Dragon 
+Forest Dryad 
+Insect Plant 
+Undercity 
+Monarch 
+Treasure 

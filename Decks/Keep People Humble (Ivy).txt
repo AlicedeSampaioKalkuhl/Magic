@@ -106,8 +106,49 @@
 1 Undermountain Adventurer (CLB) 260
 1 Yavimaya Coast (DMU) 382
 1 Yavimaya, Cradle of Growth (MH2) 261
-Doppelgang
 Get a Leg Up 
-Doppelgang 
 Repulsive Mutation 
     Out 
+Elvish Mystic 
+Incubation Druid 
+Rootrider Faun 
+Croaking Counterpart 
+Cultivate 
+Scale the Heights 
+Gaea's Gift 
+Cackling Counterpart 
+Invigorating Surge 
+
+
+    Tokens 
+Elvish Mystic copy 
+Honored Hierarch copy 
+Venerated Rotpriest copy 
+Incubation Druid copy 
+Maraleaf Pixie copy 
+Paradise Druid copy 
+Rootrider Faun copy 
+Spellskite copy 
+Stormchaser Drake copy 
+Glowstone Recluse copy 
+Trumpeting Gnarr copy 
+Gemrazer copy 
+Migratory Greathorn copy 
+Orvar, the All-Form copy 
+Parcelbeast copy 
+Auspicious Starrix copy 
+Defiler of Vigor copy 
+Dreamtail Heron copy 
+Pouncing Shoreshark copy 
+Souvenir Snatcher copy 
+Tawnos, the Toymaker copy 
+Archipelagore copy 
+Aqueous Form copy 
+Spider Umbra copy 
+Eel Umbra copy 
+Favor of the Overbeing copy 
+Shielding Plax copy 
+Traveler's Cloak copy 
+Octopus Umbra copy 
+Eldrazi Conscription copy 
+Beast 

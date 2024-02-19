@@ -105,4 +105,15 @@
 1 Spiteful Hexmage (WOE) 108
 1 Tegwyll's Scouring (WOC) 16
     Out 
-    
+    Tokens 
+Bird 
+Cat 
+Faerie 
+Faerie Rogue 
+Faerie Rogue 
+Human Cleric 
+Human Soldier 
+Pegasus 
+Royal 
+Servo 
+Wicked 

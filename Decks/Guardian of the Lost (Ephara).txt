@@ -128,3 +128,42 @@
 1 Warping Wail (OGW) 12
 1 Wedding Announcement / Wedding Festivity (VOW) 45
     Out 
+    Tokens 
+Angel 
+Angel 
+Astartes Warrior 
+Bird 
+Cat 
+Cat Beast 
+Citizen 
+Dog Illusion 
+Eldrazi 
+Elspeth, Knight Errant Emblem 
+Elspeth, Sun's Champion Emblem 
+Faerie 
+Fish 
+Golem 
+Human 
+Human Soldier 
+Illusion 
+Kithkin Soldier 
+Knight 
+Knight Kor Ally 
+Kraken 
+Mordekainen Emblem 
+Pegasus 
+Phyrexian Mite 
+Replicated Ring 
+Shark 
+Soldier 
+Soldier 
+Soldier 
+Spirit 
+Spirit 
+Spirit 
+Thopter 
+Vampire 
+Vampire Demon 
+Warrior 
+Wizard 
+Zombie 

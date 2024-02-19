@@ -58,3 +58,14 @@
     in 
 
     out 
+
+    Tokens 
+Dalek 
+Daretti, Scrap Savant copy 
+Devil 
+Rebel 
+Servo 
+Treasure 
+Vampire Demon 
+Zariel, Archduke of Avernus 
+Cult of Skaro copy 

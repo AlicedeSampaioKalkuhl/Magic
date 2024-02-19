@@ -88,3 +88,14 @@
 1 Woodland Cemetery (DOM) 248
 1 Zhur-Taa Ancient (DGM) 119
 1 Ziatora's Proving Ground (PSNC) 261p
+    Out 
+    Tokens 
+Bear 
+Centaur 
+Centaur 
+Faerie 
+Goat 
+Human 
+Knight 
+Rat 
+Treasure 

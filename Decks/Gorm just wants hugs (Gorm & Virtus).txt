@@ -92,3 +92,7 @@
     in 
 
     out 
+
+    Tokens 
+Phyrexian Germ 
+Troll Warrior 

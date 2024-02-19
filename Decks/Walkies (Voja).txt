@@ -95,3 +95,16 @@
 1 Yavimaya, Cradle of Growth (MH2) 261
 1 Yeva, Nature's Herald (RVR) 162
     Out 
+    Tokens 
+Day 
+Dungeon of the Mad Mage 
+Elf Druid 
+Elf Warrior 
+Lost Mine of Phandelver 
+Shapeshifter 
+Tomb of Annihilation 
+Treasure 
+Voja 
+Voja Fernstalker  
+Voka, Friend to Elves 
+Wolf 

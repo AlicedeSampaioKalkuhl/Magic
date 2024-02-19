@@ -126,3 +126,17 @@ Phabine, Boss's Confidant
 Cut a Deal 
 Collective Effort 
 Cabaretti Charm
+
+    Tokens 
+Cat (SNC)
+Cat Beast 
+Citizen 
+Dog (SNC)
+Eldrazi (BFZ) 1
+Eldrazi Spawn (ROE)
+Elephant 
+Human Monk 
+Rhino 
+Rhino Warrior 
+Saproling 
+Treasure Wolf 

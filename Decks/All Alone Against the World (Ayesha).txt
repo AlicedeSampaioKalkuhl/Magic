@@ -90,3 +90,12 @@
 1 Veil of Assimilation (ONE) 37
 1 War Horn (ORI) 243
 1 Wayfarer's Bauble (WHO) 256
+    Out 
+
+    Tokens 
+Construct 
+Knight 
+Myr 
+Plant 
+Powerstone 
+Treasure 

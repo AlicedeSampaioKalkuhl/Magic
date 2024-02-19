@@ -100,3 +100,11 @@
     In 
 
     Out 
+
+    Tokens 
+Clue 
+Food 
+Shapeshifter (KLD)
+Spirit (M20)
+Spirit (VOC) 3
+Treasure 

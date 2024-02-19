@@ -160,3 +160,15 @@ Splinterfright
 Kozilek's Predator 
 Lunar Hatchling 
 Annoyed Altisaur 
+    Tokens 
+City's Blessing 
+Dinosaur 
+Dinosaurs 
+Eldrazi Scion 
+Eldrazi Spawn 
+Food 
+Powerstone 
+The Monarch 
+Timeless Witness 
+Vampire 
+Vizier of Many Faces 

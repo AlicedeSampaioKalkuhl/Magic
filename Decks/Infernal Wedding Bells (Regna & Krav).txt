@@ -75,3 +75,14 @@
 1 Vito, Fanatic of Aclazotz (LCI) 243
 1 Westvale Abbey / Ormendahl, Profane Prince (SOI) 281
 1 Witch's Cottage (ELD) 249
+    Tokens 
+Angel 
+Harpy 
+Human Cleric 
+Plaguebearer of Nurgle 
+Emblem 
+Soldier 
+Treasure 
+Vampire Demon 
+Warrior 
+Zombie 

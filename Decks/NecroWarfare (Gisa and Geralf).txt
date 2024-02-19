@@ -134,3 +134,13 @@ Hour of Eternity
 Awaken the Erstwhile 
 Open the Graves 
 Key to the City 
+
+	Tokens 
+Liliana, Defiant Necromancer Emblem 
+Liliana, the Last Hope emblem 
+Skeleton 
+Zombie (BRO)
+Zombie (AFR)
+Zombie (VOW)
+Zombie (MID)
+Zombie Army 

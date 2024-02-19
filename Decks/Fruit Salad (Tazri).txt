@@ -98,3 +98,8 @@
 1 Warstorm Surge (CLB) 815
 1 Zof Consumption / Zof Bloodbog (ZNR) 132 *F*
 1 Zulaport Cutthroat (BFZ) 126
+
+    Tokens 
+Angel Warrior (ZNR)
+Octopus (BFZ)
+Kiora, Master of the Depths Emblem 

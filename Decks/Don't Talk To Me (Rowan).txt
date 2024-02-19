@@ -155,6 +155,9 @@ Urborg, Tomb of Yawgmoth proxy
 Boseiju Who Shelters All Evelyn proxy 
 3 Swamp proxy
 1 Mountain Pactroxy    
-
-    Out 
-
+    Out
+    Tokens 
+Chandra, Dressed to Kill Emblem 
+Devil 
+Jaya Ballard Emblem 
+Treasure 

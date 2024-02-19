@@ -127,3 +127,10 @@
 1 Wild-Magic Sorcerer (CLB) 816
 1 World at War (ROE) 172
     Out 
+    Tokens 
+Angel 
+Bird 
+Kor Soldier 
+Replicated Ring 
+Soldier 
+Spirit 

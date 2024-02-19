@@ -111,3 +111,9 @@ Towering Titan
 Giant Harbinger 
 Oracle of Mul Daya 
 Calamity Bearer 
+
+    Tokens 
+Elemental Shaman 
+Elf Warrior 
+Phyrexian Goblin 
+Warchief Giant copy 

@@ -138,3 +138,16 @@ Kruphix, God of Horizons out
 Renata, Called to the Hunt out 
 Courser of Kruphix out
 Callaphe, Beloved of the Sea out 
+    Tokens 
+Alien Rhino 
+Alien Salamander 
+Acavyn 
+Cleric 
+Food 
+Human (WHO) 646
+Human (WHO) 38
+Mutant 
+Spider 
+The Ring 
+Treasure 
+Warrior 

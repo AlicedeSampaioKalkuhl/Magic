@@ -136,4 +136,8 @@
 1 Vessel of Endless Rest (AVR) 224
 1 Voyage's End (JMP) 189
     Out 
-    
+    Tokens 
+City's Blessing 
+Smaug 
+The Ring 
+Treasure 

@@ -118,4 +118,17 @@ The Parting of the Ways out
 Sol Ring out
 Arcane Signet out 
 Corwn of Gondor out
-
+    Tokens 
+City's Blessing 
+Clue 
+Dragon (KHM)
+Goblin 
+Powerstone 
+Undercity 
+The Monarch 
+The Ring 
+Thopter 
+Replicated Ring 
+Smaug 
+Treasure 
+Zombie 

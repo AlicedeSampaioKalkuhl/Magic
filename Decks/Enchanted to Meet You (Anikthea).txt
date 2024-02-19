@@ -96,3 +96,66 @@
 1 Extinguish All Hope (CMM) 157
 1 Life Finds a Way (REX) 31 *F*
 1 Pull from Eternity (FMB1) 12 *F*
+
+    Out 
+Legion Loyalty 
+Martyr's Bond 
+Utopia Sprawl
+Wild Growth 
+Fertile Ground 
+Stony Silence 
+
+
+    Tokens 
+Insect 
+Knight 
+Treasure 
+Vampire Knight 
+Zombie 
+Zombie Army 
+Zombie Giant 
+Authority of the Consuls copy 
+Exploration copy 
+Quest for the Gravelord copy 
+Root Maze copy 
+Blind Obedience copy 
+Call the Bloodline copy 
+Chivalric Alliance copy 
+Cream of the Crop copy 
+Dreamhord Invasion copy 
+Greater Auromancy copy 
+Intangible Virtue copy 
+Peace of Mind copy 
+Seal of Cleansing copy 
+Seal of Primordium copy 
+Sterling Grove copy 
+Zombie Infestation copy 
+Beastmaster Ascension copy 
+Cemetery Tampering copy 
+Crawling Sensation copy 
+Cunning Rhetoric copy 
+Dying to Serve copy 
+Elemental Bond copy 
+Echantress's Presensce copy 
+Ghostly Prison copy 
+Inspiring Leader copy 
+Seal of Doom copy 
+Tribute to the World Tree copy 
+Anointed Procession copy 
+Endless Ranks of the Dead copy 
+Growing Ranks copy 
+Parallel Lives copy 
+Path of Discovery copy 
+Smothering Tithe copy 
+Boon of the Spirit Realm copy 
+Campaign of Vengeance copy 
+Doubling Season copy 
+Liliana's Mastery copy 
+Mirari's Wake copy 
+Privileged Position copy 
+Sphere of Safety copy 
+Martyr's Bond copy 
+Necromancer's Covenant copy 
+Song of the Worldsould copy 
+Cacophony Unleashed copy 
+Legion Loyalty copy 

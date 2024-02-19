@@ -148,3 +148,13 @@ Ghost Ark
 Ribskiff 
 Dusk Legion Dreadnought 
 Necron Monolith 
+    Tokens 
+Astartes Warrior 
+Cyberman 
+Golem 
+Gremlin 
+Icy Manlith 
+Necron Warrior 
+Phyrexain Myr 
+Pilot 
+Treasure 

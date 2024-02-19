@@ -132,3 +132,17 @@ Merchant of Truth
 The Fourth Doctor 
 Workshop Elders 
 Ongoing Investigation 
+    Tokens 
+Clue 
+Eldrazi
+Food 
+Gnome Soldier 
+Human Soldier 
+Phyrexian Germ 
+Rhino Warrior 
+Saproling 
+Spirit 
+Tamiyo, Field Research Emblem 
+Tamiyo's Notebook 
+Tezzeret, Betrayer of Flesh 
+Treasure 

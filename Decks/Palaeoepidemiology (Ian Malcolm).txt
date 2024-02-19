@@ -52,3 +52,10 @@
 1 Undercity Plague (GTC) 83
 1 Zimone and Dina (MOM) 318 *F*
 	In 
+
+	Out 
+
+	Tokens 
+Fractal 
+Rat 
+Saproling

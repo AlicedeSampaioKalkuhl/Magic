@@ -167,3 +167,10 @@ Skinrender
 Sol Ring 
 Ichor Rats 
 One-Eyed Scarecrow 
+    Tokens 
+Elf Warrior 
+Insect 
+Phyrexian Insect 
+Replicated Ring 
+Snake 
+Spirit 

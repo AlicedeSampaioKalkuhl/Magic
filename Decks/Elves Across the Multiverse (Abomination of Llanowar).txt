@@ -102,3 +102,10 @@ Abomination of Llanowar
 1 Windswift Slice (LTC) 128
 
 	Out 
+Farhaven Elf 
+Wood Elves 
+
+	Tokens 
+Elf Druid 
+Elf Warrior 
+Tyvar Kell Emblem 

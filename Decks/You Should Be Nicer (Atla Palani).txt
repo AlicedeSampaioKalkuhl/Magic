@@ -96,3 +96,11 @@ Atla Palani, Nest Tender
 1 Scion of Calamity (LCC) 61
 1 Ulamog, the Infinite Gyre (ROE) 12
 	Out 
+	Tokens 
+Centaur 
+Dragon 
+Egg 
+Elephant 
+Knight 
+Rhino 
+Wizard 

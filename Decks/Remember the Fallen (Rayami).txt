@@ -124,3 +124,10 @@ Primal Empathy
 Llanowar Elves
 Gravelighter 
 Elvish Mystic 
+
+	Tokens 
+Assasin 
+Rhino Warrior 
+Volo's Journal 
+Vraska, Golgari Queen Emblem 
+Wolf 
