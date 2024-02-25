@@ -155,6 +155,9 @@ Golem
 Gremlin 
 Icy Manlith 
 Necron Warrior 
-Phyrexain Myr 
+Phyrexian Myr 
 Pilot 
 Treasure 
+Mechtitan 
+
+---

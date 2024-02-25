@@ -57,7 +57,7 @@
 1 Priests of Norn (MBS) 16
 1 Protean Hulk (DIS) 90
 1 Puppeteer Clique (WOC) 115
-1 Putrefax (SOM) 126
+Birthing Pod
 1 Rattleblaze Scarecrow (SHM) 259
 1 Reanimate (CC2) 5
 1 Reaper of Sheoldred (NPH) 72
@@ -162,10 +162,7 @@ Carrion Call
 Drown in Ichor 
 Smell Fear 
 Phyrexian Juggernaut 
-Putrefax 
-Skinrender 
 Sol Ring 
-Ichor Rats 
 One-Eyed Scarecrow 
     Tokens 
 Elf Warrior 

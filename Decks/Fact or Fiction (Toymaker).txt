@@ -1,0 +1,83 @@
+1 Arcane Denial (PLST) CMA-30
+1 Arcane Sanctum (DMC) 196
+1 Archmage Emeritus (PSTX) 37p
+1 Atris, Oracle of Half-Truths (THB) 209
+1 Bojuka Bog (MKC) 250
+1 Boneyard Parley (C19) 107
+1 Brilliant Ultimatum (ALA) 159
+1 Cabal Coffers (MH2) 301
+1 Chain of Smog (PLST) ONS-132
+1 Clever Lumimancer (STX) 10
+1 Command Tower (MKC) 256
+1 Conundrum Sphinx (C18) 84
+1 Dazzling Sphinx (C21) 25
+1 Death or Glory (INV) 13
+1 Deekah, Fractal Theorist (C21) 26
+1 Defiler of Dreams (DMU) 46
+1 Deserted Beach (WHO) 270
+1 Drowned Catacomb (LTC) 305
+1 Eager First-Year (STX) 16
+1 Epiphany at the Drownyard (SOI) 59
+1 Exotic Orchard (MKC) 260
+1 Fact or Fiction (MH1) 50
+1 Fight or Flight (INV) 16
+1 Ghastly Conscription (C19) 115
+1 Ghostly Prison (MKC) 67
+1 Glacial Fortress (WHO) 285
+1 Gollum, Scheming Guide (LTR) 292
+1 Hostile Negotiations (BRO) 105
+1 Intrude on the Mind (MKM) 61
+2 Island (M20) 268
+1 Isolated Chapel (LTC) 318
+1 Isperia, Supreme Judge (C20) 217
+1 Leonin Lightscribe (STX) 20
+1 Liar's Pendulum (MRD) 196
+1 Magister Sphinx (2X2) 247
+1 Make an Example (NCC) 37
+1 Manifold Insights (C16) 10
+1 Master of Predicaments (M15) 67
+1 Maze of Ith (2XM) 322
+1 Medomai the Ageless (THS) 196
+1 Minas Morgul, Dark Fortress (LTC) 514
+1 Morphic Pool (BBD) 83
+1 Obscura Storefront (SNC) 252
+1 Octavia, Living Thesis (C21) 29
+1 Parallel Thoughts (SCG) 44
+2 Plains (MH2) 482
+1 Professor Onyx (STX) 83
+1 Propaganda (C13) 53
+1 Raffine's Tower (PSNC) 254p
+1 Reliquary Tower (MKC) 282
+1 Rogue's Passage (MKC) 284
+1 Sauron's Ransom (LTR) 225
+1 Sea of Clouds (BBD) 84
+1 Sedgemoor Witch (STX) 86
+1 Shattered Sanctum (DBL) 531
+1 Shipwreck Marsh (PMID) 267p
+1 Shizo, Death's Storehouse (CHK) 283
+1 Silverquill Apprentice (STX) 231
+1 Silverquill Pledgemage (STX) 233
+1 Sol Ring (MKC) 237
+1 Space Beleren (UNF) 178
+1 Spell Satchel (STX) 258
+1 Sphinx Ambassador (M10) 73
+1 Sphinx of Clear Skies (DMU) 67
+1 Sphinx of Uthuun (DDN) 59
+2 Swamp (M19) 271
+1 Sword of the Animist (C17) 227
+1 Symmetry Sage (STX) 56
+1 Temple of Deceit (WOC) 170
+1 Temple of Enlightenment (THB) 246
+1 Temple of Silence (DMC) 237
+1 Temple of the False God (MKC) 305
+1 The Black Gate (LTC) 80
+1 The Seventh Doctor (WHO) 158
+1 The Toymaker's Trap (WHO) 72
+1 Tivit, Seller of Secrets (NCC) 10
+1 Triumph of Saint Katherine (40K) 17
+1 Truth or Tale (TSP) 89
+1 Unesh, Criosphinx Sovereign (HOU) 52
+1 Urborg, Tomb of Yawgmoth (M15) 248
+1 Vault of Champions (CMM) 436
+1 Vexilus Praetor (40K) 19
+1 Yennett, Cryptic Sovereign (CMM) 363
