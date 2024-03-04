@@ -1,8 +1,6 @@
     Clara Oswald & The Ninth Doctor 
 1 Adric, Mathematical Genius (WHO) 351
-1 Archivist of Gondor (LTC) 18
 1 As Foretold (WHO) 1060 *F*
-1 Azure Fleet Admiral (LCC) 144
 1 Bloodgift Demon (ISD) 89
 1 Braid of Fire (SLD) 1247 *F*
 1 Caves of Chaos Adventurer (CLB) 167 *F*
@@ -12,32 +10,37 @@
 1 Court of Ire (CMR) 170
 1 Court of Locthwain (WOC) 23 *F*
 1 Court of Vantress (WOC) 22 *F*
-1 Coward / Killer (WHO) 77
-1 Crown of Gondor (LTC) 75
 1 Crumbling Necropolis (WHO) 268
 1 Cursed Mirror (BRC) 115
-1 Custodi Lich (NCC) 244
+1 Darksteel Reactor (DST) 114
 1 Dragonmaster Outcast (ONC) 98
 1 Emberwilde Captain (CMR) 175 *F*
+1 Endless Evil (CLB) 665
 1 Endless Ranks of the Dead (J22) 410
-1 Entrails Feaster (ONS) 143
 1 Exotic Orchard (WHO) 493 *F*
+1 Gallifrey Council Chamber (WHO) 188
+1 Gemstone Array (5DN) 124
 1 Goblin Assault (MM3) 95
 1 Haunted Ridge (WHO) 286
 1 Herald of Leshrac (CSP) 62 *F*
 1 Inspiring Refrain (C21) 354
-10 Island (WHO) 198 *F*
+9 Island (WHO) 198 *F*
 1 Jhoira of the Ghitu (DDS) 1 *F*
 1 Keeper of Keys (CN2) 34 *F*
 1 Lithoform Engine (ZNR) 375
 1 Loot Dispute (CLB) 677
+1 Luxury Suite (CLB) 355
+1 Maestros Theater (SNC) 251
 1 Midnight Clock (CLB) 727
 1 Mirror Box (NEO) 250
 1 Mirrorhall Mimic / Ghastly Mimicry (VOW) 361 *F*
 1 Moonsnare Prototype (NEO) 69
-1 Gallifrey Council Chamber (WHO) 188
-9 Mountain (WHO) 1163 *F*
+8 Mountain (WHO) 1163 *F*
+1 Paradox Haze (PLST) TSP-71 *F*
 1 Patriar's Seal (CLB) 332
+1 Phyrexian Arena (ONE) 283 *F*
+1 Phyrexian Metamorph (PNPH) 42★ *F*
+1 Propaganda (AFC) 91
 1 Ravenloft Adventurer (CLB) 577 *F*
 1 Relic of Legends (DMU) 236
 1 Reliquary Tower (BRC) 196
@@ -46,6 +49,8 @@
 1 Reverse the Polarity (WHO) 54
 1 Rousing Refrain (C21) 56
 1 Run for Your Life (WHO) 154
+1 Sakashima of a Thousand Faces (CMR) 561 *E*
+1 Sakashima the Impostor (SLD) 1232 *F*
 1 Sarevok's Tome (CLB) 685
 1 Skyline Despot (CMM) 254
 1 Sol Ring (WHO) 245 *F*
@@ -57,16 +62,15 @@
 1 Stolen Identity (NCC) 233
 1 Stolen Strategy (CLB) 807
 1 Strionic Resonator (BRC) 165
-9 Swamp (WHO) 1161 *F*
+1 Sulfur Falls (LTC) 333
+7 Swamp (WHO) 1161 *F*
 1 Tamiyo's Journal (J22) 800
-1 TARDIS (WHO) 187
+1 TARDIS (WHO) 551
 1 Temple of the False God (C20) 319
-1 The Brothers' War (BRC) 22 *F*
 1 The Master, Multiplied (WHO) 146
-1 The Parting of the Ways (WHO) 91
 1 The Tenth Doctor (WHO) 561 *F*
-1 There and Back Again (LTR) 151
 1 Thopter Spy Network (BRC) 97
+1 Throne of the High City (LTC) 339
 1 Time Lord Regeneration (WHO) 664 *F*
 1 Tomb of Horrors Adventurer (CLB) 100 *F*
 1 Trenzalore Clocktower (WHO) 1054 *F*
@@ -78,46 +82,34 @@
 1 Court of Ambition (CMR) 114
 1 Court of Embereth (WOC) 24
 1 Creeping Bloodsucker (J22) 21
-1 Darksteel Reactor (DST) 114
+1 Dominus of Fealty (PLST) CMD-194
 1 Dragonskull Summit (WHO) 272
 1 Drowned Catacomb (WHO) 274
 1 Dungeon Delver (CLB) 67
-1 Endless Evil (CLB) 665
-1 Estrid's Invocation (C18) 8
 1 Extravagant Replication (NCC) 25
 1 Followed Footsteps (RAV) 51
-1 Gemstone Array
 1 Helm of the Host (PDOM) 217p
-1 Luxury Suite (CLB) 355
-1 Maestros Theater (SNC) 251
 1 Marchesa's Decree (CN2) 44
 1 Morphic Pool (CLB) 357
 1 Mox Tantalite (MH1) 226
-1 Paradox Haze (TSP) 71
-1 Portal to Phyrexia (BRO) 240
 1 Rogue's Passage (LCC) 349
-1 Sakashima of a Thousand Faces (CMR) 89
 1 Sheoldred, Whispering One (SLD) 211
 1 Shipwreck Marsh (WHO) 305
 1 Stormcarved Coast (WHO) 308
-1 Sulfur Falls (DOM) 247
-1 Throne of the High City (LTC) 339
 1 Training Center (CMM) 434
-1 Urborg, Tomb of Yawgmoth (PLC) 165g
-1 Weed-Pruner Poplar (MOR) 83
-Propaganda
-Dominus of FealtyMana Flare g
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Weed-Pruner Poplar (MOR) 83   
     Out 
-Archivist of Gondor out
-Enthrails Feaster out
-Coward / Killer out
-Keeper of Keys out
-The Brothers' War out
-There and Back Again out
-The Parting of the Ways out
-Sol Ring out
-Arcane Signet out 
-Corwn of Gondor out
+Herald of Lesharc out 
+Run for Your Life out 
+Copy Enchantment out 
+As Foretold out 
+Loot Dispute out 
+Tamiyo's Journal out 
+Replication Technique out 
+Sakashima the Imposter out 
+Goblin Assault out 
+Sol Ring out    
     Tokens 
 City's Blessing 
 Clue 
@@ -128,7 +120,7 @@ Undercity
 The Monarch 
 The Ring 
 Thopter 
-Replicated Ring 
+Replicated Ring     
 Smaug 
 Treasure 
 Zombie 
