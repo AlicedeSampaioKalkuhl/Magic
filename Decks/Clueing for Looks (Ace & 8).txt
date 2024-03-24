@@ -6,7 +6,6 @@
 1 Briarbridge Patrol (SOI) 195
 1 Bronze Guardian (C21) 13
 1 Bronze Walrus (CLB) 302 *F*
-1 Call for Unity (AER) 9
 1 Command Tower (40K) 271
 1 Confirm Suspicions (MKC) 97
 1 Copper Myr (SOM) 146
@@ -40,19 +39,21 @@
 1 Lonis, Cryptozoologist (MH2) 370
 1 Magnifying Glass (SOI) 258 *F*
 1 Martha Jones (WHO) 48
-1 Merchant of Truth (MKC) 11
 1 Metallic Rebuke (2XM) 59
 1 Morska, Undersea Sleuth (MKC) 3 *F*
 1 Nettlecyst (MOC) 367
+1 No Witnesses (MKM) 390
+1 On the Trail (MKC) 39
 1 Ongoing Investigation (SOI) 77
 1 Palladium Myr (SOM) 190
 1 Parcel Myr (MH2) 54
-4 Plains (WHO) 196
+3 Plains (WHO) 196
 1 Press for Answers (SOI) 80
 1 Ransom Note (MKC) 46
 1 Rise and Shine (MOC) 233
 1 Rogue's Passage (WHO) 299
 1 Root Out (SOI) 224
+1 Scene of the Crime (MKM) 267
 1 Search the Premises (MH2) 332
 1 Seaside Citadel (C13) 318
 1 Shimmer Dragon (MOC) 236
@@ -106,13 +107,11 @@
 1 Inventors' Fair (KLD) 247
 1 Krark-Clan Ironworks (5DN) 134
 1 Lavinia, Foil to Conspiracy (CLU) 36
-1 No Witnesses (MKM) 27
 1 Officious Interrogation (MKM) 314
 1 Overgrown Farmland (WHO) 292
 1 Rampage of the Clans (RNA) 134
 1 Rejuvenating Springs (CMM) 424
 1 Reliquary Tower (C14) 308
-1 Scene of the Crime (MKM) 267
 1 Sea of Clouds (BBD) 84
 1 Seat of the Synod (DDF) 74
 1 Senator Peacock (CLU) 2
@@ -124,11 +123,9 @@ Fleeting Memories
 Parcel Myr 
 Hargilde, Kindly Runechanter 
 Faerie Vandal 
-Killer Service 
-Call for Unity 
+Killer Service  
 Tezzeret, Betrayer of Flesh 
 Wavesifter 
-Merchant of Truth 
 The Fourth Doctor 
 Workshop Elders 
 Ongoing Investigation 

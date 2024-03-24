@@ -161,3 +161,6 @@ Chandra, Dressed to Kill Emblem
 Devil 
 Jaya Ballard Emblem 
 Treasure 
+
+    Proxies 
+    

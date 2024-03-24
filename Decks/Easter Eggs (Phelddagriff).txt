@@ -1,0 +1,34 @@
+1 Aetherspouts (MIC) 97
+1 Angel's Trumpet (ULG) 121
+1 Ashnod's Altar (CHR) 92
+1 Awakening (STH) 101
+1 Braids, Conjurer Adept (CMM) 76
+1 Byrke, Long Ear of the Law (BLB) 380
+1 Collective Voyage (C16) 145
+1 Concordant Crossroads (2X2) 141
+1 Dictate of Karametra (JOU) 121
+1 Edric, Spymaster of Trest (C16) 195
+1 Ezuri's Predation (CMM) 287
+1 Flurry of Wings (ARB) 127
+1 Ghirapur Orrery (KLD) 216
+1 Gor Muldrak, Amphinologist (CMR) 277
+1 Heartbeat of Spring (2XM) 171
+1 Helm of Awakening (DMR) 224
+1 Horn of Greed (CN2) 211
+1 Intruder Alarm (WOT) 21
+1 Kwain, Itinerant Meddler (CMR) 284
+1 Mercy Killing (SHM) 231
+1 Mikokoro, Center of the Sea (DMC) 217
+1 New Frontiers (ODY) 257
+1 Noble Heritage (CLB) 35
+1 Noble Hierarch (2XM) 177
+1 Oath of Druids (C16) 159
+1 Pollen-Shield Hare / Hare Raising (WOE) 233
+1 Preston, the Vanisher (J22) 8
+1 Primal Vigor (WOT) 59
+1 Questing Phelddagrif (PLS) 119
+1 Regal Bunnicorn (WOE) 25
+1 Rites of Flourishing (ZNC) 80
+1 Tempt with Discovery (C19) 183
+1 Upwelling (10E) 306
+1 Wilderness Reclamation (MKC) 196

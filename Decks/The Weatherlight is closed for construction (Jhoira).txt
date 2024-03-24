@@ -95,11 +95,12 @@
 1 Ward of Bones (EVE) 174
 
     In 
-1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
-1 Faerie Mastermind (MOM) 58
-1 Trinisphere (DST) 154
+
 
     Out 
+Waling Ballista
+Illusionist's Strategem
+clout of the dominus
 
     Tokens 
 Construct (BRO)
