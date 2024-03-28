@@ -50,9 +50,10 @@ When it comes to win stats, I have a couple of points that are important to unde
 ![number of games](played.png)
 For the FNM LGS decks, there's a couple of notable outliers. 
 
-I decided to plot wins by deck type, not by power level which is why the high power [Jeleva](https://www.moxfield.com/decks/wa9WtU4FeEO7RsyPj5zawg) deck is where it is.
+I decided to plot wins by deck type, not by power level which is why the high power [Jeleva](https://www.moxfield.com/decks/wa9WtU4FeEO7RsyPj5zawg) deck is where it is. The other high power decks that are outliers are [Jhoira](https://www.moxfield.com/decks/jLFKB8hsVEalMDUZzieFDQ) and [Gallia](https://www.moxfield.com/decks/HuLxRxvIu0WlLzUwmdk46g) since I didn't start logging games from scratch since changing them down from being experimental cEDH decks. I think the stats explain why I don't play these decks in cEDH games anymore. 
 
-Not all decks want to win. Notable mentions here include [Parnesse](https://www.moxfield.com/decks/FxogC8HyLESeMO0RKeZ5iQ) and [Zedruu](https://www.moxfield.com/decks/OyJB7Ux9cUyQ8c9tzjDpzg)
+Not all decks want to win. Notable mentions here include [Parnesse](https://www.moxfield.com/decks/FxogC8HyLESeMO0RKeZ5iQ) and [Zedruu](https://www.moxfield.com/decks/OyJB7Ux9cUyQ8c9tzjDpzg).
+
 
 
 If you are good with R, please help me with me Magic stats To Do list:
