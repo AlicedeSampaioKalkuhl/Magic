@@ -47,16 +47,43 @@ When it comes to win stats, I have a couple of points that are important to unde
 - In cEDH, you will want a higher than average win to get through tournaments. I chose to set that to ~40%
 - Decks with less than 5 games are likely to have major changes in where they plot in the future. 
 
-![number of games](played.png)
+![FNM LGS winrates](played.png)
+
 For the FNM LGS decks, there's a couple of notable outliers. 
 
 I decided to plot wins by deck type, not by power level which is why the high power [Jeleva](https://www.moxfield.com/decks/wa9WtU4FeEO7RsyPj5zawg) deck is where it is. The other high power decks that are outliers are [Jhoira](https://www.moxfield.com/decks/jLFKB8hsVEalMDUZzieFDQ) and [Gallia](https://www.moxfield.com/decks/HuLxRxvIu0WlLzUwmdk46g) since I didn't start logging games from scratch since changing them down from being experimental cEDH decks. I think the stats explain why I don't play these decks in cEDH games anymore. 
 
-Not all decks want to win. Notable mentions here include [Parnesse](https://www.moxfield.com/decks/FxogC8HyLESeMO0RKeZ5iQ) and [Zedruu](https://www.moxfield.com/decks/OyJB7Ux9cUyQ8c9tzjDpzg).
+On a completely different note, not all decks want to win. Notable mentions here include [Parnesse](https://www.moxfield.com/decks/FxogC8HyLESeMO0RKeZ5iQ) and [Zedruu](https://www.moxfield.com/decks/OyJB7Ux9cUyQ8c9tzjDpzg). I'm still working on getting [Esika's](https://www.moxfield.com/decks/0WLCVK5L7kCZUuW1V2PMtg) win rate up but no amount of explaining in the rule 0 that the goal of the deck is not to have the Prismatic Bridge snowball has helped. 
 
+![proxied win rates](proxied.png)
 
+If you are still reading the win stats, I'm going to guess that the cEDH win stats are the most interesting for you. My [topdeck tournament record](https://topdeck.gg/profile/Kr4LkhkJa8bPBUasCL0Olu13D153) is pretty abysmal but I've been working on that by focussing on only one deck and deciding to no longer play online tournaments, because I noticed a start contrast in enjoyability of games and inappropriate conduct by opponents between playing in person and via webcam. My one remaining deck is [Toluz](https://www.moxfield.com/decks/jIQUKoqnmUi560I-XWEWWg) which I built the day cEDH TV dropped their [New Capenna episode](https://www.youtube.com/watch?v=ggs5vaB3JHw&pp=ygUTY2VkaCB0diBuZXcgY2FwZW5uYQ%3D%3D). 
 
-If you are good with R, please help me with me Magic stats To Do list:
+![cEDH win rate](cEDH_results.png)
+
+There's a couple of decks that don't have stats yet, because I haven't finished them. Stay tuned for stats on: 
+- Runo
+- Breya
+- Obeka
+- Vislor&The Second Doctor
+- Piru
+- Vial Smasher
+- Peri Brown & The Fourteenth Doctor
+
+I really like art, so I also track artists. There are a couple of notable ones: 
+- Wangjie Li is the top artist in the stats.
+- My favourite magic artists are Jesper Ejsing, Johannes Voss, and Magali Villeneuve but I also really like shiny cards which is why they're not represented here... yet
+- Here we start seeing an interesting side effect of the way I record data which is that two characters on the art are counted twice for artist and plane. This was extra fun back when my [Vislor and Second Doctor](https://www.moxfield.com/decks/fD7I-DpVe0eQ1xVii4L7cg) deck was helmed by the Sen Triplets. 
+
+Now, for the planes, I would love to do a map but for that I have to draw a map of the multiverse and then assign fake coordinates by deciding the alignment of the planes... a project for another day. For now, we have another dot plot. 
+![locations](locations.png)
+Have I mentioned that I like Doctor Who?
+
+Finally, we have the deck themes. Initially, I was using this to reduce my overall deck numer. Back when I had too many decks, "Energy" would have been a major size her but by now, I think I've narrowed it down so that the decks are sufficiently different. 
+
+![wordcloud](wordcloud.png)
+
+If you liked the stats and are good with R, please help me with me Magic stats To Do list:
 - find a way to pull static data of moxfield and scryfall
 - make the planes stats look more like a map
 - find an easier way to log new game results 
