@@ -12,6 +12,11 @@ Many Magic: The Gathering players like to pick a favourite shard and guild but m
 - 2013-2019: I mainly played Grixis and had a huge Dimir banner in my room (even though my favourite guild were the Simic)
 - 2021-2022: Returning to magic after a two year break*, I just wanted to build Sultai decks but after downsizing my collection, I'm down to 2.
 - 2023-present: Universes Beyond:Doctor Who happened. You'll see how that messed with my deck starts in the artist and plane stats.
+
+Nowadays it's all pretty balanced. 
+
+Fun fact: the colours in the pie chart come from a random google search image pointing out the rgb values of mana symbols.
+
 *caused by having to get rid of my collection during a rushed move when I lost some research funding)
 
 I divide all my decks into cathegorical power levels: 
@@ -21,12 +26,20 @@ I divide all my decks into cathegorical power levels:
 - high: I refuse to play it against precons, because that feels like pubstomping 
 - cEDH: for tournaments
 
+Additionally, while I am proxy friendly, I like playing FNMs at the LGS which means I can't use proxies, so the majority of my decks are proxy free. 
 
-Nowadays it's all pretty balanced. 
-Fun fact: the colours in the pie chart come from a random google search image pointing out the rgb values of mana symbols.
+I have 41 decks across formats including: 
+|format|n|
+|---|---|
+|EDH|33|
+|pEDH|1|
+|Dual Commander|2|
+|Oathbreaker|1|
+|modern|1|
+|Horde|2|
 
-You can read more about how I codify powerlevel for my own decks here (Article coming soon). If you want decklists, they're on [Moxfield](https://www.moxfield.com/users/AliceInQuantumland).
+If you want decklists, they're on [Moxfield](https://www.moxfield.com/users/AliceInQuantumland).
 
 I also write articles including science communication themed deck techs. So far, you can read: 
-- [Gifts to the Table (Parnesse)](https://quantumlandbooks.com/post/688027749349228544/gifts) (now The Stack Is Your Wonderland)
-- [The Mathematics of Infection (Alesha)](https://quantumlandbooks.com/post/678417387877449728/the-mathematics-of-infection) (no longer played)
+- [Gifts to the Table (Parnesse)](https://quantumlandbooks.tumblr.com/post/688027749349228544/gifts) (now The Stack Is Your Wonderland)
+- [The Mathematics of Infection (Alesha)](https://quantumlandbooks.tumblr.com/post/678417387877449728/the-mathematics-of-infection) (no longer played)
