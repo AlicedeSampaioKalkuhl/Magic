@@ -70,18 +70,6 @@ proxied <- played %>% filter(type=="proxied") %>%
 proxied
 ggsave("proxied.png")
 
-notEDH_total <- max(games[games$type=="Other",]$played)
-notEDH <- played %>% filter(type=="Other") %>% 
-  ggplot(aes(x=lost,y=won,label=commander)) +
-  geom_point(aes(size=played,colour=commander,fill=commander))+
-  geom_abline(slope=0.25,intercept=0)+
-  scale_x_continuous(limits = c(0,total %>% filter(type=="Other") %>% pull(max_played)))+
-  scale_y_continuous(limits = c(0,total %>% filter(type=="Other") %>% pull(max_played)))+
-  geom_text_repel(aes(label = commander),size=4,vjust = -1,max.overlaps = 21)+
-  scale_colour_viridis_d(option="turbo")+
-  theme(legend.position = "none")
-notEDH
-ggsave("notEDH.png")
 
 # cEDH stats 
 cEDH_total <- max(games[games$type=="cEDH",]$played)
@@ -120,7 +108,13 @@ locations <- planes %>%
               geom_text_repel(aes(label = plane),size=4,vjust = -1,max.overlaps = 21)
 locations 
 # themes 
-themes <- decks %>% separate_rows(themes,sep='&') %>% drop_na() %>% group_by(themes) %>% summarise(n=n()) %>% arrange(-n)
-themes
+deck_themes <- decks %>% separate_rows(themes,sep='&') %>% drop_na() %>% group_by(themes) %>% summarise(n=n()) %>% arrange(-n)
+deck_themes
 
-write.csv(decks,"Decks.csv",quote=F,row.names =F)
+
+ggplot(deck_themes, aes(label = themes,color=themes)) +
+  geom_text_wordcloud() +
+  scale_size_area(max_size = 30)+
+  theme_minimal()+
+  scale_colour_viridis_d(option="turbo")
+# write.csv(decks,"Decks.csv",quote=F,row.names =F) if you change the csv in here, remember to export it again 
