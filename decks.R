@@ -102,19 +102,23 @@ artists
 planes <- decks %>% separate_rows(plane,sep='&') %>% drop_na() %>% group_by(plane) %>% mutate(n_all=nrow(.)) %>% group_by(n_all,plane)%>% summarise(n=n()) %>% arrange(-n) %>% mutate(prop=n/n_all)
 
 locations <- planes %>% 
-              ggplot(aes(n,1-prop)) +
-              geom_jitter(aes(size=prop,colour=plane))+
-              scale_colour_viridis_d(option="turbo")+
-              geom_text_repel(aes(label = plane),size=4,vjust = -1,max.overlaps = 21)
+ggplot(aes(label = plane,color=plane,size=n)) +
+  geom_text_wordcloud() +
+  scale_size_area(max_size = 15)+
+  theme_minimal()+
+  scale_colour_viridis_d(option="turbo")
 locations 
+ggsave('locations.png')
+
 # themes 
 deck_themes <- decks %>% separate_rows(themes,sep='&') %>% drop_na() %>% group_by(themes) %>% summarise(n=n()) %>% arrange(-n)
 deck_themes
 
 
-ggplot(deck_themes, aes(label = themes,color=themes)) +
+themes_plot<-ggplot(deck_themes, aes(label = themes,color=themes,size=n)) +
   geom_text_wordcloud() +
-  scale_size_area(max_size = 30)+
+  scale_size_area(max_size = 15)+
   theme_minimal()+
   scale_colour_viridis_d(option="turbo")
+ ggsave('worldcloud.png')
 # write.csv(decks,"Decks.csv",quote=F,row.names =F) if you change the csv in here, remember to export it again 

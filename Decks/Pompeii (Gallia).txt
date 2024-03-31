@@ -1,114 +1,103 @@
-    Jenny Flint & Madame Vastra 
-1 Abrade (PHOU) 83
-1 Abundant Growth (SLD) 1135
-1 Aggravated Assault (SLD) 1026
-1 Analyze the Pollen (MKM) 150
-1 Animar, Soul of Elements (2X2) 171
-1 Apex Altisaur (C19) 31
-1 Arcane Signet (SLD) 1492
-1 Birds of Paradise (LTC) 235
+    Gallia 
+1 Aggravated Assault (WOT) 39
+1 Anax, Hardened in the Forge (THB) 264
+1 Anger (LTC) 210
+1 Ash Barrens (LTC) 295
 1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
-1 Bloodstained Mire (KTK) 230
+1 Blasted Landscape (PLST) CM2-238
+1 Blighted Woodland (CLB) 881
 1 Boseiju, Who Endures (NEO) 266
-1 Branching Evolution (JMP) 29
-1 Carpet of Flowers (PLST) USG-240
-1 Chord of Calling (2XM) 384 *F*
-1 Chrome Mox (MRD) 152
-1 Command Tower (SLD) 1496
-1 Copperline Gorge (ONE) 371 *F*
-1 Deflecting Swat (C20) 50
-1 Delighted Halfling (LTR) 158
-1 Dockside Extortionist (C19) 24
-1 Fight Rigging (SNC) 145
-1 Foe-Razer Regent (PTKDF) 187
-1 Forest (ONE) 266
-3 Forest (THB) 254
-2 Forest (THB) 254 *F*
-1 Fyndhorn Elves (CMR) 228
-1 Gallia of the Endless Dance (THB) 338 *F*
-1 Gilder Bairn (EVE) 152
-1 Gimli's Reckless Might (LTC) 494 *F*
-1 Grove of the Burnwillows (FUT) 176
-1 Hadana's Climb / Winged Temple of Orazca (PLST) RIX-158
-1 Halana and Alena, Partners (VOW) 239
-1 Hardened Scales (LCC) 243
-1 Hydroid Krasis (MKC) 212
-1 Hyrax Tower Scout (THB) 173 *F*
-5 Island (ONE) 263
-1 Island (ONE) 263 *F*
-1 Kappa Cannoneer (MKC) 108
-1 Khalni Ambush / Khalni Territory (ZNR) 192
-1 Kiki-Jiki, Mirror Breaker (PLST) MM2-121
-1 Last Chance (SLD) 405 *F*
-1 Legolas's Quick Reflexes (LTC) 537 *F*
-1 Lightning Greaves (SLD) 1493
-1 Liquimetal Torque (MH2) 228
-1 Llanowar Elves (DOM) 168
-1 Lotus Petal (TMP) 294
-1 Lull (DMR) 345 *F*
-1 Magda, Brazen Outlaw (KHM) 142
-1 Magus Lucea Kane (40K) 174 *F*
-1 Mana Crypt (PLST) EMA-225
-1 Mountain (ONE) 265
-6 Mountain (THB) 253
-1 Mountain (THB) 253 *F*
+1 Brallin, Skyshark Rider (C20) 4 *F*
+1 Brawn (MOC) 292
+1 Change of Fortune (VOW) 375
+1 Cloudstone Curio (RVR) 443
+1 Command Tower (MKC) 256
+1 Cragcrown Pathway / Timbercrown Pathway (PLST) ZNR-261
+1 Defiler of Vigor (DMU) 160
+1 Desert of the Fervent (C20) 266
+1 Domri, Anarch of Bolas (WAR) 191
+1 Domri, Chaos Bringer (RNA) 166
+1 Druids' Repository (AVR) 176
+1 Eternal Witness (SCD) 181
+1 Feldon of the Third Path (C14) 35
+1 Forgotten Cave (C21) 289
+1 Genesis (SLC) 2002
+1 Glint-Horn Buccaneer (M20) 141
+1 Goblin Anarchomancer (MH2) 200
+1 Goldhound (SNC) 108
+1 Gruul Turf (CLU) 238
+1 Hangar Scrounger (MOM) 142 *F*
+1 Inti, Seneschal of the Sun (LCI) 295
+1 Karplusan Forest (DMU) 250
+1 Kessig Wolf Run (C20) 284
+1 Maskwood Nexus (KHM) 369
+1 Mosswort Bridge (C20) 291
 1 Neheb, Dreadhorde Champion (DMC) 125
-1 Neheb, the Eternal (MKC) 158
-1 Neyith of the Dire Hunt (JMP) 30
-1 Pir, Imaginative Rascal (SLD) 1050
-1 Ransom Note (MKC) 45
-1 Rite of Passage (5DN) 91
-1 Rosheen Meanderer (PLST) IMA-206
-1 Simic Ascendancy (PRNA) 207 *F*
-1 Sol Ring (SLD) 1494
+1 Portent Tracker (MOM) 201 *F*
+1 Priest of Urabrask (PDCI) 74
+1 Professional Face-Breaker (SNC) 426
+1 Racers' Ring (SNC) 253
+1 Reliquary Tower (LCC) 348
+1 Return to Nature (ELD) 173 *F*
+1 Reverberate (40K) 207
+1 Rogue's Passage (MKC) 284
+1 Rootbound Crag (WHO) 300
+1 Rootrider Faun (WOE) 182
+1 Runaway Steam-Kin (GRN) 115
+1 Satyr Wayfinder (ZNC) 81
+1 Seeker of Skybreak (TMP) 254
+1 Sheltered Thicket (MKC) 291
+1 Skarrg, the Rage Pits (PCA) 127
+1 Sokenzan, Crucible of Defiance (NEO) 415
+1 Spinerock Knoll (NCC) 429
 1 Spire Garden (CLB) 361
-1 Stomping Ground (UNF) 280 *F*
-1 Stonehoof Chieftain (CMM) 325
-1 Strax, Sontaran Nurse (WHO) 444 *F*
-1 Talisman of Impulse (SLD) 1055
-1 Temur Sabertooth (NCC) 315
-1 Tesak, Judith's Hellhound (MKC) 36
-1 The Swarmlord (40K) 176 *F*
-1 Thought Vessel (SLD) 1495
-1 Tibalt's Trickery (KHM) 153
-1 Tireless Tracker (SLD) 711
-1 Toothy, Imaginary Friend (SLD) 1049
-1 Troyan, Gutsy Explorer (WOE) 217 *F*
-1 Twinflame (2X2) 129
-1 Ulvenwald Tracker (SLD) 1283
+1 Storm-Kiln Artist (STX) 115
+1 Surly Badgersaur (C20) 57
+1 Temple of Abandon (MKC) 301
+1 Temple of the False God (MKC) 305
+1 Timeless Witness (MH2) 358
+1 Tranquil Thicket (MKC) 309
 1 Underworld Breach (THB) 161
-1 Utopia Sprawl (WOT) 63
-1 Vastwood Fortification / Vastwood Thicket (ZNR) 216 *F*
-1 Vexing Shusher (2XM) 225
-1 Vivid Creek (PC2) 131
-1 Vorel of the Hull Clade (NCC) 357
-1 Wild Growth (C18) 165
-1 Xantid Swarm (SCG) 135
-1 Zealous Conscripts (AVR) 166 *F*
+1 Voracious Typhon (THB) 203
+1 Voyaging Satyr (THS) 182
+1 Xenagos, God of Revels (LCC) 295
+1 Xenagos, the Reveler (CLB) 853
+1 Yavimaya, Cradle of Growth (MH2) 261
 
     In 
 1 Aberrant (40K) 86
 1 Academy Manufactor (MKC) 221
+1 Aether Rift (INV) 227
 1 Awaken the Woods (BRO) 170
+1 Battle Hymn (AVR) 128
 1 Benevolent Hydra (J22) 38
+1 Castle Garenbrig (ELD) 240
 1 Cavern of Souls (PUMA) U32 *F*
 1 Change of Fortune (VOW) 150
 1 Clan Crafter (CLB) 651 *F*
 1 Clan Defiance (CLU) 182
 1 Clock of Omens (5DN) 110
 1 Cloudstone Curio (RAV) 257
+1 Commercial District (MKM) 259
 1 Crackle with Power (STX) 95
+1 Crime Novelist (MKM) 121
+1 Defiler of Instinct (DMU) 119
+1 Desecrated Tomb (PM19) 230 *F*
+1 Desert of the Indomitable (HOU) 172
+1 Destructive Revelry (THS) 192
+1 Dolmen Gate (LRW) 256
 1 Doubling Season (MMA) 141
 1 Dreamroot Cascade (WHO) 273
 1 Druids' Repository (AVR) 176
 1 Electrodominance (RNA) 99
 1 Elementalist's Palette (C21) 76
+1 Emerald Medallion (CMM) 379
 1 Exotic Orchard (CON) 142
 1 Exponential Growth (STX) 130
 1 Fathom Mage (CMR) 445
 1 Finale of Devastation (WAR) 160
 1 Finale of Revelation (MKC) 106
-1 Fire-Lit Thicket (2XM) 317
+2 Fire-Lit Thicket (2XM) 317
 1 Five Hundred Year Diary (WHO) 42
 1 Fractal Harness (C21) 61
 1 Frontier Bivouac (C16) 297
@@ -119,21 +108,27 @@
 1 Gemstone Mine (DMR) 247
 1 Genesis Hydra (MOC) 298
 1 Gingerbread Cabin (ELD) 245
-1 Grand Warlord Radha (DOM) 195
+2 Grand Warlord Radha (DOM) 195
 1 Green Sun's Twilight (ONE) 169
 1 Green Sun's Zenith (2X2) 150
+1 Grinning Ignus (STX) 104
+2 Gruff Triplets (WOE) 172
 1 Gyre Sage (MOC) 300
 1 Hinterland Harbor (LTC) 317
+1 Howlgeist (AVR) 182
 1 Hungering Hydra (C20) 177
 1 Ingenious Prodigy (WOE) 56
 1 Inspiring Statuary (CMM) 394
 1 Kami of Whispered Hopes (MOM) 196
 1 Kessig Wolf Run (MKC) 269
 1 Ketria Triome (PIKO) 250p
+1 Klothys, God of Destiny (THB) 220
 1 Lion's Eye Diamond (VMA) 271
+1 Madblind Mountain (SHM) 274
 1 Mana Bloom (RTR) 130
 1 Mana Confluence (SLD) 1012a
 1 Mana Vault (PRM) 102343
+1 Masked Admirers (KHC) 69
 1 Maskwood Nexus (KHM) 369
 1 Mawloc (40K) 133
 1 Mines of Moria (LTR) 257
@@ -143,17 +138,28 @@
 1 Nesting Grounds (C20) 71
 1 Nexos (40K) 95
 1 Night of the Sweets' Revenge (WOE) 178
+1 Nim Deathmantle (2X2) 309
+1 Nykthos, Shrine to Nyx (THS) 223
 1 Ozolith, the Shattered Spire (MOM) 198
 1 Parallel Lives (ISD) 199
 1 Primordial Hydra (M13) 183
+1 Reckless Barbarian (CLB) 193
 1 Reckless Fireweaver (KLD) 126
+1 Reincarnation (C13) 166
+1 Reiterate (TSR) 182
 1 Rejuvenating Springs (CMM) 424
 1 Reliquary Tower (C14) 308
 1 Renegade Krasis (DGM) 47
+1 Revel of the Fallen God (JOU) 155
+1 Roaming Throne (LCI) 258
 1 Rockfall Vale (WHO) 298
+1 Rockfall Vale (MID) 266
 1 Rogue's Passage (SLD) 607 *F*
 1 Rogue's Passage (LCC) 349
 1 Rootbound Crag (WHO) 300
+1 Ruby Medallion (CMM) 405
+1 Satyr Hedonist (THS) 174
+1 Search for Survivors (PCY) 102
 1 Silkguard (NEC) 29
 1 Sokenzan, Crucible of Defiance (PRM) 98131
 1 Stormcarved Coast (WHO) 308
@@ -164,14 +170,17 @@
 1 The First Tyrannic War (40K) 121
 1 The Shire (LTR) 260
 1 Training Center (CMM) 434
+1 Treasonous Ogre (CNS) 36
 1 Treasure Vault (AFR) 261
 1 Tyranid Prime (40K) 145
 1 Unbound Flourishing (MH1) 189
+1 Vengevine (2XM) 185
 1 Verdant Catacombs (ZEN) 229
+1 Veronica, Dissident Scribe (PIP) 70
 1 Vivid Crag (C17) 289
 1 Vivid Grove (CMR) 501
 1 Voracious Hydra (M20) 200
-    Out 
+1 Wooded Foothills (KTK) 249    Out 
 Fyndhorn Elves
 Wild Growth
 Kappa Cannoneer

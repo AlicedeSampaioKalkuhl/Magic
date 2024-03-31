@@ -89,25 +89,40 @@
 1 Zevlor, Elturel Exile (CLB) 296
 
     In 
-1 Acquire (5DN) 21
-1 Bonus Round (BBD) 56
 1 Boseiju, Who Shelters All (CHK) 273
-1 Bribery (8ED) 64
-1 Chaotic Transformation (DMU) 117
+1 Chance Encounter (MH2) 277
 1 Chimil, the Inner Sun (LCI) 249
-1 Deflecting Swat (C20) 50
+1 Endless Whispers (5DN) 49
+1 Fiery Gambit (PLST) MRD-90 *F*
+1 Goblin Archaeologist (DST) 63
 1 Halimar Depths (WWK) 137
 1 Hall of Oracles (PSTX) 267s *F*
-1 Plargg and Nassari (MAT) 160
+1 Krark, the Thumbless (CMR) 189
+1 Krark's Thumb (MRD) 190
+1 Mana Crypt (PLST) EMA-225
+1 Okaun, Eye of Chaos (BBD) 6
+1 Rakdos, the Showstopper (CLU) 205
 1 Return the Past (WHO) 92
 1 River Song's Diary (WHO) 182
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 264
-1 Rousing Refrain (C21) 56
+1 Squee's Revenge (APC) 123
+1 Stitch in Time (RVR) 229
 1 Storm of Saruman (LTR) 72
-1 Talent of the Telepath (ORI) 78
-1 Veyran, Voice of Duality (C21) 330
+1 Tavern Scoundrel (MH2) 144
+1 Yusri, Fortune's Flame (MH2) 218
+1 Zndrsplt, Eye of Wisdom (BBD) 5
     Out 
 1 Metallurgic Summonings (KLD) 56
+1 Magnus the Red 
+Talrand 
+Urabrask 
+Jaya, Fiery Negotiator 
+Young Pyromancer 
+Gale, Waterdeep Prodigy 
+Synthesis Pod 
+Exchange of Words
+Metallurgic ummoning 
+Protection Racket
     Tokens 
 Construct 
 Drake 
