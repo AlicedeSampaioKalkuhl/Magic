@@ -1,0 +1,93 @@
+1 Avabruck Caretaker / Hollowhenge Huntmaster (VOW) 187
+1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180
+1 Bastion of Remembrance (PIP) 182
+1 Black Market (SLD) 1577
+1 Bojuka Bog (WWK) 132
+1 Chasm Skulker (MOC) 218
+1 Command Tower (PIP) 259
+1 Culling Ritual (CMM) 921
+1 Cult of the Waxing Moon (PLST) SOI-201
+1 Deathcap Glade (VOW) 281
+1 Decanter of Endless Water (CLB) 309
+1 Defiler of Dreams (DMU) 46
+1 Defiler of Flesh (DMU) 90
+1 Defiler of Vigor (PDMU) 160p
+1 Dictate of Erebos (JOU) 65
+1 Dreamroot Cascade (WHO) 273
+1 Drivnod, Carnage Dominus (ONE) 90
+1 Drowned Catacomb (PIP) 262
+1 Duskwatch Recruiter / Krallenhorde Howler (SOI) 203
+1 Eternal Witness (CMM) 286
+1 Exotic Orchard (WHO) 276
+3 Forest (DDM) 87
+1 Full Moon's Rise (ISD) 180
+1 Gatstaf Shepherd / Gatstaf Howler (ISD) 182
+1 Graveyard Trespasser / Graveyard Glutton (MID) 104
+1 Grim Haruspex (KTK) 73
+1 Grizzled Outcasts / Krallenhorde Wantons (ISD) 185
+1 Guardian Project (PIP) 199
+1 Hedge Maze (MKM) 262
+1 Heronblade Elite (MIC) 26
+1 Hinterland Harbor (PIP) 267
+1 Hinterland Logger / Timber Shredder (SOI) 210
+1 Hollowhenge Overlord (VOC) 36
+1 Hound Tamer / Untamed Pup (MID) 187
+1 Howling Moon (VOW) 204
+1 Howlpack Piper / Wildsong Howler (VOW) 205
+1 Howlpack Resurgence (SOI) 211
+1 Imprisoned in the Moon (EMN) 65
+3 Island (M21) 265
+1 Isochron Scepter (MRD) 188
+1 Kessig Prowler / Sinuous Predator (EMN) 163
+1 Lambholt Elder / Silverpelt Werewolf (DKA) 122
+1 Leyline of Anticipation (M11) 61
+1 Lurking Predators (M10) 190
+1 Malakir Rebirth / Malakir Mire (ZNR) 111
+1 Mayor of Avabruck / Howlpack Alpha (PISD) 193★ *F*
+1 Meren of Clan Nel Toth (PLST) C15-49
+1 Moldervine Reclamation (C21) 225
+1 Moonlight Hunt (J22) 692
+1 Moonmist (PLST) ISD-195
+1 Morphic Pool (CLB) 357
+1 Mortuary (STH) 66
+1 Nightpack Ambusher (M20) 185
+1 Opulent Palace (PIP) 278
+1 Orvar, the All-Form (KHM) 70
+1 Packsong Pup (VOW) 213
+1 Panharmonicon (PIP) 237
+1 Path of Ancestry (PIP) 279
+1 Pitiless Plunderer (PIP) 187
+1 Reanimate (MKC) 137
+1 Reflections of Littjara (KHM) 73
+1 Rejuvenating Springs (LTC) 325
+1 Reliquary Tower (CMM) 425
+1 Scorned Villager / Moonscarred Werewolf (DKA) 125
+1 Shipwreck Marsh (MID) 267
+1 Shrill Howler / Howling Chorus (EMN) 168
+1 Silumgar Scavenger (2XM) 105
+1 Skull Skaab (VOW) 248
+1 Sol Ring (PIP) 239
+1 Solitary Hunter / One of the Pack (SOI) 229
+1 Stolen Identity (NCC) 233
+1 Sunken Hollow (PIP) 296
+3 Swamp (DDP) 70
+1 Syr Konrad, the Grim (MKC) 141
+1 Tangleclaw Werewolf / Fibrous Entangler (EMN) 174
+1 The Great Henge (PELD) 161p
+1 Thought Vessel (PIP) 251
+1 Tovolar's Huntmaster / Tovolar's Packleader (MID) 204
+1 Ulvenwald Captive / Ulvenwald Abomination (EMN) 175
+1 Undercity Sewers (MKM) 270
+1 Underground Mortuary (MKM) 271
+1 Undergrowth Stadium (CMM) 435
+1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Vat of Rebirth (ONE) 113
+1 Vedalken Orrery (5DN) 163
+1 Villagers of Estwald / Howlpack of Estwald (ISD) 209
+1 Waxing Moon (EMN) 177
+1 Weaver of Blossoms / Blossom-Clad Werewolf (VOW) 226
+1 Woodland Cemetery (PIP) 316
+1 Worldly Tutor (CC1) 6
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Zagoth Triome (PIKO) 259p
+1 Zulaport Cutthroat (BFZ) 126
