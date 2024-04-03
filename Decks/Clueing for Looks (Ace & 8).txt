@@ -87,8 +87,7 @@
     In 
 1 All That Glitters (CMM) 9
 1 Ancient Den (MB1) 1652
-1 Anointed Procession (AKH) 2
-1 Bootleggers' Stash (PSNC) 134p
+1 Bootleggers' Stash (SNC) 134
 1 Bountiful Promenade (BBD) 81
 1 Briarbridge Tracker (MID) 172
 1 Command Tower (NEC) 167
@@ -106,7 +105,6 @@
 1 Inspiring Statuary (CMM) 394
 1 Inventors' Fair (KLD) 247
 1 Krark-Clan Ironworks (5DN) 134
-1 Lavinia, Foil to Conspiracy (CLU) 36
 1 Officious Interrogation (MKM) 314
 1 Overgrown Farmland (WHO) 292
 1 Rampage of the Clans (RNA) 134
