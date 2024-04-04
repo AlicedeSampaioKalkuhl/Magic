@@ -92,6 +92,7 @@
 1 Academy Ruins (TSP) 269
 1 Artificer Class (CLB) 663
 1 Buried Ruin (M12) 224
+1 Calamity, Galloping Inferno (OTJ) 116
 1 Careening Mine Cart (LCI) 247
 1 Clown Car (UNF) 186
 1 Cogwork Assembler (AER) 145
@@ -100,20 +101,19 @@
 1 Darksteel Citadel (MM2) 238
 1 Echo Storm (MOC) 221
 1 Esika's Chariot (KHM) 169
+1 Esoteric Duplicator (BIG) 5
 1 Fleetwheel Cruiser (KLD) 214
-4 Forest (DDM) 87
 1 Frontier Bivouac (PLST) KTK-234
 1 Grafted Growth (NEO) 188
 1 Hall of Tagsin (BRO) 263
 1 Hoard Hauler (SNC) 109
+1 Intrepid Stablemaster (OTJ) 169
 1 Invasion of Kaladesh / Aetherwing, Golden-Scale Flagship (MOM) 234
 1 Inventors' Fair (KLD) 247
-5 Island (M20) 268
 1 Jetfire, Ingenious Scientist / Jetfire, Air Guardian (BOT) 3
-1 Jin-Gitaxias, Progress Tyrant (PNEO) 59p
+1 Jin-Gitaxias, Progress Tyrant (NEO) 513
 1 Katsumasa, the Animator (NEC) 15
 1 Ketria Triome (PIKO) 250p
-1 Kurkesh, Onakke Ancient (M15) 153
 1 Machine God's Effigy (BRC) 16
 1 March of Progress (BRC) 8
 1 Mechanized Production (MKC) 109
@@ -121,8 +121,8 @@
 1 Mirage Mockery (ONC) 22
 1 Mirrorworks (C18) 211
 1 Mizzium Tank (WAR) 138
-5 Mountain (M21) 269
 1 Replicating Ring (KHM) 244
+1 Roxanne, Starfall Savant (OTJ) 228
 1 Saheeli, the Sun's Brilliance (LCI) 239
 1 Skyclave Relic (MOC) 380
 1 Speedway Fanatic (KLD) 132
@@ -133,6 +133,7 @@
 1 Tree of Tales (MRD) 285
 1 Unlicensed Hearse (SNC) 246
 1 Untethered Express (AER) 179
+1 Worldwalker Helm (BIG) 72
     Out 
 Corridor Monitor 
 Mishra's Self-Replicator 

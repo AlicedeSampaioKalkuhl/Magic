@@ -1,41 +1,41 @@
     	Susan Foremane & the Twelfth Doctor 
-1 Abundance (ZNC) 58
 1 Alaundo the Seer (CLB) 264 *F*
 1 Arbor Elf (LTC) 232
 1 Arcane Signet (MOC) 348
-1 Averna, the Chaos Bloom (CMR) 269
 1 Battle Mammoth (CLB) 818
 1 Bigger on the Inside (WHO) 115
 1 Bloodbraid Elf (SLC) 2009
 1 Captivating Cave (LCI) 268 *F*
 1 Círdan the Shipwright (LTC) 50
+1 Clara Oswald (WHO) 9 *F*
 1 Command Tower (C20) 264
-1 Dark Apostle (40K) 75
 1 Dowsing Device / Geode Grotto (LCI) 146
-1 Durnan of the Yawning Portal (CLB) 657 *F*
+1 Dreamroot Cascade (VOW) 282
 1 Edric, Spymaster of Trest (CM1) 8 *F*
 1 Elrond of the White Council (LTC) 51
 1 Elvish Mystic (LTC) 238
 1 Ensnared by the Mara (WHO) 84 *F*
 1 Erestor of the Council (LTC) 53
+1 Errant, Street Artist (SNC) 41
 1 Etali, Primal Storm (SLD) 1123
 1 Exotic Orchard (MIC) 173
+1 Flamekin Herald (CMR) 179
 1 Flaming Tyrannosaurus (WHO) 385 *F*
-6 Forest (ONE) 266 *F*
+5 Forest (ONE) 266 *F*
 1 Fractured Powerstone (PCA) 111
 1 Frontier Bivouac (WHO) 281
 1 Fyndhorn Elves (CMR) 228
 1 Galadriel, Elven-Queen (LTC) 3 *F*
 1 Gale, Waterdeep Prodigy (CLB) 72
-1 Haldan, Avid Arcanist (C20) 2 *F*
+1 Gallifrey Council Chamber (WHO) 188
 1 Healing Technique (C21) 63
 1 Hidden Cataract (LCI) 273 *F*
 1 Hidden Nursery (LCI) 276 *F*
 1 Ichor Elixir (MOC) 46
 1 Imoti, Celebrant of Bounty (CMR) 280
-1 Impending Flux (WHO) 87
+1 Impending Flux (WHO) 87 *F*
 1 Iraxxa, Empress of Mars (WHO) 89
-6 Island (ONE) 263
+5 Island (ONE) 263
 1 Journey to the Lost City (CLB) 681
 1 K-9, Mark I (WHO) 47
 1 Keeper of Secrets (40K) 78
@@ -45,33 +45,36 @@
 1 Maelstrom Wanderer (PCA) 101
 1 Messenger Jays (CN2) 35
 1 Mind's Desire (C21) 123
+1 Mob Verdict (MKC) 33
 1 Model of Unity (LTC) 78
-4 Mountain (ONE) 265 *F*
+3 Mountain (ONE) 265 *F*
 1 Nalfeshnee (CLB) 678
-1 One with the Multiverse (BRO) 59
 1 Opal Palace (C21) 306
-1 Pako, Arcane Retriever (C20) 13 *F*
 1 Path of the Animist (MOC) 38
 1 Path of the Enigma (MOC) 23
 1 Path of the Pyromancer (MOC) 34
 1 Pit of Offerings (LCI) 278
 1 Plea for Power (LTC) 195
+1 Prisoner's Dilemma (MKC) 34
 1 Promising Vein (LCI) 279
 1 Pyromancer's Goggles (C21) 259
-1 Rashmi and Ragavan (MOC) 8 *F*
 1 Rashmi, Eternities Crafter (KLD) 184
 1 Rattleclaw Mystic (PKTK) 144 *F*
+1 Replication Technique (C21) 31
 1 Return the Past (WHO) 92
 1 Rogue's Passage (WHO) 299
 1 Rootbound Crag (WHO) 300
 1 Sail into the West (LTC) 68
+1 Seedborn Muse (MKC) 186
 1 Sisterhood of Karn (WHO) 109
 1 Sol Talisman (MH2) 236 *F*
 1 Split Decision (CNS) 25
 1 Stolen Identity (NCC) 233
 1 Storm-Kiln Artist (STX) 115
+1 Stormcarved Coast (WHO) 308
 1 Sunbird's Invocation (SCD) 159
 1 Sunken Citadel (LCI) 285
+1 Surge of Brilliance (WHO) 57 *F*
 1 Swarm Intelligence (HOU) 50
 1 Temple of Abandon (WHO) 313
 1 Temple of Epiphany (MOC) 433
@@ -107,18 +110,15 @@ Isle of Vesuva
 Horizon Boughs
 Feeding Grounds
 1 Alchemist's Refuge (LCC) 318
+1 Averna, the Chaos Bloom (CMR) 269
 1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
 1 Cavernous Maw (LCI) 270
-1 Clara Oswald (WHO) 9
 1 Clone Legion (C17) 84
 1 Creative Technique (C21) 49
-1 Dreamroot Cascade (WHO) 273
 1 Echoing Deeps (LCI) 271
-1 Errant, Street Artist (SNC) 41
-1 Expropriate (MB1) 370
+1 Expropriate (PLST) CN2-30
 1 Extravagant Replication (NCC) 25
 1 Forgotten Monument (LCI) 272
-1 Gallifrey Council Chamber (WHO) 188
 1 Genesis Storm (C18) 30
 1 Hidden Volcano (LCI) 277
 1 Hinterland Harbor (LCC) 336
@@ -127,23 +127,16 @@ Feeding Grounds
 1 Illusion of Choice (CN2) 31
 1 Ketria Triome (PIKO) 250p
 1 Leyline of Anticipation (CLB) 726
-1 Mind's Dilation (EMN) 70
 1 Mox Tantalite (MH1) 226
 1 Orchard Elemental (CN2) 68
-1 Passionate Archaeologist (CLB) 633
 1 Rain of Riches (NCC) 50
 1 Rejuvenating Springs (CMM) 424
-1 Replication Technique (C21) 358
 1 Rockfall Vale (WHO) 298
-1 Seedborn Muse (10E) 296
 1 Selvala's Stampede (CN2) 71
 1 Sonic Screwdriver (WHO) 184
 1 Spire Garden (CLB) 361
 1 Sprout Swarm (FUT) 138
-1 Stormcarved Coast (WHO) 308
 1 Sulfur Falls (DOM) 247
-1 Surge of Brilliance (WHO) 57
-1 Thousand-Year Storm (PGRN) 207p
 1 Training Center (CMM) 434
 1 Trenzalore Clocktower (WHO) 190
 1 Twists and Turns / Mycoid Maze (LCI) 217
@@ -168,11 +161,8 @@ Turin Island out
 Undercity Reaches out 
 Lier, Disciple of the Drowned out 
 Bloodbraid Elf out 
-Durnan of the Yawning Portal out 
 Alaundo the Seer out 
 Journey to the Lost City out
-Abundance out 
-One with the Multiverse out 
     Tokens 
 Alien Warrior 
 Eldrazi 

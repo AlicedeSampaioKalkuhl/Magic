@@ -23,7 +23,7 @@ Kalamax, the Stormsire
 1 Jace's Sanctum (C19) 88
 1 Khalni Ambush / Khalni Territory (ZNR) 192 *F*
 1 Krosan Grip (C21) 198
-1 Lucky Clover (PLIST) 807
+1 Lucky Clover (PLST) ELD-226
 1 Lunar Frenzy (MID) 147
 1 Mizzix of the Izmagnus (2X2) 257
 10 Mountain (ZNR) 275 *F*
@@ -76,35 +76,36 @@ Kalamax, the Stormsire
 	In 
 1 Beamsplitter Mage (GRN) 155
 1 Beluna Grandsquall / Seek Thrills (WOE) 220
+1 Commando Raid (ONS) 195
 1 Deflecting Swat (C20) 50
 1 Dragonsguard Elite (STX) 376 *F*
 1 Dreamroot Cascade (VOW) 262
+1 Edgewall Inn (WOE) 255 *F*
 1 Frantic Search (DMR) 51
 1 Frontier Bivouac (C20) 275
 1 Fully Grown (IKO) 154
 1 Heightened Reflexes (IKO) 123
 1 Horned Loch-Whale / Lagoon Breach (WOE) 53
 1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
+1 Lilah, Undefeated Slickshot (OTJ) 356
 1 Mirrorwing Dragon (EMN) 136
 1 Moonshae Pixie / Pixie Dust (CLB) 84
 1 Mossfire Valley (NCC) 414
+1 Radha, Heir to Keld (DMR) 446
 1 Ram Through (J22) 91
-1 Rimrock Knight / Boulder Rush (ELD) 294
 1 Stormcarved Coast (VOW) 265
 1 Sulfur Falls (ISD) 248
-1 The Celestus (MID) 252
 1 The Twelfth Doctor (WHO) 164
 1 Thousand-Year Storm (2X2) 286
 1 Training Center (CMR) 358
 1 Unwind (DOM) 72
-1 Urabrask / The Great Work (MOM) 169
+1 Urabrask / The Great Work (MOM) 299 *F*
 1 Veyran, Voice of Duality (C21) 3 *F*
 1 Virtue of Knowledge / Vantress Visions (WOE) 76
 1 Wild Defiance (AVR) 203
 1 Yavimaya, Cradle of Growth (MH2) 261
-Doppelgang
 	Out 
-Setn Lesson 
+Stern Lesson out 
 
 	Tokens 
 Beast (CMR)

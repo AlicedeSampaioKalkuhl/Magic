@@ -2,6 +2,7 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Academy Manufactor (MOC) 346
 1 Access Tunnel (LTC) 294
 1 Aerialephant (UNF) 2
+1 Apothecary White (CLU) 1
 1 Arcane Signet (LTC) 273
 1 Assemble the Entmoot (LTC) 36
 1 Astrid Peth (WHO) 11
@@ -13,6 +14,7 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Blossoming Sands (IKO) 244
 1 Cauldron Familiar (ELD) 81
 1 Command Tower (LTC) 301
+1 Conclave Evangelist (CLU) 27
 1 Conclave Sledge-Captain (MOC) 36
 1 Crypt Incursion (LTC) 198
 1 Disciple of the Vault (2XM) 86 *F*
@@ -20,7 +22,6 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Exotic Orchard (LTC) 307
 1 Farmer Cotton (LTC) 55
 1 Feasting Hobbit (LTC) 37
-1 Fell Beast of Mordor (LTC) 557 *F*
 1 Field-Tested Frying Pan (LTC) 11
 7 Forest (LTR) 271
 1 Fumigate (LTC) 170
@@ -30,7 +31,6 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Gingerbread Cabin (C21) 290
 1 Gollum, Obsessed Stalker (LTC) 26
 1 Graypelt Refuge (LTC) 316
-1 Great Oak Guardian (LTC) 247
 1 Greta, Sweettooth Scourge (WOE) 205
 1 Hamza, Guardian of Arashin (MOC) 327
 1 Hardened Scales (WOT) 55
@@ -113,7 +113,17 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Yavimaya, Cradle of Growth (MH2) 261
 
     Out 
-    
+Meriadoc Branybuck 
+Esence Warden 
+Bill the Pony 
+Trelasarra, Moon Dancer
+Blossoming Bogbeast
+Gollum, Obessed Stalker
+Murmuring Bosk
+Greta, Sweettoth Scourge 
+Lobelia, Defender of Bag End 
+
+
     Tokens 
 Bird 
 Food 

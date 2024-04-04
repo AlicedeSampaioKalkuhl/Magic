@@ -85,11 +85,15 @@ Jeleva, Nephalia's Scourge
 1 World at War (ROE) 172
 1 Xander's Lounge (SNC) 260
 	In 
-1 Archive Trap (PLST) ZEN-41
+1 Archive Trap (OTP) 7
 1 Drowned Catacomb (M11) 224
+1 Emergence Zone (WAR) 245
 1 Glamdring (LTR) 239
+1 It Doesn't Add Up (MKM) 89
 1 Nephalia Academy (EMN) 205
+1 Past in Flames (40K) 206
 1 Psychic Corrosion (M19) 68
+1 Reanimate (MKC) 137
 1 Shipwreck Marsh (MID) 267
 1 Skull Storm (C18) 18
 1 Stormcarved Coast (VOW) 265

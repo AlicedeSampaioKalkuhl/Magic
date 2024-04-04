@@ -1,125 +1,111 @@
 Yidris
 1 Acquire (5DN) 21
-1 Admiral Beckett Brass (LCC) 264
-1 Animate Dead (MKC) 125
+1 Admiral Beckett Brass (SLD) 1410
+1 Ancient Brass Dragon (CLB) 367
+1 Animate Dead (4ED) 118
 1 Aqueous Form (CMR) 56
-1 Arcane Signet (PIP) 224
+1 Arcane Signet (SCD) 257
 1 Averna, the Chaos Bloom (CMR) 269
-1 Bear Umbra (WOC) 121
+1 Bear Umbra (NEC) 113
 1 Brainstealer Dragon (CLB) 621
+1 Breeches, Brazen Plunderer (CMR) 165
 1 Burgeoning (SLD) 408
 1 Captivating Crew (LCC) 219
 1 Chaos Wand (AFC) 201
-1 Chromatic Lantern (40K) 232
+1 Chromatic Lantern (BRR) 73
 1 Coercive Recruiter (LCC) 222
-1 Command Tower (PIP) 259
-1 Cunning Rhetoric (CMM) 864
+1 Command Tower (SLD) 710
+1 Conjurer's Closet (C13) 239
+1 Cursed Mirror (WHO) 474 *F*
 1 Desertion (6ED) 64
-1 Dimir Aqueduct (PCA) 116
-1 Dire Fleet Daredevil (CLB) 788
+1 Dimir Aqueduct (ZNC) 126
+1 Dire Fleet Daredevil (LCC) 223
 1 Domineering Will (CLB) 719
 1 Don Andres, the Renegade (LCC) 6 *F*
-1 Druids' Repository (AVR) 176
-1 Elder Brain (CLB) 125
+1 Elder Brain (CLB) 573 *F*
 1 Ensnared by the Mara (WHO) 384 *F*
-1 Etali, Primal Storm (SLD) 1389
-1 Exotic Orchard (PIP) 264
+1 Etali, Primal Storm (LCC) 224
+1 Exotic Orchard (NCC) 400
 1 Exploration (DMR) 339
-1 Fallen Shinobi (NCC) 338
-4 Forest (DDM) 87
+1 Flawless Forgery (NCC) 127
+1 Forest (SLD) 1092
+3 Forest (PIP) 326
 1 Geyadrone Dihada (MH2) 199
+1 Glittering Stockpile (SNC) 107
 1 Goldvein Pick (KHM) 239 *F*
 1 Golgari Rot Farm (2X2) 406
-1 Gonti, Canny Acquisitor (OTC) 1
-1 Gonti, Lord of Luxury (CLB) 753
 1 Gríma, Saruman's Footman (LTC) 57
-1 Gruul Turf (CLU) 238
+1 Gruul Turf (PCA) 119
 1 Haldan, Avid Arcanist (C20) 2 *F*
 1 Halo Forager (MOM) 227
 1 Hostage Taker (LTC) 268
-1 Inevitable Betrayal (MH2) 446
-5 Island (M21) 265
+1 Island (SLD) 1089
+3 Island (PIP) 320
 1 Izzet Boilerworks (CLU) 239
+1 Lithoform Engine (BRC) 146
 1 Memory Plunder (CLB) 849
+1 Mind Flayer (AFR) 63
 1 Mind's Dilation (SLD) 1180
 1 Mnemonic Betrayal (GRN) 189
-5 Mountain (MID) 383
+1 Mountain (SLD) 1091
+3 Mountain (PIP) 324
+1 Mountain (SLD) 49
 1 Nashi, Moon Sage's Scion (SLC) 2022
 1 Nicol Bolas, God-Pharaoh (SLC) 2017
 1 Nightveil Specter (PGTC) 222★ *F*
 1 Olivia Voldaren (SLD) 1264 *F*
 1 Pako, Arcane Retriever (C20) 13 *F*
+1 Panharmonicon (KLD) 226
 1 Plargg and Nassari (MAT) 68
 1 Praetor's Grasp (NPH) 71
+1 Profane Tutor (MH2) 97
 1 Ragavan, Nimble Pilferer (MUL) 21 *F*
 1 Rakdos Carnarium (CLU) 243
 1 Rashmi and Ragavan (MOC) 8 *F*
 1 Reanimate (MKC) 137
 1 Reins of Power (CLB) 734
-1 Rejuvenating Springs (LTC) 325
-1 Rogue's Passage (PIP) 283
+1 Rogue's Passage (LTC) 326
 1 Sepulchral Primordial (ZNC) 54
+1 Simic Growth Chamber (C21) 317
 1 Siphon Insight (MID) 375
-1 Sol Ring (PIP) 239
+1 Sol Ring (SCD) 276
 1 Sol Talisman (MH2) 472
 1 Sower of Temptation (WOC) 111
-1 Stolen Goods (C15) 107
+1 Stolen Identity (ZNC) 37
 1 Stolen Strategy (CLB) 807
-5 Swamp (DDP) 70
-1 Swiftfoot Boots (BRR) 121
-1 Synthesis Pod (ONC) 23
-1 Temple of the False God (MKC) 305
+1 Swamp (SLD) 1090
+3 Swamp (PIP) 322
+1 Swamp (SLD) 48
+1 Swiftfoot Boots (CLB) 339
+1 Temple of the False God (NCC) 436
 1 The Reaver Cleaver (DMC) 8
 1 The Ruinous Powers (40K) 139
 1 Thief of Sanity (NCC) 354
-1 Tlincalli Hunter / Retrieve Prey (CLB) 682
-1 Trailblazer's Boots (LTR) 398 *F*
+1 Thieving Skydiver (LCC) 177
 1 Valki, God of Lies / Tibalt, Cosmic Impostor (PLST) KHM-114
 1 Venture Forth (CLB) 683
-1 Wand of Wonder (CLB) 935 *F*
-1 Wild-Magic Sorcerer (CLB) 816
+1 Vexing Puzzlebox (CLB) 374
+1 Wand of Wonder (CLB) 584
 1 Willbreaker (ORI) 84
-1 Xander's Lounge (SNC) 260
-1 Yavimaya, Cradle of Growth (MH2) 261
 1 Zara, Renegade Recruiter (LCC) 297
+1 Zareth San, the Trickster (ZNR) 242
 1 Ziatora's Proving Ground (SNC) 261
 
 In 
-1 Agent of Treachery (PM20) 43p
-1 Beamtown Beatstick (MOM) 131
-1 Bloom Tender (PLST) EVE-66
-1 Bribery (CMM) 77
-1 Dauthi Voidwalker (MH2) 81
-1 Dazzling Sphinx (C21) 25
-1 Dowsing Dagger / Lost Vale (XLN) 235
-1 Fevered Suspicion (AFC) 47
-1 Gale's Redirection (CLB) 73
+1 Cunning Rhetoric (CMM) 864
+1 Druids' Repository (AVR) 176
+1 Fallen Shinobi (NCC) 338
 1 Gisa, Glorious Resurrector (MID) 103
-1 Grenzo, Havoc Raiser (CMM) 677
-1 Hurl Through Hell (AFC) 48
-1 Ketria Triome (IKO) 250
-1 Luxury Suite (CLB) 355
-1 Morphic Pool (BBD) 83
-1 Mox Tantalite (MH1) 226
-1 Opposition Agent (CMR) 141
-1 Prosper, Tome-Bound (AFC) 2 *F*
-1 River Song's Diary (WHO) 182
-1 Rod of Absorption (AFC) 19
-1 Rogue Class (PAFR) 230p
-1 Share the Spoils (AFC) 303
-1 Song of Creation (IKO) 210
-1 Spire Garden (CLB) 361
-1 Talent of the Telepath (ORI) 78
-1 Tasha, the Witch Queen (CLB) 364
-1 Thada Adel, Acquisitor (WWK) 40
-1 The Black Gate (LTC) 80
-1 Thieving Amalgam (C19) 21
-1 Training Center (CMM) 434
-1 Treachery (UDS) 50
-1 Undergrowth Stadium (CMM) 435
-1 Urborg, Tomb of Yawgmoth (PLC) 165
+1 Gonti, Lord of Luxury (CLB) 753
+1 Inevitable Betrayal (MH2) 446
+1 Laughing Jasper Flint (OTJ) 215
+1 Rakdos, the Muscle (OTJ) 226
+1 Rejuvenating Springs (LTC) 325
+1 Stolen Goods (C15) 107
+1 Synthesis Pod (ONC) 23
+1 Tinybones, the Pickpocket (OTJ) 109
+1 Tlincalli Hunter / Retrieve Prey (CLB) 682
+1 Trailblazer's Boots (LTR) 398 *F*
 1 Vraska, the Silencer (OTJ) 237
-1 Wrenn and Realmbreaker (MOM) 217
-1 Xanathar, Guild Kingpin (AFR) 239
-1 Zagoth Triome (IKO) 259
-1 Zendikar Resurgent (OGW) 147
+1 Xander's Lounge (SNC) 260
+1 Yavimaya, Cradle of Growth (MH2) 261

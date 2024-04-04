@@ -97,6 +97,7 @@
 1 Deserted Beach (WHO) 270
 1 Disorder in the Court (VOC) 29
 1 Dreamroot Cascade (WHO) 273
+1 Esoteric Duplicator (BIG) 5
 1 Exotic Orchard (MOC) 398
 1 Forensic Gadgeteer (MKM) 57
 1 Gallifrey Council Chamber (WHO) 188
@@ -115,18 +116,20 @@
 1 Senator Peacock (CLU) 2
 1 Spara's Headquarters (PSNC) 257p
 1 Sunpetal Grove (PXLN) 257p
+1 Transmutation Font (BIG) 93
 1 Tree of Tales (MRD) 285
+1 Worldwalker Helm (BIG) 72
     Out 
-Fleeting Memories 
-Parcel Myr 
-Hargilde, Kindly Runechanter 
-Faerie Vandal 
-Killer Service  
-Tezzeret, Betrayer of Flesh 
-Wavesifter 
-The Fourth Doctor 
-Workshop Elders 
-Ongoing Investigation 
+Fleeting Memories out
+Parcel Myr out 
+Hargilde, Kindly Runechanter out 
+Faerie Vandal out 
+Killer Service out 
+Tezzeret, Betrayer of Flesh out 
+Wavesifter out 
+The Fourth Doctor out 
+Workshop Elders out 
+Ongoing Investigation out 
     Tokens 
 Clue 
 Eldrazi
