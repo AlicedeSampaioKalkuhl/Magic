@@ -1,0 +1,117 @@
+    Dogmeat, Ever Loyal 
+
+1 Ajani's Chosen (WOC) 59
+1 All That Glitters (CMM) 9
+1 Almost Perfect (PIP) 90
+1 Ancestral Mask (PLST) EMA-157
+1 Animal Friend (PIP) 72
+1 Ardenn, Intrepid Archaeologist (CMR) 10
+1 Aspect of Mongoose (TSP) 191
+1 Audacity (BRO) 169
+1 Aura of Silence (PLST) C15-60
+1 Boon of the Spirit Realm (CMM) 720
+1 Bountiful Promenade (CLB) 348
+1 Bravado (USG) 177
+1 Brilliant Halo (USG) 5
+1 Burgeoning (CN2) 178
+1 Captured by Lagacs (MH2) 188
+1 Cass, Hand of Vengeance (PIP) 97
+1 Cathar's Call (MID) 11
+1 Cave of the Frost Dragon (AFR) 253
+1 Cessation (ULG) 4
+1 Chishiro, the Shattered Blade (NEC) 1
+1 Clifftop Retreat (PIP) 258
+1 Codsworth, Handy Helper (PIP) 14
+1 Command Tower (NEC) 167
+1 Curse of Bloodletting (DKA) 85
+1 Curse of Bounty (SCD) 178
+1 Curse of Chaos (C13) 105
+1 Curse of Clinging Webs (MIC) 25
+1 Curse of Conformity (MIC) 6
+1 Curse of Exhaustion (DKA) 5
+1 Curse of Opulence (MKC) 150
+1 Curse of Shaken Faith (MID) 134
+1 Curse of the Forsaken (C13) 8
+1 Curse of the Pierced Heart (ISD) 138
+1 Curse of Vitality (C17) 3
+1 Darksteel Mutation (PLST) CMA-9
+1 Den of the Bugbear (AFR) 254
+1 Eidolon of Countless Battles (WOC) 66
+1 Ellivere of the Wild Court (WOC) 2
+1 Etali's Favor (LCI) 149
+1 Ethereal Armor (RTR) 9
+1 Exploration (CNS) 164
+1 Fists of Ironwood (RVR) 139
+1 Forbidding Watchtower (TD2) 39
+1 Ghitu Encampment (DDN) 33
+1 Giant Inheritance (WOC) 17
+1 Gift of Immortality (THS) 14
+1 Grim Reaper's Sprint (PIP) 58
+1 Gunner Conscript (PIP) 77
+1 Hall of Heliod's Generosity (WOC) 162
+1 Hallowed Haunting (VOW) 17
+1 Herald of the Pantheon (C18) 151
+1 Hostile Desert (MKC) 266
+1 Jukai Naturalist (WOC) 140
+1 Junktown (PIP) 150
+1 Kellan, the Fae-Blooded / Birthright Boon (WOE) 230
+1 Maddening Hex (AFC) 32
+1 Mantle of the Ancients (WOC) 70
+1 Mazzy, Truesword Paladin (CLB) 430
+1 Mishra's Factory (DMR) 251
+1 Mishra's Foundry (BRO) 265
+1 Mobilized District (CMM) 1011
+1 Monastery Mentor (FRF) 20
+1 Moon-Blessed Cleric (AFR) 26
+1 Mutavault (CLB) 903
+1 Nantuko Monastery (DMR) 252
+1 Nykthos, Shrine to Nyx (THS) 223
+1 One with the Kami (NEC) 69
+1 Overgrown Farmland (WHO) 292
+1 Overwhelming Splendor (HOU) 19
+1 Pia Nalaar, Consul of Revival (MAT) 42
+1 Radiant Grace / Radiant Restraints (VOW) 31
+1 Raging Ravine (CLB) 910
+1 Rancor (PIP) 205
+1 Reliquary Tower (C14) 308
+1 Restless Bivouac (WOE) 257
+1 Restless Prairie (LCI) 281
+1 Restless Ridgeline (LCI) 283
+1 Retether (PLC) 13
+1 Rockfall Vale (MID) 266
+1 Rogue's Passage (PIP) 283
+1 Rootbound Crag (PIP) 284
+1 Sage's Reverie (FRF) 23
+1 Sanctum Weaver (WOC) 131
+1 Second Harvest (SOI) 227
+1 Serra's Sanctum (USG) 325
+1 Shielded by Faith (SS2) 5
+1 Siona, Captain of the Pyleas (WOC) 144
+1 Skybind (JOU) 25
+1 Smothering Tithe (CMM) 57
+1 Songbirds' Blessing (WOC) 7
+1 Spectator Seating (CMM) 427
+1 Spire Garden (CLB) 606
+1 Spirit Loop (TSP) 42
+1 Spirit Mantle (M12) 35
+1 Stalking Stones (TPR) 245
+1 Starfield Mystic (WOC) 76
+1 Stirring Wildwood (UMA) 251
+1 Strong Back (PIP) 83
+1 Sundown Pass (WHO) 310
+1 Sunpetal Grove (M10) 228
+1 Syr Armont, the Redeemer (WOE) 214
+1 Three Dog, Galaxy News DJ (PIP) 120
+1 Tiana, Ship's Caretaker (DMR) 204
+1 Transcendent Envoy (J22) 257
+1 Treetop Village (DDU) 30
+1 Triclopean Sight (LRW) 45
+1 Unfinished Business (WOC) 8
+1 Urban Burgeoning (RTR) 138
+1 Well Rested (PIP) 88
+1 Wheel of Sun and Moon (SHM) 243
+1 Wild Growth (DMR) 184
+1 Wilderness Reclamation (RNA) 149
+1 Winds of Rath (CMR) 392
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Yenna, Redtooth Regent (WOE) 219
