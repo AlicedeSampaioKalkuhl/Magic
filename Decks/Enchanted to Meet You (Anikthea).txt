@@ -91,11 +91,13 @@
 1 Yavimaya, Cradle of Growth (MH2) 261
 1 Zombie Infestation (C19) 132
     In 
-1 Calix, Guided by Fate (MAT) 26
+1 Case of the Locked Hothouse (MKM) 155
 1 Elven Chorus (LTR) 160
 1 Extinguish All Hope (CMM) 157
 1 Life Finds a Way (REX) 31 *F*
-1 Pull from Eternity (FMB1) 12 *F*
+1 Promise of Aclazotz / Foul Rebirth (LCC) 84
+1 Pull from Eternity (PLST) TSP-35 *F*
+1 Touch the Spirit Realm (NEO) 40
 
     Out 
 Legion Loyalty 

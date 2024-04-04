@@ -89,6 +89,7 @@
 1 Curiosity (WOT) 17
 1 Delayed Blast Fireball (CLB) 676
 1 Extravagant Replication (NCC) 25
+1 Fblthp, Lost on the Range (OTJ) 48
 1 Gemstone Caverns (TSP) 274
 1 Glacial Floodplain (KHM) 257
 1 Hall of Heliod's Generosity (WOC) 162
@@ -113,8 +114,7 @@
 1 Vesuvan Duplimancy (DMU) 73
 1 Volatile Fjord (KHM) 273
 1 Wild-Magic Sorcerer (CLB) 816
-1 World at War (ROE) 172
-    Out 
+1 World at War (ROE) 172    Out 
     Tokens 
 Angel 
 Bird 

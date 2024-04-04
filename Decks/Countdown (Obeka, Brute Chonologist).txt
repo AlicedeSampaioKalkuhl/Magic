@@ -61,6 +61,7 @@
 1 Mirror Box (NEO) 250
 1 Mirror March (RNA) 108
 1 Mishra, Eminent One (BRC) 1
+1 Molten Duplication (BIG) 79
 1 Mordor on the March (LTC) 512
 1 Morphic Pool (CLB) 357
 3 Mountain (OTJ) 275

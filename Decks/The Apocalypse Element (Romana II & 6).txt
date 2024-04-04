@@ -1,4 +1,3 @@
-    Romana II & the Sixth Doctor 
 1 Abundance (40K) 210
 1 Adric, Mathematical Genius (WHO) 33
 1 Arasta of the Endless Web (NCC) 279
@@ -76,7 +75,8 @@
 1 Trial of a Time Lord (WHO) 29
 1 War of the Last Alliance (LTR) 36
 1 Wild Growth (6ED) 268
-    in 
+
+ in 
 1 Alchemist's Refuge (LCC) 318
 1 All That Glitters (CMM) 9
 1 Ancestral Mask (WOC) 119
@@ -102,6 +102,7 @@
 1 Jugan Defends the Temple / Remnant of the Rising Star (NEO) 194
 1 Kami of Transience (PNEO) 197p
 1 Karn's Bastion (MOC) 409
+1 Kellan Joins Up (OTJ) 212
 1 Mana Bloom (RTR) 130
 1 Minamo, School at Water's Edge (CHK) 279
 1 Mirari's Wake (MH2) 291
@@ -127,39 +128,3 @@
 1 Utopia Vow (TSR) 245
 1 Weaver of Harmony (PNEO) 213p
 1 Yavimaya, Cradle of Growth (MH2) 261
-    out 
-Karametra, God of Harvests out 
-Kruphix, God of Horizons out 
-Renata, Called to the Hunt out 
-Courser of Kruphix out
-Callaphe, Beloved of the Sea out 
-Satyr Enchanter Out 
-Teshar, Ancestor's Apostle out 
-Nylea's Forerunner out 
-The Eighth Doctor out 
-Carpet of Flowers out 
-Wild Growth out 
-Fertile Ground out 
-As Foretold out 
-Brokes Ascendancy out 
-Monologue Tax out 
-Gift of Paradise out 
-Grafted Growth out 
-New Horizons out 
-Overgrowth out 
-Leyline Immersion out 
-
-
-    Tokens 
-Alien Rhino 
-Alien Salamander 
-Acavyn 
-Cleric 
-Food 
-Human (WHO) 646
-Human (WHO) 38
-Mutant 
-Spider 
-The Ring 
-Treasure 
-Warrior 

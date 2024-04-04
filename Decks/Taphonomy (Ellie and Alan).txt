@@ -93,7 +93,6 @@
 1 Blasted Landscape (PLST) CM2-238
 1 Captivating Cave (LCI) 268
 1 Chimil, the Inner Sun (LCI) 249
-1 Chlorophant (ODY) 234
 1 Command Tower (C16) 286
 1 Corrupted Grafstone (SOI) 253
 1 Desert of the Indomitable (HOU) 172
@@ -118,8 +117,9 @@
 1 Hunting Grounds (DMR) 191
 1 Imposing Vantasaur (IKO) 17
 1 Kellan, Daring Traveler / Journey On (LCI) 231
+1 Maskwood Nexus (KHM) 369
 1 Matzalantli, the Great Door / The Core (LCI) 256
-1 Misthollow Griffin (AVR) 68
+1 Misthollow Griffin (PLST) AVR-68 *F*
 1 Noble Hierarch (MM2) 151
 1 Pit of Offerings (LCI) 278
 1 Promising Vein (LCI) 279
@@ -137,9 +137,9 @@
 1 Tranquil Thicket (C13) 329
 1 Tribute to the World Tree (MOM) 211
 1 Valor (TSB) 16
+1 Vaultborn Tyrant (BIG) 85
 1 Void Winnower (BFZ) 17
 1 Werebear (EMA) 191
-Maskwood Nexus 
 
     Out 
 Arcane Signet 

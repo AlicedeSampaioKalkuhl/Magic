@@ -81,24 +81,22 @@
 1 Cabal Coffers (MH2) 301
 1 Court of Ambition (CMR) 114
 1 Court of Embereth (WOC) 24
-1 Creeping Bloodsucker (J22) 21
-1 Dominus of Fealty (PLST) CMD-194
 1 Dragonskull Summit (WHO) 272
 1 Drowned Catacomb (WHO) 274
 1 Dungeon Delver (CLB) 67
 1 Extravagant Replication (NCC) 25
 1 Followed Footsteps (RAV) 51
-1 Helm of the Host (PDOM) 217p
 1 Marchesa's Decree (CN2) 44
 1 Morphic Pool (CLB) 357
 1 Mox Tantalite (MH1) 226
+1 Obeka, Splitter of Seconds (OTJ) 222
 1 Rogue's Passage (LCC) 349
 1 Sheoldred, Whispering One (SLD) 211
 1 Shipwreck Marsh (WHO) 305
 1 Stormcarved Coast (WHO) 308
 1 Training Center (CMM) 434
 1 Urborg, Tomb of Yawgmoth (PLC) 165
-1 Weed-Pruner Poplar (MOR) 83   
+1 Weed-Pruner Poplar (MOR) 83
     Out 
 Herald of Lesharc out 
 Run for Your Life out 
