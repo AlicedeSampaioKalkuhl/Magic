@@ -1,0 +1,83 @@
+    Kros, Defense Contractor 
+1 Angel's Trumpet (ULG) 121
+1 Arcane Lighthouse (CMM) 985
+1 Awakening (STH) 101
+1 Bountiful Promenade (CLB) 348
+1 Bounty Board (OTC) 37
+1 Brokers Confluence (NCC) 68
+1 Brokers Hideout (SNC) 248
+1 Byrke, Long Ear of the Law (BLB) 380
+1 Cadira, Caller of the Small (CLB) 269
+1 Claim Jumper (OTJ) 8
+1 Command Tower (MKC) 256
+1 Contagion Clasp (PIP) 229
+1 Contagion Engine (SOM) 145
+1 Crawlspace (DMR) 217
+1 Deserted Beach (MID) 260
+1 Dictate of Karametra (JOU) 121
+1 Dictate of Kruphix (C18) 86
+1 Dreamroot Cascade (VOW) 262
+1 Eladamri's Vineyard (TMP) 223
+1 Everybody Lives! (WHO) 18
+1 Evolutionary Escalation (C16) 22
+1 Exotic Orchard (MKC) 260
+1 Fecundity (UMA) 165
+1 Flooded Grove (NCC) 402
+1 Font of Mythos (CON) 136
+4 Forest (DDO) 63
+1 Forge of Heroes (CMM) 995
+1 Genesis Chamber (BBD) 235
+1 Ghirapur Orrery (KLD) 216
+1 Ghostly Prison (MKC) 67
+1 Glacial Fortress (XLN) 255
+1 Heartbeat of Spring (2XM) 171
+1 Helm of Awakening (DMR) 224
+1 Hinterland Harbor (LCC) 336
+1 Horn of Greed (CN2) 211
+1 Hylda's Crown of Winter (WOE) 247
+1 Immortal Obligation (MKC) 10
+1 Inexorable Tide (MM2) 49
+4 Island (M21) 265
+1 Karn's Bastion (LCC) 339
+1 Kwain, Itinerant Meddler (CMR) 284
+1 Llanowar Reborn (LCC) 341
+1 Lost in the Maze (MKM) 64
+1 Maze of Ith (DMR) 250
+1 Metamorphic Blast (OTJ) 57
+1 Mikokoro, Center of the Sea (DMC) 217
+1 Nesting Grounds (NCC) 418
+1 Noble Heritage (CLB) 35
+1 Novijen, Heart of Progress (C21) 305
+1 Oblation (C21) 97
+1 Oran-Rief, the Vastwood (NEC) 173
+1 Overgrown Farmland (MID) 265
+1 Placid Rottentail (MOM) 199
+4 Plains (DMU) 264
+1 Pollen-Shield Hare / Hare Raising (WOE) 233
+1 Primal Vigor (C13) 162
+1 Propaganda (CLB) 730
+1 Quandrix Command (LCC) 280
+1 Regal Bunnicorn (WOE) 25
+1 Regna's Sanction (BBD) 30
+1 Rejuvenating Springs (CMM) 424
+1 Ripples of Potential (LCC) 77
+1 Rites of Flourishing (ZNC) 80
+1 Sea of Clouds (CLB) 360
+1 Seaside Citadel (MKC) 288
+1 Seed the Land (SOK) 146
+2 Solitary Sanctuary (WOE) 30
+1 Sporogenesis (USG) 273
+1 Sunpetal Grove (XLN) 257
+1 Teferi's Protection (2X2) 32
+1 Tempt with Discovery (C19) 183
+1 Tempt with Glory (CMA) 26
+1 Tempt with Reflections (C13) 60
+1 Tempting Contract (C21) 78
+1 Tenuous Truce (NCC) 87
+1 Together Forever (MOC) 212
+1 Tolarian Contempt (MAT) 8
+1 Upwelling (10E) 306
+1 Verity Circle (VOC) 116
+1 Wedding Ring (VOC) 32
+Phyrexian Altar 
+Ashnod's Altar
