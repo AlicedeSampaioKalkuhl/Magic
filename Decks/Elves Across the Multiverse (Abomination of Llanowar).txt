@@ -1,4 +1,4 @@
-Abomination of Llanowar
+1 Abomination of Llanowar *F*
 1 Allosaurus Shepherd (2X2) 132
 1 Beast Whisperer (SLD) 1099
 1 Beastcaller Savant (BFZ) 170
@@ -36,6 +36,7 @@ Abomination of Llanowar
 1 Lathril, Blade of the Elves (KHC) 1 *F*
 1 Living Death (40K) 202
 1 Llanowar Elves (DOM) 168
+1 Llanowar Mentor (FUT) 131
 1 Llanowar Reborn (C21) 296
 1 Llanowar Wastes (C21) 297
 1 Lothlórien Blade (LTC) 77
@@ -60,7 +61,6 @@ Abomination of Llanowar
 1 Skemfar Avenger (KHM) 109 *F*
 1 Skemfar Elderhall (KHM) 268
 1 Skemfar Shadowsage (KHM) 110
-1 Storrev, Devkarin Lich (WAR) 219
 9 Swamp (KHM) 396
 1 Tainted Strike (SOM) 80
 1 Tel-Jilad Fallen (SOM) 130
@@ -82,21 +82,16 @@ Abomination of Llanowar
 1 Wood Elves (SLD) 1101
 	In 
 1 Ancient Ziggurat (CON) 141
-1 Anoint with Affliction (ONE) 81
 1 Elvish Eulogist (LRW) 205
 1 Elvish Guidance (ONS) 255
 1 Elvish Lyrist (8ED) 242
 1 Gilt-Leaf Ambush (LRW) 214
 1 Gilt-Leaf Palace (LRW) 268
-1 Infectious Inquiry (ONE) 97
 1 Jarad's Orders (RTR) 175
 1 Llanowar Dead (APC) 109
-1 Llanowar Mentor (FUT) 131
-1 Mirrex (ONE) 254
 1 Phyresis Outbreak (ONC) 12
 1 Skyshroud Poacher (NEM) 119
 1 Undergrowth Stadium (CMR) 359
-1 Vraska's Fall (ONE) 116
 	Out 
 Savra, Queen of the Golgari 
 Wood Elves 

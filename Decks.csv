@@ -1,14 +1,14 @@
 deck,commander,power,played,won,draw,lost,type,W,U,B,R,G,artist,plane,stickers,rule_0,moxfield,moxfield_updated,themes,last_updated,priority
 Doomeed Wedding Day,Toluz,cEDH,13,5,1,7,cEDH,TRUE,TRUE,TRUE,FALSE,FALSE,Donato Giancola,New Capenna,FALSE,TRUE,https://www.moxfield.com/decks/jIQUKoqnmUi560I-XWEWWg,TRUE,cEDH Doomsday&cEDH midrange,25.03.2024,1
 The Stack Is Your Wonderland,Parnesse,mid,11,1,1,9,LGS,FALSE,TRUE,TRUE,TRUE,FALSE,Svetlin Velinov,New Capenna,FALSE,TRUE,https://www.moxfield.com/decks/FxogC8HyLESeMO0RKeZ5iQ,TRUE,chaos&coin flip,28.03.2024,2
-Confiscation and Anchillary Orders,Yidris,mid,0,0,0,0,Unifinished,FALSE,TRUE,TRUE,TRUE,TRUE,Karl Kopinski,Alara,FALSE,FALSE,https://www.moxfield.com/decks/Wa-aI1ACk0OtQtq8UFhDxw/recommendations,TRUE,theft&cascade,03.04.2024,3
+Confiscation and Anchillary Orders,Yidris,mid,1,0,0,1,Unifinished,FALSE,TRUE,TRUE,TRUE,TRUE,Karl Kopinski,Alara,FALSE,FALSE,https://www.moxfield.com/decks/Wa-aI1ACk0OtQtq8UFhDxw/recommendations,TRUE,theft&cascade,03.04.2024,3
 Pompeii,Gallia,high,9,0,2,7,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Johannes Voss,Theros,FALSE,FALSE,https://www.moxfield.com/decks/HuLxRxvIu0WlLzUwmdk46g,FALSE,discard&reanimator,27.03.2024,4
 Taphonomy,Ellie and Alan,high,1,0,0,1,LGS,TRUE,TRUE,FALSE,FALSE,TRUE,Zoltan Boros&Zoltan Boros,Jurassic Park&Jurassic Park,TRUE,FALSE,https://www.moxfield.com/decks/lkgVXauefEWA9s8OQWn2Tw,TRUE,food chain&eldrazi,01.03.2024,5
 Fantastic!,Clara Oswald & The Ninth Doctor,high,1,1,0,1,LGS,FALSE,TRUE,FALSE,FALSE,TRUE,Colin Boyer&Marta,Tardis&Tardis,TRUE,TRUE,https://www.moxfield.com/decks/B3Inuu0IU0q9tuKeDVvygw,TRUE,monarch&upkeeps,29.02.2024,6
 Ankle Shanker,Vial Smasher,low,0,0,0,0,Unfinished,FALSE,FALSE,TRUE,TRUE,FALSE,Borja Pindado,Tarkir,FALSE,FALSE,https://www.moxfield.com/decks/nC7UEqFsMEmU_Lj42jUSxQ,FALSE,goblin typal&outlaw typal,03.04.2024,7
 You Should Be Nicer,Atla,mid,9,2,0,7,LGS,TRUE,FALSE,FALSE,TRUE,TRUE,Ekaterina Burmak,Ixalan,TRUE,TRUE,https://www.moxfield.com/decks/Ea_PikFnwEe1gc7ruQFJWw,TRUE,stax&deserts,02.2024,8
 Ethics Violations,Tayam,mid,4,2,0,2,LGS,TRUE,FALSE,TRUE,FALSE,TRUE,Sam Burley,Ikoria,FALSE,FALSE,https://www.moxfield.com/decks/LRVblcVLPUK-Kmn4TRrq0w,FALSE,infect&-1/-1 counters,02.2024,9
-Stegosaurus Combat Behaviour,Kalamax,mid,8,3,0,5,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Nicholas Gregory,Ikoria,FALSE,FALSE,https://www.moxfield.com/decks/NfyGFCgkIkK9D-uWsk98pA,FALSE,Zada&voltron&vehicles&copy&adventures,04.04.2024,10
+Stegosaurus Combat Behaviour,Kalamax,mid,9,3,0,6,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Nicholas Gregory,Ikoria,FALSE,FALSE,https://www.moxfield.com/decks/NfyGFCgkIkK9D-uWsk98pA,FALSE,Zada&voltron&vehicles&copy&adventures,04.04.2024,10
 Nephalia Nightmares,Jeleva,high,13,5,1,7,LGS,FALSE,TRUE,TRUE,TRUE,FALSE,Cynthia Sheppard,Innistrad,FALSE,FALSE,https://www.moxfield.com/decks/wa9WtU4FeEO7RsyPj5zawgm,FALSE,mill&drawing cards,03.04.2024,11
 Dinosaur Nursery,Gavi,mid,1,0,0,1,LGS,TRUE,TRUE,FALSE,TRUE,FALSE,Randy Vargas,Ikoria,FALSE,FALSE,https://www.moxfield.com/decks/iJ4f30_yxEO95EkQKKXGfA,FALSE,dinosaurs&cycling&mill,03.04.2024,12
 Keep People Humble,Ivy,mid,6,1,0,5,LGS,FALSE,TRUE,FALSE,FALSE,TRUE,Evyn Fong,Dominaria,FALSE,FALSE,https://www.moxfield.com/decks/huEOD7HpdU2by-g5oy0cAw,FALSE,mutate&copies,02.2024,13
@@ -33,7 +33,9 @@ By the Grace of Will,Will,PreCon,1,0,1,0,Other,TRUE,TRUE,FALSE,FALSE,FALSE,Matte
 Siege,Piru,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,TRUE,FALSE,Greg Staples,Dominaria,TRUE,FALSE,https://www.moxfield.com/decks/-nCX0TSSQUSQcv-6gntvdA,FALSE,big butts&stuffy doll&infect,28.03.2024,32
 Through Time and Space,Susan & The Twelfth Doctor,mid,1,1,0,0,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Wangjie Li&Alexander Mokhov,Tardis&Tardis,TRUE,FALSE,https://www.moxfield.com/decks/0iS2kHFlREi6cDDqTKWtzA,FALSE,planeschase&voting&demonstrate&copy&cascade,28.03.2024,33
 What About Second Breakfast?,Merry&Pippin,mid,2,0,1,1,LGS,TRUE,FALSE,TRUE,FALSE,TRUE,Viko Menezes&Viko Menezes,middle Earth&middle Earth,FALSE,FALSE,https://www.moxfield.com/decks/xPAFdVjyAUuINvbkNLyHVg,FALSE,food&elephants&stickers,20.03.2024,34
-Elves Across The Multiverse,Abomination of Llanowar,mid,11,6,0,5,LGS,FALSE,FALSE,TRUE,FALSE,TRUE,Vincent Proce,Dominaria,FALSE,FALSE,https://www.moxfield.com/decks/n5_lUaLKukO3Ws6D2c3tvA,TRUE,elves typal&infect,23.03.2024,35
+Elves Across The Multiverse,Abomination of Llanowar,mid,12,7,0,5,LGS,FALSE,FALSE,TRUE,FALSE,TRUE,Vincent Proce,Dominaria,FALSE,FALSE,https://www.moxfield.com/decks/n5_lUaLKukO3Ws6D2c3tvA,TRUE,elves typal&infect,23.03.2024,35
 A Shrine to Gallifrey,Peri Brown & The Fourteenth Doctor,mid,0,0,0,0,Unfinished,TRUE,TRUE,FALSE,TRUE,TRUE,Justyna Dura&Wangjie Li,Tardis&Tardis,FALSE,FALSE,https://www.moxfield.com/decks/s0waMyW5ukyNVx8EPgAv4g,FALSE,doctors&arcane&shrines&the Unspeakable,12.2023,36
 Beast Mode,Dogmeat,mid,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,TRUE,TRUE,Kieran Yanner,Fallout,FALSE,FALSE,https://www.moxfield.com/decks/w-V3IKcL60mHXq_lmZw1qA,FALSE,curses&enchantress&auras,04.03.2024,37
-Challenger,Mr Orfeo,low,1,1,0,0,Other,FALSE,FALSE,TRUE,TRUE,TRUE,Daarken,New Capenna,FALSE,FALSE,https://www.moxfield.com/decks/Xxj8-qsrokCAOehiXH-efQ,FALSE,pauper&infect,03.2023,38x
+Easter Basket,Kros,mid,0,0,0,0,Unfinsihed,TRUE,TRUE,FALSE,FALSE,TRUE,
+A Glimpse Of Time,River Song,mid,1,1,0,0,Unfinished,FALSE,TRUE,FALSE,TRUE,FALSE,,Tardis,TRUE,FALSE,,FALSE,prowess&storm,06.04.2024,28
+Challenger,Mr Orfeo,low,1,1,0,0,Other,FALSE,FALSE,TRUE,TRUE,TRUE,Daarken,New Capenna,FALSE,FALSE,https://www.moxfield.com/decks/Xxj8-qsrokCAOehiXH-efQ,FALSE,pauper&infect,03.2023,40
