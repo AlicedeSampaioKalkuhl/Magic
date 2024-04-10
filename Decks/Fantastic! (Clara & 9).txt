@@ -2,6 +2,7 @@
 1 Adric, Mathematical Genius (WHO) 351
 1 As Foretold (WHO) 1060 *F*
 1 Bloodgift Demon (ISD) 89
+1 Bojuka Bog (ONC) 145
 1 Braid of Fire (SLD) 1247 *F*
 1 Caves of Chaos Adventurer (CLB) 167 *F*
 1 Command Tower (WHO) 265
@@ -14,6 +15,8 @@
 1 Cursed Mirror (BRC) 115
 1 Darksteel Reactor (DST) 114
 1 Dragonmaster Outcast (ONC) 98
+1 Dragonskull Summit (WHO) 272
+1 Drowned Catacomb (WHO) 274
 1 Emberwilde Captain (CMR) 175 *F*
 1 Endless Evil (CLB) 665
 1 Endless Ranks of the Dead (J22) 410
@@ -24,7 +27,7 @@
 1 Haunted Ridge (WHO) 286
 1 Herald of Leshrac (CSP) 62 *F*
 1 Inspiring Refrain (C21) 354
-9 Island (WHO) 198 *F*
+8 Island (WHO) 198 *F*
 1 Jhoira of the Ghitu (DDS) 1 *F*
 1 Keeper of Keys (CN2) 34 *F*
 1 Lithoform Engine (ZNR) 375
@@ -35,7 +38,7 @@
 1 Mirror Box (NEO) 250
 1 Mirrorhall Mimic / Ghastly Mimicry (VOW) 361 *F*
 1 Moonsnare Prototype (NEO) 69
-8 Mountain (WHO) 1163 *F*
+6 Mountain (WHO) 1163 *F*
 1 Paradox Haze (PLST) TSP-71 *F*
 1 Patriar's Seal (CLB) 332
 1 Phyrexian Arena (ONE) 283 *F*
@@ -47,6 +50,7 @@
 1 Replicating Ring (KHM) 244 *F*
 1 Replication Technique (C21) 358
 1 Reverse the Polarity (WHO) 54
+1 Rogue's Passage (C20) 303
 1 Rousing Refrain (C21) 56
 1 Run for Your Life (WHO) 154
 1 Sakashima of a Thousand Faces (CMR) 561 *E*
@@ -61,9 +65,10 @@
 1 Springleaf Drum (LRW) 261
 1 Stolen Identity (NCC) 233
 1 Stolen Strategy (CLB) 807
+1 Stormcarved Coast (WHO) 518
 1 Strionic Resonator (BRC) 165
 1 Sulfur Falls (LTC) 333
-7 Swamp (WHO) 1161 *F*
+5 Swamp (WHO) 1161 *F*
 1 Tamiyo's Journal (J22) 800
 1 TARDIS (WHO) 551
 1 Temple of the False God (C20) 319
@@ -77,12 +82,9 @@
 1 Twilight Prophet (RIX) 88
 1 Venser's Journal (C21) 273
     In 
-1 Bojuka Bog (LCC) 320
 1 Cabal Coffers (MH2) 301
 1 Court of Ambition (CMR) 114
 1 Court of Embereth (WOC) 24
-1 Dragonskull Summit (WHO) 272
-1 Drowned Catacomb (WHO) 274
 1 Dungeon Delver (CLB) 67
 1 Extravagant Replication (NCC) 25
 1 Followed Footsteps (RAV) 51
@@ -90,13 +92,12 @@
 1 Morphic Pool (CLB) 357
 1 Mox Tantalite (MH1) 226
 1 Obeka, Splitter of Seconds (OTJ) 222
-1 Rogue's Passage (LCC) 349
 1 Sheoldred, Whispering One (SLD) 211
 1 Shipwreck Marsh (WHO) 305
-1 Stormcarved Coast (WHO) 308
 1 Training Center (CMM) 434
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Weed-Pruner Poplar (MOR) 83
+
     Out 
 Herald of Lesharc out 
 Run for Your Life out 
@@ -107,7 +108,9 @@ Tamiyo's Journal out
 Replication Technique out 
 Sakashima the Imposter out 
 Goblin Assault out 
-Sol Ring out    
+Sol Ring out  
+TARDIS out 
+Cursed Mirror out 
     Tokens 
 City's Blessing 
 Clue 

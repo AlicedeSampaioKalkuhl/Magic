@@ -2,6 +2,7 @@ library(forcats)
 library(tidyverse)
 library(viridis)
 library(ggrepel)
+library(ggwordcloud)
 
 # If you don't wan to edit your decks from within R, you can import any table with the same column names. 
 decks<-read.csv("Decks.csv",quote="",stringsAsFactors=F,header=T) %>% arrange(priority)
@@ -91,8 +92,15 @@ buildme%>%pull(commander)
 # wishlist (This is currently a little behind)
 
 artists<-decks%>%separate_rows(artist,sep='&')%>%group_by(artist)%>%summarise(n=n())%>%arrange(desc(n))
-artists
 
+
+art <-  artists %>% 
+  ggplot(aes(label = artist,color=artist,size=n)) +
+  geom_text_wordcloud() +
+  scale_size_area(max_size = 10)+
+  theme_minimal()
+art
+ggsave('artists.png')
 # search for a specific artist decks%>%dplyr::filter(str_detect(artist,"Johannes Voss"))%>%arrange(commander)%>%pull(commander) 
 
 # filter by colour
@@ -106,7 +114,7 @@ ggplot(aes(label = plane,color=plane,size=n)) +
   geom_text_wordcloud() +
   scale_size_area(max_size = 15)+
   theme_minimal()+
-  scale_colour_viridis_d(option="turbo")
+  scale_colour_viridis_d(option="plasma")
 locations 
 ggsave('locations.png')
 
@@ -120,5 +128,6 @@ themes_plot<-ggplot(deck_themes, aes(label = themes,color=themes,size=n)) +
   scale_size_area(max_size = 15)+
   theme_minimal()+
   scale_colour_viridis_d(option="turbo")
+themes_plot
  ggsave('worldcloud.png')
 # write.csv(decks,"Decks.csv",quote=F,row.names =F) if you change the csv in here, remember to export it again 

@@ -1,0 +1,87 @@
+1 Alela, Artful Provocateur (SLD) 1197 *F*
+1 All That Glitters (CMM) 9
+1 Arcane Sanctum (NCC) 385
+1 Arcanum Wings (FUT) 48
+1 Asinine Antics (WOE) 42
+1 Azorius Chancery (CLU) 229
+1 Baleful Eidolon (THS) 78
+1 Beguiler of Wills (DKA) 28
+1 Benevolent Offering (VOC) 78
+1 Callaphe, Beloved of the Sea (THB) 45
+1 Cavern Lampad (THS) 81
+1 Celestial Archon (WOC) 63
+1 Celestial Mantle (JMP) 96
+1 Command Tower (CMM) 420
+1 Conclave's Blessing (RAV) 11
+1 Copy Enchantment (WOT) 16 *F*
+1 Deserted Beach (WHO) 270
+1 Dimir Aqueduct (CLU) 233
+1 Diplomatic Immunity (MMQ) 75
+1 Drowned Catacomb (PIP) 262
+1 Eidolon of Countless Battles (WOC) 66
+1 Erebos's Emissary (THS) 86
+1 Eriette of the Charmed Apple (WOE) 202
+1 Ethereal Armor (RTR) 9
+1 Exotic Orchard (WHO) 276
+1 Extravagant Replication (NCC) 25
+1 Flitterstep Eidolon (BNG) 40
+1 Followed Footsteps (RAV) 51
+1 Fool's Demise (TSP) 64
+1 Forbidden Orchard (2X2) 323
+1 Ghostblade Eidolon (C15) 70
+1 Glacial Fortress (PIP) 266
+1 Gnarled Scarhide (JOU) 72
+1 Hall of Heliod's Generosity (MH1) 241
+1 Heliod's Emissary (THS) 18
+1 Hopeful Eidolon (THS) 19
+1 Indestructibility (M14) 23
+1 Infinite Reflection (C14) 114
+5 Island (WOE) 263
+1 Isolated Chapel (PIP) 269
+1 Kambal, Profiteering Mayor (OTJ) 353
+1 Killian, Ink Duelist (STX) 197
+1 Kor Spiritdancer (WOC) 69
+1 Metamorphic Alteration (M19) 60
+1 Mind Flayer (CLB) 728
+1 Minimus Containment (AFR) 24
+1 Minion's Return (THB) 104
+1 Mirror Mockery (DTK) 62
+1 Mirrorhall Mimic / Ghastly Mimicry (VOW) 68
+1 Mirrormade (ELD) 55
+1 Monologue Tax (C21) 19
+1 Morphic Pool (CLB) 357
+1 Necrotic Plague (M11) 107
+1 Nighthowler (CLB) 764
+1 Nihiloor (AFC) 53 *F*
+1 Nimbus Naiad (THS) 56
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Nyxborn Eidolon (BNG) 78
+1 Nyxborn Shieldmate (BNG) 21
+1 Nyxborn Triton (BNG) 46
+1 Observant Alseid (THS) 24
+1 One with the Stars (THB) 59
+1 Orzhov Basilica (CLU) 241
+5 Plains (WOE) 262
+1 Rune of Flight (KHM) 75
+1 Rune of Mortality (KHM) 108
+1 Rune of Sustenance (KHM) 25
+1 Sage's Reverie (FRF) 23
+1 Sea of Clouds (CLB) 360
+1 Sen Triplets (SLD) 1198 *F*
+1 Shattered Sanctum (PVOW) 264s *F*
+1 Shipwreck Marsh (MID) 267
+1 Slaughter Specialist (PMID) 122s *F*
+1 Smothering Tithe (CMM) 57
+1 Spectra Ward (M15) 36
+1 Spirit Mantle (PCA) 12
+1 Spiteful Returned (BNG) 84
+1 Sram, Senior Edificer (MUL) 6 *F*
+5 Swamp (WOE) 264
+1 Swift Reconfiguration (NEC) 10
+1 Temple of the False God (MKC) 305
+1 Thassa's Emissary (THS) 68
+1 Timely Ward (WOC) 79
+1 Vault of Champions (CMM) 436
+1 Willbreaker (ORI) 84
+1 Winds of Rath (WOC) 83
+1 Zephid's Embrace (USG) 114
