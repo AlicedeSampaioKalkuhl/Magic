@@ -1,0 +1,100 @@
+    Rubinia Soulsinger 
+1 Abdel Adrian, Gorion's Ward (CLB) 2
+1 Adarkar Valkyrie (C18) 60
+1 Agent of Treachery (PM20) 43p
+1 Aid from the Cowl (MOC) 290
+1 Alchemist's Refuge (LCC) 318
+1 Arcane Lighthouse (CMM) 985
+1 Arcane Signet (PIP) 224
+1 Archmage of Echoes (WOC) 9
+1 Archon of the Triumvirate (RTR) 142
+1 Azorius Arrester (CLU) 54
+1 Azorius Justiciar (CLU) 55
+1 Bandit's Haul (OTJ) 240
+1 Beguiler of Wills (DKA) 28
+1 Blessed Sanctuary (JMP) 1
+1 Bountiful Promenade (BBD) 81
+1 Breeding Pool (PRNA) 246p
+1 Brokers Hideout (SNC) 248
+1 Call for Unity (AER) 9
+1 Canopy Vista (PIP) 255
+1 Charming Prince (ELD) 8
+1 Cloud of Faeries (MOC) 219
+1 Cloudshift (JMP) 97
+1 Command Tower (C21) 284
+1 Conjurer's Closet (2XM) 243
+1 Deadeye Navigator (MM3) 36
+1 Decanter of Endless Water (CLB) 309
+1 Deserted Beach (WHO) 270
+1 Dreamroot Cascade (WHO) 273
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Empress Galina (INV) 54
+1 Exotic Orchard (AFC) 236
+1 Extravagant Replication (NCC) 25
+1 Farhaven Elf (KHC) 62
+1 Forest (DDM) 87
+1 Freestrider Lookout (OTJ) 163
+1 Galadriel, Light of Valinor (LTC) 498
+1 Ghostly Flicker (CMM) 98
+1 Glacial Fortress (PIP) 266
+1 Glamer Spinners (SHM) 141
+1 Glaring Spotlight (GTC) 229
+1 Greater Good (9ED) 245
+1 Hallowed Fountain (PRNA) 251p
+1 Hardbristle Bandit (OTJ) 168
+1 Hedge Maze (MKM) 262
+1 Hinterland Harbor (PIP) 267
+1 Illusionist's Bracers (RVR) 260
+1 Inaction Injunction (RTR) 41
+1 Ioreth of the Healing House (LTR) 56
+1 Island (M21) 265
+1 Isperia's Skywatch (RTR) 43
+1 Lavinia of the Tenth (CLU) 199
+1 Leyline of Anticipation (CLB) 726
+1 Lush Portico (MKM) 263
+1 Lyev Decree (DGM) 3
+1 Lyev Skyknight (2X2) 246
+1 Malleable Impostor (WOC) 10
+1 Maraleaf Pixie (ELD) 196
+1 Martial Law (RTR) 14
+1 Meandering Towershell (KTK) 141
+1 Meticulous Archive (MKM) 264
+1 Minamo, School at Water's Edge (CHK) 279
+1 Mind Flayer (CLB) 728
+1 Mystic Sanctuary (MKC) 277
+1 Nephalia Smuggler (2X2) 61
+1 New Prahv Guildmage (RTR) 181
+1 Overgrown Farmland (PMID) 265p
+1 Panharmonicon (2X2) 310
+1 Patriar's Seal (CLB) 332
+1 Peregrine Drake (DMR) 65
+1 Pestermite (MMA) 59
+1 Plains (M20) 264
+1 Prairie Stream (WHO) 295
+1 Preston, the Vanisher (J22) 8
+1 Progenitor Mimic (C16) 216
+1 Rejuvenating Springs (LTC) 325
+1 Reliquary Tower (OTC) 312
+1 Restoration Angel (MOC) 201
+1 Rings of Brighthearth (CMR) 335
+1 Scion of Oona (MMA) 63
+1 Sea of Clouds (CLB) 360
+1 Seaside Citadel (WHO) 302
+1 Seedborn Muse (MKC) 186
+1 Smothering Tithe (CMM) 57
+1 Sol Ring (OTC) 267
+1 Soulsworn Spirit (RTR) 51
+1 Sower of Temptation (BBD) 131
+1 Spara's Headquarters (SNC) 257
+1 Sunpetal Grove (PIP) 297
+1 Temple Garden (PGRN) 258p
+1 Temple of the False God (OTC) 334
+1 Thassa, Deep-Dwelling (THB) 71
+1 The Great Henge (CMM) 294
+1 Thought Vessel (MKC) 245
+1 Vendilion Clique (A25) 76
+1 Venser, the Sojourner (DDI) 1 *F*
+1 Virtue of Knowledge / Vantress Visions (WOE) 76
+1 Wilderness Reclamation (MKC) 196
+1 Wood Elves (MOC) 316
+1 Yavimaya, Cradle of Growth (MH2) 261
