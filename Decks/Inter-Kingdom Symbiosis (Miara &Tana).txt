@@ -1,103 +1,90 @@
-1 Abomination of Llanowar *F*
+    Miara, Thorn of the Glade & Tana, the Bloodsower 
+1 Abomination of Llanowar (CMR) 265 *F*
+1 Access Tunnel (STX) 262
+1 Accomplished Alchemist (STX) 119
 1 Allosaurus Shepherd (2X2) 132
+1 Artifact Mutation (C20) 203
+1 Arwen, Weaver of Hope (LTC) 35
+1 Ayara, Widow of the Realm / Ayara, Furnace Queen (MOM) 296 *F*
 1 Beast Whisperer (SLD) 1099
 1 Beastcaller Savant (BFZ) 170
-1 Bone Shards (MH2) 76
-1 Branchblight Stalker (ONE) 160
+1 Bojuka Bog (OTC) 273
 1 Canopy Tactician (KHM) 378
 1 Command Tower (KHC) 108
 1 Copperhorn Scout (CNS) 160
 1 Crown of Skemfar (KHC) 13
-1 Culling Ritual (STX) 172
+1 Culling Ritual (OTC) 219
 1 Deathbloom Ritualist (BRO) 208
+1 Delina, Wild Mage (AFR) 317 *F*
 1 Descendants' Path (LCC) 238
+1 Dwynen, Gilt-Leaf Daen (KHC) 56
 1 Elderfang Ritualist (KHM) 385
 1 Elderfang Venom (KHC) 15
 1 Elven Ambush (KHM) 391
 1 Elvish Archdruid (KHC) 57
-1 Elvish Mystic (KHC) 58
+1 Elvish Mystic (CMM) 648
 1 Elvish Promenade (KHC) 59
 1 Elvish Warmaster (KHM) 167
 1 Exotic Orchard (C21) 288
 1 Eyeblight's Ending (2X2) 75
-11 Forest (KHM) 398
-1 Freyalise, Llanowar's Fury (CC1) 1 *F*
-1 Fyndhorn Elves (CMR) 228
+1 Fauna Shaman (BRO) 179
+4 Forest (KHM) 398
+1 Freyalise, Llanowar's Fury (CC1) 1
 1 Galadhrim Ambush (LTC) 38
 1 Galadhrim Brigade (LTC) 546 *F*
-1 Glistener Elf (NPH) 111
 1 Greater Good (2XM) 170
+1 Gyre Sage (MIC) 140
 1 Harald, King of Skemfar (KHM) 323
-1 Harvest Season (KHC) 63
+1 Heritage Druid (SLC) 2008 *F*
 1 Immaculate Magistrate (CMR) 679
-1 Imperious Perfect (PLST) PCMP-9
+1 Imperious Perfect (KHC) 64
 1 Insidious Dreams (TOR) 66
+1 Invasion of Lorwyn / Winnowing Forces (MOM) 236 *F*
 1 Jagged-Scar Archers (KHC) 65
+1 Karn's Bastion (LCC) 339
+1 Kessig Wolf Run (C20) 284
 1 Lathril, Blade of the Elves (KHC) 1 *F*
 1 Living Death (40K) 202
-1 Llanowar Elves (DOM) 168
+1 Llanowar Elves (SLD) 1129
 1 Llanowar Mentor (FUT) 131
-1 Llanowar Reborn (C21) 296
-1 Llanowar Wastes (C21) 297
 1 Lothlórien Blade (LTC) 77
+1 Lukka, Bound to Ruin (ONE) 207
 1 Lys Alana Huntmaster (KHC) 67
 1 Lys Alana Scarblade (KHC) 50
-1 Marwyn, the Nurturer (KHC) 68
+1 Mina and Denn, Wildborn (ZNC) 94
 1 Moldervine Reclamation (KHC) 89
+4 Mountain (KHM) 397
+1 Mycoloth (SLD) 1136
 1 Nadier's Nightblade (CMM) 641
-1 Oracle of Mul Daya (2X2) 154
-1 Pact of the Serpent (KHC) 9
-1 Phyresis (MBS) 49
+1 Path of Ancestry (OTC) 310
 1 Poison-Tip Archer (KHC) 90
-1 Presence of Gond (C13) 161
 1 Priest of Titania (MB1) 1299
 1 Prowess of the Fair (KHC) 53
-1 Putrefy (KHC) 91
+1 Reliquary Tower (OTC) 312
 1 Rhys the Exiled (KHC) 73
+1 Riveteers Overlook (SNC) 255
+1 Rogue's Passage (OTC) 313
 1 Ruthless Winnower (KHC) 10
-1 Savra, Queen of the Golgari (SLD) 500
-1 Secluded Courtyard (NEO) 275
-1 Shaman of the Pack (KHC) 92
+1 Savage Lands (DMC) 230
+1 Shared Animosity (LTC) 226
+1 Skarrg, the Rage Pits (PCA) 127
 1 Skemfar Avenger (KHM) 109 *F*
 1 Skemfar Elderhall (KHM) 268
 1 Skemfar Shadowsage (KHM) 110
-9 Swamp (KHM) 396
-1 Tainted Strike (SOM) 80
-1 Tel-Jilad Fallen (SOM) 130
+1 Slimefoot and Squee (MOC) 450 *F*
+1 Slimefoot, the Stowaway (SLD) 1138
+4 Swamp (KHM) 396
 1 Temple of the False God (C21) 326
-1 Timberwatch Elf (KHC) 76
-1 Triumph of the Hordes (PLST) NPH-123
-1 Twilight Mire (NCC) 443
+1 The Mycotyrant (LCI) 235
+1 Thelonite Hermit (MKC) 188
 1 Tyvar Kell (KHM) 287
 1 Tyvar the Bellicose (MAT) 183 *F*
-1 Underground Mortuary (MKM) 271
 1 Unnatural Growth (WOT) 62 *F*
-1 Viridian Betrayers (NPH) 124
-1 Viridian Corrupter (MBS) 94 *F*
 1 Wellwisher (SLD) 783 *F*
 1 Windswift Slice (LTC) 45
 1 Wirewood Channeler (KHC) 79
 1 Wirewood Lodge (PLST) DD1-26
 1 Wolverine Riders (KHC) 14
 1 Wood Elves (SLD) 1101
-	In 
-1 Ancient Ziggurat (CON) 141
-1 Elvish Eulogist (LRW) 205
-1 Elvish Guidance (ONS) 255
-1 Elvish Lyrist (8ED) 242
-1 Gilt-Leaf Ambush (LRW) 214
-1 Gilt-Leaf Palace (LRW) 268
-1 Jarad's Orders (RTR) 175
-1 Llanowar Dead (APC) 109
-1 Phyresis Outbreak (ONC) 12
-1 Skyshroud Poacher (NEM) 119
-1 Undergrowth Stadium (CMR) 359
-	Out 
-Savra, Queen of the Golgari 
-Wood Elves 
-
-
-	Tokens 
-Elf Druid 
-Elf Warrior 
-Tyvar Kell Emblem 
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Ziatora's Proving Ground (SNC) 261

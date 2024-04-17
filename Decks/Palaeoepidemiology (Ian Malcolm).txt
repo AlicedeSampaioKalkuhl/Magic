@@ -1,0 +1,73 @@
+    Ian Malcolm 
+1 Arcane Subtraction (STX) 36
+1 Battering Krasis (DGM) 41
+1 Biomass Mutation (PIP) 212
+1 Blight Mamba (ONC) 105
+1 Blightbelly Rat (ONE) 85
+1 Bloated Contaminator (ONE) 159
+1 Body of Research (STX) 168
+1 Brainstorm (2XM) 44
+1 Branching Evolution (PIP) 195
+1 Bury in Books (STX) 39
+1 Contagion Clasp (PIP) 229
+1 Contagion Engine (SOM) 145
+1 Contagious Nim (SOM) 58
+1 Contagious Vorrac (ONE) 164
+1 Contaminant Grafter (ONC) 17
+1 Cram Session (STX) 170
+1 Cunning Rhetoric (OTC) 129
+1 Curate (STX) 40
+1 Decisive Denial (STX) 177
+1 Divide by Zero (STX) 41
+1 Double Major (STX) 179
+1 Ecological Appreciation (STX) 128
+1 Eureka Moment (STX) 184
+1 Evolution Charm (TSR) 202
+1 Evolution Sage (WAR) 159
+1 Evolution Vat (DIS) 161
+1 Evolutionary Leap (ORI) 176
+1 Experiment Kraj (CMM) 337
+1 Experiment One (RVR) 137
+1 Eyetwitch (STX) 70
+1 Field Trip (STX) 131
+10 Forest (DDM) 87
+1 Gnarled Professor (STX) 133
+1 Grim Affliction (MM2) 84
+1 Gurmag Angler (TSR) 324
+1 Hunt for Specimens (STX) 73
+1 Infectious Bite (ONE) 172
+1 Infectious Inquiry (ONE) 97
+10 Island (M21) 265
+1 Letter of Acceptance (CMM) 397
+1 Lonis, Genetics Expert (CLU) 37
+1 Mind's Desire (DDS) 4
+1 Monster Manual / Zoological Study (PCLB) 242s *F*
+1 Octavia, Living Thesis (C21) 29
+1 Phyresis (MBS) 49
+1 Phyresis Outbreak (ONC) 12
+1 Plague Myr (ONC) 139
+1 Plague Stinger (SOM) 75
+1 Poet's Quill (PSTX) 82s *F*
+1 Pop Quiz (STX) 49
+1 Prologue to Phyresis (ONE) 65
+1 Rhystic Study (J22) 114
+1 Septic Rats (MBS) 55
+1 Sequence Engine (C21) 67
+1 Shambleshark (GTC) 193
+1 Shark Typhoon (IKO) 67
+1 Solve the Equation (STX) 54
+1 Steady Progress (SOM) 45
+1 Study Hall (C21) 80
+10 Swamp (M19) 271
+1 Tainted Observer (ONE) 217
+1 Tekuthal, Inquiry Dominus (ONE) 71
+1 Theoretical Duplication (WOC) 112
+1 Training Grounds (MAT) 9
+1 Trigon of Infestation (SOM) 214
+1 Viper's Kiss (THS) 109
+1 Viral Drake (NPH) 49
+1 Viral Spawning (ONE) 194
+1 Virulent Plague (DTK) 125
+1 Virulent Swipe (PLST) IMA-113
+1 Virulent Wound (MBS) 57
+1 Vorinclex / The Grand Evolution (MOM) 213

@@ -1,0 +1,92 @@
+    Rubinia Soulsinger 
+1 Abdel Adrian, Gorion's Ward (CLB) 2
+1 Alchemist's Refuge (LCC) 318
+1 Arcane Signet (PIP) 224
+1 Archmage of Echoes (WOC) 9
+1 Bountiful Promenade (CLB) 348
+1 Brokers Hideout (SNC) 248
+1 Charming Prince (ELD) 8
+1 Chimil, the Inner Sun (LCI) 249
+1 Cloud of Faeries (DMR) 43
+1 Cloudseeder (TSR) 57
+1 Cloudshift (A25) 7
+1 Command Tower (C21) 284
+1 Conjurer's Closet (C13) 239
+1 Deadeye Navigator (AVR) 47
+1 Decanter of Endless Water (CLB) 444
+1 Deserted Beach (WHO) 270
+1 Doc Aurlock, Grizzled Genius (OTJ) 201
+1 Dreamroot Cascade (WHO) 273
+1 Dust Animus (OTJ) 9
+1 Exotic Orchard (NCC) 400
+1 Faerie Artisans (CMM) 92
+1 Faerie Conclave (WOC) 160
+1 Faerie Formation (SCD) 51
+1 Faerie Noble (HML) 86
+1 Faerie Trickery (LRW) 62
+1 Faerie Vandal (SNC) 44
+1 Fblthp, Lost on the Range (OTJ) 48
+1 Fiend Hunter (ISD) 15
+1 Flickerwisp (KHC) 24
+1 Flooded Grove (LTC) 309
+3 Forest (WOE) 266
+1 Ghostly Flicker (CMM) 98
+1 Glacial Fortress (PIP) 266
+1 Glen Elendra Archmage (WOC) 94
+1 Glen Elendra Pranksters (LRW) 67
+1 Hinterland Harbor (PIP) 267
+4 Island (WOE) 263
+1 Ivy, Gleeful Spellthief (PDMU) 201p
+1 Jace Reawakened (OTJ) 271
+1 Jem Lightfoote, Sky Explorer (OTJ) 209
+1 Karmic Guide (MH2) 263
+1 Kellan, Daring Traveler / Journey On (LCI) 341
+1 Kellan, Inquisitive Prodigy / Tail the Suspect (MKM) 334 *F*
+1 Kellan, the Kid (OTJ) 294
+1 Knacksaw Clique (SHM) 42
+1 Lady of Laughter (WOE) 309
+1 Leyline of Anticipation (WOT) 23
+1 Loan Shark (OTJ) 55
+1 Make Your Own Luck (OTJ) 218
+1 Malleable Impostor (WOC) 10
+1 Maraleaf Pixie (ELD) 196
+1 Mystic Gate (SHM) 277
+1 Noble Hierarch (MM2) 151
+1 Orvar, the All-Form (KHM) 305
+1 Outcaster Trailblazer (OTJ) 173
+1 Outlaw Stitcher (OTJ) 59
+1 Overgrown Farmland (PMID) 265p
+1 Peregrine Drake (DMR) 65
+1 Pestermite (LRW) 78
+4 Plains (WOE) 262
+1 Railway Brawler (OTJ) 175
+1 Rashmi, Eternities Crafter (C20) 229
+1 Rejuvenating Springs (LTC) 325
+1 Reliquary Tower (OTC) 312
+1 Restoration Angel (J22) 233
+1 Reveillark (C20) 97
+1 Rings of Brighthearth (CMR) 335
+1 Sakashima of a Thousand Faces (CMR) 89
+1 Scion of Oona (WOC) 109
+1 Sea of Clouds (CLB) 360
+1 Seaside Citadel (WHO) 302
+1 Sheriff of Safe Passage (OTJ) 29
+1 Silkbind Faerie (SHM) 148
+1 Smothering Tithe (RNA) 22
+1 Sol Ring (ONC) 140
+1 Sower of Temptation (WOC) 111
+1 Spara's Headquarters (SNC) 257
+1 Spellstutter Sprite (LRW) 89
+1 Sun Titan (MKC) 87
+1 Sunpetal Grove (PIP) 297
+1 Surge of Brilliance (WHO) 57
+1 Talion's Messenger (WOE) 73
+1 Teferi's Protection (STA) 11e *F*
+1 Thassa, Deep-Dwelling (THB) 261
+1 The Thirteenth Doctor (WHO) 1155 *F*
+1 Thought Vessel (PIP) 251
+1 Vega, the Watcher (KHM) 233
+1 Virtue of Knowledge / Vantress Visions (WOE) 76
+1 Visage Bandit (OTJ) 76
+1 Wooded Bastion (SHM) 281
+1 Yavimaya, Cradle of Growth (MH2) 261

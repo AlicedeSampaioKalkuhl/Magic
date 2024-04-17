@@ -1,0 +1,88 @@
+    Kirri, Talented Sprout
+1 Arid Archway (OTJ) 252
+1 Ash Barrens (MKC) 248
+1 Audience with Trostani (MKM) 152
+1 Avenger of Zendikar (OTC) 187
+1 Beanstalk Wurm / Plant Beans (WOE) 161
+1 Blasted Landscape (CM2) 238
+1 Blighted Woodland (CLB) 881
+1 Bosk Banneret (MOR) 114
+1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Bygone Marvels (LCC) 89
+1 Cactus Preserve (OTC) 40
+1 Centaur Vinecrasher (C18) 135
+1 Chord of Calling (RVR) 134
+1 City on Fire (MOM) 135
+1 Commercial District (MKM) 259
+1 Conclave's Blessing (RAV) 11
+1 Crawling Sensation (OTC) 189
+1 Crop Rotation (DMR) 154
+1 Crucible of Worlds (2X2) 303
+1 Cryptic Caves (KHC) 109
+1 Dauntless Dourbark (LRW) 203
+1 Dormant Grove / Gnarled Grovestrider (VOW) 198
+1 Dowsing Dagger / Lost Vale (XLN) 235
+1 Drifting Meadow (DMR) 245
+1 Dust Bowl (MMQ) 316
+1 Edge of Autumn (FUT) 144
+1 Elegant Parlor (MKM) 260
+1 Enter the Unknown (RIX) 128
+1 Entish Restoration (LTR) 163
+1 Escape Tunnel (MKM) 261
+1 Everything Comes to Dust (WHO) 19
+1 Evolving Wilds (OTC) 292
+1 Fabled Passage (M21) 246
+1 Faeburrow Elder (DMC) 149
+1 Fangorn, Tree Shepherd (LTR) 166
+1 Felidar Retreat (CMM) 821
+1 Field of the Dead (M20) 247
+5 Forest (DDO) 63
+1 Forgotten Harvest (PCY) 114
+1 Fork in the Road (SOI) 205
+1 Generous Ent (LTR) 169
+1 Genesis Hydra (OTC) 193
+1 Gnottvold Slumbermound (KHM) 258
+1 Hardbristle Bandit (OTJ) 168
+1 Harrow (OTC) 194
+1 Highway Robbery (OTJ) 129
+1 Ilysian Caryatid (CMM) 297
+1 Khalni Garden (C18) 262
+1 Kurbis, Harvest Celebrant (MIC) 27
+1 Life from the Loam (RVR) 148
+1 Lignify (GVL) 16
+1 Living Totem (M15) 184
+1 Lorehold Excavation (STX) 200
+1 Lotus Field (M20) 249
+1 Lush Portico (MKM) 263
+1 Mesmeric Orb (2XM) 272
+1 Mirrorpool (CMM) 1010
+5 Mountain (MID) 383
+1 Naya Panorama (C13) 308
+1 Nissa's Expedition (C21) 200
+1 Oaken Brawler (LRW) 33
+1 Obelisk of Urd (ZNC) 115
+1 Phylath, World Sculptor (ZNR) 234
+5 Plains (M20) 264
+1 Quickbeam, Upstart Ent (LTR) 183
+1 Reach of Branches (MMA) 158
+1 Rith's Grove (DMR) 255
+1 Rootgrapple (LRW) 234
+1 Secluded Steppe (MKC) 289
+1 Seedguide Ash (LRW) 235
+1 Sentry Oak (LRW) 38
+1 Slippery Karst (DMR) 256
+1 Smoldering Crater (DMR) 257
+1 Sundering Vitae (MM2) 163
+1 Sylvan Caryatid (THS) 180
+1 Timber Protector (LRW) 238
+1 Tranquil Thicket (MKC) 309
+1 Turntimber Sower (OTC) 211
+1 Undergrowth Recon (MKM) 181
+1 Vengeful Regrowth (OTC) 35
+1 Verdeloth the Ancient (CMM) 330
+1 Vine Trellis (GVL) 4
+1 Virtue of Strength / Garenbrig Growth (WOE) 197
+1 Wand of the Worldsoul (MOC) 20
+1 Wildwood Mentor (WOE) 322
+1 Yavimaya, Cradle of Growth (MH2) 261

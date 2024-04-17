@@ -82,41 +82,7 @@
 1 Watcher of Hours (MKC) 25
 1 Xenk, Paladin Unbroken (SLD) 1237 *F*
     In 
-1 Alpine Meadow (KHM) 248
-1 Angelic Benediction (M13) 4
-1 Ardent Plea (ARB) 1
-1 Boreal Shelf (CSP) 144
-1 Brago, King Eternal (KHC) 82
-1 Charming Prince (ELD) 8
-1 Curiosity (WOT) 17
-1 Deadeye Navigator (AVR) 47
-1 Eldrazi Displacer (OGW) 13
-1 Elesh Norn, Mother of Machines (ONE) 416
-1 Fblthp, Lost on the Range (OTJ) 48
-1 Flickerwisp (KHC) 24
-1 Gemstone Caverns (TSP) 274
-1 Glacial Floodplain (KHM) 257
-1 Inexorable Tide (SOM) 35
-1 Inspiring Refrain (WHO) 216
-1 Mox Tantalite (MH1) 226
-1 Nalfeshnee (CLB) 678
-1 Norin the Wary (TSP) 171
-1 Oblivion Sower (CMM) 808
-1 Oji, the Exquisite Blade (CLB) 290
-1 Passionate Archaeologist (CLB) 633
-1 Quintorius Kand (LCI) 238
-1 Rousing Refrain (C21) 56
-1 Sakashima of a Thousand Faces (CMR) 89
-1 Scrying Sheets (CSP) 149
-1 Sea of Clouds (CLB) 360
-1 Strionic Resonator (NCC) 381
-1 Sun Titan (MKC) 87
-1 Suspend (MH2) 68
-1 The Ozolith (IKO) 237
-1 Training Center (CMM) 434
-1 Volatile Fjord (KHM) 273
-1 Wild-Magic Sorcerer (CLB) 816
-1 World at War (ROE) 172
+Get-LocalUser
  out 
 Swiftfoot Boots
 Trailblazer Boots 
@@ -128,6 +94,7 @@ Virtue of Courage
 Nomad's Assembly
 Training Grounds 
 The Parting of the Ways
+Abdel Adrian, Gorion's Ward 
 
      Tokens 
 Angel 
