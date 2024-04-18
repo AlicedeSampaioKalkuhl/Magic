@@ -59,7 +59,7 @@ LGSplay
 ggsave("LGSplay.png")
 
 proxied_total <- max(games[games$type=="proxied",]$played)
-proxied <- played %>% filter(type=="proxied") %>% 
+proxied <- games %>% filter(type=="proxied") %>% 
   ggplot(aes(x=lost,y=won,label=commander)) +
   geom_point(aes(size=played,colour=commander,fill=commander))+
   geom_abline(slope=0.25,intercept=0)+
@@ -97,7 +97,7 @@ artists<-decks%>%separate_rows(artist,sep='&')%>%group_by(artist)%>%summarise(n=
 art <-  artists %>% 
   ggplot(aes(label = artist,color=artist,size=n)) +
   geom_text_wordcloud() +
-  scale_size_area(max_size = 10)+
+  scale_size_area(max_size = 5)+
   theme_minimal()
 art
 ggsave('artists.png')
@@ -125,7 +125,7 @@ deck_themes
 
 themes_plot<-ggplot(deck_themes, aes(label = themes,color=themes,size=n)) +
   geom_text_wordcloud() +
-  scale_size_area(max_size = 15)+
+  scale_size_area(max_size = 10)+
   theme_minimal()+
   scale_colour_viridis_d(option="turbo")
 themes_plot

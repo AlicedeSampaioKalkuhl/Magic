@@ -1,97 +1,126 @@
     Vislor Turlough & The Second Doctor
+1 Alms Collector (SLD) 1227 *F*
 1 Arcane Denial (C13) 28
 1 Arcane Sanctum (MOC) 390
 1 Arcane Signet (WHO) 239
+1 As Foretold (WOT) 68
 1 Azorius Signet (NEC) 145
+1 Baleful Mastery (OTC) 126
 1 Blue Sun's Zenith (C13) 32
 1 Bojuka Bog (CLB) 882
+1 Breena, the Demagogue (C21) 1 *F*
+1 Command Tower (PIP) 259
 1 Curse of Fool's Wisdom (C19) 16
+1 Cut a Deal (CLB) 14 *F*
 1 Decanter of Endless Water (CLB) 309
+1 Dictate of Kruphix (JOU) 37
 1 Dimir Signet (RAV) 260
+1 Diplomatic Immunity (MMQ) 75
+1 Dissipation Field (CLB) 718
+1 Dream Fracture (CNS) 95
 1 Everybody Lives! (WHO) 338
+1 Exotic Orchard (NCC) 400
+1 Fate Unraveler (BNG) 68
+1 Finale of Revelation (MKC) 106
 1 Font of Mythos (PLST) CON-136
 1 Forced Fruition (LRW) 66
+1 Fractured Identity (WHO) 1068 *F*
+1 Ghirapur Orrery (KLD) 216
 1 Ghostly Prison (ONC) 71
 1 Glacial Fortress (LTC) 315
+1 Great Intelligence's Plan (WHO) 133 *F*
 1 Horn of Greed (STH) 135
 1 Howling Mine (BRR) 20
-1 Laboratory Maniac (UMA) 61
+1 Imp's Mischief (OTP) 15
+4 Island (PIP) 319
+2 Island (BRO) 280
+1 Isolated Chapel (LCC) 337
+1 Jin-Gitaxias, Core Augur (MUL) 11
+1 Kwain, Itinerant Meddler (CMR) 604 *E*
+1 Laboratory Maniac (SLD) 1394
+1 Labyrinth of Skophos (MKC) 272
 1 Lightning Greaves (C19) 217
-1 Malleable Impostor (WOC) 10
+1 Loran of the Third Path (MKC) 71
 1 Mikokoro, Center of the Sea (DMC) 217
+1 Minds Aglow (CMD) 51
+1 Misleading Signpost (WOC) 11
+1 Nils, Discipline Enforcer (C21) 20
 1 Norn's Annex (ONC) 83
+1 Ominous Seas (IKO) 61
 1 Orzhov Signet (GPT) 155
+1 Peek (SLD) 401 *F*
+1 Phyrexian Metamorph (MKC) 116
+1 Plains (SLD) 1088
+6 Plains (BRO) 279
+1 Propaganda (WHO) 219
 1 Reliquary Tower (40K) 291
 1 Reverse the Polarity (WHO) 54 *F*
+1 Seizan, Perverter of Truth (CHK) 143
 1 Sol Ring (WHO) 245
+1 Sonic Screwdriver (WHO) 185
+1 Starscream, Power Hungry / Starscream, Seeker Leader (BOT) 5
+1 Stolen Identity (NCC) 233
 1 Supreme Verdict (PRTR) 201★ *F*
+5 Swamp (BRO) 282
+1 Swamp (SLD) 1132
+1 Swamp (PIP) 321
+1 Synth Infiltrator (PIP) 40
 1 Teferi's Puzzle Box (PLST) 8ED-316 *F*
 1 Telepathy (9ED) 101
 1 Temple of Deceit (WHO) 314
 1 Temple of Enlightenment (WHO) 525
 1 Temple of Silence (MOC) 436
+1 The Council of Four (CLB) 271
 1 The Wedding of River Song (WHO) 31 *F*
 1 Thought Vessel (WHO) 255
+1 Time Reversal (SLD) 1499
+1 Underworld Dreams (THB) 121
+1 Viseling (NEM) 140 *F*
 1 Void Rend (PSNC) 230p
 1 Wedding Ring (WHO) 213
 1 Wheel and Deal (SLD) 1262 *F*
+1 Windborn Muse (MKC) 92
+1 Windfall (USG) 111
+1 Words of Wisdom (ODY) 114
+1 Wound Reflection (WHO) 223
+1 Zhalfirin Void (PDOM) 249 *F*
     In 
 1 Arcane Laboratory (7ED) 60
 1 Baleful Mastery (STX) 64
 1 Boseiju, Who Shelters All (CHK) 273
-1 Breena, the Demagogue (C21) 1 *F*
 1 Clone (M11) 49
-1 Command Tower (NEC) 167
 1 Consecrated Sphinx (2X2) 345
 1 Crawlspace (DMR) 217
-1 Cut a Deal (ONC) 63
 1 Dark Deal (FRF) 66
 1 Depopulate (PSNC) 10p
 1 Deserted Beach (WHO) 270
-1 Diplomatic Immunity (MMQ) 75
 1 Dovin's Veto (WAR) 193
 1 Drowned Catacomb (LTC) 305
 1 Ebony Owl Netsuke (SOK) 154
-1 Exotic Orchard (DMC) 209
-1 Fate Unraveler (C15) 126
 1 Followed Footsteps (RAV) 51
-1 Fractured Identity (WHO) 236
 1 Geier Reach Sanitarium (LCC) 335
 1 Gwafa Hazid, Profiteer (C16) 202
 1 Heliod, the Radiant Dawn / Heliod, the Warped Eclipse (MOM) 17
 1 Iron Maiden (ULG) 127
-1 Isolated Chapel (LTC) 318
 1 Kami of the Crescent Moon (SOK) 42
-1 Kwain, Itinerant Meddler (CMR) 284
-1 Loran of the Third Path (BRO) 12
 1 Maze of Ith (DMR) 250
-1 Minds Aglow (CM2) 46
-1 Misleading Signpost (WOC) 11
 1 Morphic Pool (CLB) 357
 1 Ob Nixilis, the Hate-Twisted (WAR) 100
 1 Orcish Bowmasters (LTR) 103
 1 Price of Knowledge (C13) 89
-1 Propaganda (C16) 94
 1 Raffine's Tower (PSNC) 254p
 1 Render Silent (DGM) 96
 1 Sea of Clouds (CLB) 360
-1 Seizan, Perverter of Truth (J22) 463
 1 Shattered Sanctum (PVOW) 264s *F*
 1 Sheoldred, the Apocalypse (DMU) 107
 1 Shipwreck Marsh (WHO) 305
 1 Smothering Tithe (PRNA) 22p
 1 Sword of War and Peace (NPH) 161
 1 Temple Bell (C16) 277
-1 The Council of Four (CLB) 271
 1 Thought Distortion (M20) 117
 1 Triskaidekaphile (PMID) 81p
-1 Underworld Dreams (THB) 121
 1 Urborg, Tomb of Yawgmoth (LTC) 405 *F*
 1 Vault of Champions (CMM) 436
-1 Viseling (NEM) 140
-1 Windfall (LCC) 180
-1 Words of Wisdom (ODY) 114
-1 Wound Reflection (WHO) 223
     Out 
 
     Tokens 
