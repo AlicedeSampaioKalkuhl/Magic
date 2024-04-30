@@ -104,7 +104,6 @@ In
 1 Stolen Goods (C15) 107
 1 Synthesis Pod (ONC) 23
 1 Tinybones, the Pickpocket (OTJ) 109
-1 Tlincalli Hunter / Retrieve Prey (CLB) 682
 1 Trailblazer's Boots (LTR) 398 *F*
 1 Vraska, the Silencer (OTJ) 237
 1 Xander's Lounge (SNC) 260

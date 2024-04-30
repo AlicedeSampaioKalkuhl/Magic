@@ -1,0 +1,99 @@
+1 Access Tunnel (OTC) 270
+1 Alchemist's Gift (M21) 87
+1 Aphotic Wisps (SHM) 55
+1 Arcane Signet (OTC) 252
+1 Arid Archway (OTJ) 252
+1 Armor of Shadows (CLB) 112
+1 Baeloth Barrityl, Entertainer (CLB) 655 *F*
+1 Bandit's Haul (OTJ) 240
+1 Blood Operative (GRN) 63
+1 Bojuka Bog (OTC) 273
+1 Boon of Erebos (THS) 80
+1 Borrowed Hostility (EMN) 121
+1 Bothersome Quasit (CLB) 628
+1 Chainer, Nightmare Adept (MH2) 289
+1 Charnel Serenade (MKC) 26
+1 Coat with Venom (DTK) 91
+1 Command Tower (OTC) 280
+1 Conduit Pylons (OTJ) 254
+1 Constricting Tendrils (CON) 22
+1 Coordinated Assault (CLU) 128
+1 Crowd's Favor (M15) 138
+1 Crumbling Necropolis (LCC) 326
+1 Daring Escape (SNC) 104
+1 Decanter of Endless Water (CLB) 444
+1 Detection Tower (M19) 249
+1 Displacer Kitten (CLB) 63
+1 Disrupt Decorum (CMM) 215 *F*
+1 Dogged Detective (MKC) 127
+1 Dragonskull Summit (OTC) 289
+1 Dreadmaw's Ire (LCI) 147
+1 Drowned Catacomb (OTC) 290
+1 Eloise, Nephalia Sleuth (MIC) 3
+1 Exotic Orchard (OTC) 293
+1 Fading Hope (MID) 51
+1 Fell Beast's Shriek (LTC) 508
+1 Firkraag, Cunning Instigator (CLB) 648 *F*
+1 Foul-Tongue Shriek (DTK) 103
+1 Furious Resistance (GTC) 93
+1 Gallifrey Council Chamber (WHO) 188
+1 Gisa, the Hellraiser (OTJ) 89
+1 Great Train Heist (OTJ) 125
+1 Haunted Ridge (MID) 263
+1 Hot Pursuit (MKC) 32
+1 Hydrosurge (M15) 58
+1 Jeska's Will (MKC) 156
+1 Jon Irenicus, Shattered One (CLB) 536 *E*
+1 Kamber, the Plunderer (VOC) 19
+1 Kardur, Doomscourge (KHM) 324
+1 Kess, Dissident Mage (NCC) 344
+1 Kindled Heroism (WOE) 138
+1 Laser Screwdriver (WHO) 178
+1 Laurine, the Diversion (VOC) 25
+1 Luxury Suite (CLB) 355
+1 Magda, the Hoardmaster (OTJ) 133
+1 Marauding Sphinx (OTJ) 56
+1 Maze of Ith (DMR) 250
+1 Midnight Clock (OTC) 100
+1 Mirko, Obsessive Theorist (MKC) 2 *F*
+1 Morphic Pool (CLB) 357
+1 Nesting Grounds (NCC) 418
+1 Patriar's Seal (CLB) 332
+1 Propaganda (OTC) 108
+1 Raucous Theater (MKM) 266
+1 Red Death, Shipwrecker (PIP) 116
+1 Relic of Sauron (LTC) 79
+1 Rogue's Passage (OTC) 313
+1 Rousing Refrain (OTC) 178
+1 Rush of Adrenaline (SOI) 177
+1 Samut's Sprint (WAR) 142
+1 Search for Azcanta / Azcanta, the Sunken Ruin (XLN) 74
+1 Shadow Rift (TMP) 86
+1 Shinka, the Bloodsoaked Keep (CHK) 282
+1 Shipwreck Marsh (MID) 267
+1 Shizo, Death's Storehouse (DMC) 233
+1 Smoldering Spires (E01) 96
+1 Spectacular Showdown (MKC) 162
+1 Storm-Kiln Artist (OTC) 181
+1 Stormcarved Coast (VOW) 265
+1 Sulfur Falls (OTC) 322
+1 Temple of Deceit (OTC) 328
+1 Temple of Epiphany (OTC) 329
+1 Temple of Malice (OTC) 331
+1 Temple of the False God (OTC) 334
+1 The Master, Mesmerist (WHO) 145 *F*
+1 The Rani (WHO) 149 *F*
+1 The Sound of Drums (WHO) 97 *F*
+1 Thundering Falls (MKM) 269
+1 Titan's Strength (2X2) 128
+1 Tocasia's Dig Site (MKC) 308
+1 Training Center (CMM) 434
+1 Undercity Sewers (MKM) 270
+1 Urabrask / The Great Work (MOM) 169
+1 Urborg, Tomb of Yawgmoth (TSR) 287
+1 Vengeful Ancestor (MKC) 163
+1 Vile Rebirth (M14) 121
+1 Virulent Swipe (IMA) 113
+1 Wring Flesh (M14) 122
+1 Xander's Lounge (SNC) 260
+1 Xantcha, Sleeper Agent (SLD) 1271 *F*

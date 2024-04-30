@@ -4,126 +4,119 @@
 1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
 1 Blightstep Pathway / Searstep Pathway (KHM) 252
 1 Bojuka Bog (MIC) 167
-1 Brand (USG) 176
+1 Cascade Bluffs (OTC) 276
+1 Chance Encounter (MH2) 277 *F*
 1 Chaos Wand (CLB) 855
 1 Chef's Kiss (MH2) 120
-1 Choked Estuary (CLB) 886
 1 Clearwater Pathway / Murkwater Pathway (ZNR) 260
 1 Clone Legion (NCC) 215
-1 Command Tower (NCC) 395
+1 Command Tower (CMM) 659
 1 Crawlspace (C13) 240
 1 Creative Technique (C21) 49
 1 Crumbling Necropolis (NCC) 397
 1 Cultural Exchange (ODY) 79
-1 Dark Ritual (RQS) 18
+1 Dark Ritual (SLD) 1170
 1 Dimir Aqueduct (MIC) 172
 1 Dimir Signet (RAV) 260
 1 Double Vision (NCC) 267
+1 Dragonskull Summit (OTC) 289
+1 Drowned Catacomb (OTC) 290
 1 Errant, Street Artist (SNC) 344
-1 Eternal Dominion (PLIST) 55
-1 Exchange of Words (UNF) 45 *F*
+1 Eternal Dominion (SOK) 36
 1 Exotic Orchard (NCC) 400
 1 Extravagant Replication (NCC) 25
 1 Feed the Swarm (NCC) 250
-1 Foreboding Ruins (NCC) 403
 1 Gale, Waterdeep Prodigy (CLB) 72
+1 Goblin Archaeologist (DST) 63
 1 Grixis Panorama (NCC) 407
 1 Harmonic Prodigy (MH2) 132
 1 Hive Mind (M10) 54
 1 Homeward Path (C16) 301
+1 Ian Malcolm, Chaotician (REX) 13 *F*
 1 Increasing Vengeance (DKA) 95
 1 Infernal Grasp (MID) 107
-5 Island (SNC) 274
+1 Island (SNC) 274 *F*
+3 Island (SNC) 274
 1 Izzet Boilerworks (2X2) 408
 1 Izzet Signet (NCC) 369
-1 Jaya, Fiery Negotiator (DMU) 374
-1 Keep Safe (IKO) 56 *F*
+1 Krark, the Thumbless (CMR) 189
+1 Krark's Thumb (MRD) 190
 1 Legerdemain (TMP) 72
 1 Maestros Theater (SNC) 251
 1 Magar of the Magic Strings (UNF) 457 *F*
 1 Magnus the Red (40K) 131
+1 Mana Crypt (PLST) EMA-225
 1 Maze of Ith (DMR) 250
 1 Melek, Izzet Paragon (PDGM) 84 *F*
-1 Metallurgic Summonings (C21) 122
+1 Mirror March (RNA) 108
 1 Mizzix's Mastery (STA) 43
-5 Mountain (SNC) 279
-1 Myriad Landscape (CLB) 904
-1 Negate (ZNR) 71
+3 Mountain (SNC) 279
 1 Nightscape Familiar (PLS) 48
-1 Path of Ancestry (CLB) 907
+1 Okaun, Eye of Chaos (BBD) 6
+1 Path of Ancestry (CMM) 661 *F*
+1 Planar Chaos (JUD) 97
 1 Possibility Storm (DGM) 34
-1 Propaganda (AFC) 91
+1 Propaganda (CMD) 55
 1 Protection Racket (NCC) 39
 1 Pyromancer's Goggles (SLD) 1066
 1 Rakdos Carnarium (VOC) 180
 1 Rakdos Signet (DIS) 165
-1 Ral, Storm Conduit (WAR) 211
-1 Reliquary Tower (CLB) 911
+1 Rakdos, the Showstopper (CLU) 205
+1 Ral Zarek (RVR) 445
+1 Reliquary Tower (CMM) 663 *F*
 1 Replication Technique (C21) 358
 1 Reversal of Fortune (5DN) 77
-1 Scavenger Grounds (C21) 314
-1 Seething Song (9ED) 216
+1 Risky Move (ONS) 223
+1 River Song's Diary (WHO) 182
+1 Riverglide Pathway / Lavaglide Pathway (ZNR) 264
+1 Rousing Refrain (C21) 56
+1 Seething Song (MRD) 104
 1 Shipwreck Marsh (MID) 267
-1 Smoldering Marsh (NCC) 428
 1 Sol Ring (NCC) 379
 1 Spelltwine (C17) 94
+1 Squee's Revenge (APC) 123
 1 Storm-Kiln Artist (STX) 115
-1 Sunken Hollow (NCC) 431
-4 Swamp (SNC) 276
-1 Swarm Intelligence (C21) 130
-1 Swiftfoot Boots (C20) 254
+3 Swamp (SNC) 276
 1 Swindler's Scheme (NCC) 88
-1 Synthesis Pod (ONC) 23
-1 Talrand, Sky Summoner (C21) 131
+1 Temple of the False God (ONC) 172
+1 The Twelfth Doctor (WHO) 563
 1 Thousand-Year Storm (GRN) 207
 1 Tibalt's Trickery (KHM) 153
-1 Turn Aside (SOM) 49
-1 Twincast (M10) 78
+1 Tide of War (CHK) 194
 1 Twinning Staff (NCC) 383
 1 Urabrask / The Great Work (MOM) 299 *F*
 1 Wand of Wonder (CLB) 204
 1 Wandering Archaic / Explore the Vastlands (STX) 6
-1 Wrong Turn (CMR) 107
 1 Xander's Lounge (SNC) 260
-1 Young Pyromancer (SS3) 8 *F*
+1 Xander's Pact (NCC) 43
+1 Yusri, Fortune's Flame (MH2) 492 *F*
 1 Zevlor, Elturel Exile (CLB) 296
+1 Zndrsplt, Eye of Wisdom (BBD) 5
 
     In 
 1 Boseiju, Who Shelters All (CHK) 273
 1 Breeches, the Blastmaker (OTJ) 197
-1 Chance Encounter (MH2) 277
 1 Endless Whispers (5DN) 49
 1 Fiery Gambit (PLST) MRD-90 *F*
-1 Goblin Archaeologist (DST) 63
-1 Halimar Depths (WWK) 137
-1 Hall of Oracles (PSTX) 267s *F*
 1 Kaervek, the Punisher (OTJ) 92
-1 Krark, the Thumbless (CMR) 189
-1 Krark's Thumb (MRD) 190
-1 Mana Crypt (PLST) EMA-225
-1 Okaun, Eye of Chaos (BBD) 6
-1 Rakdos, the Showstopper (CLU) 205
-1 Return the Past (WHO) 92
-1 River Song's Diary (WHO) 182
-1 Riverglide Pathway / Lavaglide Pathway (ZNR) 264
-1 Squee's Revenge (APC) 123
 1 Stitch in Time (RVR) 229
-1 Storm of Saruman (LTR) 72
-1 Tavern Scoundrel (MH2) 144
-1 Yusri, Fortune's Flame (MH2) 218
-1 Zndrsplt, Eye of Wisdom (BBD) 5
+Tavern Scoundrel 
+Puppet's Verdict 
+Fighting Chance 
+
     Out 
-1 Metallurgic Summonings (KLD) 56
-1 Magnus the Red 
-Talrand 
-Urabrask 
-Jaya, Fiery Negotiator 
-Young Pyromancer 
-Gale, Waterdeep Prodigy 
-Synthesis Pod 
-Exchange of Words
-Metallurgic ummoning 
+Sol Ring 
+Arcane Signet 
+Dimir Signet 
+Rakdos Signet 
+Izzet Signet 
 Protection Racket
+Chance Encounter 
+Squee's Refence 
+Infernal Grasp 
+Wand of Wonder 
+Swindler's Scheme 
+
     Tokens 
 Construct 
 Drake 
