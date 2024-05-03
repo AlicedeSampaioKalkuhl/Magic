@@ -1,12 +1,11 @@
     Vislor Turlough & The Second Doctor
 1 Alms Collector (SLD) 1227 *F*
-1 Arcane Denial (C13) 28
+1 Arcane Denial (SLD) 1545
 1 Arcane Sanctum (MOC) 390
 1 Arcane Signet (WHO) 239
 1 As Foretold (WOT) 68
 1 Azorius Signet (NEC) 145
 1 Baleful Mastery (OTC) 126
-1 Blue Sun's Zenith (C13) 32
 1 Bojuka Bog (CLB) 882
 1 Breena, the Demagogue (C21) 1 *F*
 1 Command Tower (PIP) 259
@@ -43,7 +42,6 @@
 1 Loran of the Third Path (MKC) 71
 1 Mikokoro, Center of the Sea (DMC) 217
 1 Minds Aglow (CMD) 51
-1 Misleading Signpost (WOC) 11
 1 Nils, Discipline Enforcer (C21) 20
 1 Norn's Annex (ONC) 83
 1 Ominous Seas (IKO) 61
@@ -55,6 +53,7 @@
 1 Propaganda (WHO) 219
 1 Reliquary Tower (40K) 291
 1 Reverse the Polarity (WHO) 54 *F*
+1 Scheming Symmetry (SLD) 1520
 1 Seizan, Perverter of Truth (CHK) 143
 1 Sol Ring (WHO) 245
 1 Sonic Screwdriver (WHO) 185
@@ -75,6 +74,7 @@
 1 Thought Vessel (WHO) 255
 1 Time Reversal (SLD) 1499
 1 Underworld Dreams (THB) 121
+1 Vilis, Broker of Blood (SLD) 1567
 1 Viseling (NEM) 140 *F*
 1 Void Rend (PSNC) 230p
 1 Wedding Ring (WHO) 213
@@ -86,7 +86,6 @@
 1 Zhalfirin Void (PDOM) 249 *F*
     In 
 1 Arcane Laboratory (7ED) 60
-1 Baleful Mastery (STX) 64
 1 Boseiju, Who Shelters All (CHK) 273
 1 Clone (M11) 49
 1 Consecrated Sphinx (2X2) 345

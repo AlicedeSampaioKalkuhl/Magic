@@ -1,0 +1,124 @@
+    Breya, Etherium Sculptor 
+1 Aether Chaser (AER) 76
+1 Aether Hub (KLD) 242
+1 Aether Swooper (AER) 26
+1 Aetherborn Marauder (OTC) 125
+1 Aetherworks Marvel (KLD) 193
+1 Alharu, Solemn Ritualist (CMR) 548 *E*
+1 Alley Strangler (AER) 52
+1 Ambitious Aetherborn (PLST) KLD-72
+1 Ancient Den (C21) 276
+1 Arcane Signet (CLB) 298
+1 Ashnod's Altar (BRR) 4
+1 Assaultron Dominator (PIP) 54
+1 Automated Assembly Line (PIP) 10
+1 Bolas's Citadel (PLG21) 3 *F*
+1 Brotherhood Scribe (PIP) 13
+1 Buried Ruin (PIP) 254
+1 Chromatic Lantern (ONC) 127
+1 Command Tower (SLD) 710
+1 Confiscation Coup (KLD) 41
+1 Consulate Turret (AER) 147
+1 Consuming Aetherborn (MOM) 97 *F*
+1 Contraband Kingpin (KLD) 177
+1 Darksteel Citadel (C21) 285
+1 Decoction Module (KLD) 205
+1 Defiant Salvager (2XM) 83 *F*
+1 Die Young (KLD) 76
+1 Door of Destinies (M14) 208
+1 Dr. Madison Li (PIP) 3 *F*
+1 Drossforge Bridge (MH2) 246 *F*
+1 Elder Owyn Lyons (PIP) 103
+1 Electrosiphon (PIP) 104
+1 Etherium Sculptor (SLD) 443
+1 Exotic Orchard (PIP) 264
+1 Gifted Aetherborn (SCH) 13
+1 Glimmer of Genius (PIP) 176
+1 Goldmire Bridge (MH2) 247
+1 Gonti, Lord of Luxury (SLD) 1566
+1 Great Furnace (C21) 292
+1 HELIOS One (PIP) 149
+1 Ironclad Revolutionary (AER) 65
+1 Island (PIP) 320
+2 Island (PIP) 319
+1 Lawless Broker (KLD) 86
+1 Liberty Prime, Recharged (PIP) 5 *F*
+1 Lightning Greaves (C19) 217
+1 Live Fast (KLD) 87
+1 Maskwood Nexus (KHM) 240
+1 Maulfist Squad (KLD) 91
+1 Midnight Entourage (AER) 66
+1 Mind Stone (PW21) 5 *F*
+1 Mishra, Eminent One (BRC) 48
+1 Mistvault Bridge (BRC) 189
+3 Mountain (PIP) 324
+1 Night Market Aeronaut (AER) 67
+1 Panharmonicon (PIP) 237
+5 Plains (PIP) 318
+1 Plasma Caster (PIP) 64
+1 Power Depot (MH2) 251
+1 Ravenous Intruder (2XM) 141 *F*
+1 Razortide Bridge (PIP) 281
+1 Rex, Cyber-Hound (PIP) 117
+1 Robobrain War Mind (PIP) 38
+1 Rustvale Bridge (MH2) 253 *F*
+1 Seat of the Synod (BRC) 198
+1 Securitron Squadron (PIP) 23
+1 Sentry Bot (PIP) 24
+1 Silverbluff Bridge (PIP) 290
+1 Sol Ring (NEC) 161
+1 Solemn Simulacrum (WHO) 246
+4 Swamp (PIP) 321
+1 Swiftfoot Boots (BRR) 121
+1 Syndicate Trafficker (KLD) 101
+1 T-45 Power Armor (PIP) 145
+1 Teleportation Circle (PAFR) 39p *F*
+1 Territorial Gorger (KLD) 136
+1 Thaumatic Compass / Spires of Orazca (PLST) XLN-249
+1 The Flesh Is Weak (40K) 122
+1 The Motherlode, Excavator (PIP) 62
+1 The Mycosynth Gardens (ONE) 256
+1 Thopter Foundry (2XM) 222 *F*
+1 Thriving Grubs (KLD) 138 *F*
+1 Time Sieve (2XM) 223
+1 Triumphant Reckoning (SLD) 1005
+1 Vault 112: Sadistic Simulation (PIP) 123
+1 Vault of Whispers (BRC) 211
+1 Vengeful Rebel (AER) 73
+1 Weaponcraft Enthusiast (KLD) 105
+1 Whirler Rogue (PIP) 181
+1 Yahenni, Undying Partisan (LCC) 214
+    In 
+1 Aether Inspector (AER) 3
+1 Aether Poisoner (AER) 51
+1 Aethersquall Ancient (KLD) 39
+1 Aetherstorm Roc (KLD) 3
+1 Breya's Apprentice (MH2) 117
+1 Conjurer's Closet (2XM) 243
+1 Consulate Surveillance (KLD) 10
+1 Demon of Dark Schemes (KLD) 73
+1 Displacer Kitten (CLB) 63
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Krark-Clan Ironworks (5DN) 134
+1 Master Trinketeer (KLD) 21
+1 Nim Deathmantle (2X2) 309
+1 Ornithopter of Paradise (CMM) 966
+1 Scene of the Crime (MKM) 267
+1 Scrapper Champion (AER) 97
+1 Scurry of Gremlins (MH3) 203
+1 Smothering Tithe (CMM) 57
+1 Storm the Vault / Vault of Catlacan (RIX) 173
+1 Strionic Resonator (NCC) 381
+1 Treasure Vault (AFR) 261
+1 Virtue of Knowledge / Vantress Visions (WOE) 76
+1 Whirler Virtuoso (KLD) 190
+    Out 
+Elder Owyn Lyons out 
+Whirler Rogue out 
+Securiton Squadron out 
+Arcane Signet out 
+Lightning Greaves out  
+Swiftfoot Boots out 
+Mind Stone out 
+Sol Ring out 
+Bolas's Citadel out 

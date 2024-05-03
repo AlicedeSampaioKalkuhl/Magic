@@ -1,20 +1,20 @@
     Gavi, Nest Warden
 1 Abandoned Sarcophagus (C20) 236
 1 Akim, the Soaring Wind (C20) 6 *F*
+1 Alhammarret's Archive (C21) 233
 1 Altar of Dementia (BRR) 3
 1 Angelsong (PLST) DDC-15
 1 Arch of Orazca (LCC) 319
 1 Ash Barrens (SLD) 469 *F*
-1 Battle Plan (MH2) 114
 1 Belligerent Yearling (LCI) 320
 1 Bellowing Aegisaur (LCC) 127
 1 Blasted Landscape (PLST) CM2-238
 1 Bonehoard Dracosaur (LCI) 134
-1 Boon of the Wish-Giver (IKO) 43
 1 Brain Freeze (SCG) 29
 1 Bronzebeak Foragers (LCC) 37
 1 Choking Tethers (PLST) A25-48
 1 Clear the Mind (PLST) RNA-34
+1 Cresting Mosasaurus (REX) 2
 1 Crystalline Resonance (C20) 31
 1 Decree of Justice (C20) 85
 1 Desert of the Fervent (C20) 266
@@ -36,14 +36,13 @@
 1 Irrigated Farmland (WHO) 288
 4 Island (ZNR) 270
 1 Island (AKH) 251
+1 Jace, Arcane Strategist (WAR) 270 *F*
 1 Jace, Memory Adept (M13) 56
 1 Jace, the Perfected Mind (ONE) 360 *F*
-1 Key to the City (BRR) 90
 1 Kinjalli's Sunwing (XLN) 19
 1 Lonely Sandbar (C21) 298
 1 Lorehold Campus (STX) 268
 1 Memory Erosion (CMD) 50
-1 Migratory Route (KHC) 87
 1 Mindcrank (NPH) 144
 1 Mountain (BFZ) 267
 1 Mountain (ZNR) 276
@@ -71,15 +70,16 @@
 1 Scytheclaw Raptor (LCI) 323 *F*
 1 Secluded Steppe (C21) 315
 1 Shared Animosity (C20) 158
-1 Shark Typhoon (IKO) 67
+1 Shark Typhoon (SLC) 2020 *F*
 1 Shelter (EMA) 29 *F*
-1 Skullclamp (DST) 140
+1 Skullclamp (SLD) 1112
 1 Slice and Dice (CMM) 255
 1 Smoldering Crater (C20) 313
 1 Sphinx's Tutelage (ORI) 76
 1 Star of Extinction (PLST) XLN-161
 1 Starstorm (NEC) 110
 1 Surly Badgersaur (C20) 57
+1 Sword of Body and Mind (2XM) 295
 1 Teferi's Ageless Insight (MKC) 119
 1 Teferi's Puzzle Box (VIS) 156
 1 Temple Altisaur (LCC) 138
@@ -98,7 +98,6 @@
 1 Archive Trap (ZEN) 41
 1 Astral Slide (ONS) 4
 1 Complicate (ONS) 76
-1 Cresting Mosasaurus (REX) 2
 1 Cut Your Losses (PSNC) 38p
 1 Decree of Silence (SCG) 32
 1 Deem Worthy (AKH) 127
@@ -108,7 +107,6 @@
 1 Huatli, Dinosaur Knight (XLN) 285 *F*
 1 Hunting Velociraptor (REX) 4
 1 Imposing Vantasaur (IKO) 17
-1 Jace, Arcane Strategist (J22) 310
 1 Jace's Erasure (M11) 59
 1 Maddening Cacophony (PZNR) 67p
 1 Marauding Brinefang (LCI) 64
@@ -116,18 +114,14 @@
 1 Seismic Monstrosaur (LCI) 166
 1 Soaring Sandwing (LCI) 35
 1 Swooping Pteranodon (REX) 19
-1 Sword of Body and Mind (SOM) 208
 1 Tectonic Reformation (C20) 162
 1 Traumatize (10E) 119
 1 Trumpeting Carnosaur (LCI) 171
 1 Yidaro, Wandering Monster (IKO) 141
+
     Out 
-Rampaging Ceratops 
-Bellowing Aegisaur 
-Battle Plan 
-Abandoned Sarcophagus 
-Key to the City 
-Boon of the Wish-Giver 
+Past in Flames 
+
     Tokens 
 Angel 
 Bird 
