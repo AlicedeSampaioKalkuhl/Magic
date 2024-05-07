@@ -1,0 +1,93 @@
+    Kudo, King Among Bears
+
+    In 
+1 Absolute Grace (USG) 1
+1 Absolute Law (USG) 2
+1 Adaptive Automaton (2XM) 231
+1 Alpha Status (SCG) 110
+1 Arcane Signet (OTC) 252
+1 Argoth, Sanctum of Nature (BRO) 256a
+1 Awaken the Bear (KTK) 129
+1 Ayula, Queen Among Bears (MH1) 155
+1 Ayula's Influence (MH1) 156
+1 Bearscape (SLD) 1008
+1 Beastmaster Ascension (NCC) 283
+1 Blessed Sanctuary (JMP) 1
+1 Bountiful Promenade (CLB) 348
+1 Brushland (BRO) 259
+1 Call for Unity (AER) 9
+1 Caller of the Claw (C15) 177
+1 Castle Garenbrig (ELD) 240
+1 Cathars' Crusade (JMP) 95
+1 Cavern of Souls (LCI) 269
+1 Coat of Arms (DDS) 58
+1 Command Tower (OTC) 280
+1 Concordant Crossroads (2X2) 141
+1 Conjurer's Mantle (MOC) 12
+1 Coordinated Barrage (MOR) 7
+1 Copper Host Crusher (MOM) 181
+1 Court of Garenbrig (WOC) 25
+1 Defensive Formation (USG) 9
+1 Dictate of Heliod (C15) 68
+1 Door of Destinies (C17) 208
+1 Doric, Nature's Warden / Doric, Owlbear Avenger (SLD) 1241 *F*
+1 Druid's Familiar (AVR) 175
+1 Dryad's Caress (RAV) 160
+1 Engineered Might (KLD) 181
+1 Everybody Lives! (WHO) 18
+1 Fade from History (BRO) 177
+1 Felidar Retreat (CMM) 821
+6 Forest (DMU) 281
+1 Gavony Township (MOC) 406
+1 Goreclaw, Terror of Qal Sisma (CMM) 293
+1 Grizzly Fate (JUD) 119
+1 Hallowed Burial (CN2) 91
+1 Heraldic Banner (ELD) 222
+1 Hibernation's End (CSP) 110
+1 Horizon Canopy (IMA) 240
+1 Icon of Ancestry (LCC) 305
+1 Kindred Summons (AFC) 163
+1 Magnify (UDS) 111
+1 March of Souls (PLS) 10
+1 Mirari's Wake (CMM) 928
+1 Mosswort Bridge (MKC) 275
+1 Mother Bear (MH1) 171
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Obelisk of Urd (ZNC) 115
+1 Overgrown Farmland (MID) 265
+1 Overwhelming Encounter (CLB) 245
+1 Overwhelming Stampede (C19) 175
+1 Owlbear Cub (CLB) 592
+1 Path of Ancestry (OTC) 310
+6 Plains (DMU) 277
+1 Predatory Rampage (CMM) 313
+1 Rally the Ranks (KHM) 20
+1 Rampaging Yao Guai (PIP) 82
+1 Razorclaw Bear (P02) 142
+1 Restless Prairie (LCI) 281
+1 Retreat to Emeria (ZNC) 20
+1 River Bear (9ED) 266
+1 Rogue's Passage (OTC) 313
+1 Savage Swipe (MH1) 178
+1 Secluded Courtyard (LCC) 350
+1 Selesnya Signet (CLU) 227
+1 Stoneforge Masterwork (OGW) 166
+1 Sunpetal Grove (XLN) 257
+1 Surrak and Goreclaw (MOM) 337
+1 Talisman of Unity (MKC) 244
+1 Tenacity (SOI) 42
+1 Titania, Voice of Gaea (BRO) 193
+1 Tribute to the World Tree (MOM) 211
+1 Triumph of the Hordes (NPH) 123
+1 True Conviction (C14) 93
+1 Ulvenwald Bear (DKA) 129
+1 Unclaimed Territory (LCC) 366
+1 Unnatural Growth (MID) 206
+1 Ursine Champion (M19) 304
+1 Ursine Fylgja (CSP) 22
+1 Vanquisher's Banner (LCC) 316
+1 Vivien's Grizzly (WAR) 182
+1 Werebear (DMR) 182
+1 Wilson, Refined Grizzly (CLB) 261
+1 Wooded Bastion (2XM) 332
+1 Words of Wilding (ONS) 305

@@ -1,106 +1,131 @@
     Piru, the Volatile 
-1 Anger of the Gods (SLD) 1503
-1 Ashnod's Intervention (BRO) 85
+1 Baldur's Gate (CLB) 345 *F*
 1 Basilisk Gate (CLB) 346
+1 Bastion Protector (40K) 182
 1 Black Dragon Gate (CLB) 347
 1 Blasphemous Act (WHO) 224
-1 Blazing Volley (IKO) 107
+1 Blood for the Blood God! (40K) 108
 1 Boros Charm (NCC) 332
 1 Boros Garrison (2X2) 319
 1 Boros Guildgate (ZNC) 123
 1 Boros Reckoner (GTC) 215
 1 Brash Taunter (M21) 133
-1 Brotherhood's End (BRO) 128
-1 Burn Down the House (MID) 131 *F*
 1 Canyon Slough (WHO) 1073 *F*
 1 Chain Reaction (NCC) 265
 1 Chandra's Ignition (ORI) 137
-1 Command Tower (NEC) 167
-1 Crackling Doom (2X2) 196
+1 Command Beacon (SLD) 470 *F*
+1 Command Tower (SLD) 792
 1 Deflecting Palm (MKC) 205
 1 Demonic Gifts (KHM) 84
-1 Drifting Meadow (C20) 271
-1 Exotic Orchard (DMC) 209
+1 Donna Noble (WHO) 973 *F*
+1 Electrostatic Field (OTC) 164
+1 End the Festivities (VOW) 155
 1 Fake Your Own Death (SNC) 79
-1 Fiery Emancipation (WOT) 42
+1 Fiendish Duo (MKC) 153
 1 Firesong and Sunspeaker (MUL) 169 *F*
+1 Flawless Maneuver (ONC) 68
 1 Fling (M11) 139
 1 Forgotten Cave (ONC) 153
 1 Gateway Plaza (PLST) GRN-247
 1 Gideon's Sacrifice (WAR) 14
-1 Gift of Immortality (THS) 14
+1 Golden Guardian / Gold-Forge Garrison (PRIX) 179s *F*
 1 Gond Gate (CLB) 353 *F*
-1 Grafted Exoskeleton (ONC) 132
-1 Heap Gate (CLB) 354
+1 Guardians of Meletis (ORI) 228 *F*
+1 Heap Gate (CLB) 354 *F*
 1 Heartflame Duelist / Heartflame Slash (WOE) 290
+1 Hedron Crawler (OGW) 164
 1 Ill-Tempered Loner / Howlpack Avenger (VOW) 378
-1 Inkshield (C21) 71
+1 Isengard Unleashed (LTC) 495 *F*
 1 Judith, Carnage Connoisseur (MKM) 210
+1 Judoon Enforcers (WHO) 138
 1 Licia, Sanguine Tribune (C17) 40 *F*
-1 Lightning Bolt (2X2) 117
+1 Lightning Bolt (STA) 42
 1 Lightning Helix (SLC) 2005 *F*
-1 Luxury Suite (CLB) 355
-1 Malakir Rebirth / Malakir Mire (ZNR) 111
+1 Manor Gargoyle (ISD) 228
 1 Maze's End (PDGM) 152★ *F*
 1 Metropolis Reformer (MAT) 54
 1 Mithril Coat (LTR) 245
 1 Mortuary (STH) 66
 1 Necromancy (MKC) 131
-1 Not Dead After All (WOE) 101 *F*
-1 Orzhov Guildgate (RNA) 252
+1 Nomad Outpost (OTC) 306
 1 Phyrexian Vindicator (ONE) 27
-1 Polluted Mire (C15) 300
-1 Radiant Scrollwielder (STX) 221
-1 Rakdos Carnarium (C19) 266
-1 Rakdos Guildgate (RTR) 244
+1 Planar Bridge (SLD) 447
+1 Quintorius Kand (LCI) 307
+1 Quintorius, Field Historian (STX) 220 *F*
+1 Quintorius, Loremaster (MOM) 250
+1 Rakdos Guildgate (CLU) 244
 1 Rammas Echor, Ancient Shield (LTC) 549 *F*
 1 Replicating Ring (KHM) 244
 1 Secluded Steppe (C20) 307
-1 Smoldering Crater (DMR) 257
+1 Solemn Simulacrum (SLD) 791
 1 Spitemare (EVE) 147
-1 Star of Extinction (PLST) XLN-161
-1 Structural Assault (PSNC) 126p
-1 Stuffy Doll (CLB) 875
-1 Temple of the False God (C20) 319
+1 Strangle (SCH) 10
+1 Taii Wakeen, Perfect Shot (OTJ) 365 *F*
+1 Take the Bait (MKC) 43
 1 The Black Gate (LTC) 80
 1 Thran Portal (PDMU) 259p
+1 Timely Ward (WOC) 79
+1 Too Greedily, Too Deep (LTC) 72
 1 Unbreakable Formation (LTC) 179
 1 Vizkopa Guildmage (GTC) 206
+1 Wall of Omens (SLD) 1518
+
     In 
 1 Aether Membrane (DDI) 48
 1 Angelic Chorus (BBD) 87
+1 Anger of the Gods (SLD) 1503
 1 Arcbond (FRF) 91
+1 Ashnod's Intervention (BRO) 85
 1 Athreos, Shroud-Veiled (THB) 269
 1 Aurelia's Fury (GTC) 144
 1 Barren Moor (DDJ) 78
 1 Blazing Sunsteel (CMR) 364
+1 Blazing Volley (IKO) 107
+1 Brotherhood's End (BRO) 128
+1 Burn Down the House (MID) 131 *F*
 1 Cathedral Membrane (NPH) 5
 1 Citadel Gate (CLB) 349
 1 City on Fire (MOM) 135
 1 Cliffgate (CLB) 350
-1 Command Beacon (CMR) 349
+1 Crackling Doom (2X2) 196
+1 Display of Power (LTR) 358
+1 Drifting Meadow (C20) 271
 1 Electrodominance (PRNA) 99p
+1 Exotic Orchard (DMC) 209
 1 Fiendlash (CMM) 221
-1 Flawless Maneuver (ONC) 68
+1 Fiery Emancipation (WOT) 42
 1 Gerrard, Weatherlight Hero (C19) 41
+1 Gift of Immortality (THS) 14
+1 Grafted Exoskeleton (ONC) 132
+1 Inkshield (C21) 71
 1 Intimidation Bolt (ARB) 99
 1 Labyrinth of Skophos (THB) 243
 1 Lightmine Field (ROE) 32
+1 Luxury Suite (CLB) 355
 1 Magmaquake (SCD) 149
+1 Malakir Rebirth / Malakir Mire (ZNR) 111
 1 Martyrdom (ALL) 10a
 1 Maze of Ith (DMR) 250
+1 Not Dead After All (WOE) 101 *F*
 1 Opal-Eye, Konda's Yojimbo (BOK) 17
-1 Pariah (7ED) 30
+1 Orzhov Guildgate (RNA) 252
+1 Pariah (OTP) 5
 1 Pestilent Spirit (RNA) 81
+1 Polluted Mire (C15) 300
+1 Radiant Scrollwielder (STX) 221
+1 Rakdos Carnarium (C19) 266
 1 Repercussion (WOT) 48
 1 Rivaz of the Claw (DMU) 215
 1 Savai Triome (PIKO) 253p
+1 Smoldering Crater (DMR) 257
 1 Solar Blaze (WAR) 216
 1 Spectator Seating (CMM) 427
+1 Star of Extinction (PLST) XLN-161
 1 Stinging Study (C21) 44
-1 Taii Wakeen, Perfect Shot (OTJ) 234
+1 Structural Assault (PSNC) 126p
+1 Stuffy Doll (CLB) 875
 1 Teferi's Protection (2X2) 343
-1 Timely Ward (WOC) 79
+1 Temple of the False God (C20) 319
 1 Vault of Champions (CMM) 436
 1 Wall of Essence (M15) 41
 1 Wall of Hope (LGN) 24
