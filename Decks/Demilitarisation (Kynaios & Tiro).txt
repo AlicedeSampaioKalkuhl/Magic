@@ -1,19 +1,45 @@
     Kynaios & Tiro 
-
-    In 
+1 Akroan Jailer (ORI) 1 *F*
 1 Aragorn, the Uniter (LTR) 317
+1 Baird, Argivian Recruiter (DMU) 294 *F*
+1 Bounty Agent (GRN) 2
+1 Cathar Commando (MID) 10
+1 Checkpoint Officer (IKO) 5
+1 Daru Encampment (ONS) 315
+1 Dauntless River Marshal (M15) 8
+1 Doomed Traveler (2X2) 9 *F*
+1 Fairgrounds Patrol (MH2) 13
+1 Forbidding Watchtower (ULG) 140
+1 Gavony Trapper (MID) 22
+1 Gideon's Lawkeeper (PLST) MM3-7
+1 God-Favored General (BNG) 14
+1 Harried Spearguard (WOE) 135
+1 Martyr of Dusk (LCC) 132
+1 Memorial to Glory (DOM) 244
+1 Memorial to Unity (DOM) 245
+1 Pacifism (M20) 32 *F*
+1 Patrol Signaler (EVE) 12
+1 Pippin, Guard of the Citadel (LTR) 438
+1 Prairie Stream (WHO) 1099 *F*
+1 Queen Allenal of Ruadach (DMU) 309 *F*
+1 Recruitment Officer (GDY) 7
+1 Restore the Peace (DGM) 97
+1 Survivor of Korlis (BRO) 28 *F*
+1 Thundersong Trumpeter (RAV) 235
+1 Unclaimed Territory (VOC) 188
+1 Warden of the Inner Sky (LCI) 43
+1 Zygon Infiltrator (WHO) 63 *F*
+    In 
 1 Ashnod's Altar (BRR) 67
 1 Assemble the Legion (ONC) 115
 1 Ballynock Trapper (EVE) 2
 1 Ballyrush Banneret (MOR) 1
 1 Bant Sojourners (ARB) 125
-1 Bounty Agent (GRN) 2
 1 Caldaia Guardian (NCC) 56
 1 Call the Coppercoats (C20) 23
 1 Canopy Vista (WHO) 258
 1 Catapult Master (DDF) 18
 1 Catapult Squad (ONS) 11
-1 Cathar Commando (MID) 10
 1 Cemetery Protector (VOW) 6
 1 Cenn's Tactician (MOR) 5
 1 Cinder Glade (WHO) 262
@@ -23,22 +49,17 @@
 1 Contested War Zone (MBS) 144
 1 Court Street Denizen (GTC) 8
 1 Darien, King of Kjeldor (MKC) 59
-1 Daru Encampment (DDF) 32
 1 Daru Stinger (LGN) 10
 1 Daru Warchief (SCG) 6
 1 Dauntless Cathar (SOI) 11
 1 Dauntless Escort (SCD) 223
-1 Doomed Traveler (2X2) 9 *F*
 1 Doubling Season (RAV) 158
 1 Exotic Orchard (OTC) 293
-1 Fairgrounds Patrol (MH2) 13
 1 Feed the Pack (DKA) 114
 1 Flurry of Wings (ARB) 127
-1 Forbidding Watchtower (ULG) 140
 2 Forest (THB) 254
 1 Fortified Beachhead (BRO) 262
 1 Goldmeadow Lookout (FUT) 22
-1 Harried Spearguard (WOE) 135
 1 High Market (C15) 289
 1 Infernal Plunge (ISD) 148
 2 Island (THB) 251
@@ -54,29 +75,21 @@
 1 Lossarnach Captain (LTC) 16
 1 March of the Multitudes (NCC) 346
 1 Martial Coup (NCC) 206
-1 Martyr of Dusk (LCC) 132
 1 Martyr's Cause (PLST) ULG-13
 1 Memorial to Genius (DOM) 243
-1 Memorial to Glory (DOM) 244
-1 Memorial to Unity (DOM) 245
 1 Memorial to War (CMR) 486
 1 Midnight Guard (BBD) 99
 1 Militia's Pride (LRW) 30
 1 Miren, the Moaning Well (SOK) 163
 2 Mountain (THB) 253
 1 Opposition (DMR) 62
-1 Pacifism (JMP) 125
-1 Patrol Signaler (EVE) 12
 1 Perilous Forays (RAV) 176
 1 Phyrexian Altar (2X2) 396
 2 Plains (THB) 250
-1 Prairie Stream (WHO) 295
 1 Primal Growth (PLS) 87
 1 Protect the Negotiators (DMU) 62
-1 Queen Allenal of Ruadach (DMU) 309 *F*
 1 Raugrin Triome (IKO) 251
 1 Reliquary Tower (OTC) 312
-1 Restore the Peace (DGM) 97
 1 Secluded Courtyard (LTC) 330
 1 Sentinel of the Eternal Watch (ORI) 30
 1 Siege Veteran (BRO) 25
@@ -89,10 +102,8 @@
 1 Torsten, Founder of Benalia (DMC) 47
 1 Trostani Discordant (SCD) 253
 1 Ulvenwald Mysteries (MKC) 193
-1 Unclaimed Territory (LCC) 366
 1 Valiant Veteran (DMU) 38
 1 War Report (NPH) 26
 1 War Room (MKC) 310
 1 War Tax (MMQ) 113
 1 Zhalfirin Decoy (MH1) 39
-1 Zygon Infiltrator (WHO) 63
