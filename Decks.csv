@@ -11,7 +11,7 @@ You Should Be Nicer,Atla,mid,9,2,0,7,LGS,TRUE,FALSE,FALSE,TRUE,TRUE,Ekaterina Bu
 Centaur for Disease Control,Karador,mid,4,2,0,2,LGS,TRUE,FALSE,TRUE,FALSE,TRUE,Laura Plansker,Theros,FALSE,FALSE,LRVblcVLPUK-Kmn4TRrq0w,FALSE,infect&-1/-1 counters,02.2024,10
 Stegosaurus Combat Behaviour,Kalamax,mid,9,3,0,6,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Nicholas Gregory,Ikoria,FALSE,FALSE,NfyGFCgkIkK9D-uWsk98pA,FALSE,Zada&voltron&vehicles&copy&adventures,04.04.2024,11
 Nephalia Nightmares,Jeleva,high,13,5,1,7,LGS,FALSE,TRUE,TRUE,TRUE,FALSE,Cynthia Sheppard,Innistrad,FALSE,FALSE,wa9WtU4FeEO7RsyPj5zawgm,FALSE,mill&drawing cards,03.04.2024,12
-Voodoo Child,Marchesa,,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,TRUE,FALSE,
+Voodoo Child,Marchesa,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,TRUE,FALSE,,Fiora,FALSE,FALSE,,FALSE,crimes,,
 Dinosaur Nursery,Gavi,mid,1,0,0,1,LGS,TRUE,TRUE,FALSE,TRUE,FALSE,Randy Vargas,Ikoria,FALSE,FALSE,iJ4f30_yxEO95EkQKKXGfA,FALSE,dinosaurs&cycling&mill,03.04.2024,13
 Sign Here,Rubinia,mid,0,0,0,0,Unfinished,TRUE,TRUE,FALSE,FALSE,TRUE,Cynthia Sheppard,Unknown,FALSE,FALSE,tVS6EoKpSEaJIEAPGDy0FA,FALSE,plot&theft,14.04.2024,14
 CpG Dinucleotides,Otrimi,mid,6,1,0,5,LGS,FALSE,TRUE,TRUE,FALSE,TRUE,Victor Adame Minguez,Ikoria,FALSE,FALSE,huEOD7HpdU2by-g5oy0cAw,FALSE,mutate&copies,02.2024,15
@@ -24,7 +24,7 @@ On the Rebound,Rem&Vadrik
 War Within,Adric&The War Doctor,mid,1,0,0,1,LGS,TRUE,TRUE,FALSE,TRUE,FALSE,Billy Christian&Lixin,Tardis&Tardis,TRUE,FALSE,td6uYctlJkyqWszob_xVxA,TRUE,exalted&foretell,24.03.2024,21
 Advanced Algebra,Ertha Jo,mid,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,TRUE,FALSE,,Zendikar,FALSE,FALSE,,combat maths&equipment,06.05.2024,
 Etherium Energy Sources,Breya,mid,0,0,0,0,LGS,TRUE,TRUE,TRUE,TRUE,FALSE,Clint Cearley,Alara,FALSE,FALSE,exthI3cLZEqnjh9YBMqXVg,FALSE,artifacts&energy&aetherborn typal,20.03.2024,22
-For the Cause,Inalla,mid,
+For the Cause,Inalla,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,TRUE,FALSE,,Unknown,FALSE,FALSE,,FALSE,wizards,,
 Modelling Infectious Disease Parameters,Nashi,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,FALSE,TRUE,Patrik Hell,Kamigawa,FALSE,FALSE,VT1gkaMdHkiD_zLDrSMZag,FALSE,rats,09.04.2024,23
 Library Loan Collection,Eriette,mid,1,0,1,0,proxied,TRUE,TRUE,TRUE,FALSE,FALSE,,Eldraine,FALSE,FALSE,hcDCV-3moEWcj7EwmPipXg,FALSE,auras&theft&tokens,03.04.2024,24
 Vampiric Summoning,Runo,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,FALSE,FALSE,Xiaobotong,Innistrad,FALSE,FALSE,KSSX5jDAOE6lHV6NHqvCew,FALSE,vampires,01.2024,25
@@ -47,7 +47,8 @@ A Shrine to Gallifrey,Peri Brown & The Fourteenth Doctor,mid,0,0,0,0,Unfinished,
 Beast Mode,Dogmeat,mid,0,0,0,0,LGS,TRUE,FALSE,FALSE,TRUE,TRUE,Kieran Yanner,Fallout,FALSE,FALSE,w-V3IKcL60mHXq_lmZw1qA,FALSE,curses&enchantress&auras,04.03.2024,42
 Easter Basket,Kros,mid,0,0,0,0,Unfinsihed,TRUE,TRUE,FALSE,FALSE,TRUE,Katerina Ladon,New Capenna,FALSE,FALSE,KwTV7tribUqeQkFXCa2UEQ,FALSE,group hug&goat&suspect&rabbits,05.04.2024,43
 A Glimpse Of Time,River Song,mid,1,1,0,0,Unfinished,FALSE,TRUE,FALSE,TRUE,FALSE,John Di Giovanni,Tardis,TRUE,FALSE,P_zQ6IGVOkemK6NL22Z0UA,FALSE,prowess&storm,06.04.2024,44
-Spice Up Your Life,Emma Frost,mid,
-Between Worlds,Ravos&Ramirez,mid,
-Please Collect Your Fblthp,Fblthp,mid,
+Spice Up Your Life,The Toymaker,mid,0,0,0,0,Unfinished,TRUE,TRUE,TRUE,FALSE,FALSE,,Gallifrey,FALSE,FALSE,,FALSE,sphinx,,
+Between Worlds,Ravos&Ramirez,mid,0,0,0,0,Unfinished,TRUE,TRUE,TRUE,FALSE,FALSE,,Theros&Dominaria,FALSE,FALSE,,FALSE,spirits,,
+Please Collect Your Fblthp,Fblthp,mid,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,FALSE,FALSE,,Ravnica,FALSE,FALSE,,FALSE,fblthp,,
+,Minthara,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,FALSE,FALSE,,Baldur's Gate,FALSE,FALSE,,FALSE,demons&clerics,,
 Challenger,Mr Orfeo,low,1,1,0,0,Other,FALSE,FALSE,TRUE,TRUE,TRUE,Daarken,New Capenna,FALSE,FALSE,Xxj8-qsrokCAOehiXH-efQ,FALSE,pauper&infect,03.2023,45
