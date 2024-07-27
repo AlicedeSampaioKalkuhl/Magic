@@ -93,6 +93,7 @@
 1 Alhammarret's Archive (PLST) ORI-221
 1 Angel's Tomb (ORI) 222
 1 Angel's Trumpet (ULG) 121
+1 Archway of Innovation (MH3) 214
 1 Armored Skyhunter (CMR) 11
 1 Artificer Class (CLB) 663
 1 Azorius Keyrune (C13) 236
@@ -128,6 +129,7 @@
 1 Orzhov Keyrune (GTC) 233
 1 Phyrexian Metamorph (MKC) 116
 1 Raffine's Tower (PSNC) 254p
+1 Ratonhnhaké꞉ton (ACR) 62
 1 Rusted Relic (MM2) 227
 1 Sculpting Steel (40K) 247
 1 Sea of Clouds (CLB) 360

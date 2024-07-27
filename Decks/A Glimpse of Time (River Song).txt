@@ -1,4 +1,52 @@
     River Song 
+1 Aetherflux Reservoir (PLST) KLD-192
+1 Archmage Emeritus (STX) 377 *F*
+1 Baral's Expertise (OTC) 91
+1 Beacon of Tomorrows (SLD) 1497
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 311
+1 Brainstorm (STA) 13
+1 Chandra, Hope's Beacon (MOM) 321 *F*
+1 Curiosity (SLD) 403 *F*
+1 Curious Homunculus / Voracious Reader (EMN) 54
+1 Decanter of Endless Water (CLB) 444 *F*
+1 Dig Through Time (PLG21) 2 *F*
+1 Elemental Eruption (OTC) 27
+1 Eris, Roar of the Storm (OTC) 5 *F*
+1 Fiery Islet (WHO) 278 *F*
+1 Fling (OTP) 24
+1 Flux Channeler (WAR) 52
+1 Goblin Electromancer (NCC) 341
+1 Grafted Exoskeleton (SOM) 162
+1 Jaya, Fiery Negotiator (DMU) 374
+1 Johann, Apprentice Sorcerer (WOE) 207
+1 Karfell Harbinger (KHM) 65
+1 Karn's Bastion (NCC) 410
+1 Mocking Sprite (WOE) 62
+1 Monastery Swiftspear (2X2) 362
+1 Nexus of Fate (SLD) 1498
+1 Niblis of Frost (C20) 120
+1 Niv-Mizzet, Parun (OTC) 235
+1 Notorious Throng (ZNC) 33
+1 Past in Flames (WHO) 565 *F*
+1 Ponder (SLC) 2007 *F*
+1 Radstorm (PIP) 37
+1 Ral, Storm Conduit (WAR) 211
+1 Reliquary Tower (WHO) 296
+1 Restless Spire (WOE) 306
+1 Rivendell (LTR) 344
+1 Stella Lee, Wild Card (OTC) 3
+1 Storm-Kiln Artist (OTC) 181
+1 Strip Mine (SLD) 472 *F*
+1 Sulfur Falls (LTC) 333
+1 Temple of Epiphany (WHO) 907 *F*
+1 Temporal Manipulation (SLD) 1169
+1 The Reality Chip (NEO) 74
+1 Time Stretch (DMR) 422
+1 Transplant Theorist (ONE) 73
+1 Vodalian Arcanist (DOM) 73
+1 Volshe Tideturner (DMU) 77 *F*
+1 Young Pyromancer (SS3) 8 *F*
+1 Zada, Hedron Grinder (BFZ) 162
 
     In 
 1 Ancestors' Aid (LCI) 132
@@ -6,7 +54,6 @@
 1 Aqueous Form (THS) 39
 1 Arcane Signet (WHO) 239
 1 Bedlam Reveler (2X2) 104
-1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
 1 Bria, Riptide Rogue (BLB) 379
 1 Calculated Dismissal (PLST) ORI-48
 1 Castle Vantress (ELD) 242
@@ -14,32 +61,22 @@
 1 City on Fire (MOM) 135
 1 Command Tower (CMM) 420
 1 Conjurer's Bauble (5DN) 112
-1 Crimson Wisps (SHM) 88
 1 Crystal Ball (PLST) C18-201
 1 Crystal Grotto (WOE) 254
-1 Curiosity (WOT) 17 *F*
-1 Curious Homunculus / Voracious Reader (EMN) 54
 1 Daring Escape (SNC) 104
-1 Decanter of Endless Water (CLB) 444 *F*
 1 Desynchronize (BRO) 46
 1 Dissolve (IMA) 51
 1 Dragon-Style Twins (KTK) 108
 1 Dream Cache (PLST) C18-88
-1 Elemental Eruption (OTC) 27
 1 Empty the Warrens (DMR) 118
-1 Eris, Roar of the Storm (OTC) 5
 1 Expedite (CMR) 413
 1 Experimental Augury (ONE) 49
 1 Expressive Iteration (STX) 186
 1 Field of Ruin (PLST) XLN-254
-1 Fiery Islet (WHO) 278 *F*
 1 Fists of Flame (CMM) 223
-1 Flux Channeler (CMM) 847
 1 Frantic Search (CMM) 96
 1 Ghost Quarter (PLST) CM2-253
-1 Goblin Electromancer (OTC) 228
 1 Goblin Wizardry (CLU) 136
-1 Grafted Exoskeleton (SOM) 162
 1 Grapeshot (DMR) 125
 1 Ground Rift (TSP) 162
 1 Haze of Rage (TSR) 169
@@ -49,38 +86,24 @@
 1 Irenicus's Vile Duplication (CLB) 78
 1 Isolated Watchtower (C18) 59
 1 Izzet Signet (C20) 243
-1 Jaya, Fiery Negotiator (DMU) 374
-1 Johann, Apprentice Sorcerer (WOE) 207
 1 Junktroller (RNA) 235
-1 Karn's Bastion (LCC) 339
 1 Keeper of the Cadence (BRO) 54 *F*
 1 Leap (STH) 35
-1 Lilah, Undefeated Slickshot (OTJ) 217
 1 Mana Geyser (C21) 176
 1 Mind's Desire (C21) 123
-1 Mocking Sprite (WOE) 62
-1 Monastery Swiftspear (BRO) 144
 1 Mountain (LTR) 278
 1 Neera, Wild Mage (CLB) 545 *E*
-1 Niblis of Frost (C20) 120
-1 Niv-Mizzet, Parun (OTC) 235
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Nyx Lotus (PTHB) 235p
 1 Opt (OTC) 104
-1 Opt (STA) 19
-1 Path of Ancestry (LCC) 346
-1 Ponder (OTC) 105
+1 Otterball Antics (BLB) 63
 1 Preordain (WHO) 218
 1 Prismari Campus (STX) 270
 1 Prognostic Sphinx (E01) 26
 1 Propaganda (C16) 94
 1 Proteus Staff (MRD) 230
-1 Radstorm (PIP) 37
 1 Reito Lantern (CNS) 202
-1 Reliquary Tower (CLB) 911
-1 Restless Spire (WOE) 260
 1 Retreat to Coralhelm (BFZ) 82
-1 Rivendell (LTR) 344
 1 River Song's Diary (WHO) 182
 1 Saheeli Rai (KLD) 186
 1 Scattershot (SCG) 102
@@ -94,30 +117,20 @@
 1 Solphim, Mayhem Dominus (ONE) 150
 1 Sonic Screwdriver (WHO) 184
 1 Soul-Scar Mage (AKH) 148
-1 Spellseeker (CMM) 120
 1 Spinerock Knoll (C20) 316
 1 Storm Skreelix (MID) 243
-1 Storm-Kiln Artist (OTC) 181
 1 Stormcarved Coast (WHO) 518
-1 Strip Mine (SLD) 472 *F*
 1 Study Hall (C21) 80
 1 Sudden Breakthrough (STX) 116
-1 Sulfur Falls (LCC) 354
 1 Swiftfoot Boots (NCC) 382
 1 Talisman of Creativity (WHO) 248
 1 TARDIS (WHO) 187
 1 Tel-Jilad Stylus (MRD) 260
-1 Temple of Epiphany (WHO) 907 *F*
 1 Temple of the False God (40K) 300
-1 The Reality Chip (NEO) 74
 1 Timestream Navigator (LCC) 178
 1 Training Center (CMM) 434
-1 Transplant Theorist (ONE) 73
 1 Trenzalore Clocktower (WHO) 190
 1 Vessel of Endless Rest (AVR) 224
-1 Vodalian Arcanist (M21) 83
-1 Volshe Tideturner (DMU) 77
 1 Voyage's End (JMP) 189
 1 Witness the Future (VOW) 90 *F*
-1 Zada, Hedron Grinder (CMM) 268
 1 Zhalfirin Void (PDOM) 249 *F*

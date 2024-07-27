@@ -92,3 +92,42 @@
 1 Virtue of Knowledge / Vantress Visions (WOE) 76
 1 Viscera Seer (CMR) 158
 1 Wanderwine Prophets (LRW) 95
+
+    In 
+1 Apprentice Necromancer (C17) 97
+1 Apprentice Wizard (2XM) 40
+1 Archmage of Echoes (WOC) 9
+1 Ashnod's Altar (BRR) 4
+1 Bog Initiate (INV) 95
+1 Burnt Offering (ICE) 116
+1 Conjurer's Closet (PW21) 6 *F*
+1 Corpse Connoisseur (DDK) 54
+1 Culling the Weak (EXO) 55
+1 Docent of Perfection / Final Iteration (EMN) 56
+1 Door of Destinies (LTC) 277
+1 Dragonskull Summit (OTC) 289
+1 Drowned Catacomb (OTC) 290
+1 Entomb (DMR) 82
+1 Eroded Canyon (OTJ) 256
+1 Jagged Barrens (OTJ) 259
+1 Kindred Discovery (CLB) 81
+1 Luxury Suite (CLB) 355
+1 Mana Echoes (2XM) 136
+1 Mistbind Clique (LRW) 75
+1 Molten Echoes (C20) 54
+1 Morphic Pool (CLB) 357
+1 Panharmonicon (PIP) 237
+1 Persist (MH2) 96
+1 Phyrexian Altar (UMA) 232
+1 Riptide Laboratory (MH2) 303
+1 Shallow Grave (MIR) 141
+1 Shipwreck Marsh (PMID) 267p
+1 Soured Springs (OTJ) 264
+1 Stormcarved Coast (WHO) 308
+1 Sulfur Falls (PIP) 294
+1 Sundial of the Infinite (PLST) M12-218 *F*
+1 Sunscorched Desert (AKH) 249a
+1 Thundertrap Trainer (BLB) 78
+1 Training Center (CMM) 434
+1 Umara Wizard / Umara Skyfalls (ZNR) 86
+1 Wanderwine Prophets (LRW) 95

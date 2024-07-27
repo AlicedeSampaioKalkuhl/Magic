@@ -93,6 +93,7 @@
 1 Aether Poisoner (AER) 51
 1 Aethersquall Ancient (KLD) 39
 1 Aetherstorm Roc (KLD) 3
+1 Bespoke Battlewagon (MH3) 52
 1 Breya's Apprentice (MH2) 117
 1 Conjurer's Closet (2XM) 243
 1 Consulate Surveillance (KLD) 10
@@ -107,6 +108,7 @@
 1 Scrapper Champion (AER) 97
 1 Scurry of Gremlins (MH3) 203
 1 Smothering Tithe (CMM) 57
+1 Solar Transformer (MH3) 211
 1 Storm the Vault / Vault of Catlacan (RIX) 173
 1 Strionic Resonator (NCC) 381
 1 Treasure Vault (AFR) 261

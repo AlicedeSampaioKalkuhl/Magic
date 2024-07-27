@@ -1,6 +1,7 @@
     Kros, Defense Contractor 
 1 Angel's Trumpet (ULG) 121
 1 Arcane Lighthouse (CMM) 985
+1 Ashnod's Altar (5ED) 349
 1 Awakening (STH) 101
 1 Bountiful Promenade (CLB) 348
 1 Bounty Board (OTC) 37
@@ -10,6 +11,7 @@
 1 Cadira, Caller of the Small (CLB) 269
 1 Claim Jumper (OTJ) 8
 1 Command Tower (MKC) 256
+1 Communal Brewing (BLC) 29
 1 Contagion Clasp (PIP) 229
 1 Contagion Engine (SOM) 145
 1 Crawlspace (DMR) 217
@@ -40,17 +42,22 @@
 4 Island (M21) 265
 1 Karn's Bastion (LCC) 339
 1 Kwain, Itinerant Meddler (CMR) 284
+1 Laser Screwdriver (WHO) 178
 1 Llanowar Reborn (LCC) 341
 1 Lost in the Maze (MKM) 64
+1 Lupinflower Village (BLB) 256
 1 Maze of Ith (DMR) 250
 1 Metamorphic Blast (OTJ) 57
 1 Mikokoro, Center of the Sea (DMC) 217
+1 Ms. Bumbleflower (BLC) 3
 1 Nesting Grounds (NCC) 418
 1 Noble Heritage (CLB) 35
 1 Novijen, Heart of Progress (C21) 305
+1 Oakhollow Village (BLB) 258
 1 Oblation (C21) 97
 1 Oran-Rief, the Vastwood (NEC) 173
 1 Overgrown Farmland (MID) 265
+1 Phyrexian Altar (UMA) 232
 1 Placid Rottentail (MOM) 199
 4 Plains (DMU) 264
 1 Pollen-Shield Hare / Hare Raising (WOE) 233
@@ -65,10 +72,11 @@
 1 Sea of Clouds (CLB) 360
 1 Seaside Citadel (MKC) 288
 1 Seed the Land (SOK) 146
-2 Solitary Sanctuary (WOE) 30
+1 Solitary Sanctuary (WOE) 30
 1 Sporogenesis (USG) 273
 1 Sunpetal Grove (XLN) 257
 1 Teferi's Protection (2X2) 32
+1 Tempt with Bunnies (BLC) 13
 1 Tempt with Discovery (C19) 183
 1 Tempt with Glory (CMA) 26
 1 Tempt with Reflections (C13) 60
@@ -79,5 +87,6 @@
 1 Upwelling (10E) 306
 1 Verity Circle (VOC) 116
 1 Wedding Ring (VOC) 32
-Phyrexian Altar 
-Ashnod's Altar
+
+    In 
+    

@@ -104,8 +104,8 @@ Birthing Pod
 1 Crumbling Ashes (EVE) 35
 1 Culling Ritual (STX) 172
 1 Desecrated Tomb (M19) 230
-1 Eternal Witness (CMM) 286
 1 Exotic Orchard (DMC) 209
+1 Fanatic of Rhonas (MH3) 152
 1 Fang Skulkin (EVE) 168
 1 Flensermite (MBS) 41
 1 Gavony Township (MOC) 406
@@ -147,7 +147,6 @@ Birthing Pod
 1 Undergrowth Stadium (CMR) 359
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Vault of Champions (CMM) 436
-1 Vivien on the Hunt (SNC) 347
 1 Vraska, Betrayal's Sting (ONE) 115
 1 Wicker Warcrawler (SHM) 269
 1 Woodland Cemetery (DOM) 248

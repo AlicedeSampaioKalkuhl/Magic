@@ -88,3 +88,43 @@
 1 Wood Elves (SLD) 1101
 1 Yavimaya, Cradle of Growth (MH2) 261
 1 Ziatora's Proving Ground (SNC) 261
+
+    In 
+1 Circle of Dreams Druid (AFR) 176
+1 Deathbloom Gardener (DMU) 159
+1 Deathcap Glade (VOW) 261
+1 Disciple of Freyalise / Garden of Freyalise (MH3) 250
+1 Dragonskull Summit (OTC) 289
+1 Eladamri, Korvecdal (MH3) 149
+1 Elvish Champion (10E) 261
+1 Elvish Eulogist (EVG) 3
+1 Elvish Harbinger (LTC) 527
+1 Elvish Piper (LTC) 239
+1 Ezuri, Renegade Leader (DDU) 1 *F*
+1 Fungal Sprouting (M13) 173
+1 General Marhault Elsdragon (DMC) 31
+1 Gilt-Leaf Palace (LRW) 268
+1 Golgari Germination (MM3) 167
+1 Grand Warlord Radha (DOM) 195
+1 Harald Unites the Elves (KHM) 213
+1 Haunted Ridge (MID) 263
+1 Heedless One (EVG) 7
+1 Hunting Triad (CMA) 116
+1 Korozda Guildmage (CMA) 181
+1 Leaf-Crowned Visionary (DMU) 167
+1 Luxury Suite (CLB) 355
+1 Nadier, Agent of the Duskenel (CMR) 135
+1 Nissa Revane (ZEN) 170
+1 Nissa's Chosen (PDCI) 34
+1 Radha, Heart of Keld (M21) 224
+2 Revitalizing Repast / Old-Growth Grove (MH3) 256
+1 Rockfall Vale (MID) 266
+1 Rootbound Crag (XLN) 256
+1 Swarm Guildmage (GRN) 201
+1 Thelon of Havenwood (TSR) 238
+1 Tribune of Rot (CLU) 48
+1 Undergrowth Stadium (CMM) 435
+1 Urborg, Tomb of Yawgmoth (TSR) 287
+1 Vraska, Betrayal's Sting (ONE) 115
+1 Wirewood Hivemaster (LGN) 145
+1 Woodland Cemetery (OTC) 341

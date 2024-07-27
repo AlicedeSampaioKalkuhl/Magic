@@ -80,22 +80,27 @@
 1 Barkchannel Pathway / Tidechannel Pathway (PKHM) 251p
 1 Bear Umbra (ROE) 177
 1 Birds of Paradise (10E) 252
+1 Boneyard Lurker (IKO) 178
+1 Brokkos, Apex of Forever (PIKO) 179p
+1 Cavern Whisperer (IKO) 79
+1 Chittering Harvester (IKO) 288
 1 Command Tower (DMC) 204
+1 Dirge Bat (PIKO) 84p
 1 Dreamroot Cascade (VOW) 262
 1 Dryad Arbor (FUT) 174
 1 Evolving Wilds (M13) 224
 1 Flooded Grove (2XM) 318
 1 Followed Footsteps (CN2) 111
 1 Giant Inheritance (WOC) 17
-1 Heronblade Elite (MIC) 64
 1 Homeward Path (LTC) 365
-1 Myriad Landscape (C20) 292
+1 Insatiable Hemophage (IKO) 290
+1 Mindleecher (C20) 44
 1 Nanogene Conversion (WHO) 49
 1 Poison Dart Frog (LCI) 207
 1 Quantum Misalignment (WHO) 52
 1 Rejuvenating Springs (CMR) 354
 1 Reliquary Tower (M13) 227
-1 Rogue's Passage (MB1) 1684
+1 Rogue's Passage (PLST) C17-272
 1 Sanctum Weaver (MH2) 171
 1 Sea-Dasher Octopus (IKO) 286 *F*
 1 Season of Growth (WOT) 61
@@ -103,11 +108,10 @@
 1 Snake Umbra (UMA) 182
 1 Storm of Saruman (LTR) 72
 1 Tangled Florahedron / Tangled Vale (ZNR) 211
+1 Tender Wildguide (BLB) 196
 1 Undermountain Adventurer (CLB) 260
-1 Yavimaya Coast (DMU) 382
+1 Watchful Radstag (PIP) 335
 1 Yavimaya, Cradle of Growth (MH2) 261
-Get a Leg Up 
-Repulsive Mutation 
     Out 
 Elvish Mystic 
 Incubation Druid 

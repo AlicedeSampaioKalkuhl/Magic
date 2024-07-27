@@ -10,6 +10,7 @@
 1 Cemetery Illuminator (VOW) 50
 1 Clear the Mind (PLST) RNA-34
 1 Component Collector (MID) 43
+1 Crystal Skull, Isu Spyglass (ACR) 15
 1 Darksteel Colossus (M10) 208
 1 Decanter of Endless Water (CLB) 309
 1 Defiler of Dreams (DMU) 46

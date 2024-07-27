@@ -112,14 +112,15 @@ Gisa and Geralf
 1 Sunken Hollow (DMC) 235
 1 Sunken Ruins (SHM) 280
 1 Temple of Deceit (PTHB) 245p
+1 Undercity Sewers (MKM) 270
 1 Underground River (6ED) 330
 1 Unholy Grotto (PLST) ONS-327
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Vengeful Dead (SCG) 80
 1 Vengeful Pharaoh (M12) 116
 1 Wand of Orcus (AFC) 297
+1 Warren Soultrader (MH3) 110
 1 Zombie Master (4ED) 174
-Undercity Sewers 
 
 	Out 
 Lilia, Death's Mastery

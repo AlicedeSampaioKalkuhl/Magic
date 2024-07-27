@@ -91,6 +91,7 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Accomplished Alchemist (STX) 119
 1 Bountiful Promenade (CLB) 348
 1 Cabal Coffers (MH2) 301
+1 Camellia, the Seedmiser (BLB) 207
 1 Deathcap Glade (VOW) 281
 1 Experimental Confectioner (WOE) 314
 1 Fairgrounds Trumpeter (KLD) 155
@@ -105,12 +106,14 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Return from the Wilds (WOE) 181
 1 Sandsteppe Mastodon (FRF) 137
 1 Shattered Sanctum (VOW) 283
+1 Sorin of House Markov / Sorin, Ravenous Neonate (MH3) 245
 1 The Great Henge (PELD) 161p
 1 Undergrowth Stadium (CMR) 359
 1 Urborg, Tomb of Yawgmoth (UMA) 254
 1 Vault of Champions (CMR) 360
 1 Witch's Clinic (C21) 81
 1 Yavimaya, Cradle of Growth (MH2) 261
+1 Ygra, Eater of All (BLB) 241
     Out 
 Meriadoc Branybuck 
 Esence Warden 

@@ -86,12 +86,14 @@ Kalamax, the Stormsire
 	In 
 1 Academy Ruins (TSP) 269
 1 Artificer Class (CLB) 663
+1 Brightcap Badger / Fungus Frolic (BLC) 28
 1 Commando Raid (ONS) 195
 1 Conqueror's Galleon / Conqueror's Foothold (XLN) 234
 1 Cryptolith Rite (SOI) 200
 1 Dreamroot Cascade (VOW) 262
 1 Echo Storm (MOC) 221
 1 Esika's Chariot (KHM) 169
+1 For the Common Good (BLB) 172
 1 Fully Grown (IKO) 154
 1 Hall of Tagsin (BRO) 263
 1 Heightened Reflexes (IKO) 123

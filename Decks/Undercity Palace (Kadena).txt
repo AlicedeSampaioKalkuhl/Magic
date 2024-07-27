@@ -86,13 +86,14 @@
 1 Zoetic Cavern (FUT) 180
         In 
 1 Ashnod's Altar (CHR) 92
+1 Become Anonymous (ACR) 14
 1 Brine Elemental (DD2) 18
-1 Cryptic Coat (MKM) 394
 1 Cryptic Coat (MKM) 50
 1 Cybership (WHO) 177
 1 Death in Heaven (WHO) 66
 1 Deathcap Glade (VOW) 261
 1 Dragon's Eye Savants (KTK) 38
+1 Dream-Thief's Bandana (OTC) 38
 1 Dreamroot Cascade (WHO) 273
 1 Drowned Catacomb (PIP) 262
 1 Etrata, Deadly Fugitive (MKM) 200
