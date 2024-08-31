@@ -146,13 +146,6 @@ Feeding Grounds
 1 Yavimaya, Cradle of Growth (MH2) 261
 
     Out 
-Arbor Elf out 
-Rattleclaw Mystic out 
-Gale, Waterdeep Prodigy out  
-Llanowar Visionary out 
-Tempt With Discovery out  
-Sisterhood of Karn out 
-Arcane Signet out
 Hedron Fields of Agadeem out  
 Jund out 
 Selesnya Gardens out 
@@ -160,10 +153,7 @@ Stronhold Furnage out
 Truga Jungle out 
 Turin Island out 
 Undercity Reaches out 
-Lier, Disciple of the Drowned out 
-Bloodbraid Elf out 
-Alaundo the Seer out 
-Journey to the Lost City out
+
     Tokens 
 Alien Warrior 
 Eldrazi 

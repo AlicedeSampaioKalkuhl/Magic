@@ -1,72 +1,50 @@
     Vial Smasher, Gleeful Grenadier 
+1 At Knifepoint (OTJ) 193 *F*
 1 Auntie's Snitch (MMA) 72
+1 Back in Town (OTC) 18
 1 Boggart Birth Rite (LRW) 101
 1 Boggart Shenanigans (LRW) 155
-1 Breeches, Brazen Plunderer (CMR) 165
-1 Breeches, Eager Pillager (LCI) 137
-1 Brightstone Ritual (ONS) 191
 1 Broadside Bombardiers (LCC) 86
-1 Cloudstone Curio (RVR) 391
-1 Conjurer's Closet (C13) 239
-1 Conspicuous Snoop (PM21) 139p
+1 Butcher's Glee (DTK) 90 *F*
+1 Cloudstone Curio (RAV) 257
 1 Dockside Extortionist (C19) 24
-1 Door of Destinies (LTC) 277
 1 Dralnu's Crusade (DMR) 189
-1 Earwig Squad (MOR) 60
-1 Empty the Warrens (DMR) 118
 1 Enterprising Scallywag (LCI) 148
-1 Fanatical Firebrand (JMP) 315
+1 Fanatical Firebrand (RIX) 101
 1 Frogtosser Banneret (ZNC) 43
 1 Goatnapper (LRW) 172
-1 Goblin Bombardment (WOT) 43
-1 Goblin Charbelcher (PLST) DDT-57
-1 Goblin Instigator (JMP) 327
-1 Goblin Turncoat (DMR) 87
-1 Goblin War Drums (FEM) 58c
-1 Goblin War Strike (SCG) 96
-1 Goblin Warrens (5ED) 238
-1 Grenzo, Havoc Raiser (CMM) 677
-1 Hobgoblin Bandit Lord (PAFR) 147p
-1 Impact Tremors (WOT) 44
-1 Impulsive Pilferer (CMR) 185
-1 Kindred Charge (C17) 27
-1 Kindred Dominance (CMM) 169
-1 Lightning-Rig Crew (CMR) 190
-1 Malakir Rebirth / Malakir Mire (ZNR) 111
-1 Mortuary (STH) 66
-1 Panharmonicon (PIP) 237
-1 Redcap Thief (WOE) 147
-1 Stalactite Stalker (LCI) 122
-1 Treasure Nabber (LTC) 230
-1 Warren Pilferers (LRW) 146
-1 Wily Goblin (XLN) 174
-1 Zoyowa Lava-Tongue (LCI) 245
-    In 
-1 Arcbond (FRF) 91
-1 At Knifepoint (OTJ) 193
-1 Auntie's Snitch (MMA) 72
-1 Boggart Birth Rite (LRW) 101
-1 Break Through the Line (FRF) 94
-1 Breeches, Eager Pillager (LCI) 137
-1 Butcher's Glee (IMA) 84
-1 Conspicuous Snoop (PM21) 139p
-1 Dralnu's Crusade (DMR) 189
-1 Earwig Squad (MOR) 60
-1 Goatnapper (LRW) 172
-1 Goblin Charbelcher (PLST) DDT-57
-1 Goblin Instigator (JMP) 327
+1 Goblin Locksmith (PLST) GRN-104
+1 Goblin Trailblazer (CMR) 182
+1 Goblin Turncoat (DMR) 87 *F*
 1 Goblin War Drums (FEM) 58c
 1 Goblin War Strike (SCG) 96
 1 Goblin Warrens (ME4) 123
 1 Goblinslide (KTK) 109
+1 Grenzo, Dungeon Warden (SLD) 1569
+1 Grenzo, Havoc Raiser (CMM) 538 *E*
+1 Grim Wanderer (AFR) 107
+1 Hordeling Outburst (ONC) 100
+1 Impulsive Pilferer (CMR) 185
+1 Lightning-Rig Crew (CMR) 190
+1 Rakish Crew (OTJ) 99 *F*
+1 Redcap Thief (WOE) 147
+1 Shoot the Sheriff (OTJ) 106
+1 Stalactite Stalker (LCI) 370 *F*
+1 Treasure Nabber (LTC) 230
+1 Zoyowa Lava-Tongue (LCI) 312 *F*
+    In 
+1 Arcbond (FRF) 91
+1 Break Through the Line (FRF) 94
+1 Breeches, Eager Pillager (LCI) 137
+1 Brightstone Ritual (ONS) 191
+1 Conspicuous Snoop (PM21) 139p
+1 Goblin Bombardment (MH2) 279
+1 Goblin Instigator (JMP) 327
 1 Hobgoblin Bandit Lord (PAFR) 147p
-1 Hordeling Outburst (A25) 134
-1 Kindred Charge (C17) 27
+1 Impact Tremors (PLST) DTK-140
 1 Kolaghan Monument (IMA) 217
-1 Moggcatcher (NEM) 96
+1 Kolaghan's Command (DTK) 224
+1 Malakir Rebirth / Malakir Mire (ZNR) 111
 1 Molting Snakeskin (KTK) 80
-1 Murderous Redcap (UMA) 217
-1 Rakish Crew (OTJ) 99
-1 Warren Pilferers (LRW) 146
-1 Whip of Erebos (CP2) 5 *F*
+1 Phyresis (MBS) 49
 1 Wily Goblin (XLN) 174

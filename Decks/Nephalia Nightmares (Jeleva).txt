@@ -2,6 +2,7 @@ Jeleva, Nephalia's Scourge
 1 Access Tunnel (STX) 262
 1 Acquire (5DN) 21
 1 Aqueous Form (CMR) 56
+1 Arcane Heist (OTC) 13
 1 Arcane Signet (C21) 234
 1 Beyeen Veil / Beyeen Coast (ZNR) 46
 1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
@@ -9,19 +10,18 @@ Jeleva, Nephalia's Scourge
 1 Brain Freeze (SCG) 29
 1 Brainstorm (STA) 13
 1 Breach the Multiverse (MOM) 358
-1 Call Forth the Tempest (LTC) 553 *F*
 1 Clone Legion (C17) 84
 1 Clout of the Dominus (EVE) 99
 1 Command Tower (C15) 281
 1 Crumbling Necropolis (C13) 283
 1 Cut Your Losses (SNC) 410 *F*
-1 Dance with Calamity (MOC) 29
+1 Decree of Pain (SLD) 187
 1 Didn't Say Please (ELD) 42
 1 Dimir Cluestone (DGM) 138
 1 Double Vision (M21) 142
 1 Dragonskull Summit (WHO) 490 *F*
+1 Drowned Catacomb (LTC) 305
 1 Enter the Infinite (RVR) 449 *F*
-1 Fated Return (ZNC) 42
 1 Fractured Sanity (MH2) 44
 1 Hall of Oracles (STX) 267
 1 Haunted Ridge (WHO) 1093 *F*
@@ -30,7 +30,7 @@ Jeleva, Nephalia's Scourge
 1 In Garruk's Wake (PM15) 100 *F*
 6 Island (MID) 270
 1 Izzet Cluestone (DGM) 141
-1 Jace, Wielder of Mysteries (PWAR) 54p *F*
+1 Jace, Wielder of Mysteries (SLD) 1576
 1 Jace's Sanctum (PORI) 61p *F*
 1 Laboratory Maniac (SLD) 1097
 1 Maddening Cacophony (ZNR) 67
@@ -39,14 +39,16 @@ Jeleva, Nephalia's Scourge
 1 Metallurgic Summonings (KLD) 56
 1 Mind Stone (PW21) 5 *F*
 1 Mnemonic Deluge (CMR) 82
-6 Mountain (VOW) 274
+5 Mountain (VOW) 274
 1 Mystical Tutor (6ED) 83
 1 Necromantic Selection (C17) 117
 1 Nightscape Familiar (C13) 83
 1 Obelisk of Grixis (E01) 88
 1 Otawara, Soaring City (NEO) 414
+1 Overwhelming Forces (OTP) 17
 1 Peer into the Abyss (PM21) 117p
 1 Perplex (RAV) 217
+1 Personal Tutor (CMM) 110 *F*
 1 Propaganda (TMP) 80
 1 Rakdos Signet (VOC) 166
 1 Ring of Valkas (M13) 214
@@ -60,16 +62,16 @@ Jeleva, Nephalia's Scourge
 1 Sokenzan, Crucible of Defiance (NEO) 415
 1 Sol Ring (C21) 263
 1 Sorcerous Squall (LTC) 548 *F*
-1 Spell Pierce (NEO) 80
 1 Sphinx's Tutelage (ORI) 76
 1 Startled Awake / Persistent Nightmare (SOI) 88
 1 Stolen Goods (C15) 107
 1 Stolen Identity (NCC) 233
+1 Stormcarved Coast (WHO) 308
 1 Strionic Resonator (NCC) 381
 1 Study Hall (C21) 80
 1 Subjugate the Hobbits (LTC) 107
 1 Summons of Saruman (LTC) 70
-5 Swamp (MID) 272
+4 Swamp (MID) 272
 1 Tasha, the Witch Queen (CLB) 294
 1 Tasha's Hideous Laughter (AFR) 368
 1 Teferi's Tutelage (M21) 296 *F*
@@ -77,18 +79,18 @@ Jeleva, Nephalia's Scourge
 1 Temple of Malice (WHO) 908 *F*
 1 Thassa's Oracle (THB) 73
 1 Thousand-Year Storm (GRN) 207 *F*
+1 Thunderclap Drake (OTC) 17
 1 Training Center (CMR) 358
 1 Traumatize (10E) 119
-1 Tunnel Vision (RAV) 72
 1 Umbris, Fear Manifest (VOC) 38
 1 Whispersilk Cloak (PC2) 115
 1 World at War (ROE) 172
 1 Xander's Lounge (SNC) 260
 	In 
 1 Archive Trap (OTP) 7
-1 Drowned Catacomb (M11) 224
 1 Emergence Zone (WAR) 245
 1 Glamdring (LTR) 239
+1 Heartless Conscription (OTC) 21
 1 It Doesn't Add Up (MKM) 89
 1 Nephalia Academy (EMN) 205
 1 Past in Flames (40K) 206
@@ -96,15 +98,12 @@ Jeleva, Nephalia's Scourge
 1 Reanimate (MKC) 137
 1 Shipwreck Marsh (MID) 267
 1 Skull Storm (C18) 18
-1 Stormcarved Coast (VOW) 265
 1 Sulfur Falls (PDOM) 247p
 1 Telemin Performance (CON) 35
 	Out 
 Riverglide Pathway 	
 Summons of Saruman 
 Whispersilk Cloak 
-Fated Return 
-Dance with Calamity 
 Memory Lapse 
 	Tokens 
 Construct
