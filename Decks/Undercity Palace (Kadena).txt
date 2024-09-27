@@ -85,40 +85,25 @@
 1 Yedora, Grave Gardener (MKC) 197
 1 Zoetic Cavern (FUT) 180
         In 
-1 Ashnod's Altar (CHR) 92
 1 Become Anonymous (ACR) 14
 1 Brine Elemental (DD2) 18
 1 Cryptic Coat (MKM) 50
 1 Cybership (WHO) 177
 1 Death in Heaven (WHO) 66
-1 Deathcap Glade (VOW) 261
 1 Dragon's Eye Savants (KTK) 38
-1 Dream-Thief's Bandana (OTC) 38
-1 Dreamroot Cascade (WHO) 273
-1 Drowned Catacomb (PIP) 262
 1 Etrata, Deadly Fugitive (MKM) 200
 1 Flourishing Bloom-Kin (MKM) 160
 1 Forsaken Monument (PZNR) 244p
 1 Hide in Plain Sight (MKM) 410
-1 Hinterland Harbor (PIP) 267
 1 Ixidor, Reality Sculptor (PLST) ONS-89
-1 Morphic Pool (CLB) 357
-1 Mystic Forge (40K) 246
 1 Phyrexian Altar (2X2) 311
 1 Primordial Mist (C18) 12
 1 Proteus Machine (SCG) 141
-1 Rejuvenating Springs (LTC) 325
-1 Shipwreck Marsh (MID) 267
-1 Temple of Deceit (PIP) 303
-1 Temple of Malady (PIP) 306
-1 Temple of Mystery (PIP) 308
 1 Temur Charger (KTK) 153
 1 Tomb of the Spirit Dragon (KTK) 245
 1 Tribal Forcemage (LGN) 142
 1 Ugin, the Ineffable (WAR) 2
-1 Undergrowth Stadium (CMM) 435
 1 Vannifar, Evolved Enigma (MKM) 241
-1 Woodland Cemetery (PIP) 316
         Out 
 Chromeshell Crab out 
 Simulgar Assassin out 
