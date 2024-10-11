@@ -84,6 +84,10 @@
 1 Words of Wisdom (ODY) 114
 1 Wound Reflection (WHO) 223
 1 Zhalfirin Void (PDOM) 249 *F*
+    Check 
+1 Geier Reach Sanitarium (LCC) 335
+1 Smothering Tithe (PRNA) 22p
+1 Triskaidekaphile (PMID) 81p
     In 
 1 Arcane Laboratory (7ED) 60
 1 Boseiju, Who Shelters All (CHK) 273
@@ -92,35 +96,22 @@
 1 Crawlspace (DMR) 217
 1 Dark Deal (FRF) 66
 1 Depopulate (PSNC) 10p
-1 Deserted Beach (WHO) 270
 1 Dovin's Veto (WAR) 193
-1 Drowned Catacomb (LTC) 305
 1 Ebony Owl Netsuke (SOK) 154
-1 Followed Footsteps (RAV) 51
-1 Geier Reach Sanitarium (LCC) 335
+1 Enduring Curiosity (DSK) 51
 1 Gwafa Hazid, Profiteer (C16) 202
 1 Heliod, the Radiant Dawn / Heliod, the Warped Eclipse (MOM) 17
 1 Iron Maiden (ULG) 127
-1 Kami of the Crescent Moon (SOK) 42
-1 Maze of Ith (DMR) 250
-1 Morphic Pool (CLB) 357
+1 Marina Vendrell's Grimoire (DSK) 64
 1 Ob Nixilis, the Hate-Twisted (WAR) 100
-1 Orcish Bowmasters (LTR) 103
 1 Price of Knowledge (C13) 89
-1 Raffine's Tower (PSNC) 254p
 1 Render Silent (DGM) 96
-1 Sea of Clouds (CLB) 360
-1 Shattered Sanctum (PVOW) 264s *F*
 1 Sheoldred, the Apocalypse (DMU) 107
-1 Shipwreck Marsh (WHO) 305
-1 Smothering Tithe (PRNA) 22p
 1 Sokrates, Athenian Teacher (ACR) 67
 1 Sword of War and Peace (NPH) 161
 1 Temple Bell (C16) 277
 1 Thought Distortion (M20) 117
-1 Triskaidekaphile (PMID) 81p
 1 Urborg, Tomb of Yawgmoth (LTC) 405 *F*
-1 Vault of Champions (CMM) 436
     Out 
 
     Tokens 

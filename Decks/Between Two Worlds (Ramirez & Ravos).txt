@@ -39,76 +39,67 @@
 1 Timin, Youthful Geist (VOC) 16
 1 Tithe Taker (WOC) 80
 1 Twilight Drover (VOC) 100
-
+    Check 
+1 Arcane Sanctum (AFC) 223
+1 Arcane Signet (OTC) 252
+1 Blessed Defiance (MID) 5
+1 Dauntless Cathar (A25) 10
+1 Dreamshackle Geist (VOW) 58
+1 Fog on the Barrow-Downs (LTR) 16 *F*
+1 Knight of Sorrows (PLST) RNA-14
+1 Knight of the Last Breath (MOC) 331
+1 Long-Forgotten Gohei (MM2) 221
+1 Lunarch Veteran / Luminous Phantom (MID) 27
+1 Orzhov Pontiff (2X2) 261
+1 Oyobi, Who Split the Heavens (VOC) 95
+1 Reliquary Tower (OTC) 312
+1 Skullclamp (DST) 140
+1 Spectral Gateguards (PLST) DDQ-19
+1 Temple of Deceit (OTC) 328
+1 Temple of Silence (OTC) 333
+1 Temple of the False God (LCC) 359
+1 Terashi's Grasp (BOK) 26
+1 Teysa Karlov (SLD) 1235 *F*
+1 Teysa, Envoy of Ghosts (C21) 230
+1 Thalisse, Reverent Medium (CMR) 291
+1 Unclaimed Territory (LCC) 366
     In 
 1 Aether Shockwave (SOK) 1
 1 Andúril, Flame of the West (LTR) 236
-1 Arcane Sanctum (AFC) 223
-1 Arcane Signet (OTC) 252
 1 Avacyn's Collar (DKA) 145
 1 Battleground Geist (JMP) 139
 1 Beckon Apparition (UMA) 211
 1 Belfry Spirit (GPT) 2
-1 Blessed Defiance (MID) 5
 1 Call a Surprise Witness (MKM) 6
 1 Clarion Spirit (KHM) 6
 1 Dance of Shadows (CHK) 108
-1 Dauntless Cathar (A25) 10
 1 Death Denied (UMA) 92
 1 Debtors' Transport (RVR) 72
-1 Deserted Beach (WHO) 270
 1 Devouring Greed (MM2) 78
 1 Dreamcatcher (SOK) 34
-1 Dreamshackle Geist (VOW) 58
 1 Elgaud Inquisitor (DKA) 6
 1 Ethereal Absolution (RNA) 170
-1 Fog on the Barrow-Downs (LTR) 16
 1 Gallows at Willow Hill (AVR) 215
 1 Gallows Warden (ISD) 16
 1 Horizon Seed (CHK) 15
 1 Iname, Death Aspect (CHK) 118
 1 Indebted Spirit (MH3) 31
 1 Invasion of Tolvada / The Broken Sky (MOM) 241
-1 Island (M21) 265
 1 Kami of the Waning Moon (CHK) 120
 1 Katilda, Dawnhart Martyr / Katilda's Rising Dawn (VOW) 21
 1 Kaya the Inexorable (KHM) 218
 1 King of the Oathbreakers (LTR) 211
-1 Knight of Sorrows (PLST) RNA-14
-1 Knight of the Last Breath (MOC) 331
-1 Long-Forgotten Gohei (MM2) 221
-1 Lunarch Veteran / Luminous Phantom (MID) 27
 1 Mausoleum Guard (DDK) 13
 1 Mausoleum Wanderer (EMN) 69
 1 Ministrant of Obligation (RVR) 23
-1 Morphic Pool (CLB) 357
 1 Obscura Ascendancy (SNC) 207
-1 Orzhov Pontiff (2X2) 261
-1 Orzhov Racketeers (CLU) 117
-1 Oyobi, Who Split the Heavens (VOC) 95
 1 Patrician Geist (MID) 69
-1 Plains (M20) 264
-1 Raffine's Tower (PSNC) 254p
-1 Reliquary Tower (OTC) 312
 1 Requiem Angel (C14) 84
 1 Ribbons of the Reikai (BOK) 50
-1 Sea of Clouds (CLB) 360
 1 Seize the Soul (GPT) 61
-1 Shattered Sanctum (VOW) 264
-1 Skullclamp (DST) 140
 1 Soulless Revival (CHK) 144
-1 Spectral Gateguards (PLST) DDQ-19
 1 Spectral Rider (ISD) 35
+1 Spectral Snatcher (DSK) 116
 1 Spirit Bonds (M15) 37
-1 Swamp (XLN) 271
 1 Syndicate Messenger (CLU) 75
-1 Temple of Deceit (OTC) 328
-1 Temple of Silence (OTC) 333
-1 Temple of the False God (LCC) 359
-1 Terashi's Grasp (BOK) 26
-1 Teysa Karlov (CMM) 359
-1 Teysa, Envoy of Ghosts (C21) 230
-1 Thalisse, Reverent Medium (CMR) 291
 1 Thief of Hope (MM2) 100
-1 Unclaimed Territory (LCC) 366
-1 Vault of Champions (CMR) 360

@@ -69,64 +69,58 @@
 1 Unbreakable Formation (LTC) 179
 1 Vizkopa Guildmage (GTC) 206
 1 Wall of Omens (SLD) 1518
-
-    In 
-1 Aether Membrane (DDI) 48
-1 Angelic Chorus (BBD) 87
+    Check 
 1 Anger of the Gods (SLD) 1503
-1 Arcbond (FRF) 91
 1 Ashnod's Intervention (BRO) 85
-1 Athreos, Shroud-Veiled (THB) 269
-1 Aurelia's Fury (GTC) 144
 1 Barren Moor (DDJ) 78
-1 Blazing Sunsteel (CMR) 364
 1 Blazing Volley (IKO) 107
 1 Brotherhood's End (BRO) 128
 1 Burn Down the House (MID) 131 *F*
-1 Cathedral Membrane (NPH) 5
-1 Citadel Gate (CLB) 349
-1 City on Fire (MOM) 135
-1 Cliffgate (CLB) 350
 1 Crackling Doom (2X2) 196
 1 Display of Power (LTR) 358
 1 Drifting Meadow (C20) 271
-1 Electrodominance (PRNA) 99p
 1 Exotic Orchard (DMC) 209
-1 Fiendlash (CMM) 221
 1 Fiery Emancipation (WOT) 42
-1 Gerrard, Weatherlight Hero (C19) 41
 1 Gift of Immortality (THS) 14
 1 Grafted Exoskeleton (ONC) 132
 1 Inkshield (C21) 71
-1 Intimidation Bolt (ARB) 99
 1 Labyrinth of Skophos (THB) 243
-1 Lightmine Field (ROE) 32
-1 Luxury Suite (CLB) 355
-1 Magmaquake (SCD) 149
 1 Malakir Rebirth / Malakir Mire (ZNR) 111
-1 Martyrdom (ALL) 10a
-1 Maze of Ith (DMR) 250
 1 Not Dead After All (WOE) 101 *F*
-1 Opal-Eye, Konda's Yojimbo (BOK) 17
 1 Orzhov Guildgate (RNA) 252
-1 Pariah (OTP) 5
-1 Pestilent Spirit (RNA) 81
 1 Polluted Mire (C15) 300
 1 Radiant Scrollwielder (STX) 221
 1 Rakdos Carnarium (C19) 266
 1 Repercussion (WOT) 48
-1 Rivaz of the Claw (DMU) 215
-1 Savai Triome (PIKO) 253p
 1 Smoldering Crater (DMR) 257
-1 Solar Blaze (WAR) 216
-1 Spectator Seating (CMM) 427
 1 Star of Extinction (PLST) XLN-161
-1 Stinging Study (C21) 44
 1 Structural Assault (PSNC) 126p
 1 Stuffy Doll (CLB) 875
 1 Teferi's Protection (2X2) 343
 1 Temple of the False God (C20) 319
-1 Vault of Champions (CMM) 436
+    In 
+1 Aether Membrane (DDI) 48
+1 Angelic Chorus (BBD) 87
+1 Arcbond (FRF) 91
+1 Athreos, Shroud-Veiled (THB) 269
+1 Aurelia's Fury (GTC) 144
+1 Blazing Sunsteel (CMR) 364
+1 Cathedral Membrane (NPH) 5
+1 Citadel Gate (CLB) 349
+1 Cliffgate (CLB) 350
+1 Electrodominance (PRNA) 99p
+1 Fiendlash (CMM) 221
+1 Gerrard, Weatherlight Hero (C19) 41
+1 Intimidation Bolt (ARB) 99
+1 Magmaquake (SCD) 149
+1 Martyrdom (ALL) 10a
+1 Opal-Eye, Konda's Yojimbo (BOK) 17
+1 Pariah (OTP) 5
+1 Pestilent Spirit (RNA) 81
+1 Rivaz of the Claw (DMU) 215
+1 Savai Triome (PIKO) 253p
+1 Solar Blaze (WAR) 216
+1 Stinging Study (C21) 44
 1 Wall of Essence (M15) 41
 1 Wall of Hope (LGN) 24
 1 Wall of Resistance (MIR) 46

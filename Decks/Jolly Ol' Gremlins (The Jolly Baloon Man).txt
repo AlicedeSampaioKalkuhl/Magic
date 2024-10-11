@@ -1,0 +1,66 @@
+The Jolly Baloon Man 
+1 Aether Hub (KLD) 242
+1 Aether Refinery (M3C) 106
+1 Aethersphere Harvester (M3C) 280
+1 Archaeomancer's Map (C21) 12
+1 Blisterspit Gremlin (IKO) 108 *F*
+1 Brazen Scourge (KLD) 107
+1 Consulate Turret (AER) 147
+1 Conversion Apparatus (M3C) 128
+1 Daretti, Scrap Savant (C21) 164
+1 Decoction Module (KLD) 205
+1 Determined Iteration (NCC) 146
+1 Dispatch (PIP) 159
+1 Filigree Racer (M3C) 108
+1 Furnace Gremlin (MOM) 139
+1 Gremlin Infestation (AER) 83
+1 HELIOS One (PIP) 149
+1 Impact Tremors (WOT) 44
+1 Industrial Advancement (NCC) 47
+1 Inspiring Leader (CLB) 28
+1 Intangible Virtue (WOT) 6
+1 Jolted Awake (MH3) 33
+1 Localized Destruction (M3C) 93
+1 Patriar's Seal (CLB) 332
+1 Plasma Caster (PIP) 64
+1 Ravenous Intruder (2XM) 141 *F*
+1 Release the Gremlins (PLST) AER-96
+1 Ruinous Gremlin (PLST) KLD-128
+1 Salivating Gremlins (2XM) 143 *F*
+1 Scurry of Gremlins (MH3) 203
+1 Skullclamp (SLD) 1112
+1 Solar Transformer (MH3) 211
+1 Stone Idol Generator (M3C) 129
+1 T-45 Power Armor (PIP) 145
+1 Territorial Gorger (KLD) 136
+1 Thousand Moons Smithy / Barracks of the Thousand (LCI) 39
+1 Thriving Grubs (KLD) 138 *F*
+1 Twinflame (2X2) 129
+1 Umbral Mantle (SHM) 267
+1 Unstable Amulet (MH3) 142
+    Check 
+
+    In 
+1 Barbflare Gremlin (DSC) 26
+1 Chandra, Gremlin Wrangler (PHTR) 1
+1 Consulate Surveillance (KLD) 10
+1 Dollmaker's Shop / Porcelain Gallery (DSK) 4
+1 Dynavolt Tower (KLD) 208
+1 Echoing Assault (BLC) 24
+1 Fabrication Module (KLD) 211
+1 Galvanic Discharge (MH3) 122
+1 Inventor's Axe (MH3) 126
+1 Irreverent Gremlin (DSK) 142
+1 Magewright's Stone (DIS) 162
+1 Mana Echoes (2XM) 136
+1 Midnight Mayhem (DSK) 222
+1 Molten Duplication (BIG) 14
+1 Muster the Departed (MH3) 36
+1 Phyrexian Ironworks (MH3) 130
+1 Razorkin Hordecaller (DSK) 152
+1 Reconstruct History (STX) 222
+1 Terror of the Fairgrounds (KLD) 137
+1 Wake the Past (C21) 75
+1 Wrath of the Skies (MH3) 49
+    Out 
+

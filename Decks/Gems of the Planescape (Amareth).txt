@@ -1,0 +1,109 @@
+Amareth the Lustrous 
+1 Ancient Imperiosaur (MOM) 368
+1 Ashaya, Soul of the Wild (DSC) 170
+1 Avacyn's Pilgrim (ISD) 170
+1 Basking Rootwalla (PLST) DDD-2
+1 Biophagus (40K) 87
+1 Citanul Hierophants (DSC) 81
+1 Copper Myr (MRD) 158
+1 Cradle Clearcutter (BRO) 198 *F*
+1 Defiler of Dreams (DMU) 46
+1 Elvish Mystic (LTC) 238
+1 Elvish Spirit Guide (DMR) 157
+1 Fallaji Wayfarer (DMC) 11
+1 Fyndhorn Elves (CMR) 228
+1 Gyre Engineer (RNA) 180
+1 Humble Naturalist (IKO) 160
+1 Katilda, Dawnhart Prime (MID) 230 *F*
+1 Leafkin Druid (M20) 178
+1 Llanowar Visionary (M21) 397
+1 Opaline Unicorn (THS) 218
+1 Ornithopter (AER) 167
+1 Ornithopter of Paradise (MH2) 232 *F*
+1 Paradise Druid (WAR) 171
+1 Silver Myr (SOM) 202
+1 Tangled Florahedron / Tangled Vale (ZNR) 211 *F*
+1 Umara Wizard / Umara Skyfalls (ZNR) 86
+1 Wose Pathfinder (LTR) 190 *F*
+    Check 
+1 Alloy Myr (MM2) 201
+1 Beastcaller Savant (BFZ) 170
+1 Bronze Walrus (CLB) 302
+1 Centaur Nurturer (WAR) 156
+1 Dawnhart Rejuvenator (MID) 180
+1 Defiler of Faith (DMU) 16
+1 Defiler of Vigor (PDMU) 160p
+1 Delighted Halfling (LTR) 158
+1 Diamond Lion (MH2) 225
+1 Foreboding Statue / Forsaken Thresher (VOW) 256
+1 Gold Myr (MRD) 180
+1 Gyre Sage (GTC) 123
+1 Heronblade Elite (MIC) 26
+1 Incubation Druid (PRNA) 131p
+1 Kinnan, Bonder Prodigy (PIKO) 192p
+1 Somberwald Sage (AVR) 194
+1 Steward of Valeron (ALA) 198
+    In 
+1 Allosaurus Rider (DD1) 2
+1 Arboretum Elemental (GRN) 122
+1 Autochthon Wurm (RAV) 191
+1 Benthic Explorers (ALL) 24a
+1 Bighorner Rancher (PIP) 73
+1 Birds of Paradise (SUM) 187
+1 Bloom Tender (EVE) 66
+1 Boreal Druid (CSP) 105
+1 Bramble Familiar / Fetch Quest (WOE) 164
+1 Circle of Dreams Druid (AFR) 176
+1 Circle of Elders (DTK) 176
+1 Conspiracy Unraveler (MKM) 47
+1 Crystalline Crawler (C16) 54
+1 Deathbloom Gardener (DMU) 159
+1 Disciple of Freyalise / Garden of Freyalise (MH3) 250
+1 Druid of the Cowl (M19) 177
+1 Dryad Arbor (DSC) 273
+1 Endurance (MH2) 157
+1 Enduring Vitality (DSK) 176
+1 Fanatic of Rhonas (MH3) 152
+1 Fyndhorn Elder (7ED) 246
+1 Glasspool Mimic / Glasspool Shore (ZNR) 60
+1 Golden Hind (JOU) 124
+1 Greenweaver Druid (ZEN) 164
+1 Harvester Druid (JUD) 120
+1 Helga, Skittish Seer (BLB) 217
+1 Hydroelectric Specimen / Hydroelectric Laboratory (MH3) 240
+1 Ilysian Caryatid (THB) 174
+1 Inga and Esika (MOM) 229
+1 Kazandu Mammoth / Kazandu Valley (ZNR) 189
+1 Lifespring Druid (PLST) BFZ-177
+1 Magus of the Library (PLC) 134
+1 Manakin (IMA) 218
+1 Memnite (SOM) 174
+1 Nightshade Dryad (MH3) 163
+1 Noble Hierarch (CON) 87
+1 Oasis Ritualist (HOU) 124
+1 Old-Growth Troll (KHM) 185
+1 Phyrexian Walker (VIS) 152
+1 Poison Dart Frog (LCI) 207
+1 Quirion Elves (MIR) 234
+1 Quirion Explorer (PLS) 90
+1 Runadi, Behemoth Caller (J22) 44
+1 Shaman of Forgotten Ways (DTK) 204
+1 Shield Sphere (ALL) 129
+1 Skyclave Cleric / Skyclave Basilica (ZNR) 40
+1 Snapping Voidcraw (MH3) 204
+1 Solitude (MH2) 32
+1 Subtlety (MH2) 67
+1 Sylvan Caryatid (THS) 180
+1 Sylvok Explorer (5DN) 93
+1 Three Tree Rootweaver (BLB) 198
+1 Twitching Doll (DSK) 201
+1 Utopia Tree (9ED) 277
+1 Verdant Eidolon (DIS) 100
+1 Vine Dryad (MMQ) 284
+1 Viridian Joiner (MRD) 138
+1 Weaver of Currents (AKH) 209
+1 Werebear (ODY) 282
+1 Whisperer of the Wilds (2XM) 187
+1 Wirewood Elf (ONS) 301
+1 Witch Enchanter / Witch-Blessed Meadow (MH3) 239
+1 Woodland Mystic (M20) 344

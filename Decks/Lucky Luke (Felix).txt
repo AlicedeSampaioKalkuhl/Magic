@@ -1,121 +1,126 @@
 Felix Five-Boots 
-
-    In 
-1 Access Tunnel (MKC) 247
+1 Agent Frank Horrigan (PIP) 89
 1 Anowon, the Ruin Thief (ZNC) 1 *F*
-1 Ashling, the Extinguisher (EVE) 33
-1 Ayara's Oathsworn (MAT) 11
-1 Call of the Nightwing (GTC) 149
-1 Captain N'ghathrod (CLB) 646 *F*
+1 Ayara's Oathsworn (MAT) 61 *F*
+1 Biting-Palm Ninja (NEO) 338 *F*
+1 Branching Evolution (PIP) 195
 1 Cazur, Ruthless Stalker (C20) 5 *F*
-1 Coiling Stalker (NEO) 179
-1 Command Tower (MKC) 256
-1 Covert Technician (NEO) 49
-1 Creeping Tar Pit (CLB) 888
-1 Crosstown Courier (DDM) 6
-1 Deathcap Glade (VOW) 261
-1 Decanter of Endless Water (CLB) 309
-1 Dokuchi Silencer (NEO) 95
-1 Doomskar Warrior (MOM) 185
-1 Drana, Liberator of Malakir (LCC) 193
-1 Dreamroot Cascade (VOW) 262
-1 Drowned Catacomb (XLN) 253
+1 Chatterfang, Squirrel General (MH2) 151
+1 Coiling Stalker (NEO) 346
+1 Corpsejack Menace (PRTR) 152★ *F*
+1 Covert Technician (NEO) 332 *F*
+1 Decimator Web (MBS) 105
+1 Dokuchi Silencer (NEO) 340
+1 Doomskar Warrior (MOM) 185 *F*
+1 Drana, Liberator of Malakir (NCC) 248
 1 Emperor's Vanguard (XLN) 189
 1 Etrata, the Silencer (GRN) 170
-1 Exotic Orchard (MKC) 260
-1 Feral Ghoul (PIP) 44
-4 Forest (DDO) 63
-1 Froghemoth (AFR) 184
-1 Giant Adephage (CLU) 164
+1 Fraying Sanity (PIP) 175
 1 Glissa Sunslayer (ONE) 202
 1 Glowing One (PIP) 76
-1 Gorm the Great (BBD) 8
 1 Grazilaxx, Illithid Scholar (CLB) 723
 1 Guildpact Informant (WAR) 271
-1 Hands of Binding (GTC) 37
-1 Hapatra, Vizier of Poisons (AKH) 199
-1 Hidden Strings (DGM) 12
-1 Higure, the Still Wind (PCA) 18
-1 Hinterland Harbor (LCC) 336
-1 Ikra Shidiqi, the Usurper (CM2) 11 *F*
+1 Hardened Scales (PIP) 200
+1 Heroic Intervention (PIP) 202
 1 Infesting Radroach (PIP) 46
-1 Ink-Eyes, Servant of Oni (PCA) 33
-4 Island (M21) 265
-1 Kaito, Dancing Shadow (ONE) 204
-1 Kappa Tech-Wrecker (NEO) 198
-1 Kashi-Tribe Reaver (CHK) 220
-1 Kodama of the West Tree (NEO) 199
+1 Kappa Tech-Wrecker (NEO) 348
 1 Krydle of Baldur's Gate (AFR) 226
-1 Last Thoughts (GTC) 40
-1 Leechridden Swamp (DDR) 65
-1 Malcolm, Alluring Scoundrel (LCI) 63
+1 Lavaspur Boots (OTJ) 243
+1 Lightning Greaves (LTC) 281
+1 Malcolm, Alluring Scoundrel (LCI) 63 *F*
+1 Manifold Key (CLB) 319
 1 Marcus, Mutant Mayor (PIP) 109
 1 Mari, the Killing Quill (OTC) 138
-1 Maskwood Nexus (PKHM) 240p
-1 Master of Predicaments (M15) 67
-1 Mental Vapors (GTC) 72
 1 Merfolk Windrobber (ZNR) 70
-1 Midnight Recovery (GTC) 73
-1 Mindcrank (NPH) 144
-1 Mindscour Dragon (FRF) 41
-1 Mirelurk Queen (PIP) 33
-1 Mirko Vosk, Mind Drinker (DGM) 85
-1 Mist-Syndicate Naga (MH1) 58
+1 Minas Morgul, Dark Fortress (LTC) 514 *F*
+1 Mindcrank (CLB) 866
 1 Mistblade Shinobi (PCA) 20
 1 Moonblade Shinobi (MH1) 59
-1 Morphic Pool (CLB) 357
-1 Necropolis Regent (VOC) 132
-1 Nightkin Ambusher (PIP) 112
-1 Ninja of the Deep Hours (C18) 95
+1 Ninja of the Deep Hours (PC2) 21
 1 Nuka-Nuke Launcher (PIP) 138
-1 Ojer Kaslem, Deepest Growth / Temple of Cultivation (LCI) 204
-1 Okiba-Gang Shinobi (PCA) 35
-1 Old Gnawbone (AFR) 197
-1 Oona's Blackguard (ZNC) 51
-1 Opulent Palace (CMM) 1017
-1 Paranoid Delusions (GTC) 186
+1 Old Gnawbone (AFR) 296 *F*
+1 Oona's Blackguard (PDCI) 15 *F*
+1 Opulent Palace (OTC) 307
 1 Park Heights Maverick (NCC) 63
-1 Prosperous Thief (NEO) 73
-1 Ravenous Squirrel (MH2) 211
-1 Raving Dead (C14) 29
-1 Rejuvenating Springs (CMM) 424
-1 Reliquary Tower (MKC) 282
-1 Roaming Throne (LCI) 258
-1 Rogue's Passage (MKC) 284
+1 Pir, Imaginative Rascal (SLD) 1050
+1 Power Fist (PIP) 81
+1 Ravenous Squirrel (MH2) 375
 1 Sakashima's Student (PCA) 24
-1 Sakiko, Mother of Summer (CMM) 319
-1 Satoru Umezawa (NEO) 234
-1 Screeching Silcaw (SOM) 42
-1 Shadow Slice (GTC) 77
-1 Shadow Stinger (ZNR) 123
-1 Shipwreck Marsh (MID) 267
-1 Shizo, Death's Storehouse (DMC) 233
+1 Satoru Umezawa (NEO) 507 *F*
+1 Schema Thief (MOC) 24
 1 Shortcut Seeker (AFR) 73
-1 Shriekgeist (IMA) 72
 1 Silver-Fur Master (NEO) 236
 1 Skullsnatcher (PCA) 36
-1 Sol Ring (MKC) 237
-1 Sparkshaper Visionary (CMM) 726
-1 Spawnwrithe (DDM) 55
-1 Spring-Leaf Avenger (NEO) 208
+1 Spawnwrithe (CMD) 171
 1 Stolen Identity (NCC) 233
-1 Strixhaven Stadium (STX) 259
-4 Swamp (M19) 271
-1 Szadek, Lord of Secrets (CM2) 168
-1 Temple of the False God (MKC) 305
+1 Storrev, Devkarin Lich (WAR) 219
 1 The Wise Mothman (PIP) 4 *F*
-1 Thought Vessel (MKC) 245
-1 Throat Slitter (PCA) 37
-1 Toski, Bearer of Secrets (MKC) 191
+1 Thief of Sanity (OTC) 243
+1 Toothy, Imaginary Friend (SLD) 1049
+1 Trygon Predator (OTC) 246
 1 Ukkima, Stalking Shadow (C20) 17 *F*
-1 Undead Alchemist (MIC) 105
+1 Vashta Nerada (WHO) 73
+1 Vexing Radgull (PIP) 41
+1 Vraska Joins Up (OTJ) 236
+1 Walker of Secret Ways (PCA) 27
+1 Winged Boots (OTC) 124
+1 Zellix, Sanity Flayer (CLB) 652 *F*
+1 Zephyr Boots (STX) 261
+
+    Check 
+1 Access Tunnel (MKC) 247
+1 Call of the Nightwing (GTC) 149
+1 Command Tower (MKC) 256
+1 Creeping Tar Pit (CLB) 888
+1 Decanter of Endless Water (CLB) 309
+1 Exotic Orchard (MKC) 260
+1 Feral Ghoul (PIP) 44
+1 Froghemoth (AFR) 184
+1 Giant Adephage (DSC) 179
+1 Hands of Binding (GTC) 37
+1 Hidden Strings (DGM) 12
+1 Higure, the Still Wind (PCA) 18
+1 Ikra Shidiqi, the Usurper (CM2) 11 *F*
+1 Kaito, Dancing Shadow (ONE) 204 *F*
+1 Last Thoughts (GTC) 40
+1 Maskwood Nexus (PKHM) 240p
+1 Necropolis Regent (VOC) 132
+1 Paranoid Delusions (GTC) 186
+1 Prosperous Thief (NEO) 73
+1 Reliquary Tower (MKC) 282
+1 Rogue's Passage (MKC) 284
+1 Sakiko, Mother of Summer (CMM) 319 *F*
+1 Shadow Slice (GTC) 77
+1 Sol Ring (MKC) 237
+1 Strixhaven Stadium (STX) 259
+1 Temple of the False God (MKC) 305
+1 Thought Vessel (MKC) 245
+1 Toski, Bearer of Secrets (MKC) 191
+1 Voidwalk (GTC) 55
+1 Writ of Return (NCC) 42
+
+    In 
+1 Ashling, the Extinguisher (EVE) 33
+1 Crosstown Courier (DDM) 6
+1 Deathcap Glade (VOW) 261
+1 Gorm the Great (BBD) 8
+1 Master of Predicaments (M15) 67
+1 Mental Vapors (GTC) 72
+1 Midnight Recovery (GTC) 73
+1 Mindscour Dragon (FRF) 41
+1 Mirelurk Queen (PIP) 33
+1 Mist-Syndicate Naga (MH1) 58
+1 Nightkin Ambusher (PIP) 112
+1 Ojer Kaslem, Deepest Growth / Temple of Cultivation (LCI) 204
+1 Raving Dead (C14) 29
+1 Roaming Throne (LCI) 258
+1 Screeching Silcaw (SOM) 42
+1 Shadow Stinger (ZNR) 123
+1 Shriekgeist (IMA) 72
+1 Spring-Leaf Avenger (NEO) 208
+1 Szadek, Lord of Secrets (CM2) 168
 1 Undercity Plague (GTC) 83
 1 Undergrowth Stadium (CMM) 435
-1 Vexing Radgull (PIP) 41
 1 Virtus the Veiled (BBD) 7
-1 Voidwalk (GTC) 55
-1 Walker of Secret Ways (PCA) 27
 1 Westgate Regent (AFR) 126
-1 Woodland Cemetery (DMR) 261
-1 Writ of Return (NCC) 42
 1 Zagoth Triome (IKO) 259

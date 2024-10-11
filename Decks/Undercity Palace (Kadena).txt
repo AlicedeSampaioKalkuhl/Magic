@@ -84,26 +84,36 @@
 1 Write into Being (FRF) 59
 1 Yedora, Grave Gardener (MKC) 197
 1 Zoetic Cavern (FUT) 180
-        In 
-1 Become Anonymous (ACR) 14
-1 Brine Elemental (DD2) 18
-1 Cryptic Coat (MKM) 50
+        Check 
+1 Brine Elemental (PLST) A25-47
 1 Cybership (WHO) 177
 1 Death in Heaven (WHO) 66
+1 Ugin, the Ineffable (WAR) 2
+        In 
+1 Become Anonymous (ACR) 14
+1 Cryptic Coat (MKM) 50
+1 Cryptid Inspector (DSK) 174
 1 Dragon's Eye Savants (KTK) 38
 1 Etrata, Deadly Fugitive (MKM) 200
+1 Experimental Lab / Staff Room (DSC) 33
 1 Flourishing Bloom-Kin (MKM) 160
 1 Forsaken Monument (PZNR) 244p
+1 Growing Dread (DSK) 216
+1 Hauntwoods Shrieker (DSK) 182
 1 Hide in Plain Sight (MKM) 410
 1 Ixidor, Reality Sculptor (PLST) ONS-89
+1 Killer's Mask (DSK) 104
+1 Overgrown Zealot (DSK) 193
 1 Phyrexian Altar (2X2) 311
 1 Primordial Mist (C18) 12
 1 Proteus Machine (SCG) 141
 1 Temur Charger (KTK) 153
 1 Tomb of the Spirit Dragon (KTK) 245
-1 Tribal Forcemage (LGN) 142
-1 Ugin, the Ineffable (WAR) 2
+1 Under the Skin (DSK) 203
+1 Underwater Tunnel / Slimy Aquarium (DSK) 79
+1 Valgavoth's Onslaught (DSK) 204
 1 Vannifar, Evolved Enigma (MKM) 241
+1 Zimone, Mystery Unraveler (DSC) 8
         Out 
 Chromeshell Crab out 
 Simulgar Assassin out 

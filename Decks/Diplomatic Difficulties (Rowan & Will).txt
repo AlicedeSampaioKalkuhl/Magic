@@ -98,21 +98,33 @@
 1 Witch's Clinic (C21) 81
 1 Wound Reflection (WHO) 1062 *F*
 
+    Check 
+1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90 *F*
+1 Bolas's Citadel (PLG21) 3 *F*
+1 Hargilde, Kindly Runechanter (SLX) 5
+1 Ifnir Deadlands (HOU) 179 *F*
+1 Lim-Dûl's Vault (SLC) 1996
+1 Mount Doom (LTR) 258
+1 Ramunap Ruins (OTC) 311
+1 Sejiri Refuge (KHC) 118
+1 Talisman of Conviction (MKC) 240
+1 Talisman of Creativity (SLD) 1058
+1 Talisman of Dominance (MKC) 242
+1 Talisman of Hierarchy (SLD) 1057
+1 The Meathook Massacre (MID) 112
+1 Wind-Scarred Crag (LTC) 344
+
     In 
 1 Absorb (RNA) 151
-1 Alhammarret's Archive (PLST) ORI-221
 1 Angelic Chorus (BBD) 87
 1 Archangel's Light (DKA) 1
 1 Arguel's Blood Fast / Temple of Aclazotz (XLN) 90
 1 Ashes of the Abhorrent (XLN) 2
 1 Beamtown Beatstick (MOM) 131 *F*
 1 Blighted Steppe (BFZ) 232
-1 Boseiju, Who Shelters All (CHK) 273
-1 Cabal Coffers (TOR) 139
 1 Cursebreak (AVR) 14
 1 Emeria's Call / Emeria, Shattered Skyclave (ZNR) 12
 1 Etherwrought Page (ARB) 108
-1 Flooded Strand (MH3) 220
 1 Font of Agonies (RNA) 74
 1 Hall of the Bandit Lord (CHK) 277
 1 Hallow (DST) 4
@@ -132,29 +144,20 @@
 1 Invasion of Ulgrotha / Grandmother Ravi Sengir (MOM) 116
 1 Invasion of Vryn / Overloaded Mage-Ring (MOM) 64
 1 Ipnu Rivulet (HOU) 180
-1 Mana Geyser (5DN) 75
-1 Marsh Flats (MH2) 248
 1 Mask of Griselbrand (MID) 111
-1 Mount Doom (LTR) 258
+1 Meathook Massacre II (DSK) 108
 1 Orzhova, the Church of Deals (GPT) 162
 1 Polluted Delta (MH3) 224
 1 Profane Memento (M15) 226
 1 Righteous Cause (PLST) CMA-21
-1 Rowan, Fearless Sparkmage (ELD) 304
-1 Sacred Foundry (RVR) 285
 1 Sanguine Sacrament (XLN) 33
-1 Scalding Tarn (MH2) 254
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
-1 Sea of Clouds (CLB) 360
 1 Shatterskull Smashing / Shatterskull, the Hammer Pass (ZNR) 161
 1 Sign in Blood (GVL) 49
 1 Silent Clearing (MH1) 246
 1 Spellshock (EXO) 104
 1 Steam Vents (RVR) 288
 1 Stonesplitter Bolt (WOE) 151
-1 The Black Gate (LTC) 80
+1 Storm Herd (GPT) 19
 1 Unspeakable Symbol (SCG) 79
-1 Urborg, Tomb of Yawgmoth (M15) 248
-1 Venser's Journal (SOM) 220
 1 War Report (NPH) 26
-1 Watery Grave (RVR) 291

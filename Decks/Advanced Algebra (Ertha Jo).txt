@@ -90,61 +90,46 @@
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 38
 1 Wrench (CLU) 7
 1 Zirda, the Dawnwaker (MUL) 65 *F*
+    Check 
+1 Drumbellower (NEC) 40
+1 Nazgûl Battle-Mace (LTC) 510 *F*
+1 Patriar's Seal (CLB) 332
+1 Thousand-Year Elixir (C21) 271
+1 Two-Handed Axe / Sweeping Cleave (CLB) 203
+1 Wurmcoil Engine (BRR) 126 *F*
     In 
 1 Ajani, Adversary of Tyrants (M19) 3
 1 Auriok Bladewarden (MRD) 3
 1 Ballynock Trapper (EVE) 2
 1 Basilisk Collar (CLB) 300
-1 Brass's Tunnel-Grinder / Tecutlan, the Searing Rift (LCI) 135
-1 Captivating Cave (LCI) 268
-1 Cave of Temptation (40K) 267
-1 Cavernous Maw (LCI) 270
 1 Cinder Pyromancer (EVE) 50
-1 Contagion Engine (SOM) 145
 1 Desert (AFC) 233
-1 Drumbellower (NEC) 6
-1 Echoing Deeps (LCI) 271
 1 Eiganjo Castle (CHK) 275
-1 Eiganjo, Seat of the Empire (NEO) 268
 1 Fallen Ferromancer (NPH) 82
-1 Forgotten Monument (LCI) 272
 1 Form a Posse (OTJ) 204
 1 Furystoke Giant (SHM) 93
 1 Gideon of the Trials (AKH) 14
 1 Goblin Sharpshooter (C13) 111
-1 Grafted Exoskeleton (SOM) 162
 1 Grand Master of Flowers (AFR) 17
 1 Hellspur Posse Boss (OTJ) 128
 1 Hidden Volcano (LCI) 277
-1 Inkmoth Nexus (MBS) 145
 1 Jeska, Warrior Adept (JUD) 93
 1 Junk Jet (PIP) 60
 1 Kamahl, Pit Fighter (DDS) 39
-1 Karn's Bastion (LCC) 339
-1 Labyrinth of Skophos (MKC) 272
 1 Leonin Battlemage (DST) 5
 1 Looming Spires (BFZ) 238
 1 Lost Jitte (BIG) 23
 1 Luxior, Giada's Gift (SNC) 240
 1 Magewright's Stone (DIS) 162
 1 Manriki-Gusari (SOK) 156
-1 Maze of Ith (DMR) 250
-1 Mirrex (ONE) 254
 1 Nahiri, Heir of the Ancients (ZNR) 230
-1 Nazgûl Battle-Mace (LTC) 510 *F*
 1 Oath of Gideon (CMM) 830
-1 Patriar's Seal (CLB) 332
-1 Pit of Offerings (LCI) 278
-1 Promising Vein (LCI) 279
 1 Rowan, Fearless Sparkmage (ELD) 304
 1 Sandstone Bridge (BFZ) 243
 1 Smoldering Spires (E01) 96
 1 Solarion (5DN) 153
-1 Spectator Seating (CMM) 427
 1 Spikeshot Goblin (CMM) 256
 1 Sting, the Glinting Dagger (LTR) 250
-1 Sundown Pass (VOW) 266
-1 Sunken Citadel (LCI) 285
 1 Sword of Hours (AFC) 61
 1 Tarrian's Soulcleaver (LCI) 264
 1 Teetering Peaks (ZEN) 226
@@ -152,16 +137,13 @@
 1 The Chain Veil (CMM) 943
 1 The Millennium Calendar (LCI) 257
 1 The Wandering Emperor (NEO) 42
-1 Thousand-Year Elixir (C21) 271
-1 Two-Handed Axe / Sweeping Cleave (CLB) 203
+1 Toby, Beastie Befriender (DSK) 35
 1 Ugin, the Spirit Dragon (M21) 1
 1 Urza's Cave (MH3) 234
 1 Valakut, the Molten Pinnacle (ZEN) 228
 1 Vikya, Scorching Stalwart (SLX) 11
 1 Viridian Longbow (AFC) 221
-1 Volatile Fault (LCI) 286
 1 We Ride at Dawn (OTC) 12
-1 Wurmcoil Engine (BRR) 126 *F*
 1 Zariel, Archduke of Avernus (AFR) 172
     Out 
 Infantry Veteran 

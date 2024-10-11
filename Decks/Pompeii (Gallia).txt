@@ -90,52 +90,22 @@
 1 Xenagos, God of Revels (LCC) 295
 1 Xenagos, the Reveler (CLB) 853
 1 Zealous Conscripts (AVR) 166 *F*
-    In 
-1 Aether Rift (INV) 227
-1 Battle Hymn (AVR) 128
-1 Blasted Landscape (PLST) CM2-238
+    Check 
 1 Brawn (MOC) 292
-1 Castle Garenbrig (ELD) 240
 1 Cloudstone Curio (RVR) 443
-1 Commercial District (MKM) 259
-1 Crime Novelist (MKM) 121
-1 Defiler of Instinct (DMU) 119
 1 Defiler of Vigor (DMU) 160
-1 Desert of the Fervent (C20) 266
-1 Desert of the Indomitable (HOU) 172
-1 Destructive Revelry (THS) 192
-1 Dolmen Gate (LRW) 256
-1 Domri, Anarch of Bolas (WAR) 191
 1 Druids' Repository (AVR) 176
-1 Emerald Medallion (CMM) 379
-1 Fire-Lit Thicket (2XM) 317
-1 Forgotten Cave (C19) 243
 1 Gemstone Array (5DN) 124
-1 Grand Warlord Radha (DOM) 195
-1 Gruff Triplets (WOE) 172
 1 Gruul Turf (CLU) 238
-1 Howlgeist (AVR) 182
 1 Karplusan Forest (DMU) 250
-1 Klothys, God of Destiny (THB) 220
-1 Madblind Mountain (SHM) 274
-1 Masked Admirers (KHC) 69
 1 Mosswort Bridge (C20) 291
-1 Nim Deathmantle (2X2) 309
-1 Nykthos, Shrine to Nyx (THS) 223
 1 Professional Face-Breaker (SNC) 426
 1 Racers' Ring (SNC) 253
-1 Reckless Barbarian (CLB) 193
-1 Reincarnation (C13) 166
-1 Reiterate (TSR) 182
 1 Return to Nature (ELD) 173 *F*
 1 Reverberate (40K) 207
-1 Roaming Throne (LCI) 258
 1 Rockfall Vale (MID) 266
 1 Rootbound Crag (WHO) 300
 1 Rootrider Faun (WOE) 182
-1 Ruby Medallion (CMM) 405
-1 Satyr Hedonist (THS) 174
-1 Search for Survivors (PCY) 102
 1 Skarrg, the Rage Pits (PCA) 127
 1 Spinerock Knoll (NCC) 429
 1 Storm-Kiln Artist (STX) 115
@@ -143,12 +113,39 @@
 1 Temple of Abandon (MKC) 301
 1 Timeless Witness (MH2) 358
 1 Tranquil Thicket (MKC) 309
-1 Treasonous Ogre (CNS) 36
-1 Vengevine (2XM) 185
 1 Veronica, Dissident Scribe (PIP) 70
 1 Voracious Typhon (THB) 203
-1 Wooded Foothills (KTK) 249
 1 Yavimaya, Cradle of Growth (MH2) 261
+    In 
+1 Aether Rift (INV) 227
+1 Battle Hymn (AVR) 128
+1 Castle Garenbrig (ELD) 240
+1 Commercial District (MKM) 259
+1 Crime Novelist (MKM) 121
+1 Defiler of Instinct (DMU) 119
+1 Destructive Revelry (THS) 192
+1 Dolmen Gate (LRW) 256
+1 Domri, Anarch of Bolas (WAR) 191
+1 Emerald Medallion (CMM) 379
+1 Fire-Lit Thicket (2XM) 317
+1 Grand Warlord Radha (DOM) 195
+1 Gruff Triplets (WOE) 172
+1 Howlgeist (AVR) 182
+1 Klothys, God of Destiny (THB) 220
+1 Madblind Mountain (SHM) 274
+1 Masked Admirers (KHC) 69
+1 Nim Deathmantle (2X2) 309
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Reckless Barbarian (CLB) 193
+1 Reincarnation (C13) 166
+1 Reiterate (TSR) 182
+1 Roaming Throne (LCI) 258
+1 Ruby Medallion (CMM) 405
+1 Satyr Hedonist (THS) 174
+1 Search for Survivors (PCY) 102
+1 Treasonous Ogre (CNS) 36
+1 Vengevine (2XM) 185
+1 Wooded Foothills (KTK) 249
     Out 
 Birds of Paradise 
 Fyndhorn Elves 

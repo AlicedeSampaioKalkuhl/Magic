@@ -81,33 +81,35 @@
 1 Virtue of Courage / Embereth Blaze (WOE) 282
 1 Watcher of Hours (MKC) 25
 1 Xenk, Paladin Unbroken (SLD) 1237 *F*
-    In 
+    Check 
 1 Alpine Meadow (KHM) 248
-1 Angelic Benediction (M13) 4
-1 Ardent Plea (ARB) 1
 1 Boreal Shelf (CSP) 144
-1 Dreamtide Whale (MH3) 59
-1 Fblthp, Lost on the Range (OTJ) 48
-1 Gemstone Caverns (TSP) 274
 1 Glacial Floodplain (KHM) 257
 1 Inexorable Tide (SOM) 35
 1 Inspiring Refrain (WHO) 216
-1 Mox Tantalite (MH1) 226
 1 Nalfeshnee (CLB) 678
 1 Oblivion Sower (CMM) 808
-1 Quintorius Kand (LCI) 238
 1 Rousing Refrain (C21) 56
-1 Sakashima of a Thousand Faces (CMR) 89
-1 Scrying Sheets (CSP) 149
-1 Sea of Clouds (CLB) 360
+1 Sakashima of a Thousand Faces (CMR) 561 *E*
 1 Strionic Resonator (NCC) 381
-1 Suspend (MH2) 68
-1 The Ozolith (IKO) 237
-1 Training Center (CMM) 434
 1 Volatile Fjord (KHM) 273
 1 Wild-Magic Sorcerer (CLB) 816
 1 World at War (ROE) 172
- out 
+    In 
+1 Angelic Benediction (M13) 4
+1 Ardent Plea (ARB) 1
+1 Cursed Recording (DSK) 131
+1 Dreamtide Whale (MH3) 59
+1 Fblthp, Lost on the Range (OTJ) 48
+1 Gemstone Caverns (TSP) 274
+1 Mirror Room / Fractured Realm (DSK) 67
+1 Mox Tantalite (MH1) 226
+1 Scrying Sheets (CSP) 149
+1 Sea of Clouds (CLB) 360
+1 Suspend (MH2) 68
+1 The Ozolith (IKO) 237
+1 Training Center (CMM) 434
+    Out 
 Swiftfoot Boots
 Trailblazer Boots 
 Ossification 

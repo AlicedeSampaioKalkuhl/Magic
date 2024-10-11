@@ -87,61 +87,58 @@
 1 Welcome to . . . / Jurassic Park (REX) 7
 1 Windfall (C20) 128
 1 Wonder (MH2) 271
-
-    In 
-1 Bant Sojourners (ARB) 125
-1 Birthing Ritual (MH3) 146
+    Check 
 1 Blasted Landscape (PLST) CM2-238
 1 Captivating Cave (LCI) 268
-1 Chimil, the Inner Sun (LCI) 249
-1 Command Tower (C16) 286
-1 Corrupted Grafstone (SOI) 253
 1 Desert of the Indomitable (HOU) 172
 1 Desert of the Mindful (J22) 812
 1 Desert of the True (C20) 268
-1 Dino DNA (REX) 20
 1 Drifting Meadow (DMR) 245
-1 Drumbellower (NEC) 6
+1 Hidden Cataract (LCI) 273
+1 Hidden Nursery (LCI) 276
+1 Maskwood Nexus (KHM) 369
+1 Misthollow Griffin (PLST) AVR-68 *F*
+1 Pit of Offerings (LCI) 278
+1 Promising Vein (LCI) 279
+1 Remote Isle (DMR) 254
+1 Search for Azcanta / Azcanta, the Sunken Ruin (SLD) 1502
+1 Seedborn Muse (C19) 179
+1 Sunken Citadel (LCI) 285
+1 The Everflowing Well / The Myriad Pools (LCI) 56
+1 Tribute to the World Tree (MOM) 211
+1 Vaultborn Tyrant (BIG) 20
+1 Void Winnower (BFZ) 17
+    In 
+1 Bant Sojourners (ARB) 125
+1 Birthing Ritual (MH3) 146
+1 Chimil, the Inner Sun (LCI) 249
+1 Corrupted Grafstone (SOI) 253
+1 Dino DNA (REX) 20
 1 Eldrazi Displacer (OGW) 13
 1 Elvish Aberration (CNS) 163
 1 Emrakul, the Promised End (EMN) 6
 1 Fatestitcher (ALA) 43
+1 Fear of Surveillance (DSK) 11
 1 Food Chain (2X2) 147
 1 Forgotten Monument (LCI) 272
-1 Genesis (MH1) 166
 1 Ghalta, Stampede Tyrant (LCI) 185
 1 Glittering Wish (TSR) 253
 1 Golgari Grave-Troll (UMA) 167
-1 Hidden Cataract (LCI) 273
-1 Hidden Nursery (LCI) 276
 1 Hua Tuo, Honored Physician (C13) 149
 1 Hunting Grounds (DMR) 191
 1 Imposing Vantasaur (IKO) 17
 1 Kellan, Daring Traveler / Journey On (LCI) 231
-1 Maskwood Nexus (KHM) 369
+1 Kona, Rescue Beastie (DSK) 187
 1 Matzalantli, the Great Door / The Core (LCI) 256
-1 Misthollow Griffin (PLST) AVR-68 *F*
 1 Noble Hierarch (MM2) 151
-1 Pit of Offerings (LCI) 278
-1 Promising Vein (LCI) 279
 1 Reclaim (ORI) 195
-1 Remote Isle (DMR) 254
 1 Repopulate (ULG) 111
 1 Riftstone Portal (JUD) 143
-1 Search for Azcanta / Azcanta, the Sunken Ruin (XLN) 74
-1 Seedborn Muse (C19) 179
 1 Slippery Karst (DDD) 26
-1 Sunken Citadel (LCI) 285
-1 The Everflowing Well / The Myriad Pools (LCI) 56
 1 The Skullspore Nexus (LCI) 212
 1 Timeless Dragon (MH2) 35
-1 Tranquil Thicket (C13) 329
-1 Tribute to the World Tree (MOM) 211
 1 Valor (TSB) 16
-1 Vaultborn Tyrant (BIG) 85
-1 Void Winnower (BFZ) 17
 1 Werebear (EMA) 191
-
     Out 
 Arcane Signet 
 Sol Ring

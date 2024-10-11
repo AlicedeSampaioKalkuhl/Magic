@@ -74,25 +74,27 @@ Gisa and Geralf
 1 Village Rites (STA) 35
 1 Wilhelt, the Rotcleaver (MIC) 2
 1 Zombie Apocalypse (MIC) 131
-
+	Check 
+1 Clearwater Pathway / Murkwater Pathway (ZNR) 260
+1 Command Tower (C21) 284
+1 Dimir Aqueduct (GK1) 23
+1 Dimir Signet (CMD) 246
+1 Fetid Pools (AKH) 243
+1 Gisa, the Hellraiser (OTJ) 89
+1 Mind Stone (PLST) C18-210
+1 Obscura Storefront (SNC) 252
+1 Path of Ancestry (VOC) 177
+1 Rise of the Dark Realms (JMP) 271
+1 Secluded Courtyard (NEO) 512
 	In 
-1 Ancient Ziggurat (CON) 141
-1 Ash Barrens (C20) 255
 1 Cabal Coffers (MH2) 301
 1 Cavern of Souls (AVR) 226
 1 Cemetery Recruitment (EMN) 83
-1 Clearwater Pathway / Murkwater Pathway (ZNR) 260
-1 Command Tower (C21) 284
 1 Corpse Harvester (LGN) 62
 1 Crypt of Agadeem (C14) 288
-1 Dimir Aqueduct (GK1) 23
-1 Dimir Signet (CMD) 246
-1 Drowned Catacomb (PXLN) 253s *F*
-1 Fetid Pools (AKH) 243
 1 Field of the Dead (PM20) 247p
 1 Flip the Switch (MID) 54
 1 Geralf, the Fleshwright (OTJ) 287
-1 Gisa, the Hellraiser (OTJ) 89
 1 Gisa's Favorite Shovel (SLX) 19
 1 Gravecrawler (2X2) 78
 1 Havengul Lich (DKA) 139
@@ -100,21 +102,13 @@ Gisa and Geralf
 1 Liliana, Untouched by Death (M19) 106
 1 Mausoleum Secrets (GRN) 75
 1 Mikaeus, the Unhallowed (CMM) 675
-1 Mind Stone (PLST) C18-210
-1 Obscura Storefront (SNC) 252
-1 Path of Ancestry (VOC) 177
-1 Phyrexian Tower (UMA) 248
-1 Rise of the Dark Realms (JMP) 271
 1 Rise of the Dread Marn (KHM) 354
 1 Risen Executioner (DTK) 116
-1 Secluded Courtyard (NEO) 512
-1 Shipwreck Marsh (PMID) 267p
-1 Sunken Hollow (DMC) 235
 1 Sunken Ruins (SHM) 280
 1 Temple of Deceit (PTHB) 245p
 1 Undercity Sewers (MKM) 270
-1 Underground River (6ED) 330
 1 Unholy Grotto (PLST) ONS-327
+1 Unstoppable Slasher (DSK) 119
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Vengeful Dead (SCG) 80
 1 Vengeful Pharaoh (M12) 116
