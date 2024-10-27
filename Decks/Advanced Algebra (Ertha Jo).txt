@@ -8,7 +8,6 @@
 1 Bandit's Haul (OTJ) 240
 1 Basalt Monolith (LTC) 274
 1 Basri Ket (M21) 7
-1 Batterskull (SLD) 1206 *F*
 1 Battlefield Forge (BRO) 297
 1 Brimstone Roundup (OTJ) 115
 1 Cathars' Crusade (C16) 61
@@ -24,7 +23,6 @@
 1 Ent-Draught Basin (LTR) 238
 1 Falkenrath Exterminator (MOC) 276
 1 Felidar Retreat (ZNR) 16
-1 Gavel of the Righteous (NCC) 83
 1 Giver of Runes (SLD) 1463
 1 Goblin Fireslinger (PLST) MM2-114
 1 Halo Fountain (SNC) 15
@@ -76,6 +74,7 @@
 1 Rowan's Talent (MOC) 77
 1 Rugged Prairie (OTC) 314
 1 Sarkhan the Masterless (WAR) 143
+1 Seedglaive Mentor (BLB) 231
 1 Skrelv, Defector Mite (ONE) 33
 1 Slayers' Stronghold (MKC) 295
 1 Sonic Screwdriver (WHO) 184
@@ -89,14 +88,12 @@
 1 Village Bell-Ringer (LTC) 181
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 38
 1 Wrench (CLU) 7
+1 Wurmcoil Engine (BRR) 126 *F*
 1 Zirda, the Dawnwaker (MUL) 65 *F*
     Check 
-1 Drumbellower (NEC) 40
-1 Nazgûl Battle-Mace (LTC) 510 *F*
+1 Drumbellower (NEC) 6
 1 Patriar's Seal (CLB) 332
 1 Thousand-Year Elixir (C21) 271
-1 Two-Handed Axe / Sweeping Cleave (CLB) 203
-1 Wurmcoil Engine (BRR) 126 *F*
     In 
 1 Ajani, Adversary of Tyrants (M19) 3
 1 Auriok Bladewarden (MRD) 3
@@ -111,6 +108,7 @@
 1 Gideon of the Trials (AKH) 14
 1 Goblin Sharpshooter (C13) 111
 1 Grand Master of Flowers (AFR) 17
+1 Heartfire Hero (BLB) 138
 1 Hellspur Posse Boss (OTJ) 128
 1 Hidden Volcano (LCI) 277
 1 Jeska, Warrior Adept (JUD) 93
@@ -118,32 +116,22 @@
 1 Kamahl, Pit Fighter (DDS) 39
 1 Leonin Battlemage (DST) 5
 1 Looming Spires (BFZ) 238
-1 Lost Jitte (BIG) 23
-1 Luxior, Giada's Gift (SNC) 240
 1 Magewright's Stone (DIS) 162
 1 Manriki-Gusari (SOK) 156
 1 Nahiri, Heir of the Ancients (ZNR) 230
-1 Oath of Gideon (CMM) 830
 1 Rowan, Fearless Sparkmage (ELD) 304
 1 Sandstone Bridge (BFZ) 243
 1 Smoldering Spires (E01) 96
-1 Solarion (5DN) 153
 1 Spikeshot Goblin (CMM) 256
 1 Sting, the Glinting Dagger (LTR) 250
-1 Sword of Hours (AFC) 61
-1 Tarrian's Soulcleaver (LCI) 264
 1 Teetering Peaks (ZEN) 226
 1 Teyo, Geometric Tactician (CMM) 725
-1 The Chain Veil (CMM) 943
-1 The Millennium Calendar (LCI) 257
 1 The Wandering Emperor (NEO) 42
-1 Toby, Beastie Befriender (DSK) 35
 1 Ugin, the Spirit Dragon (M21) 1
 1 Urza's Cave (MH3) 234
 1 Valakut, the Molten Pinnacle (ZEN) 228
 1 Vikya, Scorching Stalwart (SLX) 11
 1 Viridian Longbow (AFC) 221
-1 We Ride at Dawn (OTC) 12
 1 Zariel, Archduke of Avernus (AFR) 172
     Out 
 Infantry Veteran 

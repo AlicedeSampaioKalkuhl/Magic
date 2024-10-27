@@ -4,7 +4,6 @@
 1 Arasta of the Endless Web (NCC) 279
 1 As Foretold (WHO) 805 *F*
 1 Asceticism (SOM) 110
-1 Auramancer (PCA) 2
 1 Barbara Wright (WHO) 335
 1 Battle at the Helvault (CMM) 719
 1 Brokers Ascendancy (SNC) 170
@@ -35,9 +34,11 @@
 1 Heliod, God of the Sun (CMM) 826
 1 Herald of the Pantheon (CMM) 898
 1 Ian Chesterton (WHO) 22
+1 Inexorable Tide (PIP) 177
 6 Island (M20) 268
 1 Jukai Naturalist (WOC) 140
 1 Karametra, God of Harvests (C20) 218
+1 Kellan Joins Up (OTJ) 212
 1 Kruphix, God of Horizons (PLST) JOU-152
 1 Leyline Immersion (MAT) 21 *F*
 1 Monologue Tax (C21) 19
@@ -59,7 +60,6 @@
 1 Scrollshift (MOM) 34 *F*
 1 Sevinne's Reclamation (CLB) 707
 1 Song of Freyalise (PLST) DOM-179
-1 Starfield Mystic (CMM) 839
 1 Starfield of Nyx (CMM) 840
 1 Sythis, Harvest's Hand (MH2) 214
 1 Temple of the False God (C19) 280
@@ -77,30 +77,18 @@
 1 War of the Last Alliance (LTR) 36
 1 Wild Growth (6ED) 268
     Check 
-1 Alchemist's Refuge (LCC) 318
-1 Anointed Procession (AKH) 2
 1 Azusa's Many Journeys / Likeness of the Seeker (NEO) 172
-1 Bountiful Promenade (BBD) 81
 1 Calix, Destiny's Hand (CMM) 918
-1 Dreamroot Cascade (WHO) 273
 1 Extravagant Replication (NCC) 25
 1 Gallifrey Council Chamber (WHO) 188
-1 Hinterland Harbor (LCC) 336
-1 Inexorable Tide (MM2) 49
 1 Karn's Bastion (MOC) 409
-1 Kellan Joins Up (OTJ) 212
 1 Mirari's Wake (MH2) 291
 1 Mirror Box (NEO) 250
 1 Nesting Grounds (C20) 71
 1 Otawara, Soaring City (PNEO) 271p
-1 Overgrown Farmland (WHO) 292
-1 Rejuvenating Springs (CMM) 424
 1 Rivendell (LTR) 259
 1 Seaside Citadel (WHO) 302
 1 Sonic Screwdriver (WHO) 184
-1 Spara's Headquarters (PSNC) 257p
-1 Sunpetal Grove (PXLN) 257p
-1 Yavimaya, Cradle of Growth (MH2) 261
     In 
 1 Doubling Season (MMA) 141
 1 Ferropede (5DN) 122

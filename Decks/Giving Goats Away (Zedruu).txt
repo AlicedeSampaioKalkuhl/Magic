@@ -97,24 +97,24 @@
 1 Vexilus Praetor (40K) 19
 1 Vulpikeet (IKO) 282 *F*
 1 Wrong Turn (CMR) 107 *F*
-
-    In 
-1 Act of Authority (C13) 1
-1 Alexios, Deimos of Kosmos (ACR) 33
+    Check 
 1 Boiling Earth (PLST) BFZ-142
 1 Bovine Intervention (OTJ) 6
 1 C.A.M.P. (PIP) 129
-1 Clutch of Currents (PLST) BFZ-72
-1 Coastal Discovery (BFZ) 73
 1 Conjured Currency (RTR) 33
 1 Contested War Zone (MBS) 144
 1 Darksteel Garrison (PLST) FUT-167
-1 Encircling Fissure (PLST) BFZ-23
 1 Halimar Tidecaller (BFZ) 79 *F*
+1 Planar Outburst (ZNC) 19
+    In 
+1 Act of Authority (C13) 1
+1 Alexios, Deimos of Kosmos (ACR) 33
+1 Clutch of Currents (PLST) BFZ-72
+1 Coastal Discovery (BFZ) 73
+1 Encircling Fissure (PLST) BFZ-23
 1 Noyan Dar, Roil Shaper (BFZ) 216
 1 Ondu Rising (BFZ) 41
 1 Part the Waterveil (BFZ) 80
-1 Planar Outburst (ZNC) 19
 1 Roil Spout (BFZ) 219
 1 Rush of Ice (BFZ) 84
 1 Sacred Ground (7ED) 36

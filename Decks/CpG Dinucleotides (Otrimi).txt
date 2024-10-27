@@ -1,3 +1,4 @@
+Otrimi, the Ever Playful 
 1 Aqueous Form (CMR) 56 *F*
 1 Arcane Signet (KHC) 96
 1 Archipelagore (IKO) 283 *F*
@@ -21,6 +22,7 @@
 14 Forest (UNF) 239
 1 Gaea's Gift (BRO) 182
 1 Gemrazer (IKO) 295
+1 Get a Leg Up (MKM) 161
 1 Glowstone Recluse (IKO) 296 *F*
 1 Helm of the Host (DOM) 217
 1 Hinterland Harbor (DMR) 396
@@ -29,6 +31,7 @@
 1 Incubation Druid (NCC) 296
 1 Invigorating Surge (M21) 190
 11 Island (UNF) 236
+1 Ivy, Gleeful Spellthief (DMU) 201
 1 Leap (STH) 35
 1 Littjara Mirrorlake (KHM) 264
 1 Maraleaf Pixie (ELD) 196 *F*
@@ -39,13 +42,14 @@
 1 Myriad Landscape (C20) 292
 1 Negate (DMU) 58
 1 New Horizons (40K) 218
-1 Octopus Umbra (PLIST) 70
+1 Octopus Umbra (PLST) C18-11
 1 Omen of the Hunt (THB) 192 *F*
 1 Orvar, the All-Form (PKHM) 70p *F*
 1 Paradise Druid (AFC) 165
 1 Parcelbeast (IKO) 304 *F*
 1 Poison the Blade (CLB) 248 *F*
 1 Pouncing Shoreshark (IKO) 285 *F*
+1 Repulsive Mutation (MKM) 227
 1 Return to Nature (ELD) 173 *F*
 1 Rootrider Faun (WOE) 182
 1 Scale the Heights (ZNR) 202 *F*
@@ -74,44 +78,34 @@
 1 Viridescent Wisps (SHM) 132 *F*
 1 Wild Growth (3ED) 230
 1 Withstand Death (SOM) 134
-
-    In 
-1 Alpha Authority (GTC) 114
-1 Barkchannel Pathway / Tidechannel Pathway (PKHM) 251p
+    Check 
 1 Bear Umbra (ROE) 177
-1 Birds of Paradise (10E) 252
 1 Boneyard Lurker (IKO) 178
-1 Brokkos, Apex of Forever (PIKO) 179p
+1 Brokkos, Apex of Forever (IKO) 299
 1 Cavern Whisperer (IKO) 79
 1 Chittering Harvester (IKO) 288
 1 Command Tower (DMC) 204
-1 Dirge Bat (PIKO) 84p
+1 Dirge Bat (IKO) 386
 1 Dreamroot Cascade (VOW) 262
-1 Dryad Arbor (FUT) 174
 1 Evolving Wilds (M13) 224
-1 Flooded Grove (2XM) 318
-1 Followed Footsteps (CN2) 111
 1 Giant Inheritance (WOC) 17
-1 Homeward Path (LTC) 365
 1 Insatiable Hemophage (IKO) 290
 1 Mindleecher (C20) 44
-1 Nanogene Conversion (WHO) 49
-1 Poison Dart Frog (LCI) 207
 1 Quantum Misalignment (WHO) 52
-1 Rejuvenating Springs (CMR) 354
 1 Reliquary Tower (M13) 227
 1 Rogue's Passage (PLST) C17-272
-1 Sanctum Weaver (MH2) 171
 1 Sea-Dasher Octopus (IKO) 286 *F*
-1 Season of Growth (WOT) 61
-1 Simic Growth Chamber (CM2) 267
 1 Snake Umbra (UMA) 182
-1 Storm of Saruman (LTR) 72
-1 Tangled Florahedron / Tangled Vale (ZNR) 211
-1 Tender Wildguide (BLB) 196
 1 Undermountain Adventurer (CLB) 260
+    In 
+1 Alpha Authority (GTC) 114
+1 Birds of Paradise (10E) 252
+1 Nanogene Conversion (WHO) 49
+1 Poison Dart Frog (LCI) 207
+1 Season of Growth (WOT) 61
+1 Storm of Saruman (LTR) 72
+1 Tender Wildguide (BLB) 196
 1 Watchful Radstag (PIP) 335
-1 Yavimaya, Cradle of Growth (MH2) 261
     Out 
 Elvish Mystic 
 Incubation Druid 

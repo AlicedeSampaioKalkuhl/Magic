@@ -82,52 +82,44 @@ Kalamax, the Stormsire
 1 Witch's Web (VOW) 227 *F*
 1 Wort, the Raidmother (C20) 234
 1 Zada, Hedron Grinder (MUL) 25 *F*
-
-	In 
-1 Academy Ruins (TSP) 269
-1 Artificer Class (CLB) 663
-1 Brightcap Badger / Fungus Frolic (BLC) 28
-1 Commando Raid (ONS) 195
-1 Conqueror's Galleon / Conqueror's Foothold (XLN) 234
-1 Cryptolith Rite (SOI) 200
-1 Dreamroot Cascade (VOW) 262
-1 Echo Storm (MOC) 221
-1 Esika's Chariot (KHM) 169
-1 For the Common Good (BLB) 172
-1 Fully Grown (IKO) 154
-1 Hall of Tagsin (BRO) 263
+	Check 
 1 Heightened Reflexes (IKO) 123
-1 Hoard Hauler (SNC) 109
-1 Horned Loch-Whale / Lagoon Breach (WOE) 53
 1 Hunting Pack (IMA) 168
-1 Inventors' Fair (KLD) 247
-1 Jetfire, Ingenious Scientist / Jetfire, Air Guardian (BOT) 3
-1 Ketria Triome (PIKO) 250p
-1 Machine God's Effigy (BRC) 16
-1 March of Progress (BRC) 8
-1 Mirage Mockery (ONC) 22
-1 Mirrorworks (C18) 211
-1 Mizzium Tank (WAR) 138
-1 Moonshae Pixie / Pixie Dust (CLB) 84
-1 Orvar, the All-Form (KHM) 70
-1 Ram Through (J22) 91
-1 Replicating Ring (KHM) 244
-1 Roxanne, Starfall Savant (OTJ) 228
-1 Skyclave Relic (MOC) 380
-1 Stormcarved Coast (VOW) 265
-1 Sulfur Falls (ISD) 248
 1 Tanglepool Bridge (MH2) 257
 1 Temple of the False God (MKC) 305
 1 The Mycosynth Gardens (ONE) 256
 1 Thousand-Year Storm (2X2) 286
 1 Training Center (CMR) 358
-1 Treasure Vault (PAFR) 261p
-1 Tree of Tales (MRD) 285
 1 Unwind (DOM) 72
 1 Veyran, Voice of Duality (C21) 3 *F*
 1 Weather the Storm (MH1) 191
+	In 
+1 Artificer Class (CLB) 663
+1 Brightcap Badger / Fungus Frolic (BLC) 28
+1 Commando Raid (ONS) 195
+1 Conqueror's Galleon / Conqueror's Foothold (XLN) 234
+1 Cryptolith Rite (SOI) 200
+1 Echo Storm (MOC) 221
+1 Esika's Chariot (KHM) 169
+1 For the Common Good (BLB) 172
+1 Fully Grown (IKO) 154
+1 Hall of Tagsin (BRO) 263
+1 Hoard Hauler (SNC) 109
+1 Horned Loch-Whale / Lagoon Breach (WOE) 53
+1 Inventors' Fair (KLD) 247
+1 Jetfire, Ingenious Scientist / Jetfire, Air Guardian (BOT) 3
+1 Ketria Triome (PIKO) 250p
+1 March of Progress (BRC) 8
+1 Mirage Mockery (ONC) 22
+1 Mirrorworks (C18) 211
+1 Mizzium Tank (WAR) 138
+1 Moonshae Pixie / Pixie Dust (CLB) 84
+1 Ram Through (J22) 91
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Skyclave Relic (MOC) 380
+1 Tree of Tales (MRD) 285
 1 Worldwalker Helm (BIG) 7
-1 Yavimaya, Cradle of Growth (MH2) 261
+
 	Out 
 Empty the Warrens 
 Deluxe Draggster 

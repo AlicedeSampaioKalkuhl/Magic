@@ -29,11 +29,12 @@ Atla Palani, Nest Tender *F*
 1 Graypelt Refuge (C19) 249
 1 Gruul Turf (2X2) 407
 1 Guardian Augmenter (C21) 389
+1 Harmonic Prodigy (MH2) 132
 1 Hyrax Tower Scout (THB) 173
-1 Imposing Sovereign (M14) 22
 1 Kazandu Refuge (C13) 301
 1 Leonin Arbiter (2X2) 16
 1 Mage's Attendant (SNC) 21
+1 Marauding Raptor (LCC) 228
 1 Michiko Konda, Truth Seeker (SOK) 19
 1 Mirror Entity (CLB) 701
 4 Mountain (EVG) 61
@@ -73,15 +74,12 @@ Atla Palani, Nest Tender *F*
 1 Urabrask the Hidden (CLB) 811
 1 Vigor (LRW) 240
 1 Village Bell-Ringer (PLST) DDQ-22
-1 Vryn Wingmare (M21) 43
 1 Wandering Archaic / Explore the Vastlands (STX) 6 *F*
 1 Windborn Muse (C16) 80
 1 Yavimaya, Cradle of Growth (MH2) 261
 1 Zacama, Primal Calamity (LCC) 296
 1 Zhur-Taa Druid (GK2) 101
 	Check 
-1 Harmonic Prodigy (MH2) 132
-1 Marauding Raptor (LCC) 228
 	In 
 1 Ghalta, Stampede Tyrant (LCI) 185
 1 Ojer Kaslem, Deepest Growth / Temple of Cultivation (LCI) 204

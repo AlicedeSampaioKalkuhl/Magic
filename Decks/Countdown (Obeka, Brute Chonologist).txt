@@ -34,21 +34,16 @@
 1 The Master, Multiplied (WHO) 1020 *F*
 1 The Meep (SLD) 1581 *F*
 1 Urabrask's Forge (ONE) 153
-    In 
+    Check 
 1 Arcane Signet (MKC) 223
 1 Artificer Class (CLB) 663
 1 Ashenmoor Liege (2X2) 174
-1 Ashling, the Extinguisher (EVE) 33
 1 Blade of Selves (CLB) 301
 1 Bojuka Bog (MKC) 250
-1 Cabal Coffers (TOR) 139
 1 Cascade Bluffs (NCC) 390
-1 Cauldron Dance (C17) 166
 1 Command Tower (MKC) 256
 1 Crumbling Necropolis (LCC) 326
 1 Dimir Signet (CLU) 221
-1 Drowned Catacomb (XLN) 253
-1 Elemental Appeal (ZEN) 123
 1 Elemental Mastery (NEC) 105
 1 Encroaching Mycosynth (ONE) 47
 1 Exotic Orchard (MKC) 260
@@ -56,44 +51,38 @@
 1 Final Fortune (MIR) 173
 1 Flameshadow Conjuring (MOC) 280
 1 Gnoll War Band (CLB) 178
+1 Maestros Theater (SNC) 251
+1 Mirror March (RNA) 108
+1 Mishra, Eminent One (BRC) 48
+1 Reliquary Tower (MKC) 282
+1 Saheeli, the Sun's Brilliance (LCI) 239
+1 Sol Ring (PIP) 239
+1 Temple of the False God (MKC) 305
+1 Thousand-Year Elixir (C21) 271
+1 Tiamat's Fanatics (CLB) 202
+1 Twinflame (2X2) 129
+1 Underworld Breach (THB) 161
+1 Whip of Erebos (THS) 110
+1 Zealous Conscripts (MM3) 116
+    In 
+1 Ashling, the Extinguisher (EVE) 33
+1 Cabal Coffers (TOR) 139
+1 Cauldron Dance (C17) 166
+1 Elemental Appeal (ZEN) 123
 1 Goryo's Vengeance (UMA) 99
 1 Graven Cairns (FUT) 175
 1 Gruesome Encore (MBS) 44
 1 Heat Shimmer (2XM) 130
 1 Ilharg, the Raze-Boar (RVR) 113
-3 Island (OTJ) 273
-1 Luxury Suite (CLB) 355
 1 Macabre Mockery (RNA) 191
-1 Maestros Theater (SNC) 251
 1 Minamo, School at Water's Edge (CHK) 279
-1 Mirror Box (NEO) 250
-1 Mirror March (RNA) 108
-1 Mishra, Eminent One (BRC) 1
 1 Molten Duplication (BIG) 79
 1 Mordor on the March (LTC) 512
-1 Morphic Pool (CLB) 357
-3 Mountain (OTJ) 275
 1 Rakshasa Debaser (CMR) 146
-1 Reliquary Tower (MKC) 282
 1 Rionya, Fire Dancer (C21) 55
-1 Saheeli, the Sun's Brilliance (LCI) 239
 1 Sedris, the Traitor King (2X2) 274
-1 Shipwreck Marsh (MID) 267
 1 Slave of Bolas (E01) 86
 1 Sneak Attack (DMR) 139
-1 Sol Ring (PIP) 239
 1 Splinter Twin (MM2) 129
-1 Stormcarved Coast (VOW) 265
 1 Sunken Ruins (SHM) 280
-3 Swamp (OTJ) 274
-1 Temple of the False God (MKC) 305
-1 Thousand-Year Elixir (C21) 271
-1 Tiamat's Fanatics (CLB) 202
-1 Training Center (CMM) 434
-1 Twinflame (2X2) 129
-1 Underworld Breach (THB) 161
-1 Urborg, Tomb of Yawgmoth (TSR) 287
 1 Warchief Giant (CM2) 127
-1 Whip of Erebos (THS) 110
-1 Xander's Lounge (SNC) 260
-1 Zealous Conscripts (MM3) 116

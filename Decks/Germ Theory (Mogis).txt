@@ -1,39 +1,41 @@
 Mogis, God of Slaughter 
-Batterbone 
-Batterskull 
-Bitterthorn, Nissa's Animus 
-Bonehoard 
-Cranial Ram 
-Drossclaw 
-Flayer Husk 
-Kaldra Compleat 
-Lashwrite 
-Mortarpod 
-Necropouncer 
-Nettlecyst 
-Scytheclaw 
-Sickleslicer 
-Skinwing 
-Strandwalker 
-Cryptolith Fragment 
-Crawlspace 
-Dingus Staff 
-Ensnaring Bridge 
-God-Pharaoh's Statue 
-Whip of Erebos 
-Bolas's Citadel 
-Barbed Batterfist 
-Dragonwing Glider 
-Hexgold Halberd 
-Hexplate Wallbreaker 
-Vulshok Splitter 
-Birthing Boughs 
-Charisma Bobblehead 
-Agility Bobblehead 
-Endurance Bobblehead 
-Intelligence Bobblehead 
-Luck Bobblehead 
-Perception Bobblehead 
-Strength Bobblehead 
-Mirrorworks 
-Replicating Ring 
+    Check 
+1 Agility Bobblehead (PIP) 126
+1 Barbed Batterfist (ONE) 121
+1 Batterbone (MH2) 221
+1 Batterskull (PLST) NPH-130
+1 Bitterthorn, Nissa's Animus (MOC) 45
+1 Bolas's Citadel (PWAR) 79p
+1 Bonehoard (PLST) CMA-211
+1 Charisma Bobblehead (PIP) 130
+1 Cryptolith Fragment / Aurora of Emrakul (EMN) 193
+1 Endurance Bobblehead (PIP) 132
+1 Flayer Husk (2XM) 256
+1 God-Pharaoh's Statue (WAR) 238
+1 Hexgold Halberd (ONE) 136
+1 Hexplate Wallbreaker (ONC) 14
+1 Intelligence Bobblehead (PIP) 134
+1 Luck Bobblehead (PIP) 135
+1 Mortarpod (MM2) 222
+1 Nettlecyst (MKC) 233
+1 Perception Bobblehead (PIP) 139
+1 Replicating Ring (KHM) 244
+1 Scytheclaw (ZNC) 118
+1 Strength Bobblehead (PIP) 143
+1 Vulshok Splitter (ONE) 156
+1 Whip of Erebos (THS) 110
+    In 
+1 Birthing Boughs (PLST) MH1-221
+1 Cranial Ram (MH3) 180
+1 Dingus Staff (WTH) 149
+1 Dragonwing Glider (ONE) 128
+1 Drossclaw (MH3) 89
+1 Ensnaring Bridge (8ED) 300
+1 Kaldra Compleat (CMM) 958
+1 Lashwrithe (NPH) 143
+1 Mirrorworks (BRC) 149
+1 Necropouncer (NPH) 147
+1 Sickleslicer (MM2) 228
+1 Skinwing (2XM) 288
+1 Strandwalker (MBS) 137
+    Out 

@@ -93,12 +93,13 @@
 1 Wrathful Raptors (LCC) 88
 1 Zenith Flare (IKO) 217
 1 Zetalpa, Primal Dawn (C21) 112
+    Check 
+1 Jace's Erasure (M11) 59
     In 
 1 Altar of the Brood (KTK) 216
 1 Archive Trap (ZEN) 41
 1 Astral Slide (ONS) 4
 1 Complicate (ONS) 76
-1 Cut Your Losses (PSNC) 38p
 1 Decree of Silence (SCG) 32
 1 Deem Worthy (AKH) 127
 1 Djeru's Resolve (AKH) 11
@@ -107,8 +108,6 @@
 1 Huatli, Dinosaur Knight (XLN) 285 *F*
 1 Hunting Velociraptor (REX) 4
 1 Imposing Vantasaur (IKO) 17
-1 Jace's Erasure (M11) 59
-1 Maddening Cacophony (PZNR) 67p
 1 Marauding Brinefang (LCI) 64
 1 Perilous Landscape (MH3) 223
 1 Raugrin Triome (PIKO) 251p
@@ -116,7 +115,6 @@
 1 Soaring Sandwing (LCI) 35
 1 Swooping Pteranodon (REX) 19
 1 Tectonic Reformation (C20) 162
-1 Traumatize (10E) 119
 1 Trumpeting Carnosaur (LCI) 171
 1 Yidaro, Wandering Monster (IKO) 141
 

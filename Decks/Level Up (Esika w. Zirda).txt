@@ -1,124 +1,132 @@
     Esika with 1 Zirda, the Dawnwaker (MUL) 65 *F*
-1 Frodo, Sauron's Bane (LTR) 448 *F*
-1 Hexdrinker (SLD) 1222 *F*
-1 Inquisitor Greyfax (40K) 3 *F*
-1 Mina and Denn, Wildborn (SLD) 1270 *F*
-1 Thrasios, Triton Hero (CMR) 538 *E*
-    In 
-1 Aetherflux Reservoir (BRR) 2
-1 Alpine Meadow (KHM) 248
+1 Aetherflux Reservoir (KLD) 192
+1 Alpine Meadow (KHM) 248 *F*
 1 Arctic Flats (CSP) 143
-1 Arctic Treeline (KHM) 249
-1 Arwen Undómiel (LTR) 194
-1 Ascendant Spirit (PKHM) 43p
+1 Ascendant Spirit (KHM) 43
+1 Atla Palani, Nest Tender (SLD) 1397
 1 Bard Class (PAFR) 217p
 1 Biomancer's Familiar (RNA) 158
-1 Blessing of Frost (KHM) 161
-1 Blightstep Pathway / Searstep Pathway (KHM) 252
+1 Blessing of Frost (KHM) 362 *F*
 1 Blood on the Snow (PKHM) 79p
 1 Boreal Druid (CSP) 105
 1 Boreal Shelf (CSP) 144
-1 Caustic Caterpillar (ORI) 170
-1 Chromatic Lantern (BRR) 73
-1 Coldsteel Heart (2X2) 301
-1 Coralhelm Commander (ROE) 57
-1 Crab Umbra (ROE) 58
-1 Dark Depths (DMR) 244
-1 Darkbore Pathway / Slitherbore Pathway (KHM) 254
-1 Daxos the Returned (PLIST) 487
-1 Derevi, Empyrial Tactician (C13) 186
-1 Dynaheir, Invoker Adept (CLB) 273
-1 Evolved Sleeper (DMU) 402
-1 Experiment Kraj (CMM) 337
+1 Chromatic Lantern (BRR) 10
+1 Coldsteel Heart (2X2) 301 *F*
+1 Crystal Quarry (DMC) 206
+1 Dark Depths (DMR) 454
+1 Dynaheir, Invoker Adept (CLB) 532 *E*
+1 Evolved Sleeper (DMU) 93
 1 Faceless Haven (PKHM) 255p
+1 Fain, the Broker (OTC) 133
 1 Figure of Destiny (2X2) 213
-1 Freed from the Real (SOK) 38
-1 Frodo, Sauron's Bane (LTR) 18
+1 Frodo, Sauron's Bane (LTR) 448 *F*
 1 Frost Marsh (CSP) 146
 1 Glacial Floodplain (KHM) 257
 1 Glittering Frost (KHM) 171
-1 Great Hall of the Citadel (LTR) 254
-1 Gretchen Titchwillow (AFR) 223
-1 Hada Spy Patrol (ROE) 71
+1 Gretchen Titchwillow (AFR) 223 *F*
+1 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun (LCI) 188
 1 Hedron-Field Purists (ROE) 25
-1 Heliod, God of the Sun (THS) 17
+1 Heroes' Podium (WHO) 242 *F*
+1 Hexdrinker (SLD) 1222 *F*
 1 Highland Forest (KHM) 261
 1 Highland Weald (CSP) 147
-1 Hythonia the Cruel (THS) 91
 1 Ice Tunnel (KHM) 262
-1 Inga and Esika (MOM) 229
 1 Inquisitor Greyfax (40K) 3 *F*
-1 Ioreth of the Healing House (LTR) 56
-1 Isu the Abominable (J22) 12
-1 Jazal Goldmane (CLB) 697
-1 Jenara, Asura of War (NCC) 343
-1 Jenson Carthalion, Druid Exile (DMC) 3
-1 Jhoira of the Ghitu (DDS) 1 *F*
-1 Jolrael, Mwonvuli Recluse (M21) 376
-1 Jorn, God of Winter / Kaldring, the Rimestaff (KHM) 317
-1 K-9, Mark I (WHO) 47
-1 Kabira Vindicator (DDG) 16
-1 Kelpie Guide (STX) 45
-1 Kenrith, the Returned King (ELD) 303
+1 Jegantha, the Wellspring (MUL) 44 *F*
+1 Jenson Carthalion, Druid Exile (DMC) 3 *F*
+1 Jorn, God of Winter / Kaldring, the Rimestaff (KHM) 179 *F*
+1 K-9, Mark I (WHO) 537
+1 Kabira Vindicator (ROE) 28
+1 Kelpie Guide (STX) 45 *F*
 1 Kinnan, Bonder Prodigy (IKO) 192
 1 Knight of Cliffhaven (ROE) 29
-1 Leyline of Abundance (M20) 179
-1 Lighthouse Chronologist (ROE) 75
-1 Maeve, Insidious Singer (GN3) 2 *F*
-1 Marneus Calgar (40K) 8 *F*
+1 Kolvori, God of Kinship / The Ringhart Crest (KHM) 318
+1 Leyline of Abundance (WOT) 56
+1 Manascape Refractor (C20) 68
+1 Manifold Key (CLB) 319
 1 Mina and Denn, Wildborn (SLD) 1270 *F*
 1 Mouth of Ronom (CSP) 148
 1 Najeela, the Blade-Blossom (SLD) 1032
+1 Narfi, Betrayer King (KHM) 224
 1 Nirkana Cutthroat (ROE) 119
-1 Nylea, Keen-Eyed (PTHB) 185s *F*
-1 Paladin Class (AFR) 29
+1 Nylea, Keen-Eyed (THB) 266
 1 Pemmin's Aura (SCG) 45
-1 Purphoros, God of the Forge (MB1) 1029
-1 Radha, Heart of Keld (PM21) 224p
-1 Ranger Class (AFR) 202
+1 Pharika, God of Affliction (SLD) 82 *F*
 1 Replicating Ring (KHM) 244
+1 Rime Tender (MH1) 176
+1 Rimefeather Owl (CSP) 42
 1 Rimewood Falls (KHM) 266
-1 Rogue Class (AFR) 230
-1 Rona, Herald of Invasion / Rona, Tolarian Obliterator (MOM) 75
-1 Samut, Voice of Dissent (AKH) 205
-1 Scrying Sheets (CSP) 149
 1 Sculptor of Winter (KHM) 193
-1 Shalai, Voice of Plenty (PDOM) 35p
-1 Shelob, Dread Weaver (LTC) 112
-1 Shimmerdrift Vale (KHM) 267
+1 Shalai, Voice of Plenty (WOC) 74
+1 Shimmerdrift Vale (KHM) 267 *F*
+1 Sisay, Weatherlight Captain (MH1) 29
 1 Skywatcher Adept (ROE) 88
 2 Snow-Covered Forest (MH1) 254
-2 Snow-Covered Island (MH1) 251
-2 Snow-Covered Mountain (MH1) 253
-2 Snow-Covered Plains (MH1) 250
+1 Snow-Covered Forest (SLD) 1477
+1 Snow-Covered Island (MH1) 251
+1 Snow-Covered Island (SLD) 1474
+1 Snow-Covered Mountain (MH1) 253
+1 Snow-Covered Mountain (SLD) 1476
+1 Snow-Covered Plains (MH1) 250
+1 Snow-Covered Plains (SLD) 1473
 2 Snow-Covered Swamp (MH1) 252
-1 Snowfield Sinkhole (KHM) 269
-1 Stenn, Paranoid Partisan (DMU) 221
-1 Student of Warfare (PLIST) 511
+1 Snow-Covered Swamp (SLD) 1475
+1 Snowfield Sinkhole (CLB) 915
+1 Student of Warfare (PLST) ROE-47
 1 Sulfurous Mire (KHM) 270
 1 Surge Engine (BRO) 81
 1 Svella, Ice Shaper (KHM) 331
-1 Svella, Ice Shaper (KHM) 230
-1 Sydri, Galvanic Genius (C13) 220
 1 Targ Nar, Demon-Fang Gnoll (AFR) 234
-1 The Enigma Jewel / Locus of Enlightenment (LCI) 55
-1 Thrasios, Triton Hero (PZ2) 47
-1 Timeless Lotus (PDMU) 239p
-1 Training Grounds (MAT) 9
-1 Transcendent Master (ROE) 51
+1 Tazri, Stalwart Survivor (MAT) 56 *F*
+1 Thassa, Deep-Dwelling (SLD) 1279
+1 Thassa, God of the Sea (LCC) 176
+1 The Locust God (SLD) 903 *F*
+1 The Pride of Hull Clade (MKM) 172
+1 The World Tree (SLD) 1266 *F*
+1 Thespian's Stage (WHO) 323 *F*
 1 Tresserhorn Sinks (CSP) 150
 1 Urza, Prince of Kroog (BRO) 296
-1 Valki, God of Lies / Tibalt, Cosmic Impostor (KHM) 308
-1 Varragoth, Bloodsky Sire (KHM) 309
 1 Vigean Graftmage (DIS) 35
-1 Vito, Thorn of the Dusk Rose (J22) 487
-1 Volatile Fjord (KHM) 273
-1 Volrath, the Shapestealer (C19) 51 *F*
-1 Walking Ballista (AER) 181
+1 Volatile Fjord (KHM) 273 *F*
 1 Warden of the First Tree (FRF) 143
 1 Woodland Chasm (KHM) 274
-1 Zacama, Primal Calamity (RIX) 174
-1 Zopandrel, Hunger Dominus (ONE) 195
+1 Zopandrel, Hunger Dominus (ONE) 315
+    Check 
+1 Erebos, Bleak-Hearted (CMM) 868
+1 Great Hall of the Citadel (LTR) 254
+1 Hada Spy Patrol (C13) 46
+1 Heliod, God of the Sun (CMM) 826
+1 Ioreth of the Healing House (LTR) 56
+1 Jazal Goldmane (CLB) 697
+1 Kefnet the Mindful (DSC) 118
+1 Shelob, Dread Weaver (LTC) 29
+1 The Scorpion God (SLD) 904 *F*
+1 Zirda, the Dawnwaker (IKO) 233
+    In 
+1 Anzrag, the Quake-Mole (MKM) 186
+1 Arctic Treeline (KHM) 249
+1 Bontu the Glorified (AKH) 82
+1 Crab Umbra (ROE) 58
+1 Freed from the Real (SOK) 38 #undefined
+1 Ghired, Mirror of the Wilds (OTJ) 351
+1 Hazoret the Fervent (AKH) 136
+1 Heliod, the Radiant Dawn / Heliod, the Warped Eclipse (MOM) 17
+1 Hythonia the Cruel (THS) 91
+1 Isu the Abominable (J22) 12
+1 Lighthouse Chronologist (ROE) 75
+1 Oketra the True (AKH) 21
+1 Paladin Class (AFR) 29
+1 Purphoros, Bronze-Blooded (THB) 150
+1 Purphoros, God of the Forge (PLST) THS-135
+1 Radha, Heart of Keld (PM21) 224p
+1 Ranger Class (AFR) 202
+1 Rhonas the Indomitable (J22) 719
+1 Rogue Class (AFR) 230
+1 Samut, Voice of Dissent (AKH) 205
+1 Scrying Sheets (CSP) 149
+1 The Enigma Jewel / Locus of Enlightenment (LCI) 55
+1 Transcendent Master (ROE) 51
+1 Varragoth, Bloodsky Sire (KHM) 309
     Out 
 Caustic Catapillar 
 Stenn, Paranoid Partisan 
@@ -128,7 +136,5 @@ Daxos, the Returned
 Derevi, Empyrial Tactitian 
 Jenara, Asura of War 
 Vigean Graftmage 
-Biomancer's Familiar 
-Isu the Abominable 
 Crab Umbra 
     Tokens 

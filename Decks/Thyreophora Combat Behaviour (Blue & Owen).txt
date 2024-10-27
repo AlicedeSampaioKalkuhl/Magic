@@ -12,80 +12,67 @@
 1 Shifting Ceratops (LCC) 258
 1 Tranquil Frillback (MAT) 24
 
-    In
-1 Agent's Toolkit (NCC) 66
-1 Arena (TSB) 117
-1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180
+    Check 
 1 Baral's Expertise (AER) 29
-1 Bonders' Enclave (PIKO) 245p
-1 Castle Garenbrig (PELD) 240p
-1 Cavern of Souls (UMA) 237
-1 Charging Tuskodon (RIX) 97
 1 Choose Your Weapon (AFR) 175
 1 Clash of Titans (IKO) 111
 1 Command Tower (NCC) 395
-1 Contagion Engine (SOM) 145
 1 Cultivate (M11) 168
-1 Decanter of Endless Water (CLB) 444
 1 Diamond City (PIP) 147
-1 Dinotomaton (LCI) 144
 1 Displaced Dinosaurs (WHO) 100
-1 Domri, Anarch of Bolas (PWAR) 191p
-1 Elminster's Simulacrum (CLB) 68
 1 Entish Restoration (LTR) 163
 1 Eureka Moment (STX) 184
 1 Exotic Orchard (AFC) 236
-6 Forest (LCI) 291
 1 Frontier Bivouac (MOC) 402
-1 Growing Rites of Itlimoc / Itlimoc, Cradle of the Sun (LCI) 188
 1 Hadana's Climb / Winged Temple of Orazca (RIX) 158
 1 Harrow (DDE) 57
 1 Inexorable Tide (PIP) 177
-4 Island (LCI) 288
-1 Kalamax, the Stormsire (SPG) 13
 1 Kari Zev's Expertise (AER) 88
-1 Ketria Triome (PIKO) 250p
 1 Khalni Ambush / Khalni Territory (ZNR) 192
-1 Kiora, Master of the Depths (BFZ) 213
 1 Kodama's Reach (UMA) 171
 1 Last March of the Ents (LTR) 418
 1 Monster Manual / Zoological Study (PCLB) 242s *F*
-4 Mountain (LCI) 290
 1 Mutational Advantage (PIP) 111
 1 Overgrown Armasaur (PLST) RIX-141
 1 Path of Ancestry (MOC) 418
-1 Pyromancer's Goggles (C21) 259
 1 Quartzwood Crasher (LCC) 281
 1 Raise the Palisade (LTC) 23
 1 Rampaging Ceratops (LCI) 322
-1 Rampaging Geoderm (MOM) 251
 1 Reflections of Littjara (CLB) 733
 1 Regal Behemoth (LCC) 251
 1 Rishkar's Expertise (NEC) 127
 1 Rogue's Passage (PIP) 283
+1 Secluded Courtyard (LCC) 350
+1 Shadow in the Warp (40K) 140
+1 Stampeding Horncrest (RIX) 116
+1 Swift Kick (KTK) 122
+1 Temple of the False God (MKC) 305
+1 Temur Charm (KTK) 208
+1 Titanoth Rex (IKO) 174
+1 Twinning Staff (C20) 70
+1 Tyrite Sanctum (PKHM) 272p
+1 Unclaimed Territory (LCC) 366
+1 Valakut Awakening / Valakut Stoneforge (PZNR) 174s *F*
+1 Welcome to . . . / Jurassic Park (REX) 7
+    In
+1 Arena (TSB) 117
+1 Bonders' Enclave (PIKO) 245p
+1 Castle Garenbrig (PELD) 240p
+1 Cavern of Souls (UMA) 237
+1 Charging Tuskodon (RIX) 97
+1 Dinotomaton (LCI) 144
+1 Domri, Anarch of Bolas (PWAR) 191p
+1 Elminster's Simulacrum (CLB) 68
+1 Kalamax, the Stormsire (SPG) 13
+1 Kiora, Master of the Depths (BFZ) 213
+1 Rampaging Geoderm (MOM) 251
 1 Savage Order (REX) 32 *F*
 1 Savage Stomp (JMP) 427
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
-1 Search for Tomorrow (PLST) IMA-185
-1 Secluded Courtyard (LCC) 350
-1 Shadow in the Warp (40K) 140
 1 Spike-Tailed Ceratops (XLN) 209
-1 Stampeding Horncrest (RIX) 116
-1 Stolen Identity (NCC) 233
-1 Swift Kick (KTK) 122
-1 Temple of the False God (MKC) 305
 1 Temur Ascendancy (PKTK) 207p
-1 Temur Charm (KTK) 208
 1 That Which Was Taken (PLST) BOK-162
 1 The Great Henge (PELD) 161p
 1 The Skullspore Nexus (LCI) 212
-1 Titanoth Rex (IKO) 174
 1 Traverse the Outlands (CLB) 258
-1 Twinning Staff (C20) 70
-1 Tyrite Sanctum (PKHM) 272p
-1 Uncivil Unrest (MOC) 35
-1 Unclaimed Territory (LCC) 366
-1 Valakut Awakening / Valakut Stoneforge (PZNR) 174s *F*
-1 Venture Forth (CLB) 683
-1 Welcome to . . . / Jurassic Park (REX) 7
 1 Zendikar Resurgent (OGW) 147

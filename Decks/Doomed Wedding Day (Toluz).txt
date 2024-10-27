@@ -3,6 +3,7 @@
 1 Arcane Signet (P30M) 1F★ *E*
 1 Archivist of Oghma (CLB) 4
 1 Bile Blight (40K) 195
+1 Borne Upon a Wind (LTR) 44
 1 Brainstorm (2XM) 44
 1 Cabal Ritual (TOR) 51
 1 Chrome Mox (SLC) 2003
@@ -21,6 +22,7 @@
 1 Doomsday (6ED) 121
 1 Doorkeeper Thrull (MKM) 13 *F*
 1 Drannith Magistrate (PIKO) 11p
+1 Eiganjo, Seat of the Empire (NEO) 268
 1 Emergence Zone (WAR) 245
 1 Enlightened Tutor (DMR) 412
 1 Esper Sentinel (MH2) 12
@@ -39,12 +41,10 @@
 1 Hallowed Fountain (RTR) 241
 1 Island (SNC) 275
 1 Jace, Wielder of Mysteries (PWAR) 54p
-1 Jeweled Lotus (CMR) 319
 1 Ledger Shredder (SNC) 412
 1 Lion's Eye Diamond (VMA) 271
 1 Lotus Petal (TMP) 294
 1 Mana Confluence (SLD) 1012a
-1 Mana Crypt (PLST) EMA-225
 1 March of Swirling Mist (PNEO) 61p
 1 Marsh Flats (MH2) 248
 1 Mental Misstep (NPH) 38
@@ -62,11 +62,11 @@
 1 Otawara, Soaring City (NEO) 414
 1 Pact of Negation (TSR) 77
 1 Permission Denied (REX) 42 *F*
-1 Phyrexian Tower (UMA) 248
+1 Phyrexian Tower (USG) 322
 1 Plains (SNC) 273 *F*
 1 Polluted Delta (KTK) 239
 1 Praetor's Grasp (NPH) 71
-1 Rain of Filth (USG) 151
+1 Rain of Filth (SLD) 1547
 1 Ranger-Captain of Eos (MH1) 21
 1 Reanimate (TMP) 151
 1 Rhystic Study (J22) 114
@@ -82,6 +82,7 @@
 1 Snow-Covered Swamp (MH1) 252
 1 Sol Ring (SLD) 1011
 1 Spell Snare (DIS) 33
+1 Spymaster's Vault (MH3) 230
 1 Swamp (SNC) 276
 1 Swan Song (LTC) 197
 1 Swords to Plowshares (BRC) 75
@@ -89,7 +90,6 @@
 1 Talisman of Progress (MRD) 256
 1 Thassa's Oracle (SLD) 1280
 1 The One Ring (LTR) 451 *F*
-1 Touch the Spirit Realm (NEO) 40
 1 Trouble in Pairs (MKC) 15
 1 Tundra (VMA) 322
 1 Underground Sea (VMA) 323
@@ -100,8 +100,7 @@
 1 Yahenni's Expertise (PAER) 75 *F*
 
     In 
-1 Gemstone Caverns (TSP) 274
-1 Spymaster's Vault (MH3) 230
+1 Flare of Denial (MH3) 62
 1 Supreme Verdict (CLU) 211
     Out 
 

@@ -34,7 +34,6 @@
 1 Irrigated Farmland (WHO) 288
 5 Island (LCI) 288
 1 Kinnan, Bonder Prodigy (IKO) 192
-1 Kiora, Behemoth Beckoner (WAR) 232
 1 Kiora's Follower (PBNG) 150
 1 Kozilek, the Great Distortion (SLD) 493
 1 Kozilek's Predator (PLST) MM2-147
@@ -53,7 +52,7 @@
 4 Plains (LCI) 287
 1 Prime Speaker Vannifar (RNA) 195
 1 Reclusive Taxidermist (VOW) 340 *F*
-1 Regal Behemoth (LCC) 251
+1 Regal Behemoth (CMM) 651
 1 Rogue's Passage (MKC) 284
 1 Savior of Ollenbock (VOW) 330 *F*
 1 Scattered Groves (WHO) 1103 *F*
@@ -77,6 +76,7 @@
 1 Tranquil Thicket (C21) 408
 1 Ulamog, the Ceaseless Hunger (SLD) 1122
 1 Undercity Upheaval (MAT) 125 *E*
+1 Vaultborn Tyrant (BIG) 20
 1 Vizier of Many Faces (MKC) 123
 1 Vizier of Tumbling Sands (AKH) 75
 1 Warden of Geometries (OGW) 11
@@ -106,7 +106,6 @@
 1 Sunken Citadel (LCI) 285
 1 The Everflowing Well / The Myriad Pools (LCI) 56
 1 Tribute to the World Tree (MOM) 211
-1 Vaultborn Tyrant (BIG) 20
 1 Void Winnower (BFZ) 17
     In 
 1 Bant Sojourners (ARB) 125

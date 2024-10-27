@@ -1,0 +1,104 @@
+    Anhelo, the Painter 
+1 A Little Chat (SNC) 47 *F*
+1 Academic Dispute (STX) 91
+1 Arcane Subtraction (STX) 36
+1 Arclight Phoenix (SLC) 2018
+1 Ashcloud Phoenix (MKC) 147
+1 Big Score (SNC) 102
+1 Bloodfeather Phoenix (MOM) 132 *F*
+1 Command Tower (NEC) 167
+1 Cormela, Glamour Thief (SNC) 301
+1 Crumbling Necropolis (WHO) 268
+1 Dark Ritual (MIR) 116
+1 Deadly Dispute (AFR) 94
+1 Dig Through Time (DSC) 115
+1 Divide by Zero (STX) 41
+1 Draconic Intervention (STX) 96
+1 Drawn from Dreams (NCC) 220
+1 Enthusiastic Study (STX) 99
+1 Exotic Orchard (DSC) 275
+1 Experimental Overload (M21) 218
+1 Exsanguinate (CMM) 638
+1 Eyetwitch (STX) 70
+1 Fae of Wishes / Granted (ELD) 282
+1 Finale of Promise (WAR) 127
+1 First Day of Class (STX) 102
+1 Frantic Search (DMR) 51
+1 Galazeth Prismari (STX) 281
+1 Galvanic Iteration (MID) 224
+1 Gandalf's Sanction (LTR) 208
+1 Goblin Electromancer (NCC) 341
+1 Hit the Mother Lode (LCI) 404 *F*
+1 Hostile Hostel / Creeping Inn (MID) 264
+1 Hunt for Specimens (STX) 73
+1 Igneous Inspiration (STX) 107
+1 Illicit Shipment (SNC) 83
+1 Illuminate History (STX) 312 *F*
+1 Join the Maestros (SNC) 85
+1 Lier, Disciple of the Drowned (MID) 59
+1 Light 'Em Up (SNC) 113
+1 Maestros Ascendancy (SNC) 316 *F*
+1 Maestros Charm (SNC) 317
+1 Maestros Confluence (NCC) 75
+1 Magnus the Red (40K) 131
+1 Mana Geyser (5DN) 75
+1 Mercurial Transformation (STX) 47
+1 Nemesis Phoenix (CLB) 403
+1 Poet's Quill (STX) 82 *F*
+1 Pop Quiz (STX) 49
+1 Rekindling Phoenix (NCC) 273
+1 Rooftop Nuisance (SNC) 57
+1 Rotten Reunion (MID) 119
+1 Sedgemoor Witch (STX) 86 *F*
+1 Seize the Storm (MID) 158
+1 Snap (WOC) 110
+1 Sol Ring (DSC) 94
+1 Squee, the Immortal (NCC) 275
+1 Startle (MID) 78
+1 Syrix, Carrier of the Flame (NCC) 80
+1 Talrand, Sky Summoner (CMM) 673
+1 Teach by Example (STX) 241
+1 The Monumental Facade (ONE) 255
+1 Tragic Slip (PLST) C14-167
+1 Wish (AFR) 382 *F*
+1 Young Pyromancer (SS3) 8
+
+
+    Lessons 
+1 Confront the Past (STX) 67
+1 Elemental Summoning (STX) 183
+1 Environmental Sciences (STX) 1
+1 Expanded Anatomy (STX) 2
+1 Introduction to Annihilation (STX) 3
+1 Introduction to Prophecy (STX) 4
+1 Mascot Exhibition (STX) 5 *F*
+1 Necrotic Fumes (STX) 78
+1 Start from Scratch (STX) 114
+1 Teachings of the Archaics (STX) 299
+
+    In 
+1 Back from the Brink (ISD) 44
+1 Beacon Bolt (GRN) 154
+1 Burning Wish (CN2) 152
+1 Cast Through Time (ROE) 55
+1 Collected Conjuring (MH1) 196
+1 Cosmic Epiphany (DMU) 283
+1 Cunning Wish (JUD) 37
+1 Cut / Ribbons (AKH) 223
+1 Death Wish (JUD) 64
+1 Dream Strix (STX) 42
+1 Dual Casting (AVR) 133
+1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
+1 Malicious Affliction (C14) 25
+1 Mastermind's Acquisition (RIX) 77
+1 Muse Vortex (C21) 28
+1 Necromantic Summons (ORI) 110
+1 Ral, Crackling Wit (BLB) 230
+1 Refuse / Cooperate (C19) 199
+1 Retriever Phoenix (STX) 113
+1 Skyfire Phoenix (C19) 28
+1 Surge to Victory (C21) 58
+1 Unexpected Windfall (AFR) 164
+1 Volcanic Vision (C16) 137
+1 Wild Ricochet (M14) 162
+1 Wither and Bloom (MH3) 111

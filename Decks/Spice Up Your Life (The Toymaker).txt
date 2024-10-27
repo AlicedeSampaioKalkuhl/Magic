@@ -1,92 +1,73 @@
     The Toymaker 
+1 Atemsis, All-Seeing (M20) 46 *F*
+1 Atris, Oracle of Half-Truths (MUL) 34
+1 Conundrum Sphinx (M11) 51 *F*
+1 Dazzling Sphinx (OTC) 93
+1 Donal, Herald of Wings (VOC) 3 *F*
+1 Dream Trawler (THB) 214
+1 Enigma Sphinx (PCA) 89
 1 Errant and Giada (MOM) 306
+1 Fight or Flight (INV) 16
+1 Jeskai Infiltrator (FRF) 36
+1 Jubilant Skybonder (IKO) 223 *F*
 1 Raffine, Scheming Seer (SNC) 327
 1 Serra the Benevolent (SLD) 1252
 1 Sharuum the Hegemon (BRC) 128
+1 Unesh, Criosphinx Sovereign (HOU) 52
 1 Watcher of the Spheres (M21) 227
+1 Windreader Sphinx (JMP) 194
 1 Yennett, Cryptic Sovereign (C18) 51 *F*
-    In 
-1 Ancient Brass Dragon (CLB) 111
+    Check 
+1 Ancient Brass Dragon (CLB) 367
 1 Arbiter of the Ideal (BNG) 31
 1 Arcane Sanctum (MOC) 390
 1 Arcane Signet (OTC) 252
-1 Atemsis, All-Seeing (M20) 46
-1 Atris, Oracle of Half-Truths (THB) 209
 1 Bojuka Bog (OTC) 273
-1 Bond of Revival (WAR) 80
 1 Boneyard Parley (C19) 107
-1 Brilliant Ultimatum (ALA) 159
 1 Carmen, Cruel Skymarcher (LCC) 5 *F*
-1 Chancellor of the Spires (NPH) 31
 1 Command Tower (OTC) 280
-1 Conundrum Sphinx (C18) 84
-1 Crucible of Worlds (2X2) 303
-1 Dazzling Sphinx (OTC) 93
 1 Decanter of Endless Water (CLB) 309
-1 Defiler of Dreams (DMU) 46
-1 Deserted Beach (MID) 260
-1 Do or Die (INV) 102
-1 Donal, Herald of Wings (VOC) 3
 1 Dread Return (CMM) 153
-1 Dream Trawler (THB) 214
-1 Drowned Catacomb (OTC) 290
-1 Emeria, the Sky Ruin (SLD) 1291
-1 Enigma Sphinx (PCA) 89
-1 Epiphany at the Drownyard (SOI) 59
 1 Fact or Fiction (CMM) 91
-1 Fight or Flight (INV) 16
-1 Fortune's Favor (EMN) 61
-1 Ghastly Conscription (C19) 115
-1 Glacial Fortress (PIP) 266
-1 Godless Shrine (GTC) 242
-1 Hallowed Fountain (RTR) 241
 1 Hedron Archive (MOC) 359
-4 Island (SNC) 275
-1 Isolated Chapel (OTC) 301
 1 Jace, Architect of Thought (NEC) 93
-1 Jeskai Infiltrator (C18) 93
-1 Jubilant Skybonder (IKO) 223
-1 Liar's Pendulum (MRD) 196
 1 Make an Example (NCC) 37
-1 Manifold Insights (CM2) 44
-1 Master of Predicaments (M15) 67
-1 Meticulous Archive (MKM) 264
-1 Morphic Pool (CLB) 357
-1 Necromantic Thirst (CNS) 119
 1 Obscura Charm (SNC) 208
 1 Obscura Confluence (NCC) 76
 1 Ornithopter of Paradise (MH2) 232 *F*
-4 Plains (SNC) 273
 1 Port of Karfell (MKC) 280
-1 Raffine's Tower (SNC) 353
-1 Rally of Wings (WAR) 27
-1 Ravos, Soultender (CMR) 533 *E*
-1 Reanimate (MKC) 137
 1 Reliquary Tower (OTC) 312
 1 Replicating Ring (KHM) 244
-1 Rodolf Duskbringer (J22) 25
 1 Rogue's Passage (OTC) 313
 1 Sauron's Ransom (LTR) 225
-1 Scholar of the Lost Trove (JMP) 14
-1 Sea of Clouds (CLB) 360
 1 Shadowy Backstreet (MKM) 268
-1 Sheoldred, Whispering One (JMP) 278
-1 Shipwreck Marsh (MID) 267
 1 Sol Ring (OTC) 267
-1 Sphinx of Foresight (RNA) 55
-1 Sphinx of Uthuun (CMR) 406
-1 Stormscape Familiar (TSB) 32
-4 Swamp (SNC) 276
 1 Temple of the False God (OTC) 334
 1 The Toymaker's Trap (WHO) 375
 1 Thought Vessel (PIP) 251
 1 Thran Dynamo (C19) 225
-1 Treasury Thrull (PGTC) 201★ *F*
 1 Triumph of Saint Katherine (40K) 17
+1 Warden of Evos Isle (PLST) EMA-76
+    In 
+1 Bond of Revival (WAR) 80
+1 Brilliant Ultimatum (ALA) 159
+1 Chancellor of the Spires (NPH) 31
+1 Crucible of Worlds (2X2) 303
+1 Do or Die (INV) 102
+1 Epiphany at the Drownyard (SOI) 59
+1 Fortune's Favor (EMN) 61
+1 Liar's Pendulum (MRD) 196
+1 Manifold Insights (CM2) 44
+1 Master of Predicaments (M15) 67
+1 Meticulous Archive (MKM) 264
+1 Necromantic Thirst (CNS) 119
+1 Raffine's Tower (SNC) 353
+1 Rally of Wings (WAR) 27
+1 Rodolf Duskbringer (J22) 25
+1 Scholar of the Lost Trove (JMP) 14
+1 Sheoldred, Whispering One (JMP) 278
+1 Sphinx of Foresight (RNA) 55
+1 Sphinx of Uthuun (CMR) 406
+1 Stormscape Familiar (TSB) 32
 1 Truth or Tale (TSP) 89
 1 Undercity Sewers (MKM) 270
-1 Unesh, Criosphinx Sovereign (HOU) 52
-1 Vault of Champions (CMR) 715
-1 Warden of Evos Isle (PLST) EMA-76
-1 Watery Grave (GTC) 249
-1 Windreader Sphinx (JMP) 194

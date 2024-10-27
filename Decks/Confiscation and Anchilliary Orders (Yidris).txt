@@ -5,11 +5,9 @@ Yidris
 1 Animate Dead (4ED) 118
 1 Aqueous Form (CMR) 56
 1 Arcane Signet (SCD) 257
-1 Averna, the Chaos Bloom (CMR) 269
 1 Bear Umbra (NEC) 113
 1 Brainstealer Dragon (CLB) 621
 1 Breeches, Brazen Plunderer (CMR) 165
-1 Burgeoning (SLD) 408
 1 Captivating Crew (LCC) 219
 1 Chaos Wand (AFC) 201
 1 Chromatic Lantern (BRR) 73
@@ -17,6 +15,7 @@ Yidris
 1 Command Tower (SLD) 710
 1 Conjurer's Closet (C13) 239
 1 Cursed Mirror (WHO) 474 *F*
+1 Dack Fayden (SLD) 1689
 1 Desertion (6ED) 64
 1 Dimir Aqueduct (ZNC) 126
 1 Dire Fleet Daredevil (LCC) 223
@@ -26,7 +25,6 @@ Yidris
 1 Ensnared by the Mara (WHO) 384 *F*
 1 Etali, Primal Storm (LCC) 224
 1 Exotic Orchard (NCC) 400
-1 Exploration (DMR) 339
 1 Flawless Forgery (NCC) 127
 1 Forest (SLD) 1092
 3 Forest (PIP) 326
@@ -42,6 +40,7 @@ Yidris
 1 Island (SLD) 1089
 3 Island (PIP) 320
 1 Izzet Boilerworks (CLU) 239
+1 Laughing Jasper Flint (POTJ) 215s *F*
 1 Lithoform Engine (BRC) 146
 1 Memory Plunder (CLB) 849
 1 Mind Flayer (AFR) 63
@@ -82,29 +81,21 @@ Yidris
 1 The Ruinous Powers (40K) 139
 1 Thief of Sanity (NCC) 354
 1 Thieving Skydiver (LCC) 177
+1 Thieving Varmint (OTC) 23
+1 Tinybones, the Pickpocket (OTJ) 109
 1 Valki, God of Lies / Tibalt, Cosmic Impostor (PLST) KHM-114
-1 Venture Forth (CLB) 683
 1 Vexing Puzzlebox (CLB) 374
 1 Wand of Wonder (CLB) 584
 1 Willbreaker (ORI) 84
 1 Zara, Renegade Recruiter (LCC) 297
 1 Zareth San, the Trickster (ZNR) 242
 1 Ziatora's Proving Ground (SNC) 261
-
-In 
-1 Cunning Rhetoric (CMM) 864
-1 Druids' Repository (AVR) 176
+    Check 
 1 Fallen Shinobi (NCC) 338
-1 Gisa, Glorious Resurrector (MID) 103
-1 Gonti, Lord of Luxury (CLB) 753
 1 Inevitable Betrayal (MH2) 446
-1 Laughing Jasper Flint (OTJ) 215
-1 Rakdos, the Muscle (OTJ) 226
-1 Rejuvenating Springs (LTC) 325
 1 Stolen Goods (C15) 107
 1 Synthesis Pod (ONC) 23
-1 Tinybones, the Pickpocket (OTJ) 109
 1 Trailblazer's Boots (LTR) 398 *F*
+    In 
+1 Rakdos, the Muscle (OTJ) 226
 1 Vraska, the Silencer (OTJ) 237
-1 Xander's Lounge (SNC) 260
-1 Yavimaya, Cradle of Growth (MH2) 261

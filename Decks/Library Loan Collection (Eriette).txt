@@ -12,9 +12,9 @@
 1 Cavern Lampad (THS) 81
 1 Celestial Archon (WOC) 63
 1 Celestial Mantle (JMP) 96
+1 Clackbridge Troll (ELD) 84
 1 Command Tower (CMM) 420
 1 Conclave's Blessing (RAV) 11
-1 Copy Enchantment (WOT) 16 *F*
 1 Deserted Beach (WHO) 270
 1 Diminisher Witch (WOE) 46
 1 Dimir Aqueduct (CLU) 233
@@ -33,23 +33,23 @@
 1 Forbidden Orchard (2X2) 323
 1 Ghostblade Eidolon (BNG) 12
 1 Glacial Fortress (PIP) 266
-1 Gnarled Scarhide (JOU) 72
 1 Hall of Heliod's Generosity (MH1) 241
 1 Heliod's Emissary (THS) 18
 1 Hopeful Eidolon (THS) 19
+1 Hunted Bonebrute (MKM) 400
 1 Hunted Horror (CLB) 758
 1 Hunted Phantasm (RAV) 55
 1 Indestructibility (M14) 23
 1 Infinite Reflection (C14) 114
 5 Island (WOE) 263
 1 Isolated Chapel (PIP) 269
-1 Kambal, Profiteering Mayor (OTJ) 353
+1 Kambal, Profiteering Mayor (OTJ) 211
 1 Killian, Ink Duelist (STX) 197
 1 Kor Spiritdancer (PCA) 9
 1 Life Insurance (OTC) 233
 1 Minion's Return (THB) 104
 1 Mirror Mockery (DTK) 62
-1 Mirrorhall Mimic / Ghastly Mimicry (VOW) 68
+1 Mirrorhall Mimic / Ghastly Mimicry (PVOW) 68s *F*
 1 Mirrormade (ELD) 55
 1 Morphic Pool (CLB) 357
 1 Necrotic Plague (M11) 107
@@ -86,6 +86,14 @@
 1 Vault of Champions (CMM) 436
 1 Winds of Rath (WOC) 83
 1 Zephid's Embrace (USG) 114
+    Check 
+1 Combat Calligrapher (C21) 14
+1 Hunted Lammasu (RAV) 22
+1 Puca's Mischief (SHM) 47
+    In 
+1 Glasswing Grace / Age-Graced Chapel (MH3) 254
+1 Glyph Elemental (MH3) 27
+1 Parting Gust (BLB) 24
     out 
 Willbreaker 
 Metamorphic Alteration 

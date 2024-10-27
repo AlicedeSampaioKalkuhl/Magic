@@ -7,7 +7,6 @@
 1 Broadside Bombardiers (LCC) 86
 1 Butcher's Glee (DTK) 90 *F*
 1 Cloudstone Curio (RAV) 257
-1 Dockside Extortionist (C19) 24
 1 Dralnu's Crusade (DMR) 189
 1 Enterprising Scallywag (LCI) 148
 1 Fanatical Firebrand (RIX) 101

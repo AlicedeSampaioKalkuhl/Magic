@@ -51,6 +51,7 @@ Jeleva, Nephalia's Scourge
 1 Personal Tutor (CMM) 110 *F*
 1 Propaganda (TMP) 80
 1 Rakdos Signet (VOC) 166
+1 Reanimate (MKC) 137
 1 Ring of Valkas (M13) 214
 1 Rise from the Tides (UMA) 67 *F*
 1 Rise of the Dark Realms (MKC) 138
@@ -70,7 +71,6 @@ Jeleva, Nephalia's Scourge
 1 Strionic Resonator (NCC) 381
 1 Study Hall (C21) 80
 1 Subjugate the Hobbits (LTC) 107
-1 Summons of Saruman (LTC) 70
 4 Swamp (MID) 272
 1 Tasha, the Witch Queen (CLB) 294
 1 Tasha's Hideous Laughter (AFR) 368
@@ -86,19 +86,19 @@ Jeleva, Nephalia's Scourge
 1 Whispersilk Cloak (PC2) 115
 1 World at War (ROE) 172
 1 Xander's Lounge (SNC) 260
-	In 
-1 Archive Trap (OTP) 7
+
+	Check 
 1 Emergence Zone (WAR) 245
-1 Glamdring (LTR) 239
-1 Heartless Conscription (OTC) 21
-1 It Doesn't Add Up (MKM) 89
 1 Nephalia Academy (EMN) 205
 1 Past in Flames (40K) 206
 1 Psychic Corrosion (M19) 68
-1 Reanimate (MKC) 137
 1 Shipwreck Marsh (MID) 267
-1 Skull Storm (C18) 18
 1 Sulfur Falls (PDOM) 247p
+	In 
+1 Archive Trap (OTP) 7
+1 Glamdring (LTR) 239
+1 It Doesn't Add Up (MKM) 89
+1 Skull Storm (C18) 18
 1 Telemin Performance (CON) 35
 	Out 
 Riverglide Pathway 	

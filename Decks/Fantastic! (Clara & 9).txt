@@ -81,23 +81,17 @@
 1 Trenzalore Clocktower (WHO) 1054 *F*
 1 Twilight Prophet (RIX) 88
 1 Venser's Journal (C21) 273
+    Check 
+1 Obeka, Splitter of Seconds (OTJ) 222
     In 
-1 Cabal Coffers (MH2) 301
 1 Court of Ambition (CMR) 114
 1 Court of Embereth (WOC) 24
 1 Dungeon Delver (CLB) 67
-1 Extravagant Replication (NCC) 25
-1 Followed Footsteps (RAV) 51
 1 Gravestorm (ODY) 141
 1 Marchesa's Decree (CN2) 44
-1 Morphic Pool (CLB) 357
 1 Mox Tantalite (MH1) 226
-1 Obeka, Splitter of Seconds (OTJ) 222
 1 Shadow of the Second Sun (MH3) 70
 1 Sheoldred, Whispering One (SLD) 211
-1 Shipwreck Marsh (WHO) 305
-1 Training Center (CMM) 434
-1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Weed-Pruner Poplar (MOR) 83
     Out 
 Herald of Lesharc out 
