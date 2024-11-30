@@ -53,6 +53,7 @@ Nashi, Moon's Legacy
 1 Ratcatcher (DIS) 52
 1 Rejuvenating Springs (LTC) 325
 10 Relentless Rats (M11) 113
+1 Revenge of the Rats (FDN) 67
 1 Sinuous Vermin (J22) 466
 1 Sultai Ascendancy (KTK) 203
 1 Swarm of Rats (8ED) 167★ *F*

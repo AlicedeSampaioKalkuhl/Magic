@@ -96,16 +96,24 @@
 1 Pull from Eternity (TSP) 35
 1 Touch the Spirit Realm (NEO) 40
     In 
-1 Bleeding Effect (ACR) 51
 1 Caretaker's Talent (BLB) 6
 1 Case of the Locked Hothouse (MKM) 155
-1 Dazzling Theater / Prop Room (DSK) 3
+1 Cream of the Crop (MOR) 117
 1 Dollmaker's Shop / Porcelain Gallery (DSK) 4
+1 Doubling Season (RAV) 158
 1 Elven Chorus (LTR) 160
 1 Gravestorm (ODY) 141
+1 Greater Auramancy (SHM) 7
+1 Mesmeric Orb (2XM) 272
 1 Mindless Conscription (MH3) 101
+1 Necromancer's Covenant (C15) 229
+1 Parallel Lives (ISD) 199
+1 Path of Discovery (RIX) 142
 1 Secret Arcade / Dusty Parlor (DSC) 10
+1 Song of the Dryads (CMA) 147
+1 Sphere of Safety (RTR) 24
 1 Strength of the Harvest / Haven of the Harvest (MH3) 258
+1 Sylvan Scavenging (FDN) 113
     Out 
 Legion Loyalty 
 Martyr's Bond 

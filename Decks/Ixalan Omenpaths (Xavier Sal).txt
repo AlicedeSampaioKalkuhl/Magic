@@ -105,7 +105,6 @@
     In 
 1 Astral Cornucopia (BRR) 5
 1 Cryptolith Rite (SOI) 200
-1 Deathcap Glade (VOW) 261
 1 Doubling Season (WOT) 52
 1 Field of the Dead (PM20) 247p
 1 Garruk, Apex Predator (M15) 210
@@ -114,6 +113,7 @@
 1 Ichormoon Gauntlet (ONE) 56
 1 Interplanar Beacon (WAR) 247
 1 Intruder Alarm (WOT) 21
+1 Kaito, Cunning Infiltrator (FDN) 44
 1 Kaya's Ghostform (WAR) 94
 1 Kiora, Master of the Depths (BFZ) 213
 1 Liliana, Dreadhorde General (PWAR) 97p
@@ -136,7 +136,6 @@
 1 The Chain Veil (M15) 215
 1 The Millennium Calendar (LCI) 257
 1 The Ozolith (IKO) 237
-1 Undergrowth Stadium (CMM) 435
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Vivien, Monsters' Advocate (IKO) 277
 1 Vraska, Relic Seeker (XLN) 232

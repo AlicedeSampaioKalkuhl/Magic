@@ -113,6 +113,7 @@
 1 Heliod, the Radiant Dawn / Heliod, the Warped Eclipse (MOM) 17
 1 Hythonia the Cruel (THS) 91
 1 Isu the Abominable (J22) 12
+1 Kellan, Planar Trailblazer (FDN) 330
 1 Lighthouse Chronologist (ROE) 75
 1 Oketra the True (AKH) 21
 1 Paladin Class (AFR) 29

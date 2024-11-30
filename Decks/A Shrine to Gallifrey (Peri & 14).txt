@@ -1,44 +1,67 @@
 Peri Brown & The Fourteenth Doctor 
-
-    Check 
 1 An Unearthly Child (WHO) 35
 1 Cadric, Soul Kindler (DMC) 10
 1 Clara Oswald (WHO) 9
+1 Clifftop Retreat (PIP) 258
 1 Command Tower (WHO) 263
 1 Day of Destiny (WHO) 206
 1 Deserted Beach (WHO) 270
 1 Desperate Ritual (CHK) 163
 1 Dreamroot Cascade (WHO) 273 *F*
+1 Eerie Procession (CHK) 58
 1 Evermind (PLST) SOK-37
 1 Exotic Orchard (WHO) 276
-1 Fathom Mage (PGTC) 162★ *F*
+1 Forest (NEO) 292 *F*
+1 Forest (SLD) 1134
+1 Forest (SLD) 50
+1 Forest (NEO) 302 *F*
+1 Forest (NEO) 302
 1 Gallifrey Council Chamber (WHO) 188
 1 Gallifrey Falls / No More (WHO) 131
 1 Gallifrey Stands (WHO) 132
 1 Glacial Fortress (WHO) 285
-1 Helm of the Host (BRR) 19
-1 Honden of Seeing Winds (CHK) 69
+1 Go-Shintai of Ancient Wars (NEO) 144 *F*
+1 Go-Shintai of Boundless Vigor (NEO) 187 *F*
+1 Go-Shintai of Lost Wisdom (NEO) 55 *F*
+1 Go-Shintai of Shared Purpose (NEO) 14 *F*
+1 Hinterland Harbor (LTC) 317
+1 Honden of Cleansing Fire (CHK) 14
+1 Honden of Infinite Rage (CHK) 172
+1 Honden of Life's Web (CHK) 213
+1 Honden of Seeing Winds (PLST) CHK-69
+2 Island (NEO) 295 *F*
+2 Island (NEO) 295
+1 Island (SLD) 47
 1 Jenny, Generated Anomaly (WHO) 742 *F*
-1 Jetmir's Garden (SNC) 250
+1 Kamahl's Druidic Vow (DOM) 166
+1 Kodama of the Center Tree (BOK) 131
 1 Kodama of the East Tree (CMR) 239
+1 Kodama of the North Tree (CHK) 222
+1 Kodama of the South Tree (CHK) 223
 1 Kodama of the West Tree (PNEO) 199p
-1 Kodama's Reach (CHK) 225
+1 Kodama's Reach (LCC) 245
 1 Loam Dweller (BOK) 134
-1 Long-Forgotten Gohei (MM2) 221
 1 Maskwood Nexus (KHM) 240
+1 Mountain (NEO) 300 *F*
+3 Mountain (NEO) 300
 1 Mox Amber (DOM) 224
 1 Overgrown Farmland (WHO) 292 *F*
 1 Path of Ancestry (WHO) 293
 1 Peer Through Depths (DDS) 5
+2 Plains (NEO) 283 *F*
+2 Plains (NEO) 293
+1 Plains (NEO) 294
 1 Plaza of Heroes (PDMU) 252p *F*
 1 Reach Through Mists (DDS) 7
 1 Rockfall Vale (WHO) 1101 *F*
 1 Rootbound Crag (WHO) 1102 *F*
 1 Rose Noble (SLD) 1580 *F*
+1 Sanctum of Calm Waters (M21) 68
+1 Sanctum of Fruitful Harvest (M21) 203
+1 Sanctum of Shattered Heights (M21) 157
 1 Sift Through Sands (DDS) 9
 1 Sol Ring (WHO) 245
-1 Spara's Headquarters (SNC) 355
-1 Stormcarved Coast (WHO) 308
+1 Sonic Screwdriver (SLD) 803 *F*
 1 Sundown Pass (WHO) 310
 1 TARDIS (WHO) 551 *F*
 1 Tegan Jovanka (WHO) 28
@@ -47,7 +70,7 @@ Peri Brown & The Fourteenth Doctor
 1 The Eleventh Doctor (WHO) 1002 *F*
 1 The Eleventh Hour (WHO) 41
 1 The Fifteenth Doctor (SLD) 1584 *F*
-1 The Fifth Doctor (WHO) 127
+1 The Fifth Doctor (WHO) 127 *F*
 1 The First Doctor (WHO) 128 *F*
 1 The Five Doctors (WHO) 101
 1 The Fourth Doctor (WHO) 415 *F*
@@ -58,9 +81,9 @@ Peri Brown & The Fourteenth Doctor
 1 The Second Doctor (WHO) 156
 1 The Seventh Doctor (WHO) 158 *F*
 1 The Sixth Doctor (WHO) 1034 *F*
-1 The Tenth Doctor (WHO) 446
+1 The Tenth Doctor (WHO) 194 *E*
 1 The Third Doctor (WHO) 1038 *F*
-1 The Thirteenth Doctor (WHO) 4 *F*
+1 The Thirteenth Doctor (WHO) 609 *F*
 1 The Twelfth Doctor (WHO) 164 *F*
 1 The Unspeakable (CHK) 98
 1 The War Doctor (WHO) 167
@@ -68,25 +91,10 @@ Peri Brown & The Fourteenth Doctor
 1 Toils of Night and Day (BOK) 57 *F*
 1 Twice Upon a Time / Unlikely Meeting (WHO) 61
 1 Yomiji, Who Bars the Way (BOK) 30
+    Check 
+
     In 
-1 Eerie Procession (CHK) 58
-1 Go-Shintai of Ancient Wars (NEO) 144
-1 Go-Shintai of Boundless Vigor (NEO) 187
-1 Go-Shintai of Lost Wisdom (NEO) 55
-1 Go-Shintai of Shared Purpose (NEO) 14
-1 Honden of Cleansing Fire (CHK) 14
-1 Honden of Infinite Rage (CHK) 172
-1 Honden of Life's Web (CHK) 213
-1 Kamahl's Druidic Vow (DOM) 166
-1 Ketria Triome (IKO) 250
-1 Kodama of the Center Tree (BOK) 131
-1 Kodama of the North Tree (CHK) 222
-1 Kodama of the South Tree (CHK) 223
 1 Minamo, School at Water's Edge (CHK) 279
-1 Raugrin Triome (PIKO) 251p
-1 Sanctum of Calm Waters (M21) 68
-1 Sanctum of Fruitful Harvest (M21) 203
-1 Sanctum of Shattered Heights (M21) 157
 1 Sanctum of Tranquil Light (M21) 33
     Out 
 

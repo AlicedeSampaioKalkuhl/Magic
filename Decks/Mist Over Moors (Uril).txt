@@ -1,0 +1,80 @@
+    Uril, the Miststalker 
+        Check 
+1 All That Glitters (PIP) 155
+1 Almost Perfect (PIP) 90
+1 Angelic Destiny (WOC) 60
+1 Bear Umbra (NEC) 113
+1 Boar Umbra (PCA) 58
+1 Chishiro, the Shattered Blade (NEC) 1 *F*
+1 Command Tower (DSC) 96
+1 Danitha Capashen, Paragon (SLD) 1031
+1 Darksteel Mutation (C13) 9
+1 Destiny Spinner (THB) 168
+1 Eldrazi Conscription (SLD) 1218 *F*
+1 Ellivere of the Wild Court (WOC) 2 *F*
+1 Enchantress's Presence (MH2) 283
+1 Ethereal Armor (WOC) 67
+1 Exotic Orchard (DSC) 275
+1 Fertile Ground (PIP) 198
+1 Gift of Immortality (THS) 14
+1 Hall of Heliod's Generosity (DSC) 283
+1 Herald of the Pantheon (CMM) 898
+1 Hyena Umbra (2X2) 13 *F*
+1 Idolized (PIP) 17
+1 Idyllic Tutor (THB) 24
+1 Indrik Umbra (PCA) 96
+1 Inventory Management (PIP) 105
+1 Jukai Naturalist (WOC) 140
+1 Jungle Shrine (OTC) 303
+1 Kenrith's Transformation (ELD) 395
+1 Kessig Wolf Run (MKC) 269
+1 Kor Spiritdancer (PCA) 9
+1 Light-Paws, Emperor's Voice (NEO) 25
+1 Mammoth Umbra (PCA) 10
+1 Mantle of the Ancients (PIP) 165
+1 Mazzy, Truesword Paladin (CLB) 283
+1 Rancor (2X2) 156
+1 Retether (WOC) 72
+1 Rogue's Passage (FDN) 264
+1 Sage's Reverie (WOC) 73
+1 Sanctum Weaver (CMM) 910
+1 Shielded by Faith (SS2) 5
+1 Sigil of the Empty Throne (PCA) 11
+1 Siona, Captain of the Pyleas (THB) 226
+1 Snake Umbra (WOC) 133
+1 Songbirds' Blessing (WOC) 7
+1 Spider Umbra (ROE) 208
+1 Spirit Mantle (PCA) 12
+1 Starfield Mystic (WOC) 76
+1 Strong Back (PIP) 83
+1 Sunhome, Fortress of the Legion (OTC) 324
+1 Three Dreams (PCA) 13
+1 Tiana, Ship's Caretaker (DOM) 208
+1 Timely Ward (WOC) 79
+1 Transcendent Envoy (THB) 40
+1 Umbra Mystic (WOC) 82
+1 Unquestioned Authority (C18) 78
+1 Wild Growth (PIP) 208
+1 Winds of Rath (MKC) 93
+1 Xenk, Paladin Unbroken (SLD) 1237 *F*
+        In 
+1 Blessing of the Nephilim (DIS) 4
+1 Contested Cliffs (C13) 282
+1 Danitha, New Benalia's Light (MAT) 29
+1 Dueling Grounds (INV) 245
+1 Eland Umbra (ROE) 19
+1 Hero of Iroas (UMA) 20
+1 Holy Avenger (AFC) 6
+1 Holy Mantle (GTC) 17
+1 Lion Umbra (MH3) 160
+1 Mayael's Aria (2X2) 253
+1 Nomad Mythmaker (10E) 30
+1 Pearl-Ear, Imperial Advisor (MH3) 39
+1 Runes of the Deus (SHM) 215
+1 Shield of the Oversoul (SHM) 242
+1 Sigarda's Aid (CMR) 384
+1 Slash the Ranks (CMR) 47
+1 Strength of the Harvest / Haven of the Harvest (MH3) 258
+1 Wildsear, Scouring Maw (BLC) 8 *F*
+1 Yenna, Redtooth Regent (WOE) 219
+        Out 

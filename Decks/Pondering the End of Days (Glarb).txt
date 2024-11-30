@@ -1,0 +1,103 @@
+    Glarb, Calamity's Augur
+1 Ancient Tomb (TMP) 315
+1 Arcane Signet (ONC) 125
+1 Bayou (OLGC) 2021B
+1 Birds of Paradise (BLC) 81
+1 Bloodstained Mire (MH3) 216
+1 Bloom Tender (EVE) 66
+1 Bolas's Citadel (PLG21) 3 *F*
+1 Boseiju, Who Endures (PNEO) 266p
+1 Breeding Pool (PRNA) 246p
+1 Cabal Ritual (TOR) 51
+1 Chain of Smog (ONS) 132
+1 Chord of Calling (2XM) 384 *F*
+1 Chrome Mox (MRD) 152
+1 Command Tower (NEC) 167
+1 Culling Ritual (OTC) 219
+1 Culling the Weak (EXO) 55
+1 Cyclonic Rift (RTR) 35
+1 Dark Ritual (MB2) 179
+1 Dauthi Voidwalker (MH2) 81
+1 Deadly Rollick (C20) 42
+1 Deathrite Shaman (RTR) 213
+1 Delighted Halfling (LTR) 158
+1 Demonic Consultation (ICE) 121
+1 Demonic Tutor (CMM) 150
+1 Diabolic Intent (BRO) 89
+1 Doomsday (SLD) 1115
+1 Dread Return (CMM) 153
+1 Elves of Deep Shadow (RAV) 161
+1 Elvish Spirit Guide (DMR) 157
+1 Emergence Zone (WAR) 245
+1 Endurance (MH2) 157
+1 Exotic Orchard (ONC) 152
+1 Fierce Guardianship (C20) 35
+1 Finale of Devastation (CMM) 700
+1 Flooded Strand (KTK) 233
+1 Flusterstorm (MH1) 255
+1 Foil (PLST) UMA-55
+1 Force of Vigor (MH1) 164
+1 Force of Will (OLGC) 2023EU
+1 Gaea's Cradle (USG) 321
+1 Gemstone Caverns (TSP) 274
+1 Gitaxian Probe (NPH) 35
+1 Imperial Seal (2X2) 79
+1 Isochron Scepter (MRD) 188
+1 Jace, Wielder of Mysteries (PWAR) 54p
+1 Kinnan, Bonder Prodigy (PIKO) 192p
+1 Lazotep Quarry (M3C) 131
+1 Legolas's Quick Reflexes (LTC) 537 *F*
+1 Lotus Petal (TMP) 294
+1 Mana Confluence (CMR) 721 *F*
+1 Mana Drain (IMA) 65
+1 Marsh Flats (ZEN) 219
+1 Memory's Journey (ISD) 66
+1 Mental Misstep (NPH) 38
+1 Minamo, School at Water's Edge (PLST) CHK-279 *F*
+1 Mindbreak Trap (ZEN) 57
+1 Misty Rainforest (ZEN) 220
+1 Mnemonic Betrayal (GRN) 189
+1 Morphic Pool (CLB) 603
+1 Mox Amber (BRR) 35
+1 Mox Diamond (TPR) 228
+1 Mox Opal (MM2) 223
+1 Mystic Remora (ICE) 87
+1 Mystical Tutor (EMA) 62
+1 Narcomoeba (MMA) 55
+1 Necropotence (WOT) 74
+1 Noxious Revival (NPH) 118
+1 Opposition Agent (CMR) 141
+1 Orcish Bowmasters (LTR) 103
+1 Overgrown Tomb (PGRN) 253p
+1 Phyrexian Metamorph (MKC) 116
+1 Polluted Delta (KTK) 239
+1 Reanimate (CC2) 5
+1 Rejuvenating Springs (LTC) 325
+1 Rhystic Study (WOT) 25
+1 Scalding Tarn (MM3) 244
+1 Sidisi, Brood Tyrant (2X2) 276
+1 Sol Ring (CMR) 472
+1 Swan Song (THS) 65
+1 Sylvan Library (EMA) 187
+1 Talion, the Kindly Lord (WOE) 215
+1 Talon Gates of Madara (M3C) 134
+1 Thassa's Oracle (PTHB) 73p
+1 The One Ring (LTR) 451
+1 Toxic Deluge (MH3) 277
+1 Tropical Island (OLGC) 2019
+1 Underground Sea (OLGC) 2016EU
+1 Undergrowth Stadium (CMR) 359
+1 Urza's Saga (MH2) 259
+1 Valley Floodcaller (BLB) 79
+1 Vampiric Tutor (CMR) 156
+1 Veil of Summer (M20) 198
+1 Verdant Catacombs (MM3) 249
+1 Watery Grave (RAV) 286
+1 Windswept Heath (MH3) 235
+1 Witherbloom Apprentice (STX) 247
+1 Wooded Foothills (MH3) 236
+1 Worldly Tutor (DMR) 442
+1 Yawgmoth's Will (USG) 171
+    In 
+
+    Out 

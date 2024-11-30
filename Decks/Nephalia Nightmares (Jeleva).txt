@@ -96,8 +96,8 @@ Jeleva, Nephalia's Scourge
 1 Sulfur Falls (PDOM) 247p
 	In 
 1 Archive Trap (OTP) 7
+1 Blasphemous Edict (FDN) 57
 1 Glamdring (LTR) 239
-1 It Doesn't Add Up (MKM) 89
 1 Skull Storm (C18) 18
 1 Telemin Performance (CON) 35
 	Out 

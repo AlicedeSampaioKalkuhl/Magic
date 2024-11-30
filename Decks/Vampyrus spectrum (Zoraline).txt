@@ -5,26 +5,32 @@ Zoraline, Cosmos Caller
 1 Essence Channeler (BLB) 12
 1 Moonstone Eulogist (BLC) 54
     Check 
+1 Banishing Light (BLB) 1
 1 Basilica Screecher (GTC) 58
+1 Batwing Brume (EVE) 81
 1 Blind Hunter (GPT) 102
+1 Desecrated Tomb (M19) 230
 1 Gurmag Swiftwing (CLU) 113
+1 Lifecreed Duo (BLB) 20
 1 Mirkwood Bats (LTR) 421
+1 Moonrise Cleric (BLB) 226
+1 Predators' Hour (VOC) 21
 1 Ruin-Lurker Bat (LCI) 33
+1 Starlit Soothsayer (BLB) 115
+1 Starscape Cleric (BLB) 116
     In 
 1 Bandit's Talent (BLB) 83
 1 Bloodhunter Bat (JMP) 210
 1 Courier Bat (VOW) 102
 1 Duskhunter Bat (DDK) 6
-1 Lifecreed Duo (BLB) 20
+1 Final Act (M3C) 104
 1 Lunar Convocation (BLB) 223
 1 Lupinflower Village (BLB) 256
-1 Moonrise Cleric (BLB) 226
 1 Moonstone Harbinger (BLB) 101
 1 Mudflat Village (BLB) 257
 1 Nesting Grounds (MH3) 302
+1 Profane Procession / Tomb of the Dusk Rose (RIX) 166
 1 Star Charter (BLB) 33
 1 Stargaze (BLB) 114
-1 Starlit Soothsayer (BLB) 115
-1 Starscape Cleric (BLB) 116
 1 Starseer Mentor (BLB) 233
 1 Wax-Wane Witness (BLB) 39

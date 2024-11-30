@@ -67,6 +67,7 @@ Thrasios & Tevesh Szat
 1 Cosi's Trickster (ZEN) 45
 1 Fishliver Oil (9ED) 77
 1 Halimar Depths (WWK) 137
+1 Kiora, the Rising Tide (FDN) 377 *F*
 1 Lord of Atlantis (SPG) 1
 1 Lullmage Mentor (ZEN) 54
 1 Merfolk Trickster (DOM) 56
@@ -77,4 +78,3 @@ Thrasios & Tevesh Szat
 1 Sunken Ruins (SHM) 280
 1 Volatile Fault (LCI) 286
 1 Waterspout Weavers (MOR) 56
-

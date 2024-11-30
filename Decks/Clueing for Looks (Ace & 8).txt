@@ -2,16 +2,20 @@
 1 Academy Manufactor (MH2) 469
 1 Aid from the Cowl (MOC) 290
 1 Alloy Myr (PLST) MM2-201
+1 Alquist Proft, Master Sleuth (MKM) 185 *F*
 1 Blossoming Sands (SCD) 291
 1 Briarbridge Patrol (SOI) 195
 1 Bronze Guardian (C21) 13
 1 Bronze Walrus (CLB) 302 *F*
 1 Command Tower (40K) 271
 1 Confirm Suspicions (MKC) 97
+1 Conservatory (CLU) 14
 1 Copper Myr (SOM) 146
 1 Cyberdrive Awakener (NEC) 12
 1 Darksteel Citadel (C21) 285
+1 Disorder in the Court (VOC) 29
 1 Displaced Dinosaurs (WHO) 100
+1 Dreamroot Cascade (WHO) 273
 1 Duggan, Private Detective (WHO) 409 *F*
 1 Encroaching Mycosynth (ONE) 380
 1 Erdwal Illuminator (MKC) 104
@@ -19,22 +23,22 @@
 1 Ethereal Investigator (MKC) 105
 1 Exotic Orchard (WHO) 276
 1 Fabrication Foundry (LCI) 12
-1 Faerie Vandal (SNC) 44
 1 Filigree Attendant (MH2) 41
 1 Filigree Vector (MOC) 102
 1 Five Hundred Year Diary (WHO) 42
 1 Fleeting Memories (SOI) 62
-6 Forest (WHO) 204
+3 Forest (WHO) 204
 1 Gingerbread Cabin (ELD) 245
 1 Gold Myr (SOM) 157
 1 Graf Mole (MKC) 170
-1 Hargilde, Kindly Runechanter (SLX) 5
+1 Hinterland Harbor (ISD) 241
 1 Idol of Oblivion (C19) 55
+1 Inspiring Statuary (MKC) 230
 1 Investigator's Journal (VOW) 345 *F*
-7 Island (WHO) 198
+4 Island (WHO) 198
 1 Jaheira, Friend of the Forest (CLB) 237
 1 Katsumasa, the Animator (NEC) 15
-1 Killer Service (NCC) 61
+1 Kitchen (CLU) 17
 1 Kydele, Chosen of Kruphix (CMR) 524 *E*
 1 Lonis, Cryptozoologist (MH2) 370
 1 Magnifying Glass (SOI) 258 *F*
@@ -47,31 +51,34 @@
 1 Ongoing Investigation (SOI) 77
 1 Palladium Myr (SOM) 190
 1 Parcel Myr (MH2) 54
+1 Piper Wright, Publick Reporter (PIP) 36
 3 Plains (WHO) 196
 1 Press for Answers (SOI) 80
 1 Ransom Note (MKC) 46
+1 Reliquary Tower (MKC) 282
 1 Rise and Shine (MOC) 233
 1 Rogue's Passage (WHO) 299
 1 Root Out (SOI) 224
 1 Scene of the Crime (MKM) 267
 1 Search the Premises (MH2) 332
 1 Seaside Citadel (C13) 318
+1 Senator Peacock (CLU) 2
 1 Shimmer Dragon (MOC) 236
 1 Silver Myr (SOM) 202
 1 Smothering Tithe (PRNA) 22p
+1 Sophia, Dogged Detective (MKC) 8 *F*
+1 Study (CLU) 21
 1 Survive the Night (PLST) SOI-41
 1 Tamiyo, Compleated Sage (NEO) 238
 1 Tamiyo, Field Researcher (SLD) 89 *F*
 1 Tamiyo's Journal (J22) 800
 1 Tanglepool Bridge (MH2) 257
 1 Tangletrove Kelp (MKC) 24
-1 Temple of Enlightenment (MOC) 432
+1 Temple of Enlightenment (WHO) 1116 *F*
 1 Temple of Mystery (C21) 324
 1 Temple of Plenty (WHO) 319
 1 Temple of the False God (WHO) 320
 1 Tezzeret the Seeker (SLD) 1111
-1 Tezzeret, Betrayer of Flesh (NEO) 84
-1 The Fourth Doctor (WHO) 1146 *F*
 1 The Goose Mother (WOE) 204
 1 The Third Doctor (WHO) 554
 1 Thorough Investigation (AFC) 12
@@ -79,43 +86,33 @@
 1 Tireless Provisioner (MOC) 313
 1 Tireless Tracker (SLD) 711
 1 Tranquil Cove (40K) 303
+1 Transmutation Font (BIG) 28
 1 Ulvenwald Mysteries (MKC) 193
 1 Vitu-Ghazi, the City-Tree (WOC) 173
-1 Wavesifter (MH2) 217
 1 Weirding Wood (SOI) 240
-1 Workshop Elders (BRC) 102
     Check 
-1 All That Glitters (CMM) 9
-1 Crack Open (MH2) 154
-1 Disorder in the Court (VOC) 29
-1 Inspiring Statuary (CMM) 394
-1 Reliquary Tower (C14) 308
-1 Senator Peacock (CLU) 2
-1 Transmutation Font (BIG) 28
+
     In 
 1 Bootleggers' Stash (SNC) 134
 1 Briarbridge Tracker (MID) 172
 1 Confront the Unknown (SOI) 198
 1 Curious Inquiry (MKM) 51
-1 Esoteric Duplicator (BIG) 5
 1 Forensic Gadgeteer (MKM) 57
 1 Inventors' Fair (KLD) 247
 1 Krark-Clan Ironworks (5DN) 134
 1 Officious Interrogation (MKM) 314
 1 Rampage of the Clans (RNA) 134
-1 Tamiyo, Inquisitive Student / Tamiyo, Seasoned Scholar (MH3) 242
-1 Worldwalker Helm (BIG) 72
+1 Worldwalker Helm (BIG) 7
     Out 
 Fleeting Memories out
-Parcel Myr out 
-Hargilde, Kindly Runechanter out 
-Faerie Vandal out 
-Killer Service out 
-Tezzeret, Betrayer of Flesh out 
-Wavesifter out 
-The Fourth Doctor out 
-Workshop Elders out 
-Ongoing Investigation out 
+Tamiyo, Compleated Sage out 
+Thorough Investigation out 
+On the Trail out 
+Aid from the Cowl out 
+Nettlecyst out 
+Confirm Suspicions out 
+The Goose Mother Out 
+
     Tokens 
 Clue 
 Eldrazi

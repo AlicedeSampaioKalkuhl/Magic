@@ -94,24 +94,17 @@ Kalamax, the Stormsire
 1 Veyran, Voice of Duality (C21) 3 *F*
 1 Weather the Storm (MH1) 191
 	In 
-1 Artificer Class (CLB) 663
 1 Brightcap Badger / Fungus Frolic (BLC) 28
 1 Commando Raid (ONS) 195
 1 Conqueror's Galleon / Conqueror's Foothold (XLN) 234
-1 Cryptolith Rite (SOI) 200
-1 Echo Storm (MOC) 221
 1 Esika's Chariot (KHM) 169
 1 For the Common Good (BLB) 172
 1 Fully Grown (IKO) 154
 1 Hall of Tagsin (BRO) 263
 1 Hoard Hauler (SNC) 109
 1 Horned Loch-Whale / Lagoon Breach (WOE) 53
-1 Inventors' Fair (KLD) 247
 1 Jetfire, Ingenious Scientist / Jetfire, Air Guardian (BOT) 3
 1 Ketria Triome (PIKO) 250p
-1 March of Progress (BRC) 8
-1 Mirage Mockery (ONC) 22
-1 Mirrorworks (C18) 211
 1 Mizzium Tank (WAR) 138
 1 Moonshae Pixie / Pixie Dust (CLB) 84
 1 Ram Through (J22) 91
@@ -121,10 +114,22 @@ Kalamax, the Stormsire
 1 Worldwalker Helm (BIG) 7
 
 	Out 
+Brudiclad, Telchor Engineer
+Chancellor of Tales 
+Drafna, Founder of Lat-Nam
 Empty the Warrens 
 Deluxe Draggster 
-Masterful Replication 
+Masterful Replication
+Masterwork of Ingenuity
+Mechanized Production   
 Raiders' Karve 
+Reckoner Bankbuster 
+Replication Specialist 
+Saheeli's Artistry 
+Sea Hag 
+Tawnos, Urza's Apprentice 
+Tempest Hart 
+Urabrask 
 
 	Tokens 
 Beast (CMR)

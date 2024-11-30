@@ -1,0 +1,87 @@
+    Neyith of the Dire Hunt
+        Check 
+1 Ancient Animus (CMR) 215
+1 Apex Altisaur (LCC) 232
+1 Arni Metalbrow (MAT) 16 *F*
+1 Brash Taunter (MKC) 148
+1 Bushwhack (BRO) 174
+1 Clash of Titans (IKO) 111
+1 Curse of the Werefox (WOE) 167
+1 Duel for Dominance (MID) 184 *F*
+1 Ent's Fury (LTR) 164
+1 Epic Confrontation (BRO) 176
+1 Ezuri's Predation (CMM) 287
+1 Foe-Razer Regent (PTKDF) 187
+1 Frontier Siege (FRF) 131
+1 Gimli, Mournful Avenger (LTR) 209
+1 Gimli's Reckless Might (LTC) 494 *F*
+1 Go for Blood (IKO) 122
+1 Halana and Alena, Partners (VOW) 239
+1 Halana, Kessig Ranger (CMR) 231
+1 Heroic Intervention (LTC) 249
+1 Hunt the Hunter (THS) 159 *F*
+1 Inscription of Abundance (LTC) 251
+1 Invasion of Ikoria / Zilortha, Apex of Ikoria (MOM) 190
+1 Khalni Ambush / Khalni Territory (ZNR) 192
+1 Kogla and Yidaro (MOM) 311
+1 Kogla, the Titan Ape (SLD) 1274 *F*
+1 Labyrinth of Skophos (MKC) 272
+1 Longstalk Brawl (BLB) 182 *F*
+1 Malamet Battle Glyph (LCI) 198
+1 Mawloc (40K) 133
+1 Nightshade Dryad (MH3) 163
+1 Nylea, God of the Hunt (THS) 166
+1 Ohran Frostfang (OTC) 199
+1 Outmuscle (ELD) 170
+1 Pit Fight (GTC) 223
+1 Polyraptor (SLD) 1391
+1 Prey Upon (GRN) 143
+1 Primal Might (OTP) 32
+1 Prizefight (SNC) 154 *F*
+1 Ranging Raptors (LCC) 249
+1 Return to Nature (ELD) 173 *F*
+1 Ripjaw Raptor (LCC) 253
+1 Ruthless Predation (ONE) 182
+1 Savage Punch (KTK) 147
+1 Savage Smash (RNA) 203
+1 Sawblade Slinger (VOW) 217
+1 Skophos Maze-Warden (THB) 153
+1 Strax, Sontaran Nurse (WHO) 444 *F*
+1 Sun-Crowned Hunters (PLST) XLN-164
+1 Surrak and Goreclaw (MOM) 380
+1 Swift Kick (KTK) 122 *F*
+1 Temur Battle Rage (2XM) 146
+1 Thrun, Breaker of Silence (ONE) 186
+1 Time to Feed (THS) 181
+1 Ulvenwald Tracker (MM3) 144
+1 Vigor (LRW) 240
+1 Xenagos, God of Revels (LCC) 295
+        In 
+1 Alena, Kessig Trapper (CMR) 160
+1 Anzrag, the Quake-Mole (MKM) 186
+1 Arena (TSB) 117
+1 Arni Slays the Troll (KHM) 201
+1 Barroom Brawl (CLB) 217
+1 Boxing Ring (NCC) 91
+1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
+1 Cartouche of Strength (AKH) 158
+1 Grothama, All-Devouring (BBD) 71
+1 Gruul Ragebeast (GTC) 170
+1 Guild Feud (RTR) 97
+1 Hans Eriksson (CMR) 279
+1 Invasion Plans (STH) 89
+1 Magus of the Arena (C13) 115
+1 Needletooth Raptor (RIX) 107
+1 Nessian Wilds Ravager (BNG) 129
+1 Pounce (XLN) 200
+1 Ravager Wurm (RNA) 200
+1 Savage Swipe (MH1) 178
+1 Setessan Tactics (JOU) 140
+1 Silverclad Ferocidons (RIX) 115
+1 Stump Stomp / Burnwillow Clearing (MH3) 259
+1 Tail Swipe (SCH) 15
+1 The Tarrasque (AFR) 207
+1 Thorn Mammoth (ELD) 323
+1 Titanic Brawl (RVR) 158
+1 Vorinclex / The Grand Evolution (MOM) 213
+        Out 

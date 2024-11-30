@@ -1,0 +1,95 @@
+    Kels, Fight Fixer 
+    Check 
+1 Alandra, Sky Dreamer (MKC) 94
+1 Arcane Signet (DSC) 92
+1 Aura Thief (PLST) UDS-26
+1 Ayara, First of Locthwain (MUL) 13
+1 Bastion of Remembrance (DSC) 131
+1 Black Market (CLB) 739
+1 Blood Artist (2X2) 70
+1 Braids, Arisen Nightmare (DMU) 84
+1 Butcher of Malakir (LCC) 187
+1 Chasm Skulker (CLB) 714
+1 Command Tower (DSC) 96
+1 Cultist of the Absolute (CLB) 123
+1 Detective of the Month (MKC) 21
+1 Dictate of Erebos (JOU) 65
+1 Dread Return (CMM) 153
+1 Eaten Alive (MID) 99
+1 Enduring Curiosity (DSK) 51
+1 Ethereal Investigator (MKC) 105
+1 Fleshbag Marauder (CLU) 111
+1 Grim Haruspex (CLB) 754
+1 Jace, Arcane Strategist (WAR) 270 *F*
+1 Kinzu of the Bleak Coven (ONE) 406
+1 Laboratory Maniac (UMA) 61
+1 Mirkwood Bats (LTR) 421
+1 Mortuary Mire (CLB) 900
+1 Ominous Seas (IKO) 61
+1 Ophiomancer (CC2) 3
+1 Phyrexian Arena (ONE) 283 *F*
+1 Phyrexian Triniform (MOC) 370
+1 Plaguecrafter (SLD) 1116
+1 Reliquary Tower (M3C) 368
+1 Robe of the Archmagi (CLB) 91
+1 Ruthless Deathfang (MIC) 154
+1 Skullclamp (MOC) 379
+1 Sol Ring (DSC) 94
+1 Solemn Simulacrum (M3C) 306
+1 Specimen Collector (MH2) 64
+1 Syr Konrad, the Grim (MKC) 141
+1 Tainted Isle (DSC) 303
+1 Tarrian's Journal / The Tomb of Aclazotz (LCI) 126
+1 Teferi, Temporal Pilgrim (BRO) 293
+1 Teferi's Ageless Insight (MKC) 119
+1 Temple of the False God (DSC) 313
+1 Tergrid, God of Fright / Tergrid's Lantern (KHM) 112 *F*
+1 Toxrill, the Corrosive (VOW) 132 *F*
+1 Triplicate Titan (C21) 79
+1 Vashta Nerada (WHO) 73
+1 Vat of Rebirth (ONE) 113
+1 Waterfront District (SNC) 259
+1 Westvale Abbey / Ormendahl, Profane Prince (SLD) 1159 *F*
+1 Woe Strider (THB) 123
+1 Zulaport Cutthroat (ZNC) 57
+        In 
+1 Abyssal Gatekeeper (DVD) 31
+1 Accursed Marauder (MH3) 80
+1 Body Launderer (SNC) 68
+1 Body Snatcher (DMR) 75
+1 Cemetery Puca (SHM) 158
+1 Dark Prophecy (M14) 93
+1 Demon's Disciple (CMM) 149
+1 Emrakul's Messenger (MH3) 61
+1 Endrek Sahr, Master Breeder (CMM) 155
+1 Enduring Tenacity (DSK) 95
+1 Flare of Malice (MH3) 95
+1 Grave Pact (CMM) 165
+1 Harvester of Souls (JMP) 243
+1 High Market (AFC) 246
+1 High-Society Hunter (FDN) 61
+1 Homunculus Horde (FDN) 41
+1 Liliana, Dreadhorde General (FDN) 176
+1 Lolth, Spider Queen (AFR) 112
+1 Malefic Scythe (M21) 112
+1 Marionette Apprentice (MH3) 100
+1 Minn, Wily Illusionist (AFC) 16
+1 Mischievous Mystic (FDN) 47
+1 Nine-Lives Familiar (FDN) 66
+1 Null Profusion (PLC) 89
+1 Ozox, the Clattering King (J25) 44
+1 Pawn of Ulamog (ROE) 122
+1 Pitiless Carnage (OTJ) 98
+1 Private Research (UDS) 41
+1 Reef Worm (MH3) 271
+1 Sadistic Glee (TMP) 153
+1 Sheoldred, the Apocalypse (DMU) 107
+1 Sifter of Skulls (M3C) 203
+1 Smothering Abomination (BFZ) 99
+1 Sunken Ruins (2XM) 326
+1 Tarrian's Soulcleaver (LCI) 264
+1 The Cauldron of Eternity (ELD) 82
+1 Transmogrant's Crown (BRO) 125
+1 Vindictive Lich (CMM) 196
+1 Warren Soultrader (MH3) 110
+1 Wurmcoil Engine (PSOM) 223★ *F*

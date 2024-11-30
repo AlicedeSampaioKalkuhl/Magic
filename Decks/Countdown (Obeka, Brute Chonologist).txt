@@ -68,6 +68,7 @@
 1 Ashling, the Extinguisher (EVE) 33
 1 Cabal Coffers (TOR) 139
 1 Cauldron Dance (C17) 166
+1 Electroduplicate (FDN) 85
 1 Elemental Appeal (ZEN) 123
 1 Goryo's Vengeance (UMA) 99
 1 Graven Cairns (FUT) 175

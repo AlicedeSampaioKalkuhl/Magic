@@ -1,0 +1,87 @@
+    Sen Triplets 
+        Check 
+1 Admonition Angel (ZNC) 10
+1 Arcane Sanctum (DSC) 259
+1 Arcane Signet (DSC) 92
+1 Archangel of Tithes (OTJ) 2
+1 As Foretold (2X2) 38
+1 Barrowin of Clan Undurr (AFR) 218
+1 Battle Angels of Tyr (CLB) 9
+1 Bojuka Bog (DSC) 265
+1 Bolas's Citadel (PLG21) 3 *F*
+1 Cascading Cataracts (DMC) 202
+1 Chromatic Lantern (OTC) 255
+1 Coalition Relic (DMC) 180
+1 Command Tower (DSC) 96
+1 Delver's Torch (AFR) 10
+1 Drana and Linvala (MOM) 222
+1 Dungeon Map (AFR) 242
+1 Eccentric Apprentice (AFR) 57
+1 Eradicator Valkyrie (PKHM) 94p
+1 Exotic Orchard (DSC) 275
+1 Fallen Angel (PLST) A25-91
+1 Fellwar Stone (DSC) 245
+1 Feywild Caretaker (CLB) 69
+1 Fly (AFR) 59
+1 Ghostly Prison (MKC) 67
+1 Giada, Font of Hope (SNC) 14
+1 Hama Pashar, Ruin Seeker (AFR) 224
+1 Imoen, Mystic Trickster (CLB) 486 *E*
+1 Indomitable Archangel (NEC) 85
+1 Leyline of Anticipation (CLB) 726
+1 Lightning Greaves (DSC) 93
+1 Linvala, Keeper of Silence (SLD) 1289
+1 Magister of Worth (C21) 223
+1 Monologue Tax (DSC) 100
+1 Paradox Haze (PLST) TSP-71 *F*
+1 Passageway Seer (CLB) 141
+1 Platinum Angel (SLD) 496
+1 Ravenloft Adventurer (CLB) 577 *F*
+1 Relic of Legends (DMU) 236
+1 Reliquary Tower (PF23) 3 *F*
+1 Rilsa Rael, Kingpin (CLB) 293
+1 Safana, Calimport Cutthroat (CLB) 496 *E*
+1 Sarevok's Tome (CLB) 685
+1 Seasoned Dungeoneer (CLB) 660
+1 Seraph Sanctuary (DDQ) 33
+1 Serra the Benevolent (SLD) 1252
+1 Shattered Seraph (SNC) 333
+1 Smothering Tithe (CMM) 57
+1 Sol Ring (DSC) 94
+1 Solemn Simulacrum (BRC) 161
+1 Spectral Searchlight (CMM) 411
+1 Sunblast Angel (C20) 102
+1 Telepathy (M10) 74
+1 Temple of the False God (DSC) 313
+1 Thorough Investigation (AFC) 12
+1 Tomb of Horrors Adventurer (CLB) 100
+1 Triumphant Adventurer (PAFR) 237p
+1 Vega, the Watcher (KHM) 233
+1 Vengeful Reaper (KHM) 116
+        In 
+1 Acererak the Archlich (AFR) 87
+1 Angel of Grace (RNA) 1
+1 Angel of Jubilation (AVR) 2
+1 Angelic Arbiter (JMP) 86
+1 Avacyn, Angel of Hope (CMM) 14
+1 Dungeon Delver (CLB) 67
+1 Dungeon Descent (AFR) 255
+1 Herald of Eternal Dawn (FDN) 17
+1 Liesa, Forgotten Archangel (MID) 232
+1 Lotho, Corrupt Shirriff (LTR) 213
+1 Midnight Pathlighter (AFC) 52
+1 Nadaar, Selfless Paladin (AFR) 27
+1 Obelisk of Esper (C13) 250
+1 Omniscience (M19) 65
+1 Planar Ally (AFR) 31
+1 Radiant Solar (AFC) 9
+1 Rampage of the Valkyries (KHM) 393
+1 Seer's Vision (INV) 270
+1 Sefris of the Hidden Ways (AFC) 3 *F*
+1 Shadow of the Second Sun (MH3) 70
+1 Skyclave Relic (MOC) 380
+1 Starnheim Aspirant (KHM) 380
+1 Starnheim Unleashed (KHM) 33
+1 Vedalken Orrery (CNS) 206
+1 White Plume Adventurer (CLB) 49
+1 Yuan-Ti Malison (AFR) 86

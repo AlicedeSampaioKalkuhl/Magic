@@ -8,6 +8,7 @@ Zimone, All-Questioning
 1 Animist's Awakening (C20) 166
 1 Ascendant Acolyte (NEC) 24
 1 Augmenter Pugilist / Echoing Equation (STX) 147
+1 Awaken the Woods (BRO) 170
 1 Azusa, Lost but Seeking (SLD) 1597★ *F*
 1 Bala Ged Recovery / Bala Ged Sanctuary (ZNR) 180
 1 Biogenic Upgrade (2X2) 137
@@ -40,6 +41,7 @@ Zimone, All-Questioning
 1 Greater Good (9ED) 245
 1 Hydra's Growth (THB) 172
 1 Invigorating Surge (M21) 190 *F*
+1 Jadzi, Oracle of Arcavios / Journey to the Oracle (STX) 151
 1 Jungle Basin (CMA) 258
 1 Kalonian Hydra (MOC) 305
 1 Karn's Bastion (PWAR) 248p
@@ -54,7 +56,9 @@ Zimone, All-Questioning
 1 Nexos (40K) 95
 1 Nissa, Steward of Elements (C20) 224
 1 Open the Way (MAT) 23 *F*
+1 Oracle of Mul Daya (JMP) 415
 1 Otawara, Soaring City (NEO) 271
+1 Oversimplify (DSC) 228
 1 Quandrix Command (LCC) 280
 1 Quirion Ranger (MH2) 285
 1 Ramunap Excavator (OTC) 202
@@ -65,28 +69,31 @@ Zimone, All-Questioning
 1 Simic Growth Chamber (MKC) 293
 1 Sisterhood of Karn (WHO) 109
 1 Slogurk, the Overslime (MID) 242
+1 Soramaro, First to Dream (SOK) 58
 1 Sporocyst (40K) 98
 1 Strip Mine (SLD) 472 *F*
+1 Sustenance (MMQ) 278
 1 Tatyova, Benthic Druid (CMM) 687
 1 Temple of the False God (LCC) 359
 1 Terrain Generator (CLB) 926
 1 Terramorphic Expanse (DSK) 269
 1 Titania, Protector of Argoth (MH2) 287
+1 Trade Routes (8ED) 109
 1 Troyan, Gutsy Explorer (WOE) 217 *F*
 1 Unnatural Growth (MID) 206
 1 Urban Evolution (NCC) 355
+1 Uyo, Silent Prophet (C13) 64
 1 Voracious Hydra (SLD) 1491
 1 Vorel of the Hull Clade (NCC) 357
 1 Waterlogged Grove (WHO) 331
+1 Wrenn and Seven (DSC) 207
 1 Zimone, Quandrix Prodigy (STX) 250 *F*
 1 Zimone's Hypothesis (DSC) 15
 1 Zuran Orb (MH2) 300
     In 
 1 Aesi, Tyrant of Gyre Strait (DSC) 210
 1 Augur of Autumn (DSC) 171
-1 Awaken the Woods (BRO) 170
 1 Bonny Pall, Clearcutter (OTJ) 196
-1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
 1 Cartographer (ODY) 232
 1 Case of the Locked Hothouse (MKM) 155
 1 Cephalid Coliseum (MH3) 300
@@ -106,42 +113,33 @@ Zimone, All-Questioning
 1 Ghost Town (TMP) 318
 1 Guildless Commons (CMR) 351
 1 Horizon of Progress (M3C) 78
-1 Jadzi, Oracle of Arcavios / Journey to the Oracle (STX) 151
-1 Jungle Basin (CMR) 484
 1 Kasmina, Enigma Sage (STX) 196
+1 Loot, Exuberant Explorer (FDN) 106
 1 Manifestation Sage (STX) 205
-1 Mirror Gallery (PLST) BOK-154
 1 Mirror Room / Fractured Realm (DSK) 67
+1 Mossborn Hydra (FDN) 107
 1 Nylea's Intervention (PTHB) 188p
 1 Oboro Breezecaller (SOK) 48
 1 Oboro Envoy (SOK) 49
 1 Oboro, Palace in the Clouds (SOK) 164
-1 Oracle of Mul Daya (JMP) 415
-1 Oversimplify (DSC) 228
 1 Paradox Zone (C21) 64
 1 Primordial Hydra (M13) 183
 1 Realms Uncharted (ROE) 206
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
 1 Shifting Woodland (MH3) 228
-1 Sink into Stupor / Soporific Springs (MH3) 241
-1 Soramaro, First to Dream (SOK) 58
 1 Soratami Cloudskater (CHK) 86
 1 Soratami Mirror-Guard (CHK) 87
 1 Soratami Mirror-Mage (CHK) 88
 1 Soratami Rainshaper (CHK) 89
 1 Soratami Savant (PLST) CHK-90
 1 Soratami Seer (CHK) 91
-1 Sustenance (MMQ) 278
 1 Sword of Hours (AFC) 61
 1 Sylvan Safekeeper (CMA) 152
 1 Tanazir Quandrix (STX) 240
 1 The Millennium Calendar (LCI) 257
-1 Trade Routes (8ED) 109
 1 Traverse the Outlands (CLB) 258
-1 Unbound Flourishing (MH1) 189
-1 Uyo, Silent Prophet (C13) 64
 1 Visions of Dominance (MIC) 37
 1 Walk-In Closet / Forgotten Cellar (DSK) 205
 1 Wonderscape Sage (M3C) 101
-1 Wrenn and Seven (DSC) 207
+1 Zimone, Paradox Sculptor (FDN) 483
     Out 

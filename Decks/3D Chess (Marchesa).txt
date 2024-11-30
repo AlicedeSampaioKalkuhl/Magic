@@ -1,0 +1,51 @@
+    	Queen Marchesa 
+            Check 
+1 Archon of Coronation (NCC) 192
+1 Boromir, Warden of the Tower (LTR) 4
+1 Breaking of the Fellowship (LTR) 117 *F*
+1 Call of the Ring (LTR) 79
+1 Champions of Minas Tirith (LTC) 10
+1 Claim the Precious (LTR) 81
+1 Crown of Gondor (LTC) 75
+1 Custodi Lich (NCC) 244
+1 Deflecting Palm (MKC) 205
+1 Emberwilde Captain (CMR) 175 *F*
+1 Éomer, King of Rohan (LTC) 52
+1 Faramir, Field Commander (LTR) 14
+1 Fiery Inscription (LTR) 126
+1 Forth Eorlingas! (LTC) 56
+1 Gollum, Patient Plotter (LTR) 84
+1 Gollum's Bite (LTR) 85
+1 Inherited Envelope (LTR) 242
+1 Inkshield (DSC) 221
+1 Knights of the Black Rose (MOC) 332
+3 Nazgûl (LTR) 100
+1 Now for Wrath, Now for Ruin! (LTR) 24
+1 Oath of Eorl (LTC) 64
+1 One Ring to Rule Them All (LTR) 102
+1 Palace Sentinels (CMR) 36
+1 Ranger's Firebrand (LTR) 143
+1 Relentless Rohirrim (LTR) 144
+1 Ringwraiths (LTR) 284
+1 Rohirrim Lancer (LTR) 146
+1 Sam's Desperate Rescue (LTR) 105
+1 Samwise the Stouthearted (LTR) 28
+1 Skyline Despot (CMM) 254
+1 Slip On the Ring (LTR) 31
+1 Stalwarts of Osgiliath (LTR) 33
+1 Staunch Throneguard (CMR) 344
+1 Take the Bait (MKC) 43
+1 Teysa, Envoy of Ghosts (C21) 230
+1 The Black Breath (LTR) 78 *F*
+1 There and Back Again (LTR) 151
+1 Thorn of the Black Rose (CMR) 154
+1 Throne of the High City (MKC) 307
+1 Took Reaper (LTR) 35 *F*
+1 Uruk-hai Berserker (LTR) 112 *F*
+1 War of the Last Alliance (LTR) 36
+1 Witch-king of Angmar (LTR) 114
+        In 
+1 Garrulous Sycophant (CN2) 43
+1 Invasion of Fiora / Marchesa, Resolute Monarch (MOM) 114
+1 Marchesa's Decree (CN2) 44
+1 Protector of the Crown (CN2) 21

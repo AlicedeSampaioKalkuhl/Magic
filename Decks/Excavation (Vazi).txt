@@ -1,0 +1,96 @@
+    Vazi, Keen Negotiator 
+        Check 
+1 Academy Manufactor (OTC) 251
+1 Agent of the Iron Throne (CLB) 107
+1 Big Score (OTC) 155
+1 Black Market Connections (LCC) 181
+1 Blood Money (LCC) 183
+1 Blood Moon (WOT) 40
+1 Bloodroot Apothecary (BLC) 27
+1 Captain Lannery Storm (SLD) 1409
+1 Command Tower (DSC) 96
+1 Crack Open (MOC) 294
+1 Culling Ritual (DSC) 85
+1 Deadly Derision (MOM) 99
+1 Disciple of the Vault (MRD) 62
+1 Exotic Orchard (DSC) 275
+1 Fain, the Broker (OTC) 133
+1 Gala Greeters (SNC) 450 *F*
+1 Glittering Stockpile (OTC) 167
+1 Glittermonger (SNC) 149
+1 Goldspan Dragon (M3C) 212
+1 Grim Bounty (AFR) 106
+1 Grim Hireling (CLB) 755
+1 Hedron Detonator (MOC) 31
+1 Hit the Mother Lode (LCI) 153
+1 Ignoble Hierarch (MH2) 355 *F*
+1 Jaheira, Friend of the Forest (CLB) 237
+1 Jolene, the Plunder Queen (NCC) 73
+1 Kalain, Reclusive Painter (AFR) 225
+1 Kellogg, Dangerous Mind (PIP) 415
+1 Kessig Wolf Run (MKC) 269
+1 Korvold, Fae-Cursed King (SLD) 1625
+1 Lich-Knights' Conquest (WOE) 380 *F*
+1 Manglehorn (AKH) 175
+1 Marching Duodrone (CLB) 321
+1 Marionette Master (KLD) 90
+1 Mastermind Plum (CLU) 3
+1 Mayhem Devil (WAR) 204
+1 Mazirek, Kraul Death Priest (2XM) 209
+1 Mirkwood Bats (LTR) 95
+1 Nadier's Nightblade (CMR) 136
+1 Old Gnawbone (AFR) 296 *F*
+1 Pain Distributor (MOC) 33
+1 Pirate's Pillage (2X2) 120
+1 Pitiless Plunderer (LCC) 208
+1 Professional Face-Breaker (M3C) 216
+1 Rankle and Torbran (MOM) 315 *F*
+1 Revel in Riches (XLN) 117
+1 Riveteers Charm (SNC) 217
+1 Riveteers Confluence (NCC) 79
+1 Riveteers Overlook (SNC) 255
+1 Rose Room Treasurer (NCC) 51
+1 Ruthless Technomancer (NEC) 35
+1 Sol Ring (DSC) 94
+1 Spiteful Repossession (NCC) 90
+1 Sticky Fingers (SNC) 124
+1 Stimulus Package (SNC) 225 *F*
+1 Strike It Rich (MH2) 143
+1 Structural Assault (SNC) 126
+1 Tempting Contract (C21) 78
+1 The Reaver Cleaver (DMC) 8
+1 Tireless Provisioner (MOC) 313
+1 Treasure Vault (AFR) 261
+1 Visions of Ruin (MIC) 74
+        In 
+1 Generous Plunderer (BIG) 11
+1 Reckless Fireweaver (KLD) 126
+1 Sardian Avenger (BRC) 23
+1 Alchemist's Talent (BLC) 22
+1 Ancient Copper Dragon (CLB) 161
+1 Ancient Runes (TMP) 161
+1 Bootleggers' Stash (SNC) 134
+1 Brass's Bounty (FDN) 190
+1 Crime Novelist (MKM) 121
+1 Fangren Marauder (MBS) 79
+1 Flick a Coin (WOE) 128
+1 Gold Rush (OTJ) 166
+1 Hell to Pay (OTJ) 126
+1 Hoard Hauler (SNC) 109
+1 Ingenious Artillerist (CLB) 182
+1 Inspired Tinkering (CLB) 183
+1 Lobelia Sackville-Baggins (LTR) 93
+1 Manabarbs (M12) 150
+1 Mines of Moria (LTR) 257
+1 Powerleech (ATQ) 34
+1 Price of Glory (ODY) 214
+1 Prosperous Bandit (BLC) 25
+1 Reckless Endeavor (AFC) 33
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Skullport Merchant (CLB) 149
+1 Spiteful Banditry (LTR) 149
+1 Tectonic Instability (INV) 173
+1 Treasure Map / Treasure Cove (LCI) 267
+1 Unexpected Windfall (AFR) 164
+1 Viridian Revel (SOM) 132
+1 Xorn (AFR) 167
