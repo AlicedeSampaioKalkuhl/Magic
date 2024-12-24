@@ -1,0 +1,28 @@
+    Aryel, Knight of Windgrace 
+        Check 
+1 Allied Reinforcements (OGW) 15
+1 Doom Foretold (ELD) 187
+1 Fetid Heath (OTC) 295
+1 Gideon's Phalanx (ORI) 14
+1 Guarded Heir (FDN) 14
+1 History of Benalia (DOM) 21
+1 Kinsbaile Cavalier (DDG) 17
+1 Knight of the New Coalition (MOM) 25
+1 Ledev Guardian (GRN) 18
+1 Moonshaker Cavalry (WOE) 21
+1 Patchwork Banner (BLB) 247
+1 Stoneforge Masterwork (OGW) 166
+1 Syr Alin, the Lion's Claw (FDN) 582
+1 Tainted Field (DSC) 302
+1 Valiant Endeavor (AFC) 13
+1 Zhalfirin Commander (DDG) 13
+        In 
+1 Blacklance Paragon (ELD) 79
+1 Bloodcrazed Paladin (XLN) 93
+1 Knight of Dusk's Shadow (DMU) 96
+1 Knight of Grace (FDN) 576
+1 Knight of Malice (FDN) 608
+1 Knight of the Holy Nimbus (TSR) 23
+1 Paladin of Atonement (RIX) 16
+1 Sorin, Grim Nemesis (SOI) 251
+        Out 

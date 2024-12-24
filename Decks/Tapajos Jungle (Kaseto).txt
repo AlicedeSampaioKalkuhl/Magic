@@ -1,0 +1,74 @@
+    Kaseto, Orochi Archmage 
+        Check 
+1 Ambush Viper (CMR) 213
+1 Coiling Oracle (2X2) 375
+1 Coiling Stalker (NEO) 346
+1 Fang of Shigeki (NEO) 183
+1 Feiyi Snake (GS1) 24
+1 Gurmag Drowner (PLST) DTK-57
+1 Heir of the Ancient Fang (NEO) 325
+1 Ice-Fang Coatl (SLD) 1225 *F*
+1 Jewel-Eyed Cobra (MH2) 168
+1 Lonis, Cryptozoologist (MH2) 204 *F*
+1 Lorescale Coatl (MM2) 179
+1 Lotus Cobra (ZNR) 307
+1 Moss Viper (THB) 179
+1 Nessian Asp (THS) 164
+1 Ohran Frostfang (MKC) 180
+1 Ohran Viper (DDM) 57
+1 Orochi Merge-Keeper (NEO) 203
+1 Profaner of the Dead (DTK) 70
+1 River Boa (PLST) ZEN-180
+1 Sachi, Daughter of Seshiro (CHK) 238
+1 Sakiko, Mother of Summer (CMM) 319 *F*
+1 Seshiro the Anointed (SLD) 1224 *F*
+1 Shigeki, Jukai Visionary (DSC) 198
+1 Sosuke, Son of Seshiro (CHK) 244
+1 Tower Winder (OTC) 34
+1 Vizier of the Menagerie (SLD) 1100
+1 Winged Coatl (C13) 226
+        In 
+1 Anaconda (9ED) 229
+1 Animal Sanctuary (M21) 242
+1 Ankle Biter (OTJ) 153
+1 Broodbirth Viper (C15) 10
+1 Cobra Trap (C15) 180
+1 Endless Swarm (SOK) 129
+1 Fanatic of Rhonas (MH3) 152
+1 Hope-Ender Coatl (MH3) 64
+1 Kashi-Tribe Elite (SOK) 135
+1 Kashi-Tribe Reaver (CHK) 220
+1 Kashi-Tribe Warriors (CHK) 221
+1 Krosan Constrictor (TOR) 129
+1 Marsh Boa (PCY) 118
+1 Matsu-Tribe Birdstalker (SOK) 137
+1 Matsu-Tribe Decoy (CHK) 227
+1 Matsu-Tribe Sniper (BOK) 136
+1 Mire Boa (TSR) 219
+1 Mold Adder (FDN) 640
+1 Mystic Snake (A25) 208
+1 Naga Vitalist (AKH) 176
+1 Nemesis of Mortals (THS) 163
+1 Oasis Ritualist (HOU) 124
+1 Ophidian (JVC) 9
+1 Orochi Eggwatcher / Shidako, Broodmistress (CHK) 233
+1 Orochi Hatchery (C15) 260
+1 Orochi Ranger (CHK) 235
+1 Orochi Sustainer (CHK) 236
+1 Patagia Viper (C15) 197
+1 Patron of the Orochi (BOK) 138
+1 Prowling Serpopard (AKH) 180
+1 Rhonas's Last Stand (HOU) 132
+1 Sakura-Tribe Scout (SOK) 144
+1 Sakura-Tribe Springcaller (BOK) 142
+1 Seed the Land (SOK) 146
+1 Shisato, Whispering Hunter (CHK) 242
+1 Shizuko, Caller of Autumn (BOK) 144
+1 Snake Basket (6ED) 312
+1 Snake of the Golden Grove (BNG) 141
+1 Snake Pit (MMQ) 271
+1 Snakeform (CLU) 209
+1 Sosuke's Summons (BOK) 145
+1 Tangle Asp (5DN) 94
+1 Weaver of Currents (AKH) 209
+        Out 
