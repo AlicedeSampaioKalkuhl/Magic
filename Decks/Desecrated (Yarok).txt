@@ -1,0 +1,32 @@
+    Yarok, the Desecrated 
+        Check 
+1 Absorb Identity (KHM) 383
+1 Activated Sleeper (DMC) 24
+1 Altered Ego (SOI) 241
+1 Biovisionary (GTC) 146
+1 Blade of Shared Souls (ONE) 42
+1 Cemetery Puca (SHM) 158
+1 Clever Impersonator (C19) 82
+1 Clone (M14) 47
+1 Copycrook (MH3) 55
+1 Cryptoplasm (MBS) 23
+1 Dimir Doppelganger (CNS) 186
+1 Evil Twin (BBD) 222
+1 Gigantoplasm (C15) 11
+1 Metamorphic Alteration (M19) 60
+1 Mirror Image (M19) 61
+1 Mystic Reflection (KHM) 69
+1 Pirated Copy (J22) 16
+1 Progenitor Mimic (2XM) 212
+1 See Double (MOM) 77
+1 Three Steps Ahead (OTJ) 75
+1 Undercover Operative (SNC) 63
+1 Visage Bandit (OTJ) 76
+1 Wall of Stolen Identity (C19) 13
+        In 
+1 Craterhoof Behemoth (CMM) 280
+1 Dour Port-Mage (BLB) 47
+1 Ertai Resurrected (DMU) 199
+1 Teferi's Time Twist (WAR) 72
+1 Uro, Titan of Nature's Wrath (THB) 229
+        Out 

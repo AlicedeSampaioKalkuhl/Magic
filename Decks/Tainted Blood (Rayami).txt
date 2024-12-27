@@ -1,0 +1,67 @@
+    Rayami, First of the Fallen 
+        Check 
+1 Argentum Masticore (ONE) 222
+1 Baleful Strix (MKC) 200
+1 Banehound (WAR) 77
+1 Beastcaller Savant (BFZ) 170
+1 Black Knight (M11) 83
+1 Bone Shards (MH2) 76
+1 Bone Splinters (DMU) 83
+1 Cerulean Drake (M20) 53
+1 Corrupted Conviction (OTJ) 84
+1 Costly Plunder (2XM) 80 *F*
+1 Deadly Dispute (PIP) 184
+1 Diabolic Intent (BRO) 89 *F*
+1 Dictate of Erebos (JOU) 65
+1 Eldritch Evolution (EMN) 155
+1 Evolutionary Leap (NCC) 288
+1 Fanatical Offering (LCI) 105
+1 Fell Stinger (VOW) 112
+1 Glissa Sunslayer (ONE) 202
+1 Goremand (M21) 101
+1 Indominus Rex, Alpha (REX) 14
+1 Jewel Thief (SNC) 151
+1 Lash of the Balrog (LTR) 92
+1 Leyline Prowler (C21) 222
+1 Life's Legacy (NCC) 300
+1 Malcator's Watcher (ONE) 58
+1 Nasty End (LTR) 99 *F*
+1 Nightveil Predator (RVR) 206
+1 Plumb the Forbidden (STX) 81 *F*
+1 Prime Speaker Vannifar (RNA) 195
+1 Reckoner's Bargain (NEO) 120 *F*
+1 Sanguine Spy (SNC) 93
+1 Scavenged Brawler (BRC) 17
+1 Severed Strands (2X2) 88 *F*
+1 Spectrum Sentinel (BRO) 244
+1 Vampire Nighthawk (VOC) 140
+1 Venomthrope (40K) 147
+1 Vile Mutilator (DSK) 122
+1 Village Rites (LCC) 212
+1 Viscera Seer (CMR) 158
+1 Vivisection (MID) 83
+1 Weeping Angel (WHO) 773 *F*
+1 Wilson, Refined Grizzly (CLB) 522 *E*
+        In 
+1 Altar's Reap (CMA) 45
+1 Bassara Tower Archer (JOU) 117
+1 Birds of Paradise (RVR) 133
+1 Blightbeetle (M20) 87
+1 Demon of Catastrophes (M19) 91
+1 Eliminate the Competition (KLD) 78
+1 Final Vengeance (DSK) 99
+1 Galewind Moose (BLB) 173
+1 Gladecover Scout (M14) 176
+1 Grave Pact (8ED) 137
+1 Great Sable Stag (M10) 186
+1 Harbinger of Spring (BOK) 128
+1 Ichor Explosion (NPH) 64
+1 Momentous Fall (JMP) 411
+1 Morbid Curiosity (BBD) 149
+1 Mwonvuli Beast Tracker (M13) 177
+1 Natural Order (EMA) 177
+1 Nightshade Dryad (MH3) 163
+1 Slippery Bogle (UMA) 223
+1 Sylvan Caryatid (THS) 180
+1 Vampire of the Dire Moon (M20) 120
+        Out 

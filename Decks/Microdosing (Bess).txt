@@ -1,0 +1,79 @@
+    Bess, Soul Nourisher 
+        Check 
+1 Ajani, Sleeper Agent (DMU) 192
+1 Akroma's Will (LCC) 125
+1 Arbor Elf (LTC) 232
+1 Arcane Signet (DSC) 92
+1 Avacyn's Pilgrim (SCD) 171
+1 Blight Mamba (ONC) 105
+1 Caustic Caterpillar (PLST) ORI-170
+1 Champion of Lambholt (MOC) 293
+1 Charge of the Mites (ONE) 6
+1 Command Tower (M3C) 331
+1 Compleat Devotion (ONE) 7
+1 Crawling Chorus (ONE) 8
+1 Cultivator of Blades (KHC) 55
+1 Decimator Web (MBS) 105
+1 Elvish Mystic (LTC) 238
+1 Elvish Visionary (CMR) 223
+1 Farhaven Elf (LTC) 243
+1 Farmer Cotton (LTC) 55
+1 Fyndhorn Elves (CMR) 228
+1 Gala Greeters (SNC) 450 *F*
+1 Gavony Township (MOC) 406
+1 Glistener Elf (NPH) 111
+1 Glistening Sphere (ONC) 20
+1 Grateful Apparition (ONC) 73
+1 Haazda Marshal (GRN) 13 *F*
+1 Haywire Mite (DSC) 247
+1 Ichorclaw Myr (SOM) 166
+1 Infectious Bite (ONE) 172
+1 Inkmoth Nexus (SLD) 1207 *F*
+1 Jawbone Duelist (ONE) 18
+1 Llanowar Elves (PLST) M19-314
+1 Luminarch Aspirant (NCC) 205
+1 Managorger Hydra (C21) 199
+1 Maze's Mantle (ONE) 174
+1 Mosswort Bridge (C21) 303
+1 Mother of Runes (CLB) 702
+1 Necropede (SOM) 185
+1 Norn's Decree (ONC) 9
+1 Ollenbock Escort (VOW) 27
+1 Phyrexian Atlas (ONE) 237
+1 Pistus Strike (MBS) 86 *F*
+1 Plague Myr (MBS) 125
+1 Raise the Past (FDN) 22
+1 Resolute Reinforcements (DMU) 29
+1 Rogue's Passage (OTC) 313
+1 Sakura-Tribe Elder (C19) 177
+1 Scute Swarm (NCC) 310
+1 Selfless Savior (SLD) 732
+1 Sigil Captain (CMD) 225
+1 Skrelv, Defector Mite (ONE) 33
+1 Sol Ring (DSC) 94
+1 Soul Warden (MM3) 24
+1 Spirited Companion (NEO) 38
+1 Talisman of Unity (MKC) 244
+1 Temple of the False God (DSC) 313
+1 Trigon of Infestation (SOM) 214
+1 Triumph of the Hordes (NPH) 123
+1 Viral Spawning (ONE) 194
+1 White Sun's Twilight (ONE) 38
+1 Wild Beastmaster (MIC) 146
+1 Wildwood Mentor (WOE) 322 *F*
+1 Wood Elves (MOC) 316
+1 Zealot's Conviction (ONE) 39
+        In 
+1 Assemble the Players (MKM) 3
+1 Goliath Hatchery (ONE) 408
+1 Huatli, Radiant Champion (RIX) 159
+1 Idyllic Grange (ELD) 246
+1 Keleth, Sunmane Familiar (CMM) 33
+1 Noxious Assault (ONE) 176
+1 Pendelhaven (A25) 244
+1 Restless Prairie (LCI) 281
+1 Skrelv's Hive (ONE) 34
+1 The Seedcore (ONE) 259
+1 Tocasia's Welcome (BRO) 30
+1 Wyrm's Crossing Patrol (CLB) 51
+        Out

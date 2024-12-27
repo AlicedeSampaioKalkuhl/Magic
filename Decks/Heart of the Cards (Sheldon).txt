@@ -1,0 +1,61 @@
+    Sheldon, the Commander 
+        Check 
+1 Aegar, the Freezing Flame (KHM) 200
+1 Aqueous Form (CMR) 56
+1 Archmage of Runes (FDN) 30
+1 Basalt Ravager (KHM) 122
+1 Bruenor Battlehammer (AFR) 219
+1 Chef's Kiss (MH2) 120
+1 Cloak of Mists (GS1) 13
+1 Flitterstep Eidolon (BNG) 40
+1 Fomori Nomad (FUT) 114 *F*
+1 Galvanic Giant / Storm Reading (WOE) 52
+1 Hammer Dropper (PLST) GRN-176
+1 Kalemne's Captain (C20) 92
+1 Knight Rampager (40K) 80
+1 Maddening Hex (AFC) 32
+1 Manifold Key (CLB) 319
+1 Mysterious Stranger (PIP) 63
+1 Realm-Cloaked Giant / Cast Off (WOC) 71
+1 Scrambleverse (M12) 153
+1 Sonic Screwdriver (WHO) 184
+1 Sun Titan (OTC) 87
+1 The Seventh Doctor (WHO) 558 *F*
+1 Thryx, the Sudden Storm (THB) 76
+1 Whispersilk Cloak (LTC) 292
+        In 
+1 Aether Tunnel (M19) 43
+1 Arbiter of Knollridge (CM2) 17
+1 Bearer of the Heavens (JOU) 89
+1 Borderland Behemoth (CM2) 87
+1 Brion Stoutarm (A25) 200
+1 Brotherhood Regalia (ACR) 71
+1 Calamity Bearer (KHM) 125
+1 Capricious Efreet (C13) 102
+1 Chancellor of the Forge (NPH) 81
+1 Crush Underfoot (MMA) 109
+1 Cryptic Coat (MKM) 50
+1 Cyclone Summoner (KHM) 52
+1 Favor of the Mighty (LRW) 14
+1 Fire Giant's Fury (KHM) 389
+1 Furystoke Giant (SHM) 93
+1 Giant Harbinger (LRW) 169
+1 Goblin Test Pilot (DGM) 74
+1 Haktos the Unscarred (THB) 218
+1 Hamletback Goliath (JMP) 332
+1 Haphazard Bombardment (DOM) 131
+1 Hundred-Handed One (CN2) 93
+1 Ignite Memories (TSP) 164
+1 Kalemne, Disciple of Iroas (CM2) 7 *F*
+1 Master Warcraft (CMR) 447
+1 Outlaws' Merriment (ELD) 198
+1 Palisade Giant (RTR) 15
+1 Phlage, Titan of Fire's Fury (MH3) 197
+1 Quakebringer (KHM) 145
+1 Raiyuu, Storm's Edge (NEO) 232
+1 Squash (KHM) 152
+1 Steel of the Godhead (DDI) 30
+1 Stinkdrinker Daredevil (CM2) 119
+1 Stonehewer Giant (2XM) 32
+1 Sunrise Sovereign (CM2) 121
+        Out 
