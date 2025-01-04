@@ -1,0 +1,69 @@
+    Archelos
+        Check 
+1 Arachnogenesis (DSC) 169
+1 Asceticism (SOM) 110
+1 Blinding Fog (XLN) 177
+1 Boon of Erebos (THS) 80
+1 Butcher's Glee (DTK) 90 *F*
+1 Change of Plans (NCC) 24
+1 Dark Dabbling (PLST) ORI-89
+1 Deadly Tempest (C21) 140
+1 Dolmen Gate (LRW) 256
+1 Experiment One (2X2) 146 *F*
+1 Ghost Ship (A25) 60
+1 Kathari Remnant (PCA) 98
+1 Krosan Avenger (ODY) 247
+1 Lotleth Troll (2X2) 245 *F*
+1 Mandate of Abaddon (40K) 40
+1 March of Swirling Mist (NEO) 61 *F*
+1 Nature's Will (CHK) 230
+1 Necrobite (AVR) 115
+1 Necromantic Selection (ZNC) 48
+1 Patchwork Gnomes (MH2) 299
+1 Phage the Untouchable (CNS) 120
+1 Relic of Legends (DMU) 236
+1 Saryth, the Viper's Fang (MKC) 185
+1 Slip Out the Back (SNC) 62
+1 Spiritmonger (DMR) 202 *F*
+1 Springleaf Drum (LRW) 261
+1 Thrun, the Last Troll (PLST) MBS-92
+1 Varolz, the Scar-Striped (DGM) 112
+1 Wrap in Vigor (FUT) 141
+        In 
+1 Avatar of Woe (CM2) 57
+1 Blessing of Leeches (BOK) 62
+1 Bontu's Last Reckoning (HOU) 60
+1 Cateran Overlord (MMQ) 123
+1 Consecrated by Blood (ORI) 87
+1 Cryptolith Rite (SOI) 200
+1 Cudgel Troll (M12) 169
+1 Defiling Tears (INV) 99
+1 Final Act (M3C) 52
+1 Finale of Eternity (WAR) 91
+1 Freed from the Real (A25) 58
+1 Gaze of the Gorgon (RAV) 246
+1 Golgari Charm (UMA) 201
+1 Grim Giganotosaurus (REX) 11
+1 Hythonia the Cruel (THS) 91
+1 Life's Finale (NPH) 65
+1 Marrow Bats (C13) 82
+1 Mending Touch (DGM) 44
+1 Mossbridge Troll (SHM) 123
+1 Nim Shambler (MRD) 72
+1 Reality Ripple (MIR) 87
+1 Refresh (ODY) 264
+1 Regenerate (M10) 202
+1 Regeneration (10E) 290
+1 Ring of Xathrid (M13) 215
+1 Ritual of Soot (GRN) 84
+1 Rusted Slasher (MBS) 128
+1 Skeletal Vampire (C17) 126
+1 Teferi's Veil (WTH) 53
+1 The Phasing of Zhalfir (DMU) 59
+1 Time and Tide (VIS) 46
+1 Unnatural Endurance (OGW) 80
+1 Vampire Warlord (M14) 120
+1 Wail of the Nim (MRD) 81
+1 Whirlwind (CMA) 167
+1 Woodwraith Strangler (RAV) 241
+1 Yavimaya Hollow (UDS) 143
