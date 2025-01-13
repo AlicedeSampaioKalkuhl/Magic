@@ -92,35 +92,28 @@
 1 Walking Ballista (SLD) 1265 *F*
 1 Wondrous Crucible (BRC) 20
     Check 
-1 Diamond Lion (MH2) 470
-    In 
-1 Academy Ruins (TSP) 269
 1 Brain Freeze (SCG) 29
+1 Diamond Lion (MH2) 470
+1 Paradoxical Outcome (KLD) 60
+1 Scrap Trawler (AER) 175
+    In 
 1 Chimil, the Inner Sun (LCI) 249
 1 Clock of Omens (M13) 202
 1 Ensnaring Bridge (STH) 133
 1 Glacial Chasm (ICE) 353
 1 Goblin Engineer (MH1) 128
 1 Hanweir Garrison (PEMN) 130as *F*
-1 Homeward Path (CMD) 277
 1 Inventors' Fair (KLD) 247
 1 Krark-Clan Ironworks (5DN) 134
-1 Liquimetal Torque (MH2) 228
 1 Mox Opal (2XM) 275
-1 Paradoxical Outcome (KLD) 60
-1 Reliquary Tower (CON) 143
 1 Rod of Absorption (AFC) 19
-1 Scrap Trawler (AER) 175
 1 Sensei's Divining Top (EMA) 232
 1 Simulacrum Synthesizer (BIG) 6
 1 Spirebluff Canal (KLD) 249
 1 Steam Vents (RTR) 247
-1 Torpor Orb (NPH) 162
-1 Training Center (CMR) 358
 1 Trinisphere (DST) 154
 1 Urza's Saga (MH2) 380
 1 Ward of Bones (EVE) 174
-
     Out 
 Walking Ballista out
 Narset, Parter of Ways out 

@@ -1,133 +1,100 @@
 Otrimi, the Ever Playful 
-1 Aqueous Form (CMR) 56 *F*
-1 Arcane Signet (KHC) 96
 1 Archipelagore (IKO) 283 *F*
 1 Auspicious Starrix (IKO) 294 *F*
-1 Cackling Counterpart (C14) 100
-1 Castle Vantress (CLB) 885
+1 Bighorner Rancher (PIP) 73
+1 Black Market (CLB) 739
+1 Boneyard Lurker (IKO) 298
+1 Cackling Counterpart (ISD) 46
+1 Cavern Whisperer (IKO) 287
 1 Cerulean Wisps (SHM) 31
 1 Charge Through (STX) 124 *F*
+1 Chittering Harvester (IKO) 288
+1 Command Tower (PIP) 259
 1 Croaking Counterpart (MID) 215 *F*
-1 Cultivate (STA) 51
 1 Decisive Denial (STX) 177 *F*
-1 Defiler of Vigor (DMU) 160
+1 Dirge Bat (IKO) 386
 1 Dreamtail Heron (IKO) 284 *F*
-1 Eel Umbra (2X2) 48 *F*
-1 Eldrazi Conscription (SLD) 1218 *F*
-1 Elvish Mystic (CMM) 648
 1 Enter the Unknown (RIX) 128 *F*
-1 Exotic Orchard (DMC) 209
-1 Fabled Passage (SLD) 471 *F*
-1 Favor of the Overbeing (EVE) 151
-14 Forest (UNF) 239
-1 Gaea's Gift (BRO) 182
-1 Gemrazer (IKO) 295
-1 Get a Leg Up (MKM) 161
+1 Essence Symbiote (IKO) 149
+1 Exotic Orchard (C21) 288
+1 Forest (UNF) 490 *F*
+2 Forest (UNF) 244
+6 Forest (UNF) 239
+1 Gemrazer (IKO) 376
 1 Glowstone Recluse (IKO) 296 *F*
 1 Helm of the Host (DOM) 217
 1 Hinterland Harbor (DMR) 396
+1 Homeward Path (SLD) 1467
 1 Honored Hierarch (ORI) 182
-1 Hunter's Insight (CMR) 232
-1 Incubation Druid (NCC) 296
+1 Hunter's Insight (CMR) 232 *F*
+1 Insatiable Hemophage (IKO) 290
 1 Invigorating Surge (M21) 190
-11 Island (UNF) 236
+1 Island (UNF) 236 *F*
+5 Island (UNF) 236
+2 Island (UNF) 241
 1 Ivy, Gleeful Spellthief (DMU) 201
 1 Leap (STH) 35
 1 Littjara Mirrorlake (KHM) 264
-1 Maraleaf Pixie (ELD) 196 *F*
-1 Memorial to Unity (DOM) 245
 1 Migratory Greathorn (IKO) 297 *F*
-1 Mind Stone (CLB) 325
-1 Mirror Box (PNEO) 250p
-1 Myriad Landscape (C20) 292
-1 Negate (DMU) 58
-1 New Horizons (40K) 218
-1 Octopus Umbra (PLST) C18-11
-1 Omen of the Hunt (THB) 192 *F*
+1 Mindleecher (C20) 44
+1 Mirror Box (NEO) 250
+1 Mysterious Egg (IKO) 385
+1 Nanogene Conversion (WHO) 49
+1 Octavia, Living Thesis (C21) 29
 1 Orvar, the All-Form (PKHM) 70p *F*
-1 Paradise Druid (AFC) 165
 1 Parcelbeast (IKO) 304 *F*
 1 Poison the Blade (CLB) 248 *F*
+1 Pollywog Symbiote (IKO) 372
 1 Pouncing Shoreshark (IKO) 285 *F*
-1 Repulsive Mutation (MKM) 227
+1 Quantum Misalignment (WHO) 52 *F*
+1 Rally the Galadhrim (LTC) 499 *F*
+1 Rejuvenating Springs (CMM) 662 *F*
 1 Return to Nature (ELD) 173 *F*
-1 Rootrider Faun (WOE) 182
+1 Rogue's Passage (MKC) 284
+1 Sakashima of a Thousand Faces (SLD) 1541
 1 Scale the Heights (ZNR) 202 *F*
+1 Sea-Dasher Octopus (IKO) 286
+1 Season of Growth (WOT) 61
 1 Shadow Rift (TMP) 86
-1 Shielding Plax (UMA) 222 *F*
-1 Shore Up (DMU) 64
+1 Shore Up (DMU) 64 *F*
 1 Snakeskin Veil (STA) 57 *F*
 1 Souvenir Snatcher (C20) 38
 1 Spellskite (CLB) 873
-1 Spider Umbra (UMA) 184 *F*
-1 Stolen Identity (NCC) 233
+1 Stolen Identity (GTC) 53
 1 Stormchaser Drake (VOW) 82
-1 Swiftfoot Boots (C13) 263
+5 Swamp (UNF) 237
+2 Swamp (UNF) 242
 1 Tamiyo's Safekeeping (NEO) 211
 1 Tawnos, the Toymaker (BRO) 359 *F*
-1 Terramorphic Expanse (40K) 301
-1 Traveler's Cloak (INV) 83
+1 Temple of the False God (40K) 300
+1 Touch of Moonglove (ORI) 123
 1 Trumpeting Gnarr (IKO) 307 *F*
 1 Twiddle (REN) 44
 1 Twinning Staff (C20) 70
-1 Tyvar's Stand (ONE) 190
+1 Undermountain Adventurer (PCLB) 260s *F*
+1 Undying Malice (VOW) 134
+1 Unexpected Fangs (IKO) 102
 1 Venerated Rotpriest (ONE) 192 *F*
 1 Verdant Rebirth (XLN) 212 *F*
 1 Vesuvan Duplimancy (PDMU) 73p
-1 Vineglimmer Snarl (STX) 274
 1 Viridescent Wisps (SHM) 132 *F*
-1 Wild Growth (3ED) 230
+1 Watchful Radstag (PIP) 87
+1 Wild Defiance (AVR) 203
 1 Withstand Death (SOM) 134
+1 Zagoth Crystal (IKO) 242
     Check 
-1 Bear Umbra (ROE) 177
-1 Boneyard Lurker (IKO) 178
 1 Brokkos, Apex of Forever (IKO) 299
-1 Cavern Whisperer (IKO) 79
-1 Chittering Harvester (IKO) 288
-1 Command Tower (DMC) 204
-1 Dirge Bat (IKO) 386
-1 Dreamroot Cascade (VOW) 262
-1 Evolving Wilds (M13) 224
-1 Giant Inheritance (WOC) 17
-1 Insatiable Hemophage (IKO) 290
-1 Mindleecher (C20) 44
-1 Quantum Misalignment (WHO) 52
-1 Reliquary Tower (M13) 227
-1 Rogue's Passage (PLST) C17-272
-1 Sea-Dasher Octopus (IKO) 286 *F*
-1 Snake Umbra (UMA) 182
-1 Undermountain Adventurer (CLB) 260
+1 Reliquary Tower (OTC) 312
+1 Get a Leg Up (MKM) 161
     In 
-1 Alpha Authority (GTC) 114
-1 Birds of Paradise (10E) 252
-1 Nanogene Conversion (WHO) 49
-1 Poison Dart Frog (LCI) 207
-1 Season of Growth (WOT) 61
 1 Storm of Saruman (LTR) 72
-1 Tender Wildguide (BLB) 196
-1 Watchful Radstag (PIP) 335
     Out 
-Elvish Mystic 
-Incubation Druid 
-Rootrider Faun 
 Croaking Counterpart 
-Cultivate 
-Scale the Heights 
-Gaea's Gift 
-Cackling Counterpart 
-Invigorating Surge 
-Defiler of Vigor 
-Stormchaser Drake 
-Negate 
+Scale the Heights
+Invigorating Surge
 
     Tokens 
-Elvish Mystic copy 
-Honored Hierarch copy 
-Venerated Rotpriest copy 
-Incubation Druid copy 
-Maraleaf Pixie copy 
-Paradise Druid copy 
-Rootrider Faun copy 
+Venerated Rotpriest copy
 Spellskite copy 
 Stormchaser Drake copy 
 Glowstone Recluse copy 
@@ -136,19 +103,11 @@ Gemrazer copy
 Migratory Greathorn copy 
 Orvar, the All-Form copy 
 Parcelbeast copy 
-Auspicious Starrix copy 
-Defiler of Vigor copy 
+Auspicious Starrix copy
 Dreamtail Heron copy 
 Pouncing Shoreshark copy 
 Souvenir Snatcher copy 
 Tawnos, the Toymaker copy 
 Archipelagore copy 
-Aqueous Form copy 
-Spider Umbra copy 
-Eel Umbra copy 
-Favor of the Overbeing copy 
-Shielding Plax copy 
-Traveler's Cloak copy 
-Octopus Umbra copy 
 Eldrazi Conscription copy 
 Beast 

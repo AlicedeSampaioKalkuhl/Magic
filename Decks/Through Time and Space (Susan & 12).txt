@@ -120,19 +120,14 @@ Orzhova
 Isle of Vesuva 
 Horizon Boughs
 Feeding Grounds
-1 Echoing Deeps (LCI) 271
 1 Expropriate (PLST) CN2-30
-1 Forgotten Monument (LCI) 272
 1 Genesis Storm (C18) 30
-1 Hidden Volcano (LCI) 277
 1 Illusion of Choice (CN2) 31
 1 Loot, the Key to Everything (BIG) 62 *F*
 1 Mox Tantalite (MH1) 226
 1 Orchard Elemental (CN2) 68
 1 Selvala's Stampede (CN2) 71
-1 Sprout Swarm (FUT) 138
 1 Twists and Turns / Mycoid Maze (LCI) 217
-1 Volatile Fault (LCI) 286
 
     Out 
 Hedron Fields of Agadeem out  

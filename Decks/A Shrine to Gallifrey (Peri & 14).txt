@@ -11,11 +11,11 @@ Peri Brown & The Fourteenth Doctor
 1 Eerie Procession (CHK) 58
 1 Evermind (PLST) SOK-37
 1 Exotic Orchard (WHO) 276
-1 Forest (NEO) 292 *F*
-1 Forest (SLD) 1134
 1 Forest (SLD) 50
+1 Forest (NEO) 292 *F*
 1 Forest (NEO) 302 *F*
 1 Forest (NEO) 302
+1 Forest (SLD) 1134
 1 Gallifrey Council Chamber (WHO) 188
 1 Gallifrey Falls / No More (WHO) 131
 1 Gallifrey Stands (WHO) 132
@@ -29,9 +29,9 @@ Peri Brown & The Fourteenth Doctor
 1 Honden of Infinite Rage (CHK) 172
 1 Honden of Life's Web (CHK) 213
 1 Honden of Seeing Winds (PLST) CHK-69
-2 Island (NEO) 295 *F*
-2 Island (NEO) 295
 1 Island (SLD) 47
+2 Island (NEO) 295
+2 Island (NEO) 295 *F*
 1 Jenny, Generated Anomaly (WHO) 742 *F*
 1 Kamahl's Druidic Vow (DOM) 166
 1 Kodama of the Center Tree (BOK) 131
@@ -49,8 +49,8 @@ Peri Brown & The Fourteenth Doctor
 1 Path of Ancestry (WHO) 293
 1 Peer Through Depths (DDS) 5
 2 Plains (NEO) 283 *F*
-2 Plains (NEO) 293
 1 Plains (NEO) 294
+2 Plains (NEO) 293
 1 Plaza of Heroes (PDMU) 252p *F*
 1 Reach Through Mists (DDS) 7
 1 Rockfall Vale (WHO) 1101 *F*
@@ -81,7 +81,7 @@ Peri Brown & The Fourteenth Doctor
 1 The Second Doctor (WHO) 156
 1 The Seventh Doctor (WHO) 158 *F*
 1 The Sixth Doctor (WHO) 1034 *F*
-1 The Tenth Doctor (WHO) 194 *E*
+1 The Tenth Doctor (WHO) 608 *F*
 1 The Third Doctor (WHO) 1038 *F*
 1 The Thirteenth Doctor (WHO) 609 *F*
 1 The Twelfth Doctor (WHO) 164 *F*

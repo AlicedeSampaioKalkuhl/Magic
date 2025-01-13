@@ -87,12 +87,13 @@
 1 Nesting Grounds (C20) 71
 1 Otawara, Soaring City (PNEO) 271p
 1 Rivendell (LTR) 259
+1 Satsuki, the Living Lore (NEO) 399
 1 Seaside Citadel (WHO) 302
+1 Song of the Worldsoul (C19) 6
 1 Sonic Screwdriver (WHO) 184
     In 
 1 Doubling Season (MMA) 141
 1 Ferropede (5DN) 122
-1 Hall of Heliod's Generosity (MH1) 241
 1 Hallowed Haunting (VOW) 17
 1 Historian's Boon (DMC) 21
 1 Jugan Defends the Temple / Remnant of the Rising Star (NEO) 194
@@ -100,10 +101,8 @@
 1 Mana Bloom (RTR) 130
 1 Minamo, School at Water's Edge (CHK) 279
 1 Parallel Lives (ISD) 199
-1 Satsuki, the Living Lore (PNEO) 235p
 1 Sea of Clouds (BBD) 84
 1 Serra's Sanctum (USG) 325
-1 Song of the Worldsoul (C19) 6
 1 Teachings of the Kirin / Kirin-Touched Orochi (NEO) 212
 1 The World Spell (DMU) 189
 1 Weaver of Harmony (PNEO) 213p

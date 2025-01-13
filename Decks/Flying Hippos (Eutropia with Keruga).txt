@@ -1,0 +1,62 @@
+    Eutropia, the Twice Favored w. Keruga, the Macrosage 
+        Check 
+1 Abundance (CMM) 884
+1 Arasta of the Endless Web (NCC) 279
+1 Archetype of Imagination (DSC) 111
+1 Bearer of Memory (NEO) 174
+1 Boon Satyr (THS) 152
+1 Callaphe, Beloved of the Sea (THB) 45
+1 Careful Cultivation (NEO) 178
+1 Colossal Majesty (C19) 158
+1 Courser of Kruphix (CMM) 888
+1 Dormant Grove / Gnarled Grovestrider (VOW) 198
+1 Dryad of the Ilysian Grove (CMM) 891
+1 Eidolon of Blossoms (WOC) 124
+1 Elemental Bond (ORI) 174
+1 Enduring Curiosity (DSK) 51
+1 Grasping Longneck (DSK) 180
+1 Guardian Project (PIP) 199
+1 Imprisoned in the Moon (MOC) 224
+1 Jukai Preserver (NEO) 195
+1 Keruga, the Macrosage (MUL) 48 *F*
+1 Kruphix, God of Horizons (PLST) JOU-152
+1 Mouth / Feed (AKH) 214 *F*
+1 Nimbus Naiad (THS) 56
+1 Noble Quarry (BNG) 130
+1 Nylea's Emissary (THS) 168 *F*
+1 Nylea's Forerunner (THB) 186
+1 Nyx Herald (THB) 189
+1 Nyxbloom Ancient (THB) 190
+1 Nyxborn Behemoth (CMM) 742
+1 Nyxborn Triton (BNG) 46
+1 Nyxborn Wolf (BNG) 131
+1 Overgrowth (J22) 702
+1 Overlord of the Floodpits (DSK) 68
+1 Renata, Called to the Hunt (MUL) 93 *E*
+1 Thassa's Emissary (THS) 68
+1 Virtue of Strength / Garenbrig Growth (WOE) 284
+1 Whitewater Naiads (JOU) 58
+1 Wilderness Reclamation (C20) 196
+        In 
+1 Archetype of Endurance (BNG) 116
+1 Clammy Prowler (DSK) 45
+1 Enduring Vitality (DSK) 176
+1 Fable of Wolf and Owl (EVE) 150
+1 Fear of Falling (DSK) 56
+1 Goldenhide Ox (JOU) 125
+1 Humbler of Mortals (JOU) 127
+1 Kozilek's Unsealing (MH3) 65
+1 Mana Reflection (2XM) 175
+1 Monstrous Vortex (MH3) 162
+1 Nylea's Colossus (C18) 33
+1 Oakheart Dryads (JOU) 133
+1 Omniscience (FDN) 161
+1 Overlord of the Hauntwoods (DSK) 194
+1 Riptide Chimera (JOU) 48
+1 Shimmerwing Chimera (THB) 64
+1 Song of the Dryads (CMM) 324
+1 Spirespine (JOU) 142
+1 Trickster's Elk (MH3) 175
+1 Witness of Tomorrows (THB) 82
+1 Zendikar Resurgent (C17) 160
+        Out 

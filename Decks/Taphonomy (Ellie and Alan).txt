@@ -1,154 +1,129 @@
     Ellie and Alan, Palaeontologists
 1 Angel of the Ruins (MKC) 55
-1 Annoyed Altisaur (2X2) 134
 1 Arcane Signet (LTC) 273
 1 Artisan of Kozilek (NCC) 191
 1 Ash Barrens (MKC) 248
 1 Birthing Pod (SLC) 2011
-1 Brawn (MOC) 292
-1 Burnished Hart (CLB) 303
+1 Burnished Hart (CMR) 691 *F*
+1 Captivating Cave (LCI) 268
 1 Cathars' Crusade (JMP) 95
-1 Chulane, Teller of Tales (MKC) 202
+1 Champion of Lambholt (2XM) 156
+1 Chulane, Teller of Tales (ELD) 326 *F*
 1 Cityscape Leveler (BRO) 233 *F*
-1 Colossal Skyturtle (NEO) 216
 1 Command Tower (MKC) 256
+1 Consider (MID) 44 *F*
 1 Death's Presence (MIC) 137
 1 Deathbonnet Sprout / Deathbonnet Hulk (MID) 181
-1 Deathgorge Scavenger (XLN) 184
+1 Drumbellower (NEC) 6
 1 Eldrazi Temple (SLD) 1154
 1 Eldritch Evolution (EMN) 155
-1 Elesh Norn, Grand Cenobite (IMA) 18
-1 Ephara's Dispersal (MOM) 55 *F*
+1 Elesh Norn, Grand Cenobite (MUL) 3 *F*
 1 Eternal Scourge (EMN) 7
+1 Eternal Witness (SLD) 1522
 1 Exotic Orchard (WOC) 159
 1 Far Wanderings (ZNC) 66
 1 Fauna Shaman (BRO) 179
 1 Felidar Guardian (PLST) AER-19
-5 Forest (LCI) 291
+1 Food Chain (MMQ) 246
+4 Forest (LCI) 291
 1 Ghalta and Mavren (MOM) 386 *F*
 1 Ghalta, Primal Hunger (SLD) 1124
-1 Greater Tanuki (NEO) 189
+1 Hidden Cataract (LCI) 273 *F*
 1 Hidden Courtyard (LCI) 274
+1 Hidden Nursery (LCI) 276 *F*
 1 Hullbreaker Horror (WOC) 95
 1 Ioreth of the Healing House (LTR) 56
 1 Irrigated Farmland (WHO) 288
-5 Island (LCI) 288
+3 Island (LCI) 288
 1 Kinnan, Bonder Prodigy (IKO) 192
 1 Kiora's Follower (PBNG) 150
 1 Kozilek, the Great Distortion (SLD) 493
 1 Kozilek's Predator (PLST) MM2-147
-1 Krosan Restorer (DMR) 168
-1 Landscaper Colos (MH2) 18
+1 Last March of the Ents (LTR) 418
 1 Lonely Sandbar (MKC) 273
 1 Lunar Hatchling (WHO) 424 *F*
 1 Lurking Predators (M10) 190
 1 Matter Reshaper (SLD) 1048
 1 Mind's Desire (DDS) 4
 1 Moment's Peace (SLD) 1466
+1 Monster Manual / Zoological Study (CLB) 242
 1 Nest Invader (PCA) 69
-1 Orchard Strider (MH2) 169
 1 Pathrazer of Ulamog (PLST) ROE-9
 1 Phyrexian Metamorph (PLST) NPH-42
-4 Plains (LCI) 287
+1 Pit of Offerings (LCI) 278
+3 Plains (LCI) 287
 1 Prime Speaker Vannifar (RNA) 195
+1 Promising Vein (LCI) 279
 1 Reclusive Taxidermist (VOW) 340 *F*
 1 Regal Behemoth (CMM) 651
 1 Rogue's Passage (MKC) 284
-1 Savior of Ollenbock (VOW) 330 *F*
 1 Scattered Groves (WHO) 1103 *F*
 1 Scion Summoner (OGW) 123
+1 Search for Azcanta / Azcanta, the Sunken Ruin (SLD) 1502
 1 Seaside Citadel (PLST) ALA-229
 1 Secluded Steppe (MKC) 289
+1 Seedborn Muse (C19) 179
 1 Sevinne's Reclamation (MKC) 83
 1 Shrine of the Forsaken Gods (C19) 273
-1 Sol Ring (C20) 252
+1 Slippery Karst (DMR) 256 *F*
 1 Spara's Adjudicators (SNC) 335
 1 Spara's Headquarters (SNC) 355
-1 Splinterfright (C20) 191
+1 Sunken Citadel (LCI) 285
+1 The Everflowing Well / The Myriad Pools (LCI) 56
 1 The Grey Havens (LTR) 255 *F*
 1 Thousand-Year Elixir (C21) 271
 1 Thrashing Brontodon (LCI) 216
 1 Timeless Witness (MH2) 358
 1 Titanoth Rex (IKO) 174
 1 Tocasia, Dig Site Mentor (BRO) 224 *F*
-1 Tocasia's Dig Site (BRO) 266
-1 Topiary Panther (MKM) 179
+1 Tocasia's Dig Site (BRO) 266 *F*
 1 Tranquil Thicket (C21) 408
 1 Ulamog, the Ceaseless Hunger (SLD) 1122
 1 Undercity Upheaval (MAT) 125 *E*
 1 Vaultborn Tyrant (BIG) 20
 1 Vizier of Many Faces (MKC) 123
 1 Vizier of Tumbling Sands (AKH) 75
+1 Void Winnower (BFZ) 17
 1 Warden of Geometries (OGW) 11
-1 Wastes (SLD) 705
 1 Wastes (SLD) 704
 1 Wastes (SLD) 706
+1 Wastes (SLD) 705
 1 Wayward Swordtooth (SLD) 1392
 1 Welcome to . . . / Jurassic Park (REX) 7
 1 Windfall (C20) 128
-1 Wonder (MH2) 271
-    Check 
-1 Blasted Landscape (PLST) CM2-238
-1 Captivating Cave (LCI) 268
-1 Desert of the Indomitable (HOU) 172
-1 Desert of the Mindful (J22) 812
-1 Desert of the True (C20) 268
-1 Drifting Meadow (DMR) 245
-1 Hidden Cataract (LCI) 273
-1 Hidden Nursery (LCI) 276
-1 Maskwood Nexus (KHM) 369
-1 Misthollow Griffin (PLST) AVR-68 *F*
-1 Pit of Offerings (LCI) 278
-1 Promising Vein (LCI) 279
-1 Remote Isle (DMR) 254
-1 Search for Azcanta / Azcanta, the Sunken Ruin (SLD) 1502
-1 Seedborn Muse (C19) 179
-1 Sunken Citadel (LCI) 285
-1 The Everflowing Well / The Myriad Pools (LCI) 56
-1 Tribute to the World Tree (MOM) 211
-1 Void Winnower (BFZ) 17
     In 
 1 Bant Sojourners (ARB) 125
+1 Blasted Landscape (USG) 319
 1 Corrupted Grafstone (SOI) 253
+1 Drifting Meadow (USG) 320
 1 Elvish Aberration (CNS) 163
 1 Fatestitcher (ALA) 43
-1 Food Chain (2X2) 147
 1 Forgotten Monument (LCI) 272
 1 Ghalta, Stampede Tyrant (LCI) 185
 1 Glittering Wish (TSR) 253
 1 Hua Tuo, Honored Physician (C13) 149
 1 Hunting Grounds (DMR) 191
-1 Imposing Vantasaur (IKO) 17
 1 Kona, Rescue Beastie (DSK) 187
 1 Matzalantli, the Great Door / The Core (LCI) 256
 1 Noble Hierarch (MM2) 151
 1 Reclaim (ORI) 195
+1 Remote Isle (USG) 324
 1 Repopulate (ULG) 111
 1 Riftstone Portal (JUD) 143
-1 Slippery Karst (DDD) 26
 1 Spinner of Souls (FDN) 112
 1 Timeless Dragon (MH2) 35
-1 Valor (TSB) 16
-1 Werebear (EMA) 191
     Out 
-Arcane Signet 
-Sol Ring
-Windfall 
-Vizier of Many Faces
-Angel of Ruin 
-Colossal Skyturtle 
-Topiary Panther
-Hullbreaker Horror 
-Greater Tanuki
-Burnished Hart 
-Sevinne's Reclamation 
-Nest Invader 
-Savior of Olenbrock 
-Scion Summoner 
-Splinterfright 
-Kozilek's Predator 
-Lunar Hatchling 
-Annoyed Altisaur 
+Arcane Signet out
+Windfall out
+Vizier of Many Faces out
+Angel of the Ruins out 
+Hullbreaker Horror out
+Burnished Hart out
+Sevinne's Reclamation out
+Nest Invader out
+Scion Summoner out
+Kozilek's Predator out
+Lunar Hatchling out
     Tokens 
 City's Blessing 
 Dinosaur 

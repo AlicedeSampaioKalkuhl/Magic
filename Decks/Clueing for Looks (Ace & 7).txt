@@ -1,4 +1,4 @@
-    Ace, Fearless Rebel & The Eigth Doctor 
+    Ace, Fearless Rebel & The Seventh Doctor 
 1 Academy Manufactor (MH2) 469
 1 Aid from the Cowl (MOC) 290
 1 Alloy Myr (PLST) MM2-201
@@ -27,7 +27,9 @@
 1 Filigree Vector (MOC) 102
 1 Five Hundred Year Diary (WHO) 42
 1 Fleeting Memories (SOI) 62
-3 Forest (WHO) 204
+1 Forest (VOW) 402 *F*
+1 Forest (BRO) 277 *F*
+1 Forest (CLB) 469 *F*
 1 Gingerbread Cabin (ELD) 245
 1 Gold Myr (SOM) 157
 1 Graf Mole (MKC) 170
@@ -35,7 +37,9 @@
 1 Idol of Oblivion (C19) 55
 1 Inspiring Statuary (MKC) 230
 1 Investigator's Journal (VOW) 345 *F*
-4 Island (WHO) 198
+1 Island (ZNR) 381 *F*
+1 Island (LCI) 396 *F*
+2 Island (LCI) 395 *F*
 1 Jaheira, Friend of the Forest (CLB) 237
 1 Katsumasa, the Animator (NEC) 15
 1 Kitchen (CLU) 17
@@ -52,11 +56,13 @@
 1 Palladium Myr (SOM) 190
 1 Parcel Myr (MH2) 54
 1 Piper Wright, Publick Reporter (PIP) 36
-3 Plains (WHO) 196
+1 Plains (WHO) 196 *F*
+1 Plains (WHO) 1156 *F*
+1 Plains (LCI) 394 *F*
 1 Press for Answers (SOI) 80
 1 Ransom Note (MKC) 46
 1 Reliquary Tower (MKC) 282
-1 Rise and Shine (MOC) 233
+1 Rise and Shine (MH2) 58
 1 Rogue's Passage (WHO) 299
 1 Root Out (SOI) 224
 1 Scene of the Crime (MKM) 267
@@ -91,7 +97,6 @@
 1 Vitu-Ghazi, the City-Tree (WOC) 173
 1 Weirding Wood (SOI) 240
     Check 
-
     In 
 1 Bootleggers' Stash (SNC) 134
 1 Briarbridge Tracker (MID) 172
@@ -108,10 +113,13 @@ Fleeting Memories out
 Tamiyo, Compleated Sage out 
 Thorough Investigation out 
 On the Trail out 
-Aid from the Cowl out 
 Nettlecyst out 
 Confirm Suspicions out 
 The Goose Mother Out 
+Tranquil Cove out
+Filigree Vecotr out 
+Gingerbread Cabin out 
+Blossoming Sands out
 
     Tokens 
 Clue 
