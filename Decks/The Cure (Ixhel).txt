@@ -1,0 +1,74 @@
+Ixhel, Scion of Atraxa 
+    1 Activated Sleeper (DMC) 24
+1 Adaptive Sporesinger (ONE) 157
+1 Alabaster Host Sanctifier (MOM) 4
+1 Argentum Masticore (ONE) 222
+1 Armored Scrapgorger (ONE) 158
+1 Aron, Benalia's Ruin (DMU) 193
+1 Attentive Skywarden (MOM) 7
+1 Benalish Sleeper (DMU) 8
+1 Blade Splicer (MOC) 175
+1 Blight Titan (MOC) 25
+1 Blind Zealot (NPH) 52
+1 Blinding Souleater (MM2) 202
+1 Bloated Processor (MOM) 93
+1 Body Snatcher (DMR) 75
+1 Bone Shredder (MOC) 247
+1 Brimaz, Blight of Oreskos (MOC) 2
+1 Bronze Guardian (C21) 13
+1 Brutalizer Exarch (PCA) 61
+1 Cankerbloom (ONE) 161
+1 Caustic Hound (MBS) 40
+1 Chancellor of the Annex (NPH) 6
+1 Chancellor of the Dross (NPH) 54
+1 Chancellor of the Tangle (NPH) 106
+1 Clay Golem (AFC) 58
+1 Compleated Huntmaster (MOM) 96
+1 Converter Beast (MOM) 180
+1 Copper Longlegs (ONE) 165
+1 Cradle Clearcutter (BRO) 198
+1 Darksteel Splicer (MOC) 13
+1 Dreg Recycler (MOM) 100
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 198
+1 Elesh Norn, Grand Cenobite (IMA) 18
+1 Elvish Vatkeeper (MOM) 223
+1 Essence of Orthodoxy (MOM) 323
+1 Etched Slith (MH3) 91
+1 Filigree Vector (MOC) 15
+1 Geode Golem (CMM) 386
+1 Geth, Lord of the Vault (2XM) 94
+1 Glissa, Herald of Predation (MOM) 226
+1 Golem Foundry (SOM) 160
+1 Grafted Butcher (MOM) 109
+1 Ich-Tekik, Salvage Splicer (CMR) 233
+1 Ichor Drinker (MOM) 111
+1 Illustrious Wanderglyph (LCC) 9
+1 Infected Defector (MOM) 18
+1 Injector Crocodile (MOM) 329
+1 K'rrik, Son of Yawgmoth (MH3) 274
+1 Keskit, the Flesh Sculptor (MOC) 254
+1 Master Splicer (MOC) 194
+1 Maul Splicer (NPH) 114
+1 Moira and Teshar (MOC) 7
+1 Mycosynth Golem (5DN) 137
+1 Nezumi Freewheeler / Hideous Fleshwheeler (MOM) 119
+1 Norn's Choirmaster (ONC) 8
+1 Norn's Inquisitor (MOM) 29
+1 Phyrexian Archivist (MOM) 262
+1 Phyrexian Missionary (DMU) 27
+1 Phyrexian Vivisector (DMU) 100
+2 Precursor Golem (MM2) 225
+1 Priest of Gix (DDE) 7
+1 Progenitor Exarch (MOM) 32
+1 Salvage Titan (2XM) 104
+1 Sandstorm Salvager (BIG) 19
+1 Seedpod Caretaker (MOM) 325
+1 Sensor Splicer (2X2) 29
+1 Solemn Simulacrum (FDN) 257
+1 Splicer's Skill (MH1) 31
+1 Suture Priest (MOC) 210
+1 Throne of Geth (2XM) 301
+1 Tiller of Flesh (MOM) 44
+1 Unstable Glyphbridge / Sandswirl Wanderglyph (LCI) 41
+1 Vital Splicer (MM3) 145
+1 Vulpine Harvester (MOC) 19

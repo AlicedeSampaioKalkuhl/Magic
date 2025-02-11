@@ -1,13 +1,10 @@
     Xavier Sal, Infested Captain 
-1 Abundant Harvest (MH2) 354
 1 Arcane Signet (LTC) 273
 1 Ashiok, Nightmare Muse (THB) 256
-1 Awakening Zone (2XM) 153
-1 Bastion of Remembrance (IKO) 73
-1 Beast Within (CN2) 174
+1 Ashiok, Nightmare Weaver (THS) 188
+1 Atomize (PIP) 94
 1 Black Market (C15) 116
 1 Bojuka Bog (WWK) 132
-1 Brainstorm (2XM) 44 *F*
 1 Caress of Phyrexia (NPH) 53
 1 Carnivorous Canopy (ONE) 162 *F*
 1 Command Tower (CC1) 8
@@ -15,133 +12,114 @@
 1 Contagion Engine (SOM) 145
 1 Contentious Plan (WAR) 46
 1 Cultivate (STA) 51
-1 Dormant Grove / Gnarled Grovestrider (VOW) 198
 1 Drown in Ichor (ONE) 91 *F*
 1 Emergence Zone (WAR) 245
 1 Everflowing Chalice (40K) 238
 1 Exotic Orchard (LTC) 307
 1 Expand the Sphere (ONE) 168
+1 Experimental Augury (ONE) 49
 1 Ezuri's Predation (CMM) 287
-1 Favor of the Overbeing (EVE) 151
-1 Feed the Swarm (ZNR) 102
-1 Forest (MOM) 291 *F*
-1 Forest (LCI) 401 *F*
+5 Forest (ONE) 266
 2 Forest (MOM) 290
 1 Forest (MOM) 290 *F*
-5 Forest (ONE) 266
+1 Forest (MOM) 291 *F*
 1 Freyalise, Llanowar's Fury (CC1) 1
 1 Garruk Relentless / Garruk, the Veil-Cursed (PLST) ISD-181
 1 Garruk Wildspeaker (SLD) 1142
-1 Glorious Sunrise (VOW) 200
-1 Grim Tutor (SLD) 444
-1 Growth Spiral (LTC) 267
+1 Garruk, Cursed Huntsman (ELD) 270
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LCC) 336
 1 Idol of Oblivion (MKC) 229
-1 Imprisoned in the Moon (MOC) 224
+1 Intruder Alarm (SLD) 229 *F*
 3 Island (ONE) 268 *F*
-1 Island (LCI) 395 *F*
 5 Island (MOM) 278 *F*
 1 Jace Beleren (SS1) 1
+1 Jace, Cunning Castaway (XLN) 60
 1 Jace, Mirror Mage (ZNR) 63 *F*
 1 Jace, Vryn's Prodigy / Jace, Telepath Unbound (PLST) ORI-60
 1 Jiang Yanggu (GS1) 22 *F*
 1 Kaito Shizuki (PNEO) 226p
+1 Kaito, Cunning Infiltrator (FDN) 44
 1 Kaito, Dancing Shadow (ONE) 204 *F*
+1 Karn's Bastion (MOC) 409
 1 Kasmina, Enigmatic Mentor (WAR) 56 *F*
 1 Liliana, Heretical Healer / Liliana, Defiant Necromancer (PLST) ORI-106
+1 Liliana's Talent (MOC) 76
+1 Mutational Advantage (PIP) 111
 1 Necromantic Selection (ZNC) 48
-1 Nissa of Shadowed Boughs (ZNR) 231
+1 Nesting Grounds (NCC) 418
+1 Nissa of Shadowed Boughs (ZNR) 283
 1 Nissa, Ascended Animist (ONE) 327
 1 Nissa, Vastwood Seer / Nissa, Sage Animist (PLST) ORI-189
-1 Ob Nixilis Reignited (C19) 124
+1 Nissa, Voice of Zendikar (OGW) 138
+1 Oko, the Ringleader (OTJ) 296
 1 Opulent Palace (DMC) 223
 1 Patriar's Seal (CLB) 332
 1 Rampant Growth (2X2) 371
+1 Reject Imperfection (ONE) 67
+1 Replicating Ring (KHM) 244
+1 Rings of Brighthearth (CMR) 335
+1 Ripples of Potential (LCC) 77
 1 Sandwurm Convergence (NCC) 308
 1 Serum Snare (ONE) 68
+1 Shipwreck Marsh (WHO) 305
 1 Sol Ring (CC1) 7
-1 Song of Eärendil (LTC) 69
 1 Sorin Markov (PLST) ZEN-111
 1 Steady Progress (PLST) MM2-58
-1 Strategic Planning (STA) 20
 1 Swamp (MOM) 286
-4 Swamp (LCI) 398 *F*
 4 Swamp (LCI) 397 *F*
-1 Swiftfoot Boots (C20) 254
+3 Swamp (LCI) 398 *F*
+1 Swiftfoot Boots (BRR) 121
+1 Tamiyo, Collector of Tales (PWAR) 220p
 1 Tezzeret's Gambit (STA) 21
-1 The First Iroan Games (THB) 170
-1 Thopter Spy Network (MOC) 241
-1 Tyvar, Jubilant Brawler (ONE) 344
+1 The Chain Veil (M15) 215
 1 Unnatural Restoration (ONE) 191
-1 Urban Evolution (NCC) 355
 1 Vat Emergence (ONE) 112
-1 Vivien on the Hunt (PSNC) 162p
-1 Vivien, Champion of the Wilds (CLB) 838
+1 Vivien on the Hunt (SNC) 347
 1 Vivien's Talent (MOC) 86 *F*
+1 Vivisurgeon's Insight (ONE) 77
+1 Vraska the Unseen (C19) 207
+1 Vraska, Relic Seeker (XLN) 232
 1 Vraska, Swarm's Eminence (WAR) 236
 1 Whisper of the Dross (ONE) 117
     Check 
-1 Culling Ritual (CMM) 921
-1 Dreamroot Cascade (WHO) 273
-1 Drowned Catacomb (WHO) 274
-1 Experimental Augury (ONE) 278
-1 Inexorable Tide (MM2) 49
-1 Jace, Cunning Castaway (XLN) 60
-1 Karn's Bastion (LCC) 339
-1 Morphic Pool (CLB) 357
-1 Nesting Grounds (C20) 71
-1 Novijen, Heart of Progress (C21) 305
-1 Reject Imperfection (ONE) 67
-1 Rejuvenating Springs (CMM) 424
-1 Replicating Ring (KHM) 244
-1 Rings of Brighthearth (LRW) 259
-1 Second Harvest (SOI) 227
-1 Shipwreck Marsh (WHO) 305
-1 Tamiyo, Compleated Sage (NEO) 238
-1 Vivisurgeon's Insight (ONE) 77
-1 Woodland Cemetery (DOM) 248
-1 Yavimaya, Cradle of Growth (MH2) 261
+1 Garruk, Apex Predator (M3C) 262
     In 
 1 Astral Cornucopia (BRR) 5
-1 Cryptolith Rite (SOI) 200
-1 Doubling Season (WOT) 52
-1 Field of the Dead (PM20) 247p
-1 Garruk, Apex Predator (M15) 210
-1 Garruk, Cursed Huntsman (ELD) 191
 1 Garruk, Primal Hunter (C19) 167
 1 Ichormoon Gauntlet (ONE) 56
 1 Interplanar Beacon (WAR) 247
-1 Intruder Alarm (WOT) 21
-1 Kaito, Cunning Infiltrator (FDN) 44
 1 Kaya's Ghostform (WAR) 94
 1 Kiora, Master of the Depths (BFZ) 213
 1 Liliana, Dreadhorde General (PWAR) 97p
-1 Liliana's Talent (MOC) 76
 1 Lolth, Spider Queen (PLST) AFR-112
 1 Luxior, Giada's Gift (PSNC) 240p
 1 Minamo, School at Water's Edge (CHK) 279
-1 Necrogenesis (CMD) 212
-1 Nissa, Voice of Zendikar (OGW) 138
 1 Oath of Jace (OGW) 60
 1 Oath of Liliana (EMN) 99
 1 Oath of Nissa (OGW) 140
 1 Oko, the Trickster (ELD) 309
-1 Parallel Lives (ISD) 199
-1 Retreat to Coralhelm (BFZ) 82
 1 Teferi, Temporal Archmage (CMM) 125
 1 Teferi's Talent (MOC) 74
-1 Tevesh Szat, Doom of Fools (CMR) 153
 1 Tezzeret, Artifice Master (PLST) M19-79
-1 The Chain Veil (M15) 215
 1 The Millennium Calendar (LCI) 257
 1 The Ozolith (IKO) 237
-1 Urborg, Tomb of Yawgmoth (PLC) 165
-1 Vivien, Monsters' Advocate (IKO) 277
-1 Vraska, Relic Seeker (XLN) 232
 1 Vronos, Masked Inquisitor (CMM) 729
-1 Zagoth Triome (PIKO) 259p
     Out 
 Vivien, Champion of the Wilds out 
+Jace Beleren out 
+Vraska, Swarm's Eminence out 
+Nissa of the Shadowed Boughs out 
+Vivien on the Hunt out 
+Sorin Markov out 
+Garruk Relentless out  
+Jace, Mirror Mage out
+Rampant Growth out 
+Cultivate out 
+Expand the Sphere out 
+Ezuri's Predation out 
+Necromantic Selection out
+Sol Ring out
+Arcane Signet out 
 
     Tokens 

@@ -4,79 +4,86 @@
 1 Barren Moor (C21) 277
 1 Basilica Stalker (MKM) 78
 1 Bident of Thassa (BRC) 80
+1 Bishop of the Bloodstained (XLN) 91
 1 Blade of the Bloodchief (LCC) 300
 1 Blood Artist (PLST) C17-99
 1 Bloodline Keeper / Lord of Lineage (SLD) 1157 *F*
 1 Body Count (NCC) 135
+1 Brainstorm (DDJ) 13
 1 Butcher of Malakir (VOC) 123
+1 Castle Vantress (DSC) 267
 1 Champion of Dusk (VOC) 124
 1 Clearwater Pathway / Murkwater Pathway (PLST) ZNR-260
 1 Coastal Piracy (8ED) 67
 1 Command Tower (BRC) 178
+1 Compulsive Research (CLB) 715
 1 Cordial Vampire (VOC) 125
 1 Crossway Troublemakers (LCC) 190
 1 Defiant Bloodlord (C21) 142
+1 Dimir Aqueduct (OTC) 288
 1 Dimir Signet (WOC) 146
 1 Dismal Backwater (MOM) 269
+1 Drowned Catacomb (WHO) 274
 1 Eternal Thirst (M15) 95
+1 Everflowing Chalice (CLB) 859
 1 Exotic Orchard (LCC) 329
+1 Frantic Search (DMR) 51 *F*
+1 Gloomlake Verge (DSK) 331
+1 Hedron Archive (C21) 244
+1 Helm of the Host (BLC) 276
 1 Henrika Domnathi / Henrika, Infernal Seer (VOW) 335
+1 High Tide (DMR) 54
 1 Jwar Isle Refuge (PCA) 120
 1 Kindred Discovery (LCC) 159
 1 Lim-Dûl's Vault (SLC) 1996
 1 Lonely Sandbar (C20) 287
+1 Maestros Theater (SNC) 251
 1 Markov Baron (MAT) 64 *F*
+1 Marvo, Deep Operative (MKC) 7 *F*
 1 Maskwood Nexus (KHM) 369
 1 Mephidross Vampire (SPG) 4
 1 Mind Stone (PW21) 5 *F*
 1 Mortuary Mire (C19) 260
 1 Necropolis Regent (VOC) 132
+1 New Blood (LCC) 202
 1 Nirkana Revenant (VOC) 134
 1 Obscura Storefront (SNC) 252
 1 Olivia's Wrath (LCC) 205
+1 Opal Palace (NEC) 172
 1 Path of Ancestry (VOC) 177
 1 Patron of the Vein (LCC) 207
+1 Ponder (C18) 96
+1 Quicksilver Amulet (BRR) 45
 1 Reconnaissance Mission (WOC) 105
+1 Reflections of Littjara (CLB) 733
 1 Reliquary Tower (C19) 268
 1 River of Tears (WHO) 509
 1 Sanctum Seeker (VOC) 136
 1 Sanguine Spy (SNC) 420
+1 Serpent of Yawning Depths (SLD) 1489
 1 Sol Ring (BRC) 160
+1 Spawning Kraken (C21) 33
+1 Stonespeaker Crystal (CLB) 450
 1 Talisman of Dominance (SLD) 1053
 1 Temple of Deceit (MOC) 431
 1 Temple of the False God (LCC) 359
 1 The Everflowing Well / The Myriad Pools (LCI) 56
+1 Thran Dynamo (BRC) 168
 1 Timothar, Baron of Bats (VOC) 4 *F*
 1 Twilight Prophet (LCC) 211
 1 Unclaimed Territory (XLN) 258
+1 Underground River (BRO) 267
+1 Urge to Feed (VOC) 139
+1 Vampiric Tutor (EMA) 112
+1 Vela the Night-Clad (PCA) 107
 1 Viscera Seer (CMR) 158 *F*
 1 Vito, Thorn of the Dusk Rose (M21) 127
 1 Voldaren Estate (VOW) 267
     Check 
-1 Bloodlord of Vaasgoth (VOC) 121
 1 Bojuka Bog (PLST) C18-238
-1 Brainstorm (5ED) 76
-1 Castle Vantress (ELD) 242
-1 Dimir Aqueduct (C20) 270
-1 Drowned Catacomb (WHO) 274
-1 Etrata, the Silencer (GRN) 170
-1 Frantic Search (WOC) 93
-1 Hedron Archive (C17) 213
-1 Helm of the Host (PDOM) 217p
-1 Maestros Theater (SNC) 251
-1 New Blood (LCC) 202
-1 Ponder (M12) 73
 1 Port of Karfell (LCC) 347
-1 Quicksilver Amulet (BRR) 45
-1 Reflections of Littjara (CLB) 733
 1 Rivendell (LTR) 259
 1 Rogue's Passage (LCC) 349
-1 Stonespeaker Crystal (CLB) 450
-1 Strionic Resonator (MOC) 384
-1 Thran Dynamo (CMM) 415
-1 Underground River (LTC) 342
-1 Urge to Feed (DDK) 22
-1 Vampiric Tutor (6ED) 161
     In 
 1 Arcane Adaptation (PXLN) 46p
 1 Blood Tribute (ZEN) 81
@@ -87,6 +94,7 @@
 1 Call to the Kindred (DKA) 30
 1 Chancellor of the Dross (NPH) 54
 1 Deathless Ancient (XLN) 100
+1 Gas Guzzler (DFT) 338
 1 Guul Draz Overseer (BFZ) 112
 1 Halimar Depths (DDM) 36
 1 Kalitas, Bloodchief of Ghet (ZEN) 99
@@ -94,6 +102,7 @@
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Sapphire Medallion (CMM) 407
 1 Scroll Rack (CMR) 337
+1 Sengir, the Dark Baron (CMR) 722 *F*
 1 Sunken Ruins (SHM) 280
 1 Szadek, Lord of Secrets (CMD) 228
 1 The Haunt of Hightower (RNA) 273 *F*

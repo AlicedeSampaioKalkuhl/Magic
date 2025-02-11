@@ -1,0 +1,116 @@
+    Tatsunari, Toad Rider 
+1 Abundance (CMM) 884
+1 Abundant Growth (INR) 315 *F*
+1 Azusa's Many Journeys / Likeness of the Seeker (NEO) 172
+1 Bear Umbra (NEC) 113
+1 Binding the Old Gods (KHM) 206
+1 Blighted Burgeoning (MOM) 177 *F*
+1 Boseiju Reaches Skyward / Branch of Boseiju (NEO) 177
+1 Burgeoning (SLD) 408
+1 Carpet of Flowers (WHO) 229
+1 Clement, the Worrywort (BLB) 209
+1 Courser of Kruphix (CMM) 888
+1 Court of Bounty (CMR) 220
+1 Dryad of the Ilysian Grove (CMM) 891
+1 Exploration (DMR) 339
+1 Extravagant Replication (DSC) 117
+1 Fertile Ground (PIP) 198
+1 Find the Path (AFR) 183
+1 Font of Fertility (CMM) 895
+1 Future Sight (MH1) 53
+1 Gift of Paradise (CMR) 229
+1 Gloomshrieker (NEO) 219
+1 Glorious Sunrise (VOW) 200
+1 Grafted Growth (NEO) 188
+1 Greater Tanuki (DSC) 181
+1 Grim Guardian (JOU) 73
+1 Imprisoned in the Moon (MOC) 224
+1 Khalni Heart Expedition (CMM) 899
+1 Leafdrake Roost (C13) 196
+1 Lithoform Blight (ZNR) 109
+1 Nature's Embrace (VOW) 211 *F*
+1 Nature's Will (WOT) 57 *F*
+1 New Horizons (40K) 218
+1 Omen of the Hunt (CMM) 906
+1 On the Trail (MKC) 39
+1 Ordeal of Nylea (CMR) 247 *F*
+1 Overgrowth (40K) 219
+1 Primeval Bounty (CLB) 830
+1 Retreat to Coralhelm (SLD) 407
+1 Retreat to Hagra (C18) 116
+1 Retreat to Kazandu (CMR) 435
+1 Rites of Flourishing (ZNC) 80
+1 Sanctum Weaver (CMM) 910
+1 Skola Grovedancer (THB) 202
+1 The Gitrog Monster (PLST) SOI-245
+1 Unbridled Growth (AER) 126
+1 Undergrowth Recon (MKM) 181
+1 Urban Utopia (GRN) 146
+1 Virtue of Strength / Garenbrig Growth (WOE) 284
+1 Weirding Wood (SOI) 240
+1 Wild Growth (PIP) 208
+1 Wilderness Reclamation (C20) 196
+1 World-Weary (MH2) 109
+    In
+1 Annex (9ED) 59
+1 Awakening (STH) 101
+1 Case of the Locked Hothouse (MKM) 155
+1 Caustic Tar (A25) 81
+1 Chamber of Manipulation (ODY) 76
+1 Contaminated Ground (GTC) 59
+1 Convincing Mirage (M10) 46
+1 Copy Land (M3C) 47
+1 Corrupted Roots (CON) 41
+1 Cursed Land (5ED) 152
+1 Dawn's Reflection (C18) 139
+1 Dictate of Karametra (JOU) 121
+1 Druid Class (AFR) 180
+1 Elfhame Sanctuary (INV) 185
+1 Elvish Guidance (ONS) 255
+1 Embargo (MMQ) 77
+1 Evil Presence (NPH) 60
+1 Flooded Shoreline (VIS) 32
+1 Forbidden Lore (ICE) 236
+1 Greenhouse / Rickety Gazebo (DSK) 181
+1 Hall of Gemstone (MIR) 221
+1 Hidden Herd (USG) 262
+1 Hidden Stag (USG) 265
+1 Hot Springs (ICE) 248
+1 Into the Wilds (M14) 180
+1 Leyline of Singularity (GPT) 29
+1 Lifegift (BOK) 132
+1 Lingering Mirage (USG) 84
+1 Manabond (EXO) 113
+1 Nature's Chosen (ALL) 97
+1 Nettlevine Blight (LRW) 131
+1 Night Dealings (CHK) 132
+1 Noxious Field (PCY) 70
+1 Nylea's Presence (THS) 169
+1 One with Nature (SCG) 125
+1 Overlaid Terrain (NEM) 108
+1 Point the Way (DFT) 175
+1 Polluted Bonds (SHM) 74
+1 Pooling Venom (FUT) 74
+1 Pretender's Claim (MMQ) 151
+1 Primal Order (5ED) 318
+1 Pulse of Llanowar (INV) 202
+1 Roots of Life (MIR) 237
+1 Rowen (7ED) 266
+1 Sheltered Aerie (DTK) 206
+1 Song of the Dryads (CMM) 324
+1 Spawning Grounds (C18) 163
+1 Spreading Algae (8ED) 281
+1 Spreading Seas (ZEN) 70
+1 Springheart Nantuko (MH3) 171
+1 Squirrel Nest (DMR) 177
+1 Stinging Lionfish (THB) 69
+1 Sunken Field (PCY) 51
+1 Tarmogoyf Nest (M3C) 68
+1 Treachery (UDS) 50
+1 Urban Burgeoning (RTR) 138
+1 Verdant Field (PCY) 130
+1 Verdant Haven (M15) 206
+1 Walk-In Closet / Forgotten Cellar (DSK) 205
+1 Wolfwillow Haven (THB) 205
+1 Yawgmoth's Agenda (INV) 135
+1 Zendikar Resurgent (C17) 160

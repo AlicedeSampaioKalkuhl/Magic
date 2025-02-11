@@ -51,7 +51,7 @@
 1 Voracious Hydra (SLD) 1491
 1 Walking Ballista (SLD) 1265 *F*
         In 
-1 Astral Cornucopia (CM2) 172
+11 Astral Cornucopia (CM2) 172
 1 Benevolent Hydra (J22) 38
 1 Blue Sun's Twilight (ONE) 43
 1 Death Denied (UMA) 92
@@ -69,6 +69,7 @@
 1 Lifeblood Hydra (CMM) 303
 1 Logic Knot (TSR) 73
 1 Mana Bloom (RTR) 130
+1 Marketback Walker (DFT) 235
 1 Meathook Massacre II (DSK) 108
 1 Mistcutter Hydra (THS) 162
 1 Neverwinter Hydra (AFC) 41

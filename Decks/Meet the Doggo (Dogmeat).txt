@@ -83,49 +83,7 @@
 1 Wilderness Reclamation (RNA) 149
 1 Winds of Rath (WOC) 83
     Check 
-1 Cave of the Frost Dragon (AFR) 350
-1 Cavernous Maw (LCI) 270
-1 Curse of Chaos (C13) 105
-1 Eidolon of Countless Battles (WOC) 66
-1 Forbidding Watchtower (ULG) 140
-1 Gift of Immortality (THS) 14
-1 Herald of the Pantheon (CMM) 898
-1 Needle Spires (MKC) 278
-1 Raging Ravine (NEC) 176
-1 Syr Armont, the Redeemer (WOE) 214
     In 
-1 Bravado (USG) 177
-1 Brilliant Halo (USG) 5
-1 Burgeoning (CN2) 178
-1 Curse of Bloodletting (DKA) 85
-1 Curse of Exhaustion (DKA) 5
-1 Curse of Obsession (MIC) 35
-1 Curse of Silence (MID) 15
-1 Curse of Stalked Prey (ISD) 136
-1 Curse of the Nightly Hunt (CM2) 90
-1 Curse of the Pierced Heart (ISD) 138
-1 Curse of Vitality (C17) 3
-1 Den of the Bugbear (AFR) 254
-1 Dread Statuary (WWK) 135
-1 Enduring Vitality (DSK) 176
-1 Faithbound Judge / Sinner's Judgment (VOW) 12
-1 Ghitu Encampment (10E) 353
-1 Hall of Heliod's Generosity (WOC) 162
-1 Leyline of Hope (DSK) 18
-1 Mishra's Foundry (BRO) 265
-1 Mutavault (CLB) 903
-1 Nantuko Monastery (DMR) 252
-1 Overwhelming Splendor (HOU) 19
-1 Radiant Grace / Radiant Restraints (VOW) 31
-1 Reliquary Tower (LCC) 348
-1 Restless Prairie (LCI) 348
-1 Serra's Sanctum (USG) 325
-1 Smothering Tithe (CMM) 57
-1 Spirit Mantle (PCA) 12
-1 Stalking Stones (PLST) MRD-284 *F*
-1 Stirring Wildwood (C17) 281
-1 Treetop Village (DDU) 30
-1 Triclopean Sight (LRW) 45
-1 Yenna, Redtooth Regent (WOE) 219
+1 The Aetherspark (DFT) 231
     Out 
     

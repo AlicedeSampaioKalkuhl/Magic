@@ -19,6 +19,7 @@
 1 Battle Squadron (DDT) 33
 1 Carnelian Orb of Dragonkind (FDN) 534
 1 Crucible of Fire (IMA) 122
+1 Draconautics Engineer (DFT) 341
 1 Dragon Cultist (CLB) 170
 1 Dragon Tempest (IMA) 125
 1 Goblin Surprise (FDN) 200

@@ -1,0 +1,49 @@
+    Baylen, the Haymaker 
+1 Autarch Mammoth (DFT) 153
+1 Born to Drive (NEO) 6
+1 Bounding Felidar (OTJ) 5
+1 Bridled Bighorn (OTJ) 7
+1 Brightfield Glider (DFT) 4
+1 Brightfield Mustang (DFT) 5
+1 Bulwark Ox (DFT) 7
+1 Calamity, Galloping Inferno (OTJ) 116
+1 Canyon Vaulter (DFT) 8
+1 Caradora, Heart of Alacria (DFT) 195
+1 Cloudspire Captain (DFT) 9
+1 Cloudspire Coordinator (DFT) 196
+1 Congregation Gryff (OTJ) 200
+1 Country Roads (DFT) 253
+1 Defend the Rider (DFT) 157
+1 District Mascot (DFT) 158
+1 Drover Grizzly (OTJ) 161
+1 Emmara, Soul of the Accord (GRN) 168
+1 Fortune, Loyal Steed (OTJ) 12
+1 Ghired, Mirror of the Wilds (OTJ) 205
+1 Giant Beaver (OTJ) 165 *F*
+1 Gila Courser (OTJ) 124
+1 Gilded Ghoda (DFT) 130
+1 Gloryheath Lynx (DFT) 14
+1 Goblin Medics (MOC) 283
+1 Interface Ace (DFT) 17
+1 Kolodin, Triumph Caster (DFT) 210
+1 Lagorin, Soul of Alacria (DFT) 211
+1 Oreskos Sun Guide (BNG) 22
+1 Ornery Tumblewagg (OTJ) 171
+1 Quilled Charger (OTJ) 139
+1 Rambling Possum (OTJ) 176
+1 Renegade Wheelsmith (AER) 134
+1 Rocky Roads (DFT) 261
+1 Saddleback Lagac (BBD) 211
+1 Saddled Rimestag (MH1) 177
+1 Samite Herbalist (DMU) 31
+1 Seraphic Steed (OTJ) 232
+1 Spire Mechcycle (DFT) 147
+1 Spireside Infiltrator (KLD) 133
+1 Stonybrook Schoolmaster (MOR) 25
+1 Stubborn Burrowfiend (OTJ) 184
+1 Trained Arynx (OTJ) 36
+1 Unswerving Sloth (DFT) 34
+1 Venomsac Lagac (DFT) 185
+1 Veteran Beastrider (DFT) 226
+1 Wild Roads (DFT) 269
+1 Wolfrider's Saddle (M20) 204

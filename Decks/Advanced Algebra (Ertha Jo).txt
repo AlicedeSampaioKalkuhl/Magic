@@ -5,6 +5,7 @@
 1 Adaptive Gemguard (LCI) 3
 1 Ajani, Caller of the Pride (SCD) 6
 1 Angelic Sell-Sword (OTC) 10
+1 Auriok Bladewarden (MRD) 3
 1 Bandit's Haul (OTJ) 240
 1 Basalt Monolith (LTC) 274
 1 Basri Ket (M21) 7
@@ -14,10 +15,10 @@
 1 Chandra, Fire of Kaladesh / Chandra, Roaring Flame (PLST) ORI-135
 1 Chandra's Magmutt (M21) 137 *F*
 1 Clifftop Retreat (LTC) 300
-1 Codsworth, Handy Helper (PIP) 14
 1 Command Tower (ELD) 333
 1 Contagion Clasp (ONC) 129
 1 Dead Before Sunrise (OTC) 26
+1 Drumbellower (NEC) 6
 1 Duergar Mine-Captain (EVE) 138
 1 Elspeth Resplendent (SNC) 282
 1 Ent-Draught Basin (LTR) 238
@@ -25,16 +26,17 @@
 1 Felidar Retreat (ZNR) 16
 1 Giver of Runes (SLD) 1463
 1 Goblin Fireslinger (PLST) MM2-114
+1 Grand Master of Flowers (AFR) 282
+1 Gratuitous Violence (AFC) 127
 1 Halo Fountain (SNC) 15
-1 Hexplate Wallbreaker (ONC) 14
 1 Hidden Courtyard (LCI) 274
 1 High Sentinels of Arashin (JMP) 108
 1 Hunter's Blowgun (LCI) 255 *F*
 1 Infantry Veteran (PLST) DDN-3
 1 Infested Fleshcutter (ONE) 17
+1 Inspiring Vantage (SLD) 1605★ *F*
 1 Jeska, Thrice Reborn (CMR) 186
 1 Kiki-Jiki, Mirror Breaker (TSR) 346
-1 Knife (CLU) 10
 1 Kor Halberd (MOM) 27 *F*
 1 Koth of the Hammer (SLD) 1248 *F*
 1 Kytheon, Hero of Akros / Gideon, Battle-Forged (PLST) ORI-23
@@ -48,15 +50,14 @@
 1 Mistveil Plains (UMA) 247
 1 Monk of the Open Hand (AFR) 25
 1 Mother of Runes (CLB) 702
-1 Mountain (MOM) 288 *F*
-1 Mountain (MOM) 289 *F*
-5 Mountain (UNF) 238
 1 Mountain (UNF) 238 *F*
 1 Mountain (ZNR) 275
+1 Mountain (MOM) 288 *F*
+1 Mountain (MOM) 289 *F*
+4 Mountain (UNF) 238
 1 Myr Convert (ONE) 297
 1 Nahiri's Machinations (SOI) 28
 1 Needleverge Pathway / Pillarverge Pathway (PLST) ZNR-263
-1 Odric, Lunarch Marshal (C20) 95
 1 Order of Whiteclay (CLB) 703
 1 Plague Myr (MBS) 125
 5 Plains (ZNR) 267
@@ -65,7 +66,6 @@
 1 Plains (MOM) 283
 1 Plains (MOM) 282 *F*
 1 Plains (PIP) 318
-1 Pre-War Formalwear (PIP) 21
 1 Prickly Pair (OTJ) 137
 1 Prosthetic Injector (ONE) 239
 1 Requisition Raid (OTJ) 26
@@ -84,30 +84,27 @@
 1 Swiftfoot Boots (OTC) 268
 1 Sword of Truth and Justice (SLD) 1096
 1 Temple of the False God (MKC) 305
+1 Thousand-Year Elixir (C13) 266
 1 Umezawa's Jitte (SLD) 1288
 1 Village Bell-Ringer (LTC) 181
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 38
 1 Wrench (CLU) 7
 1 Wurmcoil Engine (BRR) 126 *F*
 1 Zirda, the Dawnwaker (MUL) 65 *F*
-    Check 
-1 Drumbellower (NEC) 6
-1 Patriar's Seal (CLB) 332
-1 Thousand-Year Elixir (C21) 271
+    Check
+1 Fallen Ferromancer (NPH) 82
+1 Vikya, Scorching Stalwart (SLX) 11 
     In 
 1 Ajani, Adversary of Tyrants (M19) 3
-1 Auriok Bladewarden (MRD) 3
 1 Ballynock Trapper (EVE) 2
 1 Basilisk Collar (CLB) 300
 1 Cinder Pyromancer (EVE) 50
 1 Desert (AFC) 233
 1 Eiganjo Castle (CHK) 275
-1 Fallen Ferromancer (NPH) 82
 1 Form a Posse (OTJ) 204
 1 Furystoke Giant (SHM) 93
 1 Gideon of the Trials (AKH) 14
 1 Goblin Sharpshooter (C13) 111
-1 Grand Master of Flowers (AFR) 17
 1 Heartfire Hero (BLB) 138
 1 Hellspur Posse Boss (OTJ) 128
 1 Hidden Volcano (LCI) 277
@@ -130,33 +127,23 @@
 1 Ugin, the Spirit Dragon (M21) 1
 1 Urza's Cave (MH3) 234
 1 Valakut, the Molten Pinnacle (ZEN) 228
-1 Vikya, Scorching Stalwart (SLX) 11
 1 Viridian Longbow (AFC) 221
 1 Zariel, Archduke of Avernus (AFR) 172
     Out 
 Infantry Veteran 
-Mother of Runes 
-Goblin Fireslinger 
-Chandra's Magmutt 
 Abzan Falconer 
-Codsworth, Handy Helper 
 Duergar Mine-Captain 
 Prickly Pair 
-Village Bell-Ringer 
-Abzan Battle Priest 
 Adaptive Gemguard 
 High Sentinels of Arashin 
 Kytheon's Irregulars 
-Odric, Lunarch Marshal 
-Kiki-Jiki, Mirror Breaker 
 Requisition Raid 
-Knife 
 Kor Halberd 
 Wrench 
 Lightning Greaves 
 Swiftfoot Boots 
 Spinning Wheel 
 Batterbone 
-Hexplate Wallbreaker 
 Nahiri's Machinations 
 Lassoed by the Law 
+Cathars' Crusade

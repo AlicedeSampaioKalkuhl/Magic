@@ -43,59 +43,57 @@
 1 Call the Coppercoats (C20) 23
 1 Canopy Vista (WHO) 258
 1 Catapult Master (DDF) 18
+1 Catapult Squad (ONS) 11 *F*
+1 Cenn's Tactician (MOR) 5
 1 Cinder Glade (WHO) 262
 1 Command Tower (DMC) 204
+1 Conclave Phalanx (RAV) 10
 1 Conscripted Infantry (BRO) 129 *F*
 1 Contested War Zone (MBS) 144
 1 Court Street Denizen (GTC) 8
 1 Darien, King of Kjeldor (MKC) 59
+1 Daru Warchief (SCG) 6
 1 Dauntless Escort (SCD) 223
 1 Exotic Orchard (OTC) 293
 1 Feed the Pack (DKA) 114
+1 Flurry of Wings (ARB) 127
 1 Fortified Beachhead (BRO) 262
-1 Life's Legacy (M15) 183
+1 Goldmeadow Lookout (FUT) 22
+1 Lena, Selfless Champion (M19) 21
+1 Life's Legacy (NCC) 300
 1 Lossarnach Captain (LTC) 16
 1 March of the Multitudes (NCC) 346
 1 Martial Coup (NCC) 206
 1 Martyr's Cause (PLST) ULG-13
-1 Memorial to War (CMR) 486
 1 Midnight Guard (BBD) 99
-1 Opposition (DMR) 62
 1 Reliquary Tower (OTC) 312
 1 Secluded Courtyard (LTC) 330
+1 Siege Veteran (BRO) 25
 1 Solitary Sanctuary (WOE) 30
 1 Springleaf Drum (SLP) 22
 1 Sunhome, Fortress of the Legion (OTC) 324
 1 Trostani Discordant (SCD) 253
 1 Ulvenwald Mysteries (MKC) 193
+1 War Report (NPH) 26
 1 War Room (MKC) 310
     In 
 1 Ballynock Trapper (EVE) 2
 1 Ballyrush Banneret (MOR) 1
 1 Bant Sojourners (ARB) 125
-1 Catapult Squad (ONS) 11
 1 Cemetery Protector (VOW) 6
-1 Cenn's Tactician (MOR) 5
-1 Conclave Phalanx (RAV) 10
-1 Daru Warchief (SCG) 6
 1 Doubling Season (RAV) 158
-1 Flurry of Wings (ARB) 127
-1 Goldmeadow Lookout (FUT) 22
 1 High Market (C15) 289
-1 Infernal Plunge (ISD) 148
 1 Kjeldoran Outpost (ALL) 139
 1 Knight-Captain of Eos (ALA) 17
 1 Last-Ditch Effort (ULG) 83
-1 Lena, Selfless Champion (JMP) 117
+1 Memorial to War (CMR) 486
 1 Militia's Pride (LRW) 30
 1 Miren, the Moaning Well (SOK) 163
 1 Perilous Forays (RAV) 176
 1 Phyrexian Altar (2X2) 396
 1 Primal Growth (PLS) 87
-1 Siege Veteran (BRO) 25
 1 Spawning Pit (DST) 141
 1 Splinter Twin (MM2) 129
 1 Torsten, Founder of Benalia (DMC) 47
 1 Valiant Veteran (DMU) 38
-1 War Report (NPH) 26
 1 War Tax (MMQ) 113

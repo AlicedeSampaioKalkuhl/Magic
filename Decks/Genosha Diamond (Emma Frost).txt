@@ -106,11 +106,8 @@
 1 Unwinding Clock (BRR) 61
 1 Vault of Whispers (MRD) 286
     In 
-1 Alhammarret's Archive (PLST) ORI-221
 1 Angel's Tomb (ORI) 222
 1 Archway of Innovation (MH3) 214
-1 Armored Skyhunter (CMR) 11
-1 Brass Squire (CMR) 460
 1 Caltrops (7ED) 288
 1 Chimeric Egg (DST) 106
 1 Chimeric Idol (PCY) 136
@@ -119,11 +116,11 @@
 1 Darksteel Brute (DST) 108
 1 Darksteel Forge (M14) 206
 1 Darksteel Monolith (CMM) 743
-1 Forensic Gadgeteer (MKM) 57
 1 Glint Hawk Idol (MM2) 216
 1 Guardian Idol (IMA) 216
 1 Inventors' Fair (KLD) 247
 1 Jade Statue (9ED) 300
+1 Mendicant Core, Guidelight (DFT) 213
 1 Nexus of Becoming (BIG) 55
 1 Ojutai Monument (DTK) 242
 1 Orzhov Keyrune (GTC) 233
@@ -133,30 +130,29 @@
 1 Simulacrum Synthesizer (BIG) 36
 1 Thunder Totem (TSP) 265
 1 Warden of the Wall (DKA) 153
+1 Winter, Cursed Rider (DFT) 228
 1 Xanthic Statue (WTH) 163
-
     Out 
-Kemba, Kha Enduring 
-Puresteel Paladin 
-Stone Haven Outfitter 
-Stoneforge Mystic 
-Éowyn, Lady of Rohan
-Balan, Wandering Knight 
+Kemba, Kha Enduring out 
+Stoneforged Mystic out 
+Puresteel Paladin out 
+Stone Haven Outfitter out 
+Eowyn, Lady of Rohan out 
+Balan, Wandering Knight out 
 Zamriel, Seraph of Steel 
-Batterbone 
-Blackblade Reforged 
+Batterbone out 
+Blackblade Reforged out 
 Cranial Plating 
-Lightnig Greaves 
 Mask of Riddles 
-Mystic Skull 
+Lightning Greaves 
 Swiftfoot Boots 
-Thran Power Suit 
-Darksteel Plate 
-Forebear's Blade 
-Haunted Cloak 
-Loxodon Warhammer 
+Thran Power Suit out 
+Darksteel Plate out 
+Forebear's Blade out 
+Haunted Cloak out 
+Loodon Warhammer out 
 Sword of Vengeance 
 Whispersilk Cloak 
-Mirran Bardliche 
+Mirran Bardiche 
 Scytheclaw 
 Argentum Armor 

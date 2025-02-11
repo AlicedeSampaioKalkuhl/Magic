@@ -92,6 +92,7 @@
 1 Welcome to . . . / Jurassic Park (REX) 7
 1 Windfall (C20) 128
     In 
+1 Agonasaur Rex (DFT) 151
 1 Bant Sojourners (ARB) 125
 1 Blasted Landscape (USG) 319
 1 Corrupted Grafstone (SOI) 253

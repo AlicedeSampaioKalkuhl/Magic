@@ -34,14 +34,21 @@
 1 War Room (MKC) 310
 1 Witness the Future (VOW) 90 *F*
     In  
+1 Bellowing Crier (BLB) 42
+1 Bruvac the Grandiloquent (PLST) JMP-10
 1 Cavalier of Gales (M20) 52
 1 Cemetery Illuminator (VOW) 50
 1 Crystal Skull, Isu Spyglass (ACR) 15
+1 Danny Pink (WHO) 39
+1 Duelist of the Mind (OTJ) 45
 1 Flow of Ideas (RAV) 50
 1 Gilded Lotus (CMM) 387
 1 Halimar Depths (WWK) 137
+1 Ledger Shredder (PSNC) 46p
 1 Lich's Mirror (PLST) ALA-210 *F*
 1 Magus of the Mind (C17) 12
+1 Novijen Sages (MM2) 53
+1 Omen Hawker (MOM) 70
 2 Persistent Petitioners (RVR) 53
 2 Persistent Petitioners (RNA) 44
 2 Persistent Petitioners (SLD) 597 *F*
@@ -57,6 +64,8 @@
 1 Psychic Spiral (RTR) 47
 1 Put Away (SHM) 48
 1 Riddlekeeper (CM2) 48
+1 Riverchurn Monument (DFT) 440 *F*
 1 Sapphire Medallion (CMM) 407
 1 Sword of the Animist (LTC) 355
 1 Tezzeret, Artifice Master (PLST) M19-79
+1 Trusted Advisor (SOK) 59

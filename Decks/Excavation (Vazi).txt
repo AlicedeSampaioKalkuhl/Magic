@@ -1,4 +1,32 @@
     Vazi, Keen Negotiator 
+1 Alchemist's Talent (BLC) 22
+1 Ancient Copper Dragon (CLB) 161
+1 Ancient Runes (TMP) 161
+1 Bootleggers' Stash (SNC) 134
+1 Brass's Bounty (FDN) 190
+1 Crime Novelist (MKM) 121
+1 Fangren Marauder (MBS) 79
+1 Flick a Coin (WOE) 128
+1 Gold Rush (OTJ) 166
+1 Hell to Pay (OTJ) 126
+1 Hoard Hauler (SNC) 109
+1 Ingenious Artillerist (CLB) 182
+1 Inspired Tinkering (CLB) 183
+1 Lobelia Sackville-Baggins (LTR) 93
+1 Manabarbs (M12) 150
+1 Mines of Moria (LTR) 257
+1 Powerleech (ATQ) 34
+1 Price of Glory (ODY) 214
+1 Prosperous Bandit (BLC) 25
+1 Reckless Endeavor (AFC) 33
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Skullport Merchant (CLB) 149
+1 Spiteful Banditry (LTR) 149
+1 Tectonic Instability (INV) 173
+1 Treasure Map / Treasure Cove (LCI) 267
+1 Unexpected Windfall (AFR) 164
+1 Viridian Revel (SOM) 132
+1 Xorn (AFR) 167
         Check 
 1 Academy Manufactor (OTC) 251
 1 Agent of the Iron Throne (CLB) 107
@@ -65,32 +93,5 @@
         In 
 1 Generous Plunderer (BIG) 11
 1 Reckless Fireweaver (KLD) 126
+1 Rocketeer Boostbuggy (DFT) 220
 1 Sardian Avenger (BRC) 23
-1 Alchemist's Talent (BLC) 22
-1 Ancient Copper Dragon (CLB) 161
-1 Ancient Runes (TMP) 161
-1 Bootleggers' Stash (SNC) 134
-1 Brass's Bounty (FDN) 190
-1 Crime Novelist (MKM) 121
-1 Fangren Marauder (MBS) 79
-1 Flick a Coin (WOE) 128
-1 Gold Rush (OTJ) 166
-1 Hell to Pay (OTJ) 126
-1 Hoard Hauler (SNC) 109
-1 Ingenious Artillerist (CLB) 182
-1 Inspired Tinkering (CLB) 183
-1 Lobelia Sackville-Baggins (LTR) 93
-1 Manabarbs (M12) 150
-1 Mines of Moria (LTR) 257
-1 Powerleech (ATQ) 34
-1 Price of Glory (ODY) 214
-1 Prosperous Bandit (BLC) 25
-1 Reckless Endeavor (AFC) 33
-1 Roxanne, Starfall Savant (OTJ) 228
-1 Skullport Merchant (CLB) 149
-1 Spiteful Banditry (LTR) 149
-1 Tectonic Instability (INV) 173
-1 Treasure Map / Treasure Cove (LCI) 267
-1 Unexpected Windfall (AFR) 164
-1 Viridian Revel (SOM) 132
-1 Xorn (AFR) 167

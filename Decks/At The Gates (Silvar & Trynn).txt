@@ -1,39 +1,106 @@
     Silvar, Devourer of Freedom & Trynn, Champion of the Free 
-        Check 
 1 Adeline, Resplendent Cathar (MOC) 167
-1 Arcane Signet (DSC) 92
-1 Bojuka Bog (DSC) 265
-1 Call the Coppercoats (NCC) 195
-1 Castle Ardenvale (MKC) 253
-1 Cathar's Call (MID) 11
+1 All Will Be One (ONE) 118
+1 Arcane Signet (ELD) 331
+1 Ayara's Oathsworn (MAT) 111 *E*
+1 Bastion of Remembrance (CMM) 138
+1 Bastion Protector (LTC) 162
+1 Bojuka Bog (MKC) 250
+1 Call the Coppercoats (C20) 23
+1 Campfire (CLB) 304
+1 Castle Ardenvale (ONC) 149
+1 Cathar's Call (INR) 16
+1 Chaplain of Alms / Chapel Shieldgeist (MID) 13 *F*
+1 Colonel Autumn (PIP) 98
+1 Command Tower (BLC) 130
+1 Company Commander (40K) 113
 1 Coppercoat Vanguard (MAT) 1
-1 Denethor, Ruling Steward (LTR) 198
+1 Cultist of the Absolute (CLB) 123
+1 Dark Confidant (RAV) 81
+1 Denethor, Ruling Steward (LTR) 198 *F*
 1 Devout Chaplain (C20) 87
 1 Dire Tactics (IKO) 183
-1 Elspeth, Sun's Champion (MKC) 62
+1 Elder Arthur Maxson (PIP) 102
+1 Elspeth, Sun's Champion (SLD) 1140
+1 Enduring Bondwarden (MOM) 14 *F*
+1 Exotic Orchard (PIP) 264
+1 Fain, the Broker (BRC) 105
+1 Fireflux Squad (C20) 51
+1 Flamescroll Celebrant / Revel in Silence (STX) 150
 1 Fleshtaker (MID) 222
+1 Frontline Medic (LTC) 169
 1 Garna, Bloodfist of Keld (DMU) 200 *F*
 1 General's Enforcer (IKO) 188
-1 Judith, the Scourge Diva (RNA) 185 *F*
+1 Hanweir Lancer (MM3) 97 *F*
+1 Hunted Witness (GRN) 15
+1 Increasing Devotion (C20) 91
+1 Judith, the Scourge Diva (MUL) 45
 1 Juri, Master of the Revue (MUL) 111 *E*
+1 Kindred Dominance (CMM) 640
+1 Lunarch Veteran / Luminous Phantom (MID) 27
+1 Martyr for the Cause (WAR) 23
+1 Massacre Girl (SLD) 1233 *F*
 1 Morbid Opportunist (PIP) 186
-1 Priest of Forgotten Gods (RVR) 90
+1 Mountain (LTR) 268
+1 Mountain (LTR) 279 *F*
+2 Mountain (PIP) 324
+4 Mountain (LTR) 279
+1 Nomad Outpost (PIP) 277
+1 Pain Seer (BNG) 80
+1 Parish-Blade Trainee (VOW) 29
+1 Path of Ancestry (PIP) 279
+3 Plains (ONE) 262
+1 Plains (PIP) 318
+1 Plains (MOM) 282
+1 Plains (BRO) 278
+3 Plains (MOM) 283 *F*
 1 Rally at the Hornburg (LTR) 142
-1 Reliquary Tower (DSC) 295
+1 Reliquary Tower (BLC) 132
+1 Rohirrim Lancer (LTR) 146
 1 Sanctuary Lockdown (IKO) 28
-1 Skullclamp (MOC) 379
-1 Sol Ring (DSC) 94
+1 Savai Crystal (IKO) 239
+1 Selfless Squire (LTC) 176
+1 Serra Ascendant (SLD) 1125
+1 Sister Repentia (40K) 142
+1 Skullclamp (40K) 248
+1 Sol Ring (40K) 250
 1 Species Specialist (C20) 47
-1 Temple of the False God (DSC) 313
+1 Spiteful Squad (STX) 237
+1 Star Pupil (STX) 30
+2 Swamp (MOM) 286 *F*
+1 Swamp (PIP) 322
+6 Swamp (ONE) 264
+1 Swiftfoot Boots (NCC) 382
+1 Temple of the False God (PIP) 311
+1 Tergrid, God of Fright / Tergrid's Lantern (KHM) 112 *F*
 1 Teysa Karlov (RNA) 212
+1 Teysa, Orzhov Scion (RVR) 233 *F*
 1 Théoden, King of Rohan (LTR) 233
 1 Thraben Doomsayer (C20) 104
-1 Vault of the Archangel (OTC) 339
+1 Tome of Legends (ELD) 332
+1 Tymna the Weaver (CMR) 539 *E*
 1 Vigilante Justice (C20) 164
-1 Zulaport Cutthroat (CLB) 775
+1 Weathered Wayfarer (LTC) 183
+1 White Glove Gourmand (PIP) 124
+1 Zulaport Cutthroat (ZNC) 57
+        Check 
+
         In 
 1 General Kudro of Drannith (IKO) 187
 1 Hanweir Militia Captain / Westvale Cult Leader (SOI) 21
-1 Increasing Devotion (C20) 91
 1 Jirina Kudro (C20) 8
 1 Jirina, Dauntless General (MAT) 32
+        Out 
+Colonel Autumn Out 
+Tergrid, God of Fright out 
+Elder Arthur Maxson out 
+Ayara's Oathsworn out 
+Judith, the Scourge Diva out 
+Hanweir Lancer out 
+Tymna, the Weaver Out 
+Pain Seer out 
+Dark Confidant out 
+Serra Ascendant out 
+Chaplain of Alms out 
+Wwathered Wayfarer out 
+Rohirrim Lancer out 

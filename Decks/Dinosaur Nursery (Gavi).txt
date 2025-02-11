@@ -104,11 +104,10 @@
 1 Deem Worthy (AKH) 127
 1 Djeru's Resolve (AKH) 11
 1 Fraying Sanity (WOT) 19
-1 Grindstone (OTP) 62
 1 Huatli, Dinosaur Knight (XLN) 285 *F*
 1 Hunting Velociraptor (REX) 4
-1 Imposing Vantasaur (IKO) 17
 1 Marauding Brinefang (LCI) 64
+1 Night Market (DFT) 258
 1 Perilous Landscape (MH3) 223
 1 Raugrin Triome (PIKO) 251p
 1 Seismic Monstrosaur (LCI) 166
@@ -116,7 +115,6 @@
 1 Swooping Pteranodon (REX) 19
 1 Tectonic Reformation (C20) 162
 1 Trumpeting Carnosaur (LCI) 171
-1 Yidaro, Wandering Monster (IKO) 141
 
     Out 
 Past in Flames 

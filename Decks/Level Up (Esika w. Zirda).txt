@@ -110,17 +110,19 @@
 1 Freed from the Real (SOK) 38 #undefined
 1 Ghired, Mirror of the Wilds (OTJ) 351
 1 Hazoret the Fervent (AKH) 136
+1 Hazoret, Godseeker (DFT) 462 *F*
 1 Heliod, the Radiant Dawn / Heliod, the Warped Eclipse (MOM) 17
 1 Hythonia the Cruel (THS) 91
 1 Isu the Abominable (J22) 12
-1 Kellan, Planar Trailblazer (FDN) 330
 1 Lighthouse Chronologist (ROE) 75
+1 Loot, the Pathfinder (DFT) 212
 1 Oketra the True (AKH) 21
 1 Paladin Class (AFR) 29
 1 Purphoros, Bronze-Blooded (THB) 150
 1 Purphoros, God of the Forge (PLST) THS-135
 1 Radha, Heart of Keld (PM21) 224p
 1 Ranger Class (AFR) 202
+1 Reckless Velocitaur (DFT) 144
 1 Rhonas the Indomitable (J22) 719
 1 Rogue Class (AFR) 230
 1 Samut, Voice of Dissent (AKH) 205
@@ -129,13 +131,13 @@
 1 Transcendent Master (ROE) 51
 1 Varragoth, Bloodsky Sire (KHM) 309
     Out 
-Caustic Catapillar 
-Stenn, Paranoid Partisan 
-Targ Nar, Demon-Fang Gnoll 
-Valki, God of Lies 
-Daxos, the Returned 
-Derevi, Empyrial Tactitian 
-Jenara, Asura of War 
-Vigean Graftmage 
-Crab Umbra 
+Caustic Catapillar out 
+Stenn, Paranoid Partisan out  
+Targ Nar, Demon-Fang Gnoll out 
+Valki, God of Lies out 
+Daxos, the Returned out 
+Derevi, Empyrial Tactitian out 
+Jenara, Asura of War out 
+Vigean Graftmage out 
+Crab Umbra out 
     Tokens 

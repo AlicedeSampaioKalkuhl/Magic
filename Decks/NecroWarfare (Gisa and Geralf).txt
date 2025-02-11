@@ -1,135 +1,123 @@
-		NecroWarfare 
-Gisa and Geralf 
+	Gisa and Geralf 
 1 Altar of Bhaal / Bone Offering (CLB) 109 *F*
+1 Archghoul of Thraben (INR) 95
 1 Army of the Damned (MIC) 106
 1 Ash Barrens (CLB) 880
 1 Awaken the Erstwhile (RNA) 61
 1 Bladestitched Skaab (MID) 212
 1 Bojuka Bog (MIC) 167
+1 Calculating Lich (CLB) 742
 1 Carrion Feeder (SLD) 1114
 1 Cemetery Reaper (MIC) 108
 1 Champion of the Perished (MID) 385 *F*
-1 Chill of the Grave (VOW) 51
 1 Cleaver Skaab (MIC) 11
+1 Command Tower (OTC) 280
 1 Crawl from the Cellar (MID) 93 *F*
 1 Crowded Crypt (MIC) 17
 1 Death Baron (MIC) 111
+1 Dimir Aqueduct (C20) 270
 1 Diregraf Captain (MIC) 148
 1 Diregraf Colossus (MIC) 112
 1 Dismal Backwater (M21) 245
-1 Distant Melody (MIC) 98
+1 Distant Melody (SLD) 1464
 1 Dreadhorde Invasion (MIC) 114
 1 Drownyard Temple (CLB) 892
-1 Empty the Laboratory (MIC) 14
 1 Endless Ranks of the Dead (MIC) 116
 1 Eternal Skylord (MIC) 99
 1 Ever After (C20) 133
+1 Feral Ghoul (PIP) 44
+1 Fetid Pools (WHO) 494 *F*
 1 Fleshbag Marauder (MIC) 118
 1 Geralf, Visionary Stitcher (VOW) 319
 1 Ghoulcaller Gisa (CC2) 2
 1 Ghouls' Night Out (MIC) 19
-1 Gisa, Glorious Resurrector (MID) 314
+1 Gisa, Glorious Resurrector (MID) 314 *F*
 1 Gleaming Overseer (MIC) 151
-1 Gravedigger (M20) 103
+1 Gravecrawler (DDQ) 59
 1 Gravespawn Sovereign (MIC) 120
 1 Gray Merchant of Asphodel (C14) 146
+1 Grimgrin, Corpse-Born (MUL) 41
 1 Grimoire of the Dead (C19) 213
-1 Havengul Runebinder (MIC) 101
-1 Hordewing Skaab (MIC) 15
-1 Hour of Eternity (HOU) 36
+1 Hancock, Ghoulish Mayor (PIP) 45
 1 Invasion of Amonkhet / Lazotep Convert (MOM) 231 *F*
-14 Island (VOW) 271
+1 Island (STX) 368 *F*
+1 Island (STX) 369
+1 Island (STX) 369 *F*
+5 Island (MID) 381
+1 Jason Bright, Glowing Prophet (PIP) 32
 1 Key to the City (C21) 248
-1 Liliana, Death's Majesty (MIC) 121
 1 Liliana, Heretical Healer / Liliana, Defiant Necromancer (CC2) 1
 1 Liliana, the Last Hope (2X2) 333
 1 Liliana's Devotee (MIC) 122
 1 Liliana's Mastery (MIC) 123
+1 Lively Dirge (OTJ) 93 *F*
 1 Lord of the Accursed (MIC) 124
 1 Lord of the Undead (SLD) 1046
 1 Midnight Reaper (SLD) 1171
+1 Mikaeus, the Unhallowed (SLD) 490
+1 Mind Stone (PW21) 5 *F*
 1 Mortuary Mire (MIC) 176
 1 Necroduality (VOW) 70
-1 Open the Graves (M19) 112
 1 Overseer of the Damned (MIC) 127
 1 Poppet Stitcher / Poppet Factory (MID) 71
 1 Port of Karfell (KHM) 265
 1 Raise the Draugr (KHM) 105
+1 Raul, Trouble Shooter (PIP) 115
 1 Reflections of Littjara (KHM) 400 *F*
 1 Rooftop Storm (MIC) 103
+1 Secluded Courtyard (LCC) 350
 1 Secrets of the Dead (C19) 95
-1 Sol Ring (LCC) 313
 1 Stitcher Geralf (MIC) 104
-13 Swamp (VOW) 272
+5 Swamp (VOW) 272
+4 Swamp (MID) 382
+1 Swamp (VOW) 400 *F*
+3 Swamp (VOW) 400
 1 Tainted Isle (MIC) 183
+1 Temple of Deceit (CLB) 922
 1 The Flood of Mars (WHO) 360 *F*
 1 The Scarab God (SLD) 900
 1 Tomb Tyrant (MIC) 23
 1 Tormod, the Desecrator (CMR) 155
 1 Transmogrant Altar (BRO) 124 *F*
 1 Unclaimed Territory (MIC) 187
-1 Undead Alchemist (MIC) 105
-1 Undead Augur (MIC) 130
 1 Underground River (BRO) 267 *F*
+1 Unshakable Tail (MKC) 29
 1 Village Rites (STA) 35
 1 Wilhelt, the Rotcleaver (MIC) 2
 1 Zombie Apocalypse (MIC) 131
 	Check 
-1 Clearwater Pathway / Murkwater Pathway (ZNR) 260
-1 Command Tower (C21) 284
-1 Dimir Aqueduct (GK1) 23
-1 Dimir Signet (CMD) 246
-1 Fetid Pools (AKH) 243
-1 Gisa, the Hellraiser (OTJ) 89
-1 Mind Stone (PLST) C18-210
-1 Obscura Storefront (SNC) 252
-1 Path of Ancestry (VOC) 177
-1 Rise of the Dark Realms (JMP) 271
-1 Secluded Courtyard (NEO) 512
+1 Corpse Harvester (PLST) LGN-62
+1 Laboratory Drudge (CMR) 78
 	In 
 1 Cabal Coffers (MH2) 301
 1 Cavern of Souls (AVR) 226
 1 Cemetery Recruitment (EMN) 83
-1 Corpse Harvester (LGN) 62
 1 Crypt of Agadeem (C14) 288
+1 Cryptcaller Chariot (DFT) 80
+1 Cursecloth Wrappings (DFT) 81
 1 Field of the Dead (PM20) 247p
+1 Fleshbag Marauder (MIC) 118
 1 Flip the Switch (MID) 54
 1 Geralf, the Fleshwright (OTJ) 287
+1 Gisa, the Hellraiser (OTJ) 288
 1 Gisa's Favorite Shovel (SLX) 19
-1 Gravecrawler (2X2) 78
 1 Havengul Lich (DKA) 139
-1 Laboratory Drudge (CMR) 78
 1 Liliana, Untouched by Death (M19) 106
 1 Mausoleum Secrets (GRN) 75
-1 Mikaeus, the Unhallowed (CMM) 675
 1 Rise of the Dread Marn (KHM) 354
 1 Risen Executioner (DTK) 116
 1 Sunken Ruins (SHM) 280
-1 Temple of Deceit (PTHB) 245p
 1 Undercity Sewers (MKM) 270
 1 Unholy Grotto (PLST) ONS-327
-1 Unstoppable Slasher (DSK) 119
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Vengeful Dead (SCG) 80
 1 Vengeful Pharaoh (M12) 116
 1 Wand of Orcus (AFC) 297
 1 Warren Soultrader (MH3) 110
 1 Zombie Master (4ED) 174
-
 	Out 
-Lilia, Death's Mastery
-Grimoire of the Death
-Rise of the Draugr 
-Bladestitched Skaab
+Altar of Bhaal
 Fleshbag Marauder
-Liliana's Devotee
-Gravedigger
-Undead Alchemist 
-Undead Augur 
-Hour of Eternity 
-Awaken the Erstwhile 
-Open the Graves 
-Key to the City 
 
 	Tokens 
 Liliana, Defiant Necromancer Emblem 

@@ -1,7 +1,6 @@
-Yidris
+    Cormela
 1 Acquire (5DN) 21
 1 Admiral Beckett Brass (SLD) 1410
-1 Ancient Brass Dragon (CLB) 367
 1 Animate Dead (4ED) 118
 1 Aqueous Form (CMR) 56
 1 Arcane Signet (SCD) 257
@@ -14,6 +13,7 @@ Yidris
 1 Coercive Recruiter (LCC) 222
 1 Command Tower (SLD) 710
 1 Conjurer's Closet (C13) 239
+1 Cunning Rhetoric (OTC) 129
 1 Cursed Mirror (WHO) 474 *F*
 1 Dack Fayden (SLD) 1689
 1 Desertion (6ED) 64
@@ -25,6 +25,7 @@ Yidris
 1 Ensnared by the Mara (WHO) 384 *F*
 1 Etali, Primal Storm (LCC) 224
 1 Exotic Orchard (NCC) 400
+1 Fallen Shinobi (OTC) 226
 1 Flawless Forgery (NCC) 127
 1 Forest (SLD) 1092
 3 Forest (PIP) 326
@@ -34,8 +35,7 @@ Yidris
 1 Golgari Rot Farm (2X2) 406
 1 Gríma, Saruman's Footman (LTC) 57
 1 Gruul Turf (PCA) 119
-1 Haldan, Avid Arcanist (C20) 2 *F*
-1 Halo Forager (MOM) 227
+1 Heartless Conscription (OTC) 21
 1 Hostage Taker (LTC) 268
 1 Island (SLD) 1089
 3 Island (PIP) 320
@@ -53,13 +53,12 @@ Yidris
 1 Nicol Bolas, God-Pharaoh (SLC) 2017
 1 Nightveil Specter (PGTC) 222★ *F*
 1 Olivia Voldaren (SLD) 1264 *F*
-1 Pako, Arcane Retriever (C20) 13 *F*
-1 Panharmonicon (KLD) 226
 1 Plargg and Nassari (MAT) 68
 1 Praetor's Grasp (NPH) 71
 1 Profane Tutor (MH2) 97
 1 Ragavan, Nimble Pilferer (MUL) 21 *F*
 1 Rakdos Carnarium (CLU) 243
+1 Rakdos, the Muscle (OTJ) 297 *F*
 1 Rashmi and Ragavan (MOC) 8 *F*
 1 Reanimate (MKC) 137
 1 Reins of Power (CLB) 734
@@ -69,7 +68,7 @@ Yidris
 1 Siphon Insight (MID) 375
 1 Sol Ring (SCD) 276
 1 Sol Talisman (MH2) 472
-1 Sower of Temptation (WOC) 111
+1 Stolen Goods (C15) 107
 1 Stolen Identity (ZNC) 37
 1 Stolen Strategy (CLB) 807
 1 Swamp (SLD) 1090
@@ -80,22 +79,20 @@ Yidris
 1 The Reaver Cleaver (DMC) 8
 1 The Ruinous Powers (40K) 139
 1 Thief of Sanity (NCC) 354
+1 Thieving Amalgam (OTC) 150
 1 Thieving Skydiver (LCC) 177
 1 Thieving Varmint (OTC) 23
 1 Tinybones, the Pickpocket (OTJ) 109
-1 Valki, God of Lies / Tibalt, Cosmic Impostor (PLST) KHM-114
+1 Trailblazer's Boots (LTR) 398 *F*
 1 Vexing Puzzlebox (CLB) 374
 1 Wand of Wonder (CLB) 584
 1 Willbreaker (ORI) 84
+1 Yidris, Maelstrom Wielder (C16) 50 *F*
 1 Zara, Renegade Recruiter (LCC) 297
 1 Zareth San, the Trickster (ZNR) 242
 1 Ziatora's Proving Ground (SNC) 261
     Check 
-1 Fallen Shinobi (NCC) 338
 1 Inevitable Betrayal (MH2) 446
-1 Stolen Goods (C15) 107
 1 Synthesis Pod (ONC) 23
-1 Trailblazer's Boots (LTR) 398 *F*
     In 
-1 Rakdos, the Muscle (OTJ) 226
-1 Vraska, the Silencer (OTJ) 237
+1 Saw in Half (UNF) 88

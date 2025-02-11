@@ -88,8 +88,9 @@
 1 Geier Reach Sanitarium (LCC) 335
 1 Smothering Tithe (PRNA) 22p
 1 Triskaidekaphile (PMID) 81p
-    In 
+1 Sokrates, Athenian Teacher (ACR) 67
 1 Arcane Laboratory (7ED) 60
+    In 
 1 Boseiju, Who Shelters All (CHK) 273
 1 Consecrated Sphinx (2X2) 345
 1 Dark Deal (FRF) 66
@@ -101,10 +102,10 @@
 1 Ob Nixilis, the Hate-Twisted (WAR) 100
 1 Price of Knowledge (C13) 89
 1 Sheoldred, the Apocalypse (DMU) 107
-1 Sokrates, Athenian Teacher (ACR) 67
 1 Sword of War and Peace (NPH) 161
 1 Thought Distortion (M20) 117
 1 Urborg, Tomb of Yawgmoth (LTC) 405 *F*
+1 Vnwxt, Verbose Host (DFT) 73
     Out 
 
     Tokens 

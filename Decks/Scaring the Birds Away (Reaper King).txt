@@ -1,155 +1,167 @@
     The Reaper King 
-        Check 
-1 Aerie Mystics (CMA) 1
-1 Akim, the Soaring Wind (C20) 6
-1 Arcane Signet (DSC) 92
-1 Arcanist's Owl (NEC) 135
+1 Aerie Mystics (C13) 2
+1 Annie Joins Up (OTJ) 191
+1 Arcane Signet (ELD) 331
+1 Arcanist's Owl (ELD) 206
 1 Attempted Murder (UNF) 66
 1 Aven Mindcensor (FUT) 18
 1 Baleful Strix (MKC) 200
-1 Battle Screech (CMM) 17
 1 Breena, the Demagogue (OTC) 217
 1 Cascading Cataracts (DMC) 202
-1 Chromatic Lantern (OTC) 255
-1 Command Tower (DSC) 96
+1 Chromatic Lantern (BRR) 73
+1 Command Tower (ZNC) 124
+1 Commander's Sphere (MOC) 352
 1 Crossroads Candleguide (MID) 253
 1 Curiosity Crafter (C21) 24
-1 Derevi, Empyrial Tactician (C13) 186
-1 Doric, Nature's Warden / Doric, Owlbear Avenger (SLD) 1241
-1 Dovescape (DIS) 143
+1 Dovescape (SLD) 95
 1 Empyrean Eagle (KHC) 85
 1 Esior, Wardwing Familiar (CMR) 67
-1 Exotic Orchard (DSC) 275
-1 Eyes in the Skies (RVR) 17
+1 Exotic Orchard (C20) 273
 1 Falco Spara, Pactweaver (SNC) 186
-1 Farmstead Gleaner (MH1) 222
-1 Fellwar Stone (DSC) 245
-1 Flameshadow Conjuring (MOC) 280
+1 Farmstead Gleaner (MH1) 222 *F*
+1 Fellwar Stone (NCC) 367
+1 Forest (BLB) 278
+1 Forest (BLB) 281
+1 Forest (BLB) 279 *F*
+1 Forest (BLB) 279
+1 Forest (BLB) 280
+1 Forest (BLB) 280 *F*
 1 Gwaihir the Windlord (LTR) 210
 1 Gwaihir, Greatest of the Eagles (LTC) 15
-1 Helm of the Host (DOM) 217
-1 Jhoira's Familiar (2XM) 265
+1 Haunted Screen (DSK) 250 *F*
+1 Helm of the Host (BRR) 19
+2 Island (BLB) 268
+1 Island (BLB) 266
+1 Island (BLB) 267 *F*
+1 Island (BLB) 267
+1 Island (BLB) 269
+1 Jhoira's Familiar (2XM) 265 *F*
 1 Jousting Dummy (ELD) 224
 1 Judge's Familiar (F13) 5 *F*
 1 Kangee, Sky Warden (CMR) 283
-1 Kathari Remnant (PCA) 98
-1 Kianne, Dean of Substance / Imbraham, Dean of Theory (STX) 326 *F*
-1 Koilos Roc (BRO) 55
-1 Kykar, Wind's Fury (CMM) 343
-1 Leyline of the Guildpact (MKM) 217
+1 Koilos Roc (BRO) 55 *F*
+1 Kykar, Wind's Fury (M20) 212
+1 Leyline of the Guildpact (PMKM) 217s *F*
 1 Liberated Livestock (WOC) 5
-1 Lilypad Village (BLB) 255
+1 Lilypad Village (BLB) 255 *F*
 1 Lupinflower Village (BLB) 256
-1 Maha, Its Feathers Night (BLB) 100
-1 Maskwood Nexus (CLB) 865
-1 Mavinda, Students' Advocate (STX) 21
+1 Maha, Its Feathers Night (BLB) 100 *F*
+1 Maskwood Nexus (KHM) 240
 1 Migratory Route (MOC) 336
 1 Mockingbird (BLB) 61
-1 Moira and Teshar (MOC) 7
-1 Nesting Dovehawk (MOC) 17
-1 Nimble Larcenist (SNC) 205
+2 Mountain (BLB) 274
+1 Mountain (BLB) 276
+1 Mountain (BLB) 275 *F*
+1 Mountain (BLB) 277
+1 Nimble Larcenist (SNC) 205 *F*
 1 Oasis Gardener (OTJ) 246
 1 One-Eyed Scarecrow (ISD) 230
-1 Owlbear Cub (CLB) 246
-1 Panharmonicon (2X2) 310
-1 Path of Ancestry (OTC) 310
-1 Plumecreed Escort (BLB) 65
+1 Panharmonicon (PIP) 237
+1 Path of Ancestry (C17) 56
+1 Plains (BLB) 262 *F*
+2 Plains (BLB) 264
+1 Plains (BLB) 265
+1 Plains (BLB) 265 *F*
+1 Plains (BLB) 263 *F*
+1 Plumecreed Mentor (BLB) 228 *F*
+1 Puppeteer Clique (WOC) 115
 1 Radagast, Wizard of Wilds (LTC) 66
 1 Rattleblaze Scarecrow (SHM) 259
 1 Ravenform (LCC) 167
-1 Reflections of Littjara (LCC) 168
-1 Reliquary Tower (DSC) 295
-1 Rendmaw, Creaking Nest (DSC) 5
+1 Reflections of Littjara (KHM) 73
+1 Reliquary Tower (DMC) 227
+1 Rendmaw, Creaking Nest (DSC) 5 *F*
+1 Resilient Roadrunner (OTJ) 141 *F*
+1 Restless Anchorage (LCI) 280
 1 Salvation Swan (BLB) 28
+1 Scarecrone (EVE) 172
 1 Scarecrow Guide (WOE) 250
-1 Scaretiller (OTC) 266
+1 Scaretiller (ZNC) 117
 1 Scorn Effigy (KHM) 246
-1 Scuttlemutt (JMP) 484
+1 Scuttlemutt (M20) 238
 1 Secluded Courtyard (LCC) 350
 1 Shaile, Dean of Radiance / Embrose, Dean of Shadow (STX) 158 *F*
+1 Shell Skulkin (EVE) 173
 1 Shire Scarecrow (LTR) 249
-1 Sol Ring (DSC) 94
-1 Sunbird Standard / Sunbird Effigy (LCI) 262
-1 Swan Song (C16) 98
-1 Swans of Bryn Argoll (MM2) 199
-1 Temple of the False God (DSC) 313
-1 Teshar, Ancestor's Apostle (CMM) 65
-1 Thaumaturge's Familiar (THB) 238
-1 The Bears of Littjara (KHM) 205
-1 The Eternal Wanderer (ONE) 11
-1 The Goose Mother (WOE) 204
+1 Sol Ring (BLC) 129
+1 Swamp (BLB) 271
+1 Swamp (BLB) 271 *F*
+1 Swamp (BLB) 272
+1 Swamp (BLB) 272 *F*
+1 Swamp (BLB) 273
+1 Swan Song (THS) 65
+1 Swans of Bryn Argoll (SHM) 151
+1 Temple of the False God (CLB) 925
+1 Teshar, Ancestor's Apostle (CMM) 65 *F*
 1 Unclaimed Territory (LCC) 366
-1 Warden of Evos Isle (CMR) 106
-1 Watcher of the Spheres (M21) 227
-1 Wicker Picker (UNF) 196
 1 Zinnia, Valley's Voice (BLC) 4 *F*
+        Check 
+1 Messenger Falcons (ARB) 145 *F*
+1 Sunbird Standard / Sunbird Effigy (LCI) 262
+1 Wickerfolk Thresher (DSK) 207 *F*
         In 
 1 Aerial Assault (JMP) 80
 1 Airborne Aid (ONS) 62
-1 Alrund's Epiphany (KHM) 41
 1 Animal Sanctuary (M21) 242
-1 Annie Joins Up (OTJ) 191
-1 Another Round (OTJ) 1
 1 Antler Skulkin (EVE) 167
-1 Anvilwrought Raptor (M20) 221
 1 Arcbound Condor (MH3) 81
-1 Artificer's Assistant (DOM) 44
 1 Aven Brigadier (ONS) 7
 1 Aven Wind Guide (AKH) 195
 1 Beck / Call (DGM) 123
 1 Blazethorn Scarecrow (SHM) 246
-1 Clockwork Condor (DDF) 50
 1 Crookclaw Elder (LGN) 34
-1 Dukhara Peafowl (KLD) 207
-1 Fable of Wolf and Owl (EVE) 150
 1 Fang Skulkin (EVE) 168
-1 Field Creeper (M19) 234
-1 Flurry of Wings (ARB) 127
-1 Formless Genesis (DSC) 34
-1 Geist-Fueled Scarecrow (EMN) 196
 1 Grim Poppet (SHM) 252
 1 Harvest Hand / Scrounged Scythe (SOI) 256
 1 Heap Doll (UMA) 228
 1 Hoof Skulkin (EVE) 169
-1 Imposing Grandeur (VOC) 24
-1 Ishai, Ojutai Dragonspeaker (CM2) 12 *F*
 1 Jackdaw Savior (BLB) 18
 1 Jawbone Skulkin (EVE) 170
 1 Junk Diver (MH3) 293
 1 Kastral, the Windcrested (BLB) 221
-1 Kathari Bomber (MM3) 172
 1 Keeper of the Nine Gales (LGN) 42
 1 Knightfisher (BLB) 55
 1 Lockjaw Snapper (SHM) 255
 1 Lurebound Scarecrow (SHM) 256
-1 Messenger Falcons (ARB) 145
 1 Murmuration (BLC) 10
-1 Ominous Roost (MID) 65
-1 Ordered Migration (INV) 258
 1 Painter's Servant (SHM) 257
-1 Perch Protection (BLC) 11
 1 Pili-Pala (SHM) 258
-1 Restless Anchorage (LCI) 280
 1 Scour the Desert (MH2) 28
 1 Scrapbasket (SHM) 262
 1 Seaside Haven (ONS) 323
-1 Senu, Keen-Eyed Protector (ACR) 8
 1 Signpost Scarecrow (JMP) 485
 1 Skycat Sovereign (IKO) 207
 1 Soulcatchers' Aerie (JUD) 25
 1 Strix Serenade (MH3) 71
 1 Tatterkite (SHM) 264
-1 The Raven Man (DMU) 103
 1 The Swarmweaver (DSK) 236
 1 Thornwatch Scarecrow (SHM) 265
 1 Three Tree City (BLB) 260
-1 Tidehollow Strix (C13) 222
 1 Timeless Lotus (DMU) 239
 1 Wicker Warcrawler (SHM) 269
-1 Wicker Witch (SOI) 268
-1 Wickerfolk Thresher (DSK) 207
 1 Wild-Field Scarecrow (SOI) 269
 1 Wildfire Wickerfolk (DSK) 239
 1 Winged Portent (VOW) 89
 1 Wingmate Roc (C19) 78
 1 Wingrattle Scarecrow (SHM) 270
+        Out 
+Aven Mindcensor Out 
+Dovescape Out 
+Resilient Roadrunner out 
+Salvation Swan Out 
+Mockingbird Out 
+Curiosity Crafter Out 
+Breena the Demagogue out 
+Baleful Strix out 
+Attempted Murder Out 
+Shaile, Dean of Radiance out 
+Empyrean Eagle out 
+Nimble Larcenist out 
+Swans of Bryn Argoll out 
+Kykar out 
+Gwaihir out 
+Arcanist's owl out 
+Koilos Roc out 
+Aerie mystics out 
+Liberated Livestock out 
+Ravenform out 

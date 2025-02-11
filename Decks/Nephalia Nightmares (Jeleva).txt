@@ -35,7 +35,6 @@ Jeleva, Nephalia's Scourge
 1 Laboratory Maniac (SLD) 1097
 1 Maddening Cacophony (ZNR) 67
 1 Mana Geode (WAR) 241
-1 Memory Lapse (STA) 16
 1 Metallurgic Summonings (KLD) 56
 1 Mind Stone (PW21) 5 *F*
 1 Mnemonic Deluge (CMR) 82
@@ -55,11 +54,11 @@ Jeleva, Nephalia's Scourge
 1 Ring of Valkas (M13) 214
 1 Rise from the Tides (UMA) 67 *F*
 1 Rise of the Dark Realms (MKC) 138
-1 Riverglide Pathway / Lavaglide Pathway (ZNR) 289
 1 Sadistic Sacrament (ZEN) 110
 1 Seer's Lantern (OGW) 165
 1 Seize the Day (SLD) 1172
 1 Shelldock Isle (SLD) 230 *F*
+1 Skull Storm (C18) 18
 1 Sokenzan, Crucible of Defiance (NEO) 415
 1 Sol Ring (C21) 263
 1 Sorcerous Squall (LTC) 548 *F*
@@ -75,36 +74,28 @@ Jeleva, Nephalia's Scourge
 1 Tasha, the Witch Queen (CLB) 294
 1 Tasha's Hideous Laughter (AFR) 368
 1 Teferi's Tutelage (M21) 296 *F*
+1 Telemin Performance (CON) 35
 1 Temple of Deceit (MIC) 184
 1 Temple of Malice (WHO) 908 *F*
 1 Thassa's Oracle (THB) 73
+1 The Grey Havens (LTR) 255
 1 Thousand-Year Storm (GRN) 207 *F*
 1 Thunderclap Drake (OTC) 17
 1 Training Center (CMR) 358
 1 Traumatize (10E) 119
 1 Umbris, Fear Manifest (VOC) 38
-1 Whispersilk Cloak (PC2) 115
 1 World at War (ROE) 172
 1 Xander's Lounge (SNC) 260
 
 	Check 
-1 Emergence Zone (WAR) 245
-1 Nephalia Academy (EMN) 205
-1 Past in Flames (40K) 206
-1 Psychic Corrosion (M19) 68
-1 Shipwreck Marsh (MID) 267
-1 Sulfur Falls (PDOM) 247p
+
 	In 
 1 Archive Trap (OTP) 7
 1 Blasphemous Edict (FDN) 57
+1 Full Throttle (DFT) 127
 1 Glamdring (LTR) 239
-1 Skull Storm (C18) 18
-1 Telemin Performance (CON) 35
 	Out 
-Riverglide Pathway 	
-Summons of Saruman 
-Whispersilk Cloak 
-Memory Lapse 
+
 	Tokens 
 Construct
 Demon 

@@ -92,17 +92,18 @@
 1 Zndrsplt, Eye of Wisdom (BBD) 5
     Check 
 1 Breeches, the Blastmaker (OTJ) 292
+1 Fiery Gambit (PLST) MRD-90 *F*
 1 Kaervek, the Punisher (OTJ) 92
 1 Powerbalance (MH3) 131 *F*
 
     In 
 1 Boseiju, Who Shelters All (CHK) 273
 1 Endless Whispers (5DN) 49
-1 Fiery Gambit (PLST) MRD-90 *F*
 1 Fighting Chance (EXO) 82
 1 Puppet's Verdict (MMQ) 208
 1 Ral, Monsoon Mage / Ral, Leyline Prodigy (MH3) 247
 1 Stitch in Time (RVR) 229
+1 Trade the Helm (DFT) 69
     Out 
 Sol Ring 
 Arcane Signet 

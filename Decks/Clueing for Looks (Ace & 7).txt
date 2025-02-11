@@ -24,9 +24,9 @@
 1 Exotic Orchard (WHO) 276
 1 Fabrication Foundry (LCI) 12
 1 Filigree Attendant (MH2) 41
-1 Filigree Vector (MOC) 102
 1 Five Hundred Year Diary (WHO) 42
 1 Fleeting Memories (SOI) 62
+1 Forensic Gadgeteer (MKM) 57
 1 Forest (VOW) 402 *F*
 1 Forest (BRO) 277 *F*
 1 Forest (CLB) 469 *F*
@@ -51,6 +51,7 @@
 1 Morska, Undersea Sleuth (MKC) 3 *F*
 1 Nettlecyst (MOC) 367
 1 No Witnesses (MKM) 390
+1 Officious Interrogation (MKM) 222
 1 On the Trail (MKC) 39
 1 Ongoing Investigation (SOI) 77
 1 Palladium Myr (SOM) 190
@@ -85,7 +86,6 @@
 1 Temple of Plenty (WHO) 319
 1 Temple of the False God (WHO) 320
 1 Tezzeret the Seeker (SLD) 1111
-1 The Goose Mother (WOE) 204
 1 The Third Doctor (WHO) 554
 1 Thorough Investigation (AFC) 12
 1 Thousand Moons Smithy / Barracks of the Thousand (LCI) 39
@@ -98,14 +98,11 @@
 1 Weirding Wood (SOI) 240
     Check 
     In 
-1 Bootleggers' Stash (SNC) 134
 1 Briarbridge Tracker (MID) 172
 1 Confront the Unknown (SOI) 198
 1 Curious Inquiry (MKM) 51
-1 Forensic Gadgeteer (MKM) 57
 1 Inventors' Fair (KLD) 247
 1 Krark-Clan Ironworks (5DN) 134
-1 Officious Interrogation (MKM) 314
 1 Rampage of the Clans (RNA) 134
 1 Worldwalker Helm (BIG) 7
     Out 
@@ -115,9 +112,7 @@ Thorough Investigation out
 On the Trail out 
 Nettlecyst out 
 Confirm Suspicions out 
-The Goose Mother Out 
 Tranquil Cove out
-Filigree Vecotr out 
 Gingerbread Cabin out 
 Blossoming Sands out
 

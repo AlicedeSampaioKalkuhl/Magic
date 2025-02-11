@@ -1,0 +1,35 @@
+    Rashmi and Ragavan 
+1 Adaptive Omnitool (DRC) 16
+1 Bag of Tricks (AFC) 37
+1 Brainstone (DSC) 242
+1 Brudiclad, Telchor Engineer (BRC) 122
+1 Chaos Wand (OTC) 254
+1 Cosima, God of the Voyage / The Omenkeel (KHM) 50
+1 Encroaching Mycosynth (ONE) 47
+1 Expel from Orazca (RIX) 37
+1 Faerie Mechanist (2XM) 50
+1 Game Preserve (MMQ) 248
+1 Great Furnace (C21) 292
+1 Hellkite Tyrant (PLST) RVR-111
+1 Helm of the Host (DOM) 217
+1 Hinder (2XM) 54
+1 Horn of the Mark (LTR) 241
+1 Lantern of Insight (5DN) 135
+1 Lantern of Revealing (CLB) 318
+1 Lonis, Cryptozoologist (MKC) 215
+1 Moonsnare Prototype (NEO) 69
+1 Ornate Kanzashi (BOK) 157
+1 Plargg and Nassari (MAT) 18
+1 Rise and Shine (MOC) 233
+1 Schema Thief (MOC) 24
+1 Seat of the Synod (C18) 278
+1 Skill Borrower (ALA) 56
+1 Swiftfoot Boots (FDN) 258
+1 The Key to the Vault (OTJ) 54
+1 The Mana Rig (DMC) 28
+1 The Reality Chip (NEO) 74
+1 Thought Dissector (DST) 152
+1 Tree of Tales (DSC) 319
+1 Wand of Denial (6ED) 317
+1 Wand of Wonder (CLB) 204
+1 Wizened Snitches (RAV) 75
