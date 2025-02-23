@@ -87,21 +87,24 @@
 1 Zoetic Cavern (FUT) 180
         Check 
 1 Etrata, Deadly Fugitive (MKM) 200
+1 Experimental Lab / Staff Room (DSC) 33
+1 Glitch Interpreter (DSC) 13
+1 Primordial Mist (DSC) 123
 1 Vannifar, Evolved Enigma (MKM) 241
         In 
-1 Become Anonymous (ACR) 14
-1 Cryptic Coat (MKM) 50
-1 Experimental Lab / Staff Room (DSC) 33
-1 Flourishing Bloom-Kin (MKM) 160
+1 Abhorrent Oculus (DSK) 42
 1 Ixidor, Reality Sculptor (PLST) ONS-89
-1 Primordial Mist (C18) 12
-1 Proteus Machine (SCG) 141
+1 Kozilek, the Broken Reality (MH3) 10
+1 Master of the Veil (LGN) 43
+1 Primal Whisperer (LGN) 135
 1 Tomb of the Spirit Dragon (KTK) 245
+1 Weaver of Lies (LGN) 57
         Out 
 Myriad Landscape out 
-Master Biomancer out 
-Leyline of Anticipation out 
-Break Down the Door out 
 Formless Nurturing out 
 Thieving Amalgam out 
 Orochi Soul-Raver out 
+Nantuko Vigilante out 
+Killer's Mask out 
+Cybership out 
+3 basics out 

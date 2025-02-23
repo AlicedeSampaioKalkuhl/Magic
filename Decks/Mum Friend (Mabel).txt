@@ -1,0 +1,78 @@
+    Mabel, Heir to Cragflame
+    Check 
+1 Adaptive Omnitool (DRC) 16
+1 Aegis of the Legion (CLU) 22
+1 All That Glitters (ELD) 2
+1 Ancestral Blade (CMR) 5 *F*
+1 Armory Mice (WOE) 3
+1 Barbed Spike (MH2) 5
+1 Blackblade Reforged (DMC) 178
+1 Blacksmith's Talent (BLB) 125
+1 Bladehold War-Whip (ONE) 197
+1 Bloodforged Battle-Axe (MOC) 349
+1 Canyon Jerboa (ZNR) 7
+1 Colossus Hammer (M20) 223
+1 Conqueror's Flail (2X2) 302
+1 Crown of Gondor (LTC) 75
+1 Dowsing Dagger / Lost Vale (PLST) XLN-235
+1 Echoing Assault (BLC) 24
+1 Flowerfoot Swordmaster (BLB) 14
+1 Forge Anew (LTR) 17
+1 Goblin Bombardment (MH2) 279
+1 Helm of the Host (DOM) 217
+1 Inventory Management (PIP) 105
+1 Kemba's Banner (ONC) 7
+1 Lupinflower Village (BLB) 256
+1 Mabel's Mettle (BLB) 21
+1 Manifold Mouse (BLB) 143
+1 Mask of Immolation (M20) 151 *F*
+1 Mortarpod (PLST) MM2-222
+1 Mouse Trapper (BLB) 22
+1 Nettle Guard (BLB) 23
+1 Paradise Mantle (5DN) 142
+1 Pennon Blade (CMR) 329
+1 Pests of Honor (WOE) 310
+1 Roughshod Duo (BLB) 150
+1 Sai of the Shinobi (PCA) 113
+1 Seedglaive Mentor (BLB) 231
+1 Short Bow (BLB) 248 *F*
+1 Skullclamp (PIP) 238
+1 Steelburr Champion (BLC) 12
+1 Swiftfoot Boots (FDN) 258
+1 Sword of the Animist (AFC) 218
+1 Team Pennant (STX) 260
+1 Thistledown Players (BLB) 35
+1 Umbral Mantle (SHM) 267
+1 Veteran Guardmouse (BLB) 237
+1 War Squeak (BLB) 160
+    In 
+1 Andúril, Flame of the West (LTR) 236
+1 Banner of Kinship (FDN) 127
+1 Brambleguard Captain (BLB) 127
+1 Captain's Claws (OGW) 162
+1 Dawn's Truce (BLB) 9
+1 Embercleave (ELD) 120
+1 Emberheart Challenger (BLB) 133
+1 Enchanted Carriage (ELD) 218
+1 Fighter Class (AFR) 222
+1 Goblin Morningstar (AFR) 145
+1 Grafted Wargear (CMR) 312
+1 Heartfire Hero (BLB) 138
+1 Might of the Meek (BLB) 144
+1 Nahiri, Heir of the Ancients (ZNR) 230
+1 Plate Armor (AFR) 32
+1 Raging Battle Mouse (WOE) 143
+1 Repel Calamity (BLB) 27
+1 Rockface Village (BLB) 259
+1 Ronin Warclub (BOK) 158
+1 Shuko (BOK) 159
+1 Sigarda's Aid (CMR) 384
+1 Steelshaper's Gift (CMM) 59
+1 Stoneforge Masterwork (OGW) 166
+1 Sunforger (CMR) 473
+1 Sword of the Squeak (BLC) 40
+1 The Spear of Leonidas (ACR) 38
+1 Three Blind Mice (WOE) 35
+1 Valley Rally (BLB) 159
+1 Whiskerquill Scribe (BLB) 161
+1 Whiskervale Forerunner (BLB) 40

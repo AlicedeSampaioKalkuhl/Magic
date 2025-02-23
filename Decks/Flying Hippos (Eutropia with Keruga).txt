@@ -7,8 +7,10 @@
 1 Boon Satyr (THS) 152
 1 Callaphe, Beloved of the Sea (THB) 45
 1 Careful Cultivation (NEO) 178
+1 Clammy Prowler (DSK) 45
 1 Colossal Majesty (C19) 158
 1 Courser of Kruphix (CMM) 888
+1 Dismiss into Dream (M14) 50
 1 Dormant Grove / Gnarled Grovestrider (VOW) 198
 1 Dryad of the Ilysian Grove (CMM) 891
 1 Eidolon of Blossoms (WOC) 124
@@ -33,18 +35,21 @@
 1 Overgrowth (J22) 702
 1 Overlord of the Floodpits (DSK) 68
 1 Renata, Called to the Hunt (MUL) 93 *E*
+1 Sandwurm Convergence (CMM) 911
 1 Thassa's Emissary (THS) 68
 1 Virtue of Strength / Garenbrig Growth (WOE) 284
 1 Whitewater Naiads (JOU) 58
 1 Wilderness Reclamation (C20) 196
         In 
 1 Archetype of Endurance (BNG) 116
-1 Clammy Prowler (DSK) 45
+1 Arnjlot's Ascent (ICE) 57
+1 Broken Fall (TMP) 216
 1 Enduring Vitality (DSK) 176
 1 Fable of Wolf and Owl (EVE) 150
 1 Fear of Falling (DSK) 56
 1 Goldenhide Ox (JOU) 125
 1 Humbler of Mortals (JOU) 127
+1 Induced Amnesia (RIX) 40
 1 Kozilek's Unsealing (MH3) 65
 1 Mana Reflection (2XM) 175
 1 Monstrous Vortex (MH3) 162

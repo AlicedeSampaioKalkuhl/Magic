@@ -1,0 +1,38 @@
+    Gev, 
+        Check 
+1 Agate Instigator (BLC) 21
+1 Agate-Blade Assassin (BLB) 82 *F*
+1 Dagger Caster (CLU) 130
+1 Flamecache Gecko (BLB) 135
+1 Graywater's Fixer (OTC) 36
+1 Hall Monitor (STX) 105
+1 Immolation Shaman (RNA) 106
+1 Impact Tremors (WOT) 44
+1 Judith, the Scourge Diva (RNA) 185 *F*
+1 Kindlespark Duo (BLB) 142
+1 Lightning Greaves (PIP) 233
+1 Magebane Lizard (OTJ) 134
+1 Mirkwood Bats (LTR) 95
+1 Reptilian Recruiter (BLB) 149
+1 Scorch Spitter (M20) 159
+1 Spitfire Lagac (ZNR) 302
+1 Steampath Charger (BLB) 153
+1 Zagras, Thief of Heartbeats (ZNR) 241
+        In 
+1 Bloodsoaked Insight / Sanguine Morass (MH3) 252
+1 Chandra's Pyreling (M21) 138
+1 Deathbringer Thoctar (C13) 184
+1 Fireglass Mentor (BLB) 213
+1 Glidedive Duo (BLB) 96
+1 Hearthborn Battler (BLB) 139
+1 Hellspur Posse Boss (OTJ) 128
+1 Hired Claw (BLB) 140
+1 Hissing Iguanar (2X2) 113
+1 Iridescent Vinelasher (BLB) 99
+1 Leechridden Swamp (DSC) 286
+1 Rakdos, Lord of Riots (DSC) 230
+1 Ravine Raider (BLB) 106
+1 Thought-Stalker Warlock (BLB) 118
+1 Tor Wauki the Younger (DMC) 46
+1 Valley Flamecaller (BLB) 158
+        Out 

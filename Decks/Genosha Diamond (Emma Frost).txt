@@ -90,6 +90,7 @@
 
     Check 
 1 Academy Ruins (SLD) 1506
+1 Angel's Tomb (INR) 253
 1 Artificer Class (CLB) 663
 1 Azorius Keyrune (C13) 236
 1 Bojuka Bog (OTC) 273
@@ -99,6 +100,8 @@
 1 Eye of Malcator (ONE) 50
 1 Mistvault Bridge (BRC) 189
 1 Phyrexian Metamorph (MKC) 116
+1 Ratonhnhaké꞉ton (ACR) 62 *F*
+1 Rusted Relic (MM2) 227
 1 Sculpting Steel (40K) 247
 1 Seat of the Synod (MRD) 283
 1 The Mycosynth Gardens (ONE) 256
@@ -106,7 +109,6 @@
 1 Unwinding Clock (BRR) 61
 1 Vault of Whispers (MRD) 286
     In 
-1 Angel's Tomb (ORI) 222
 1 Archway of Innovation (MH3) 214
 1 Caltrops (7ED) 288
 1 Chimeric Egg (DST) 106
@@ -118,14 +120,14 @@
 1 Darksteel Monolith (CMM) 743
 1 Glint Hawk Idol (MM2) 216
 1 Guardian Idol (IMA) 216
+1 Guidelight Optimizer (DFT) 45
+1 Idol of False Gods (MH3) 210
 1 Inventors' Fair (KLD) 247
 1 Jade Statue (9ED) 300
 1 Mendicant Core, Guidelight (DFT) 213
 1 Nexus of Becoming (BIG) 55
 1 Ojutai Monument (DTK) 242
 1 Orzhov Keyrune (GTC) 233
-1 Ratonhnhaké꞉ton (ACR) 62
-1 Rusted Relic (MM2) 227
 1 Silumgar Monument (DTK) 243
 1 Simulacrum Synthesizer (BIG) 36
 1 Thunder Totem (TSP) 265

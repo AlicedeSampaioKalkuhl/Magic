@@ -1,69 +1,69 @@
     Rowan, Scion of War & Will, Scion of Peace 
 1 Ad Nauseam (ALA) 63
 1 Adarkar Wastes (DMU) 243
-1 Aetherflux Reservoir (KLD) 192
+1 Aetherflux Reservoir (PLST) KLD-192
 1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90 *F*
 1 Akoum Refuge (PLST) CMA-238
 1 Approach of the Second Sun (SLD) 1035
-1 Authority of the Consuls (KLD) 5
 1 Beacon of Immortality (PLST) E02-1
 1 Bjorna, Nightfall Alchemist (SLX) 2
+1 Black Market (PIP) 183
 1 Blood Crypt (RNA) 245
 1 Blood Pact (MID) 88
+1 Bloodfell Caves (MOM) 267 *F*
 1 Bloodstained Mire (KTK) 230
-1 Bolas's Citadel (PLG21) 3 *F*
-1 Boon Reflection (2XM) 10
+1 Bolas's Citadel (PWAR) 79p
 1 Castle Locthwain (CLB) 884
 1 Cecily, Haunted Mage (SLX) 3
 1 Chandra's Ignition (ORI) 137
-1 Cleric Class (AFR) 6
-1 Command Tower (OTC) 280
+1 Command Tower (SLD) 710
 1 Congregate (PLST) M15-6
 1 Crackle with Power (STX) 95
-1 Cunning Rhetoric (OTC) 129
-1 Dark Tutelage (WOT) 28
+1 Dark Tutelage (M11) 90
 1 Deadly Tempest (C20) 131
 1 Descent into Avernus (CLB) 580
-1 Deserted Beach (WHO) 270
-1 Dismal Backwater (MOM) 269
-1 Exotic Orchard (MKC) 260
+1 Deserted Beach (MID) 260
+1 Dismal Backwater (IKO) 246
+1 Exotic Orchard (DMC) 209
 1 Explosive Welcome (STX) 100
 1 Exquisite Blood (LCC) 195
 1 Fiery Emancipation (WOT) 42
 1 Fiery Islet (WHO) 278
-1 Fumigate (MKC) 66
+1 Fumigate (PKLD) 15p *F*
 1 Gates of Istfell (KHM) 256
-1 Glacial Fortress (PIP) 266
-1 Godless Shrine (GTC) 242
+1 Grim Tutor (SLD) 444
 1 Hallowed Fountain (RTR) 241
 1 Hargilde, Kindly Runechanter (SLX) 5
-1 Haunted Ridge (WHO) 286
-1 Hierophant's Chalice (XLN) 240
-1 Ifnir Deadlands (HOU) 179 *F*
+1 Haunted Ridge (MID) 282 *F*
 1 Invasion of Azgol / Ashen Reaper (MOM) 232
-1 Invasion of Belenon / Belenon War Anthem (MOM) 20
+1 Invasion of Belenon / Belenon War Anthem (MOM) 20 *F*
 1 Invasion of Dominaria / Serra Faithkeeper (MOM) 21 *F*
 1 Invasion of Eldraine / Prickle Faeries (MOM) 113 *F*
 1 Invasion of Gobakhan / Lightshield Array (MOM) 22 *F*
+1 Invasion of Kaladesh / Aetherwing, Golden-Scale Flagship (MOM) 234
 1 Invasion of Kamigawa / Rooftop Saboteurs (MOM) 62
 1 Invasion of Kylem / Valor's Reach Tag Team (MOM) 235 *F*
+1 Invasion of Mercadia / Kyren Flamewright (MOM) 147 *F*
 1 Invasion of New Capenna / Holy Frazzle-Cannon (MOM) 238
 1 Invasion of New Phyrexia / Teferi Akosa of Zhalfir (MOM) 239
 1 Invasion of Xerex / Vertex Paladin (MOM) 242
+1 Island (SLD) 1131
 1 Jaya Ballard (SLD) 1062
 1 Jeska's Will (MKC) 156
 1 Jwar Isle Refuge (ZNC) 133
 1 Kabira Crossroads (ZEN) 216
-1 Lim-Dûl's Vault (SLC) 1996
-1 Lucky Offering (NEO) 27 *F*
+1 Letter of Acceptance (STX) 256 *F*
+1 Lim-Dûl's Vault (ALL) 107
 1 Mana Confluence (CMR) 721 *F*
+1 Mana Geyser (CNS) 147
 1 March of Wretched Sorrow (NEO) 380
+1 Mountain (M21) 312
 1 Necropotence (5ED) 182
-1 Opal Palace (C21) 306
-1 Peer into the Abyss (M21) 117
+1 Opal Palace (CMR) 352
+1 Peer into the Abyss (M21) 360
+1 Plains (SLD) 1130
 1 Pristine Talisman (BRR) 106
-1 Radiant Fountain (M21) 248
-1 Ramunap Ruins (OTC) 311
+1 Read the Bones (MOC) 267
 1 Repercussion (SLD) 1065
 1 Riot Control (DGM) 6
 1 Rowan Kenrith (CLB) 805
@@ -71,57 +71,43 @@
 1 Rowan's Grim Search (WOE) 104
 1 Sanguine Bond (C21) 153
 1 Sejiri Refuge (KHC) 118
-1 Seraph Sanctuary (AVR) 228
-1 Shefet Dunes (OTC) 318
-1 Snuff Out (WHO) 222
+1 Seraph Sanctuary (SLD) 1292
+1 Shivan Reef (M3C) 375
+1 Snuff Out (WHO) 813 *F*
 1 Sophina, Spearsage Deserter (SLX) 7
 1 Soul Channeling (MMQ) 163
 1 Storm Herd (GPT) 19
 1 Sulfurous Springs (DMU) 256
-1 Sunbaked Canyon (WHO) 519 *F*
+1 Sunbaked Canyon (WHO) 309
+1 Swamp (MOM) 287 *F*
 1 Swiftwater Cliffs (NEO) 277 *F*
-1 Talisman of Conviction (MKC) 240
-1 Talisman of Creativity (SLD) 1058
-1 Talisman of Dominance (MKC) 242
-1 Talisman of Hierarchy (SLD) 1057
+1 Talisman of Conviction (SLD) 1060
+1 Talisman of Creativity (40K) 253
+1 Talisman of Dominance (DRC) 141
+1 Talisman of Hierarchy (40K) 256
 1 Talisman of Indulgence (SLD) 1054
 1 Talisman of Progress (MKC) 243
-1 The Meathook Massacre (MID) 112
-1 Toxic Deluge (LTC) 209
-1 Tranquil Cove (IKO) 257
+1 Toxic Deluge (CC2) 6
+1 Tranquil Cove (LTC) 340
 1 Valakut Awakening / Valakut Stoneforge (PLST) ZNR-174
-1 Vandalblast (CMM) 646
-1 Vault of the Archangel (LCC) 367
+1 Vandalblast (SLD) 404 *F*
+1 Vault of the Archangel (OTC) 339
+1 War Room (MKC) 310
 1 Wernog, Rider's Chaplain (SLX) 8
 1 Will Kenrith (CLB) 738
-1 Wind-Scarred Crag (LTC) 344
-1 Witch's Clinic (C21) 81
+1 Wind-Scarred Crag (MOM) 276 *F*
 1 Wound Reflection (WHO) 1062 *F*
 
     Check 
-1 Agadeem's Awakening / Agadeem, the Undercrypt (ZNR) 90 *F*
-1 Bolas's Citadel (PLG21) 3 *F*
-1 Hargilde, Kindly Runechanter (SLX) 5
-1 Ifnir Deadlands (HOU) 179 *F*
-1 Lim-Dûl's Vault (SLC) 1996
-1 Mount Doom (LTR) 258
-1 Ramunap Ruins (OTC) 311
-1 Sejiri Refuge (KHC) 118
-1 Talisman of Conviction (MKC) 240
-1 Talisman of Creativity (SLD) 1058
-1 Talisman of Dominance (MKC) 242
-1 Talisman of Hierarchy (SLD) 1057
-1 The Meathook Massacre (MID) 112
-1 Wind-Scarred Crag (LTC) 344
+
 
     In 
 1 Absorb (RNA) 151
 1 Angelic Chorus (BBD) 87
 1 Archangel's Light (DKA) 1
-1 Arguel's Blood Fast / Temple of Aclazotz (XLN) 90
 1 Ashes of the Abhorrent (XLN) 2
-1 Beamtown Beatstick (MOM) 131 *F*
 1 Blighted Steppe (BFZ) 232
+1 Boseiju, Who Shelters All (CHK) 273
 1 Cursebreak (AVR) 14
 1 Emeria's Call / Emeria, Shattered Skyclave (ZNR) 12
 1 Etherwrought Page (ARB) 108
@@ -131,11 +117,8 @@
 1 Hatred (EXO) 64
 1 Havengul Laboratory / Havengul Mystery (SLX) 9
 1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
-1 Invasion of Fiora / Marchesa, Resolute Monarch (MOM) 114
 1 Invasion of Innistrad / Deluge of the Dead (MOM) 115
-1 Invasion of Kaladesh / Aetherwing, Golden-Scale Flagship (MOM) 234
 1 Invasion of Karsus / Refraction Elemental (MOM) 146
-1 Invasion of Mercadia / Kyren Flamewright (MOM) 147
 1 Invasion of Ravnica / Guildpact Paragon (MOM) 1
 1 Invasion of Regatha / Disciples of the Inferno (MOM) 148
 1 Invasion of Segovia / Caetus, Sea Tyrant of Segovia (MOM) 63
@@ -143,21 +126,20 @@
 1 Invasion of Tolvada / The Broken Sky (MOM) 241
 1 Invasion of Ulgrotha / Grandmother Ravi Sengir (MOM) 116
 1 Invasion of Vryn / Overloaded Mage-Ring (MOM) 64
-1 Ipnu Rivulet (HOU) 180
 1 Mask of Griselbrand (MID) 111
-1 Meathook Massacre II (DSK) 108
 1 Orzhova, the Church of Deals (GPT) 162
 1 Polluted Delta (MH3) 224
 1 Profane Memento (M15) 226
 1 Righteous Cause (PLST) CMA-21
+1 Rowan, Fearless Sparkmage (ELD) 304
 1 Sanguine Sacrament (XLN) 33
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
 1 Shatterskull Smashing / Shatterskull, the Hammer Pass (ZNR) 161
-1 Sign in Blood (GVL) 49
 1 Silent Clearing (MH1) 246
 1 Spellshock (EXO) 104
 1 Steam Vents (RVR) 288
 1 Stonesplitter Bolt (WOE) 151
-1 Storm Herd (GPT) 19
 1 Unspeakable Symbol (SCG) 79
-1 War Report (NPH) 26
+
+    Out 
+Jaya Ballard out 

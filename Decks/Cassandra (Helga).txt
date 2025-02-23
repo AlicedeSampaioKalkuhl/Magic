@@ -3,85 +3,109 @@
 1 Aberrant (40K) 86
 1 Animist's Awakening (C20) 166
 1 Biomass Mutation (DSC) 214
-1 Black Sun's Twilight (ONE) 383 *F*
-1 Black Sun's Zenith (MKC) 126
 1 Blue Sun's Zenith (C13) 32
+1 Brokers Ascendancy (SNC) 170
 1 Capricopian (C20) 58
 1 Command Tower (M3C) 331
 1 Commander's Insight (C21) 23
+1 Communal Brewing (BLC) 29
 1 Curse of the Swine (C21) 118
-1 Damnable Pact (NCC) 245
+1 Dawnglow Infusion (SHM) 225
+1 Defenders of Humanity (40K) 11
 1 Entrancing Melody (XLN) 55
+1 Entreat the Angels (DSC) 99
 1 Exponential Growth (STX) 130
-1 Exsanguinate (CMM) 638
+1 Finale of Glory (CLU) 61
 1 Finale of Revelation (MKC) 106
-1 Gaze of Granite (C20) 214
 1 Genesis Hydra (OTC) 193
 1 Goldvein Hydra (OTJ) 167 *F*
+1 Grand Crescendo (NCC) 16
 1 Green Sun's Twilight (ONE) 169
+1 Heliod's Intervention (THB) 19
+1 Horn of Valhalla / Ysgard's Call (CLB) 26 *F*
 1 Hungering Hydra (C20) 177
 1 Hydroid Krasis (MKC) 212
+1 Kami of Whispered Hopes (MOM) 196
+1 Kiora's Follower (PLST) DDO-52
+1 Lightning Greaves (DRC) 55
 1 March of Swirling Mist (PNEO) 61p
-1 March of Wretched Sorrow (NEO) 380
+1 March of the Canonized (LCC) 73
+1 March of the Multitudes (NCC) 346
+1 Martial Coup (NCC) 206
+1 Mikaeus, the Lunarch (MOC) 197
 1 Mind Spring (C20) 116
 1 Nexos (40K) 95
+1 Niko Aris (KHM) 289
+1 Nimbus Swimmer (GTC) 181
 1 Open into Wonder (ZNC) 34
 1 Open the Way (MAT) 23 *F*
-1 Profane Command (NCC) 256
+1 Primordial Hydra (SLD) 1330 *F*
 1 Pull from Tomorrow (MOC) 230
+1 Raised by Giants (CLB) 520 *E*
 1 Reliquary Tower (OTC) 312
+1 Return to the Ranks (M15) 29
 1 Rogue's Passage (OTC) 313
+1 Secure the Wastes (MOC) 203
 1 Silkguard (NEC) 29
-1 Slice from the Shadows (MKM) 103
 1 Sporocyst (40K) 98
 1 Steelbane Hydra (NCC) 313
 1 Stonecoil Serpent (SLD) 1226 *F*
 1 Stroke of Genius (MOC) 238
+1 Swiftfoot Boots (FDN) 258
 1 Syncopate (VOW) 83
 1 Temple of the False God (OTC) 334
 1 Tervigon (40K) 100
 1 The Goose Mother (WOE) 204
-1 The Meathook Massacre (MID) 112
-1 Torment of Hailfire (HOU) 77
+1 Tribute to the World Tree (MOM) 211
 1 Troyan, Gutsy Explorer (WOE) 217 *F*
 1 Tyrant Guard (40K) 103
 1 Tyvar's Stand (ONE) 190
+1 Unbound Flourishing (MH1) 189
 1 Vastwood Hydra (C20) 194
-1 Villainous Wealth (OTC) 249
 1 Voracious Hydra (SLD) 1491
+1 Vrestin, Menoptra Leader (WHO) 166
 1 Walking Ballista (SLD) 1265 *F*
+1 Wargate (PLST) ARB-129
+1 White Sun's Zenith (ONC) 90
         In 
-11 Astral Cornucopia (CM2) 172
+1 Astral Cornucopia (CM2) 172
+1 Belt of Giant Strength (AFC) 38
 1 Benevolent Hydra (J22) 38
 1 Blue Sun's Twilight (ONE) 43
-1 Death Denied (UMA) 92
-1 Death Wind (CN2) 131
-1 Diabolic Revelation (M13) 87
+1 Dazzling Theater / Prop Room (DSK) 3
+1 Divine Deflection (AVR) 18
 1 Elementalist's Palette (C21) 76
-1 Erebos's Intervention (THB) 94
+1 Elusive Otter / Grove's Bounty (WOE) 225
+1 Fanatic of Rhonas (MH3) 152
 1 Feral Hydra (JMP) 395
+1 Festival of the Guildpact (RAV) 17
 1 Finale of Devastation (CMM) 289
-1 Finale of Eternity (WAR) 91
 1 Gadwick, the Wizened (ELD) 48
 1 Green Sun's Zenith (2X2) 150
+1 Hail of Arrows (CN2) 90
 1 Icy Blast (KTK) 42
 1 Ingenious Prodigy (WOE) 56
 1 Lifeblood Hydra (CMM) 303
 1 Logic Knot (TSR) 73
 1 Mana Bloom (RTR) 130
+1 March of Otherworldly Light (NEO) 28
 1 Marketback Walker (DFT) 235
-1 Meathook Massacre II (DSK) 108
 1 Mistcutter Hydra (THS) 162
 1 Neverwinter Hydra (AFC) 41
-1 Nimbus Swimmer (DDO) 54
+1 Noble Hierarch (2XM) 177
 1 Nylea's Intervention (THB) 188
 1 Nyxborn Hydra (MH3) 164
 1 Ochre Jelly (AFR) 196
-1 Primordial Hydra (M13) 183
+1 Overrule (DDI) 32
 1 Protean Hydra (M11) 194
+1 Quarantine Field (BFZ) 43
 1 Rampaging Yao Guai (PIP) 82
 1 Repulsive Mutation (MKM) 227
+1 Shining Shoal (BOK) 21
+1 Sovereign Okinec Ahau (LCI) 240
+1 Stumpsquall Hydra (CMR) 367
+1 Supply / Demand (DIS) 157
+1 Temper (STH) 20
 1 Thassa's Intervention (THB) 72
-1 Unbound Flourishing (MH1) 189
 1 Wren's Run Hydra (MH2) 183
         Out 

@@ -1,4 +1,4 @@
-Zimone, All-Questioning 
+    Zimone, All-Questioning 
 1 Adrix and Nev, Twincasters (MKC) 198
 1 Aesi, Tyrant of Gyre Strait (DSC) 210
 1 Aftermath Analyst (MKM) 148
@@ -75,7 +75,7 @@ Zimone, All-Questioning
 1 Yedora, Grave Gardener (DSC) 209
 1 Zimone, Quandrix Prodigy (STX) 250 *F*
 1 Zuran Orb (ICE) 350
-    Check 
+    Check
 1 Aggressive Biomancy (M3C) 69
 1 Alchemist's Refuge (AVR) 225
 1 Biomass Mutation (C19) 187
@@ -128,6 +128,7 @@ Zimone, All-Questioning
 1 Paradox Zone (C21) 64
 1 Primordial Hydra (M13) 183
 1 Realms Uncharted (ROE) 206
+2 Sab-Sunen, Luxa Embodied (DFT) 221
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
 1 Shifting Woodland (MH3) 228
 1 Soratami Rainshaper (CHK) 89

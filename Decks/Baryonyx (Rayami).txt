@@ -1,5 +1,6 @@
-    Rayami, First of the Fallen 
-        Check 
+    Rayami, Eater of Virtue 
+    
+    Check 
 1 Argentum Masticore (ONE) 222
 1 Baleful Strix (MKC) 200
 1 Banehound (WAR) 77
@@ -42,12 +43,13 @@
 1 Vivisection (MID) 83
 1 Weeping Angel (WHO) 773 *F*
 1 Wilson, Refined Grizzly (CLB) 522 *E*
-        In 
+    In 
 1 Altar's Reap (CMA) 45
 1 Bassara Tower Archer (JOU) 117
 1 Birds of Paradise (RVR) 133
 1 Blightbeetle (M20) 87
 1 Demon of Catastrophes (M19) 91
+1 Eater of Virtue (NEO) 245
 1 Eliminate the Competition (KLD) 78
 1 Final Vengeance (DSK) 99
 1 Galewind Moose (BLB) 173
@@ -56,12 +58,15 @@
 1 Great Sable Stag (M10) 186
 1 Harbinger of Spring (BOK) 128
 1 Ichor Explosion (NPH) 64
+1 Indominus Rex, Alpha (REX) 14
+1 Majestic Myriarch (C20) 182
 1 Momentous Fall (JMP) 411
 1 Morbid Curiosity (BBD) 149
 1 Mwonvuli Beast Tracker (M13) 177
 1 Natural Order (EMA) 177
 1 Nightshade Dryad (MH3) 163
+1 Selective Adaptation (C20) 65
 1 Slippery Bogle (UMA) 223
 1 Sylvan Caryatid (THS) 180
 1 Vampire of the Dire Moon (M20) 120
-        Out 
+    Out 

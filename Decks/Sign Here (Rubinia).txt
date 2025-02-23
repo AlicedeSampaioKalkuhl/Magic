@@ -1,84 +1,109 @@
     Rubinia Soulsinger 
 1 Abdel Adrian, Gorion's Ward (CLB) 2
 1 Angel of Indemnity (OTC) 9
+1 Arcane Signet (CLB) 298
+1 Archmage of Echoes (WOC) 9
 1 Aura Shards (SLD) 1644★ *F*
 1 Bandit's Haul (OTJ) 240
 1 Beastbond Outcaster (OTJ) 154
+1 Brokers Hideout (SNC) 248
 1 Cloud of Faeries (MOC) 219
+1 Cloudseeder (TSR) 57 *F*
+1 Cloudstone Curio (RVR) 443 *F*
+1 Command Tower (DSC) 96
+1 Conjurer's Closet (C13) 239
+1 Deadeye Navigator (INR) 492 *F*
 1 Doc Aurlock, Grizzled Genius (OTJ) 201
 1 Dust Animus (OTJ) 9
+1 Elesh Norn, Mother of Machines (ONE) 416
+1 Exotic Orchard (OTC) 293
 1 Faerie Artisans (SLD) 1628★ *F*
+1 Faerie Trickery (LRW) 62
 1 Faerie Vandal (ZNC) 26
+1 Fblthp, Lost on the Range (OTJ) 319
+1 Felidar Guardian (SLD) 1487
 1 Fiend Hunter (C13) 11
 1 Flickerwisp (2X2) 339
+1 Forest (WOE) 266
+1 Forest (WOE) 266 *F*
+2 Forest (SNC) 280 *F*
+4 Forest (SNC) 280
+2 Forest (DMU) 281
 1 Freestrider Commando (OTJ) 162
+1 Genku, Future Shaper (MH3) 373
+1 Ghostly Flicker (KHC) 39
 1 Glen Elendra Archmage (WOC) 94
 1 Glen Elendra Pranksters (J22) 305
+1 Greater Good (SLD) 1693 *F*
 1 Hardbristle Bandit (OTJ) 168
+1 Island (OTJ) 273 *F*
+2 Island (OTJ) 273
+3 Island (BLB) 268
+3 Island (FDN) 284
 1 Ivy, Gleeful Spellthief (DMU) 300 *F*
+1 Jace Reawakened (OTJ) 271
 1 Jem Lightfoote, Sky Explorer (OTJ) 209
 1 Kellan Joins Up (OTJ) 212
 1 Kellan, Daring Traveler / Journey On (LCI) 341
 1 Kellan, Inquisitive Prodigy / Tail the Suspect (MKM) 334 *F*
+1 Kellan, the Kid (OTJ) 294
+1 Lady of Laughter (WOE) 309
 1 Leonin Relic-Warder (MBS) 10
 1 Loan Shark (OTJ) 55
 1 Make Your Own Luck (OTJ) 218
 1 Malleable Impostor (WOC) 10
 1 Maraleaf Pixie (ELD) 196 *F*
+1 Mistmeadow Vanisher (MOC) 129
 1 Nature's Will (WOT) 57
 1 Outcaster Trailblazer (OTJ) 173
 1 Outlaw Stitcher (OTJ) 59
+1 Peregrine Drake (SLD) 1488
+1 Pestermite (J25) 343
+3 Plains (OTJ) 272
+6 Plains (ONE) 262
+1 Reliquary Tower (DSC) 295
 1 Restoration Angel (MOC) 201
 1 Reveillark (2X2) 26
 1 Scion of Oona (WOC) 109
+1 Seaside Citadel (BLC) 329
+1 Silkbind Faerie (SHM) 148
+1 Sol Ring (OTC) 267
+1 Sower of Temptation (WOC) 111
 1 Spinewoods Paladin (OTJ) 183
 1 Stagecoach Security (OTJ) 30 *F*
 1 Sun Titan (OTC) 87
+1 Surge of Brilliance (WHO) 57
+1 Temple of the False God (C21) 326
 1 The Key to the Vault (OTJ) 373 *F*
 1 The Thirteenth Doctor (WHO) 1155 *F*
 1 Thought Vessel (PLG22) 2 *F*
+1 Trailblazer's Boots (LTR) 398 *F*
 1 Vega, the Watcher (KHM) 332 *F*
+1 Virtue of Knowledge / Vantress Visions (WOE) 76
 1 Wrangler of the Damned (OTJ) 238
     Check 
-1 Alchemist's Refuge (LCC) 318
-1 Arcane Signet (PIP) 224
-1 Brokers Hideout (SNC) 248
-1 Cloudshift (A25) 7
-1 Command Tower (C21) 284
-1 Conjurer's Closet (C13) 239
-1 Decanter of Endless Water (CLB) 444
-1 Exotic Orchard (NCC) 400
-1 Faerie Conclave (WOC) 160
-1 Faerie Formation (WOC) 91
-1 Ghostly Flicker (CMM) 98
-1 Karmic Guide (MH2) 263
-1 Peregrine Drake (DMR) 65
-1 Rashmi, Eternities Crafter (C20) 229
-1 Reliquary Tower (OTC) 312
-1 Seaside Citadel (WHO) 302
-1 Sol Ring (ONC) 140
-1 Spellstutter Sprite (LRW) 89
-1 Surge of Brilliance (WHO) 57
-1 Virtue of Knowledge / Vantress Visions (WOE) 76
+
     In 
 1 Charming Prince (ELD) 8
 1 Chimil, the Inner Sun (LCI) 249
-1 Cloudseeder (TSR) 57
-1 Deadeye Navigator (AVR) 47
+1 Cloudshift (PLST) A25-7
 1 Faerie Noble (HML) 86
-1 Faerie Trickery (LRW) 62
-1 Fblthp, Lost on the Range (OTJ) 48
-1 Jace Reawakened (OTJ) 271
-1 Kellan, the Kid (OTJ) 294
 1 Knacksaw Clique (SHM) 42
-1 Lady of Laughter (WOE) 309
 1 Noble Hierarch (MM2) 151
-1 Pestermite (LRW) 78
 1 Railway Brawler (OTJ) 175
 1 Sheriff of Safe Passage (OTJ) 29
-1 Silkbind Faerie (SHM) 148
-1 Sower of Temptation (WOC) 111
-1 Talion's Messenger (WOE) 73
 1 Thassa, Deep-Dwelling (THB) 261
-1 Unstoppable Plan (DFT) 442 *F*
+1 Unstoppable Plan (DFT) 72
 1 Visage Bandit (OTJ) 76
+    Out 
+Leonin Relic-Warder out 
+Fiend Hunter out
+Flickerwisp out
+Felidar Guardian out 
+Reveilark out
+Sun Titan out
+The Key to the Vault out
+Mistmeadow Vanisher out
+Aura Shards out
+Trailblazer's Boots out
+Cloudstone Curioq out

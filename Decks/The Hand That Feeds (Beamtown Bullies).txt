@@ -1,49 +1,104 @@
     The Beamtown Bullies 
         Check 
-1 Abyssal Persecutor (IMA) 78
-1 Bane of Bala Ged (CMM) 802
-1 Blim, Comedic Genius (CMR) 272
+1 Abyssal Persecutor (C14) 132
+1 Angel of Suffering (SNC) 67 *F*
+1 Anger (LTC) 210
+1 Anje's Ravager (VOC) 141
+1 Bane of Bala Ged (BFZ) 1
+1 Barbed Shocker (CNS) 136
 1 Burning Inquiry (M10) 128
-1 Cathartic Reunion (2XM) 121
+1 Cathartic Reunion (SS3) 2
 1 Cemetery Tampering (DSC) 135
-1 Dragon Mage (FDN) 621
+1 Cynical Loner (DSK) 89
+1 Dragon Mage (GN3) 73
 1 Eater of Days (DST) 120
-1 Entomb (DMR) 82
-1 Faithless Looting (INR) 151
-1 Gamble (DMR) 121
+1 Entomb (PD3) 14 *F*
+1 Evolutionary Escalation (C16) 22
+1 Explosion of Riches (CMR) 176
+1 Faithless Looting (CMM) 642
+1 Fate Unraveler (BNG) 68
+1 Festerleech (MKM) 85
+1 Font of Mythos (PLST) CON-136
+1 Gamble (DMR) 433
+1 Genesis Chamber (DST) 122
+1 Ghirapur Orrery (KLD) 216
 1 Grapple with the Past (INR) 199
-1 Gravebreaker Lamia (THB) 98
+1 Gravebreaker Lamia (SLD) 1643★ *F*
 1 Grisly Salvage (DSC) 219
 1 Harmless Offering (EMN) 131
+1 Heartbeat of Spring (SLD) 1010
+1 Horn of Greed (STH) 135
 1 Hostile Negotiations (BRO) 105
+1 Howling Mine (BRR) 20
+1 Hunted Horror (CLB) 758
 1 Inverter of Truth (OGW) 72
-1 Lesser Gargadon (8ED) 199
-1 Leveler (MRD) 195
+1 Kessig Wolf Run (C20) 284
+1 Lesser Gargadon (PLST) PCY-97
+1 Leveler (TSR) 397
+1 Marvin, Murderous Mimic (DSK) 253
+1 Mindwrack Harpy (CMM) 869
 1 Oriq Loremage (STX) 80
 1 Patriar's Seal (CLB) 332
 1 Perpetual Timepiece (OTC) 263
+1 Primal Vigor (WOT) 59
+1 Riftsweeper (MMA) 159
+1 Rite of the Raging Storm (NCC) 274
+1 Rites of Flourishing (BLC) 122
+1 Rootweaver Druid (CMR) 250
+1 Screaming Phantom (LCI) 118
 1 Seedborn Muse (MKC) 186
-1 Skull Prophet (IKO) 206
+1 Sewer Nemesis (CLB) 771
+1 Skull Prophet (IKO) 206 *F*
+1 Tempt with Discovery (C19) 183
+1 Tempting Contract (C21) 78
 1 Thrill of Possibility (FDN) 210
+1 Tortured Existence (STH) 74
+1 Unexpected Windfall (PIP) 193
 1 Unmarked Grave (MH2) 106
+1 Upwelling (SCG) 131
+1 Victory Chimes (C21) 274
         In 
+1 Anvil of Bogardan (VIS) 141
+1 Audacious Thief (M20) 84
+1 Avatar of Woe (CM2) 57
+1 Awakening (STH) 101
+1 Boldwyr Heavyweights (MOR) 85
 1 Bronze Bombshell (DIS) 160
 1 Buried Alive (MH3) 273
-1 Collector's Vault (WOE) 244
-1 Cynical Loner (DSK) 89
 1 Despotic Scepter (ICE) 316
+1 Dictate of Karametra (JOU) 121
+1 Dragonborn Champion (AFC) 45
 1 Ebonblade Reaper (ONS) 141
+1 Eladamri's Vineyard (TMP) 223
+1 Enslaved Horror (MMQ) 134
+1 Fecundity (8ED) 247
+1 Filth (JUD) 66
 1 Flayer of the Hatebound (C19) 144
 1 God-Eternal Bontu (WAR) 92
+1 Heartwood Storyteller (TSR) 209
 1 Hellcarver Demon (ROE) 113
+1 Hired Giant (MMQ) 194
+1 Hunted Dragon (CM2) 106
+1 Hunted Troll (C13) 150
 1 Jarad's Orders (RTR) 175
+1 Karazikar, the Eye Tyrant (AFC) 49 *F*
+1 Korvold, Gleeful Glutton (WOC) 26
+1 Master of the Feast (JOU) 75
+1 Old-Growth Dryads (XLN) 199
 1 Phyrexian Negator (DDE) 1 *F*
-1 Riftsweeper (MMA) 159
+1 Reforge the Soul (INR) 167
 1 Ripples of Undeath (MH3) 107
+1 Seed the Land (SOK) 146
+1 Shakedown Heavy (SNC) 95
+1 Sire of Insanity (DGM) 104
+1 Skullknocker Ogre (ELD) 142
 1 Sting, the Glinting Dagger (LTR) 250
+1 Stormfist Crusader (DSC) 234
 1 Tel-Jilad Stylus (MRD) 260
-1 Thornbite Staff (MOR) 145
-1 Tortured Existence (STH) 74
+1 Tempting Wurm (ONS) 291
 1 Underrealm Lich (CLU) 215
 1 Vile Entomber (FDN) 616
+1 Wheel of Fate (TSR) 198
+1 Winter, Misanthropic Guide (DSK) 365
+1 Zhur-Taa Ancient (DGM) 119
         Out 

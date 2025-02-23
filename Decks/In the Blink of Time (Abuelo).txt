@@ -1,0 +1,43 @@
+    Abuelo 
+1 Against All Odds (ONE) 1
+1 Another Round (OTJ) 1
+1 Aphetto Alchemist (ONS) 64
+1 Basalt Monolith (C13) 237
+1 Brago, King Eternal (KHC) 82
+1 Bronze Walrus (CLB) 302
+1 Circuit Mender (NEO) 242
+1 Deserted Temple (MH3) 301
+1 Disorder in the Court (MKC) 209
+1 Displacer Kitten (CLB) 63
+1 Dour Port-Mage (BLB) 47
+1 Drowner of Hope (BFZ) 57
+1 Eerie Interlude (KHC) 22
+1 Eldrazi Displacer (OGW) 13
+1 Eldrazi Skyspawner (BFZ) 58
+1 Ephara, God of the Polis (BNG) 145
+1 Ephemerate (MH1) 7
+1 Extraordinary Journey (WOE) 48
+1 Felidar Guardian (AER) 19
+1 Flaming Fist Officer (CLB) 19
+1 Flickerwisp (2X2) 11
+1 Genku, Future Shaper (MH3) 186
+1 Getaway Glamer (OTJ) 14
+1 Karmic Guide (VOC) 90
+1 Lae'zel's Acrobatics (CLB) 30
+1 Mana Geode (JMP) 472
+1 Matzalantli, the Great Door / The Core (LCI) 256
+1 Mistmeadow Witch (2X2) 256
+1 Momentary Blink (DMR) 15
+1 Oji, the Exquisite Blade (CLB) 290
+1 Omen Hawker (MOM) 70
+1 Panharmonicon (2X2) 310
+1 Parting Gust (BLB) 24
+1 Preston, the Vanisher (J22) 8
+1 Semester's End (CMM) 834
+1 Sun Titan (OTC) 87
+1 Teleportation Circle (AFR) 39
+1 The Enigma Jewel / Locus of Enlightenment (LCI) 362
+1 Time Wipe (DSC) 237
+1 Turn to Mist (CLU) 214
+1 Venser, the Sojourner (DDI) 1 *F*
+1 Yorion, Sky Nomad (IKO) 232
