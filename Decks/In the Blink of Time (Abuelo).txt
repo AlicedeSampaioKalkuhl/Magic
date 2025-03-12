@@ -1,43 +1,117 @@
-    Abuelo 
+    Abuelo, Ancestral Echo
+1 Abdel Adrian, Gorion's Ward (CLB) 2
+1 Adarkar Wastes (BLC) 291
 1 Against All Odds (ONE) 1
-1 Another Round (OTJ) 1
-1 Aphetto Alchemist (ONS) 64
+1 Angelic Renewal (UMA) 10
+1 Arcane Signet (40K) 227
+1 Archaeomancer (PLST) C17-81
+1 Archaeomancer's Map (C21) 12
+1 Ashnod's Altar (BRR) 4
+1 Azorius Chancery (VOC) 171
+1 Azorius Signet (VOC) 161
 1 Basalt Monolith (C13) 237
+1 Blessed Sanctuary (JMP) 1
+1 Blur (CLB) 58
 1 Brago, King Eternal (KHC) 82
-1 Bronze Walrus (CLB) 302
+1 Call for Unity (LTC) 163
 1 Circuit Mender (NEO) 242
-1 Deserted Temple (MH3) 301
-1 Disorder in the Court (MKC) 209
+1 Cloudstone Curio (RVR) 443 *F*
+1 Command Tower (C13) 281
+1 Displace (EMN) 55
 1 Displacer Kitten (CLB) 63
-1 Dour Port-Mage (BLB) 47
-1 Drowner of Hope (BFZ) 57
-1 Eerie Interlude (KHC) 22
-1 Eldrazi Displacer (OGW) 13
-1 Eldrazi Skyspawner (BFZ) 58
+1 Dovin, Hand of Control (WAR) 229
+1 Dramatic Reversal (SLD) 1083
+1 Eater of Days (DST) 120
+1 Eerie Interlude (SOI) 16
+1 Elesh Norn, Mother of Machines (ONE) 416
+1 Energy Field (PLST) USG-73
+1 Enlightened Tutor (6ED) 19
 1 Ephara, God of the Polis (BNG) 145
 1 Ephemerate (MH1) 7
-1 Extraordinary Journey (WOE) 48
-1 Felidar Guardian (AER) 19
+1 Fabricate (SLD) 1084
+1 Felidar Guardian (SLD) 1487
+1 Fiend Hunter (C13) 11
 1 Flaming Fist Officer (CLB) 19
-1 Flickerwisp (2X2) 11
-1 Genku, Future Shaper (MH3) 186
+1 Flicker of Fate (THB) 16
+1 Flickerwisp (2X2) 339
 1 Getaway Glamer (OTJ) 14
+1 Ghostly Prison (PCA) 7
+1 Glacial Fortress (BLC) 307
+1 Gossip's Talent (BLB) 51
+1 Hengegate Pathway / Mistgate Pathway (PLST) KHM-260
+1 Hullbreaker Horror (CLB) 724
+1 Irrigated Farmland (PIP) 268
+1 Island (THB) 251 *F*
+1 Island (LCI) 288
+5 Island (THB) 251
+1 Isochron Scepter (2XM) 264
+1 Justiciar's Portal (RNA) 13
 1 Karmic Guide (VOC) 90
 1 Lae'zel's Acrobatics (CLB) 30
-1 Mana Geode (JMP) 472
-1 Matzalantli, the Great Door / The Core (LCI) 256
-1 Mistmeadow Witch (2X2) 256
-1 Momentary Blink (DMR) 15
+1 Leonin Relic-Warder (MBS) 10
+1 Meteor Golem (C19) 218
+1 Mind Stone (DSC) 248
+1 Mistmeadow Vanisher (MOC) 129
+1 Mistmeadow Witch (C13) 230
+1 Momentary Blink (KHC) 30
+1 Mystic Gate (M3C) 359
+1 Mystic Sanctuary (MKC) 277
+1 Mystical Tutor (6ED) 83
 1 Oji, the Exquisite Blade (CLB) 290
 1 Omen Hawker (MOM) 70
-1 Panharmonicon (2X2) 310
+1 Panharmonicon (KLD) 226
+1 Perch Protection (BLC) 11
+1 Peregrine Drake (SLD) 1488
+1 Phyrexian Altar (2X2) 311
+4 Plains (THB) 250
+4 Plains (LCI) 393 *F*
+1 Plains (THB) 278 *F*
+1 Plains (THB) 279 *F*
+1 Planar Incision (NEO) 72
+1 Prairie Stream (BLC) 323
+1 Propaganda (TMP) 80
+1 Reliquary Tower (DSC) 295
+1 Reveillark (2X2) 26
+1 Rogue's Passage (C21) 312
+1 Seachrome Coast (ONE) 258
+1 Semester's End (STX) 27 *F*
+1 Single Combat (WAR) 30
+1 Sol Ring (40K) 251
+1 Solemn Simulacrum (SLD) 1113
+1 Sun Titan (OTC) 87
+1 Talisman of Progress (LTC) 286
+1 Teferi's Protection (2X2) 343
+1 Temple of Enlightenment (MKC) 302
+1 The Stasis Coffin (BRO) 245
+1 Thought Vessel (MKC) 245
+1 Time Wipe (WHO) 238
+1 Vexing Puzzlebox (CLB) 343
+1 Village Bell-Ringer (PLST) DDQ-22
+1 Yorion, Sky Nomad (MUL) 64 *F*
+    Check 
+1 Blossoming Calm (MH2) 327 *F*
+1 Eldrazi Skyspawner (BFZ) 58
+1 Turn to Mist (UMA) 224 *F*
+    In 
+1 Another Round (OTJ) 1
+1 Chronatog (VIS) 28
+1 Chronatog Totem (TSP) 252
+1 Delney, Streetwise Lookout (MKM) 12
+1 Drowner of Hope (BFZ) 57
+1 Eldrazi Displacer (OGW) 13
+1 Extraordinary Journey (WOE) 48
+1 Floodfarm Verge (DSK) 259
+1 Gideon of the Trials (AKH) 14
+1 Icewind Stalwart (CLB) 27
+1 Idyllic Beachfront (DMU) 249
+1 Inventors' Fair (KLD) 247
+1 Kykar, Zephyr Awakener (FDN) 122
 1 Parting Gust (BLB) 24
 1 Preston, the Vanisher (J22) 8
-1 Semester's End (CMM) 834
-1 Sun Titan (OTC) 87
-1 Teleportation Circle (AFR) 39
-1 The Enigma Jewel / Locus of Enlightenment (LCI) 362
-1 Time Wipe (DSC) 237
-1 Turn to Mist (CLU) 214
+1 Restricted Office / Lecture Hall (DSK) 227
+1 Salvager of Secrets (M19) 70
+1 Stonehorn Dignitary (M12) 37
+1 Teferi, Time Raveler (BLC) 92
 1 Venser, the Sojourner (DDI) 1 *F*
-1 Yorion, Sky Nomad (IKO) 232
+1 Whir of Invention (AER) 49
+    Out 

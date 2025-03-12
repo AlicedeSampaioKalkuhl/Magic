@@ -94,11 +94,13 @@ Jeleva, Nephalia's Scourge
 1 Blasphemous Edict (FDN) 57
 1 Full Throttle (DFT) 127
 1 Glamdring (LTR) 239
+1 Open the Omenpaths (KHM) 143
 	Out 
+Sadistic Sacrament out 
 
 	Tokens 
-Construct
-Demon 
-Orc Army 
-Spirit (2X2)
-Zombie (EMN)
+Construct */* token 
+Demon 3/3 token 	
+colourless Spirit 1/1 token 
+Treasure token 
+Zombie 2/2 token 

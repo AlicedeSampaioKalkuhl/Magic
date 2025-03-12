@@ -1,38 +1,145 @@
     Gev, 
-        Check 
+1 Aetherflux Reservoir (KLD) 192
 1 Agate Instigator (BLC) 21
 1 Agate-Blade Assassin (BLB) 82 *F*
+1 Arcane Signet (DSC) 92
+1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 311
+1 Blazemire Verge (DSK) 256
+1 Blightstep Pathway / Searstep Pathway (KHM) 252
+1 Bojuka Bog (DSC) 265
+1 Bolas's Citadel (PLG21) 3 *F*
+1 Chain Reaction (DRC) 47
+1 Chandra, Hope's Beacon (MOM) 134 *F*
+1 Charcoal Diamond (CLB) 305
+1 Cindering Cutthroat (BLB) 208
+1 Command Tower (DSC) 96
+1 Crushing Disappointment (STX) 68
+1 Cursed Mirror (WHO) 226
 1 Dagger Caster (CLU) 130
+1 Dark Ritual (MMQ) 129
+1 End the Festivities (VOW) 155
+1 Eternal Thirst (IMA) 89
+1 Evolving Wilds (DRC) 153
+1 Exquisite Blood (LCC) 195
+1 Fire Diamond (CLB) 313
 1 Flamecache Gecko (BLB) 135
+1 Florian, Voldaren Scion (MID) 223 *F*
+1 Frilled Sparkshooter (BLB) 136
+1 Galvanic Relay (MH2) 406
+1 Glidedive Duo (BLB) 96
+1 Grafted Exoskeleton (SOM) 162
+1 Grapeshot (TSR) 166
 1 Graywater's Fixer (OTC) 36
 1 Hall Monitor (STX) 105
+1 Herald's Horn (LTC) 280
 1 Immolation Shaman (RNA) 106
 1 Impact Tremors (WOT) 44
+1 Infernal Plunge (ISD) 148
+1 Jeska's Will (MKC) 156
+1 Jet Medallion (SLD) 1189
 1 Judith, the Scourge Diva (RNA) 185 *F*
+1 K'rrik, Son of Yawgmoth (C19) 18
+1 Kediss, Emberclaw Familiar (CMR) 188
 1 Kindlespark Duo (BLB) 142
-1 Lightning Greaves (PIP) 233
 1 Magebane Lizard (OTJ) 134
+1 Mind Stone (DSC) 248
 1 Mirkwood Bats (LTR) 95
+1 Mortarion, Daemon Primarch (40K) 41
+1 Mount Doom (LTR) 343
+12 Mountain (BLB) 275
+1 Myriad Landscape (DSC) 289
+1 Panharmonicon (DRC) 135
+1 Priest of Urabrask (DCI) 74
+1 Rakdos Signet (OTC) 265
+1 Reaping the Graves (SCG) 72
 1 Reptilian Recruiter (BLB) 149
+1 Riveteers Requisitioner (SNC) 121
+1 Rogue's Passage (OTC) 313
 1 Scorch Spitter (M20) 159
+1 Shadowblood Ridge (OTC) 317
+1 Shadowspear (THB) 236 *F*
+1 Shivan Gorge (PLST) USG-326
+1 Sol Ring (DSC) 94
 1 Spitfire Lagac (ZNR) 302
 1 Steampath Charger (BLB) 153
+1 Strike It Rich (MH2) 143
+1 Sulfurous Springs (DMU) 256
+11 Swamp (BLB) 270
+1 Talisman of Indulgence (WHO) 252
+1 Temple of the False God (LCC) 359
+1 Terramorphic Expanse (DSK) 269
+1 Theater of Horrors (RNA) 213 *F*
+1 Thermopod (CSP) 100
+1 Thought Vessel (BLC) 289
+1 Triskaidekaphobia (SOI) 141
+1 Urabrask / The Great Work (MOM) 169
+1 Vanquisher's Banner (MOC) 388
+1 Viashino Pyromancer (J22) 618
+1 Warstorm Surge (CLB) 815
 1 Zagras, Thief of Heartbeats (ZNR) 241
+        Check 
+
         In 
+1 Angrath, the Flame-Chained (RIX) 152
+1 Archfiend of Despair (CMM) 137
+1 Artist's Talent (BLB) 124
+1 Bad Deal (M21) 89
+1 Barbarian Ring (MH3) 299
+1 Bloodscale Prowler (GPT) 64
 1 Bloodsoaked Insight / Sanguine Morass (MH3) 252
+1 Boltwave (FDN) 79
+1 Bond of Agony (DIS) 38
+1 Cabal Pit (ODY) 315
 1 Chandra's Pyreling (M21) 138
+1 Crimson Muckwader (M13) 127
+1 Cut / Ribbons (AKH) 223
+1 Death Cloud (MMA) 76
 1 Deathbringer Thoctar (C13) 184
+1 Dreamstalker Manticore (THB) 131
+1 Far Fortune, End Boss (DFT) 203
+1 Fire Whip (TSB) 63
 1 Fireglass Mentor (BLB) 213
-1 Glidedive Duo (BLB) 96
+1 Flame Fusillade (RAV) 123
+1 Flowstone Salamander (TMP) 175
+1 Furious Assault (MMQ) 191
+1 Furystoke Giant (SHM) 93
+1 Gastal Thrillseeker (DFT) 205
+1 Graven Cairns (DSC) 280
+1 Greven, Predator Captain (C19) 43 *F*
 1 Hearthborn Battler (BLB) 139
 1 Hellspur Posse Boss (OTJ) 128
 1 Hired Claw (BLB) 140
 1 Hissing Iguanar (2X2) 113
+1 Inspired Tinkering (CLB) 183
 1 Iridescent Vinelasher (BLB) 99
 1 Leechridden Swamp (DSC) 286
+1 Lightning Prowess (AVR) 145
+1 Lightning Volley (BNG) 101
+1 Mudflat Village (BLB) 257
+1 Pain's Reward (SOK) 85
+1 Party Thrasher (MH3) 129
+1 Power of Fire (CNS) 150
+1 Priest of Gix (DDE) 7
 1 Rakdos, Lord of Riots (DSC) 230
+1 Rankle's Prank (WOE) 102
 1 Ravine Raider (BLB) 106
+1 Rockface Village (BLB) 259
+1 Roiling Vortex (ZNR) 156
+1 Ruby Medallion (MH3) 295
+1 Scales of Shale (BLB) 110
+1 Scattershot (SCG) 102
+1 Sigiled Skink (JOU) 111
+1 Spiked Corridor / Torture Pit (DSC) 28
+1 Stensia Bloodhall (ISD) 247
+1 Syr Carah, the Bold (ELD) 145
+1 Tectonic Hazard (LCI) 169
+1 Thermo-Alchemist (INR) 174
+1 Thorned Moloch (HOU) 108
 1 Thought-Stalker Warlock (BLB) 118
+1 Thunder-Thrash Elder (PCA) 53
 1 Tor Wauki the Younger (DMC) 46
 1 Valley Flamecaller (BLB) 158
+1 Viashino Fangtail (RAV) 148
+1 Viashino Sandsprinter (MH1) 153
+1 Wolfhunter's Quiver (DKA) 154
         Out 

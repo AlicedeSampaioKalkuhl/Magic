@@ -1,36 +1,131 @@
 Zoraline, Cosmos Caller 
 1 Aclazotz, Deepest Betrayal / Temple of the Dead (LCI) 316
-1 Dakmor Bat (P02) 68
-1 Darkstar Augur (BLB) 90
-1 Essence Channeler (BLB) 12
-1 Moonstone Eulogist (BLC) 54
-    Check 
+1 Agent of the Shadow Thieves (CLB) 493 *E*
+1 Arcane Signet (PIP) 224
+1 Archangel Elspeth (MOM) 320
+1 Bandit's Talent (BLB) 83
 1 Banishing Light (BLB) 1
 1 Basilica Screecher (GTC) 58
+1 Bat Colony (LCI) 5
+1 Bat Whisperer (MID) 86 *F*
 1 Batwing Brume (EVE) 81
-1 Blind Hunter (GPT) 102
+1 Blind Hunter (RVR) 166
+1 Captivating Cave (LCI) 268
+1 Cavernous Maw (LCI) 270
+1 Command Tower (NEC) 167
+1 Commander's Insignia (SCD) 13
+1 Commander's Sphere (40K) 235
+1 Consumed by Greed (BLB) 87 *F*
+1 Crumb and Get It (BLB) 8
+1 Dakmor Bat (P02) 68
+1 Damn (LCC) 191
+1 Darkstar Augur (BLB) 90
+1 Deep-Cavern Bat (SCH) 33
+1 Deification (MAT) 52
 1 Desecrated Tomb (M19) 230
+1 Elspeth Resplendent (SNC) 11
+1 Elspeth Tirel (ONC) 64
+1 Elspeth, Knight-Errant (DDF) 1 *F*
+1 Elspeth, Sun's Champion (SLC) 2013
+1 Elspeth, Sun's Nemesis (PTHB) 14p *F*
+1 Elspeth, Undaunted Hero (PLST) THB-270
+1 Elspeth's Devotee (THB) 272
+1 Elspeth's Talent (MOC) 80
+1 Essence Channeler (BLB) 12
+1 Etchings of the Chosen (LCC) 269
+1 Exotic Orchard (ONC) 152
+1 Expedition Map (PLST) 2XM-255
+1 Feast of the Victorious Dead (MAT) 30 *F*
+1 Fell (BLB) 95
+1 Folk Hero (CLB) 650 *F*
+1 Force of Virtue (MH1) 10
+1 Forgotten Monument (LCI) 272
+1 Fountainport Bell (BLB) 245
+1 Glidedive Duo (BLB) 96
+1 Gods Willing (2X2) 12 *F*
 1 Gurmag Swiftwing (CLU) 113
+1 Hall of Triumph (PJOU) 162 *F*
+1 Haunted One (CLB) 654 *F*
+1 Herald's Horn (PLST) C17-53
+1 Hidden Courtyard (LCI) 274
+1 Inkshield (SLD) 1694 *F*
 1 Lifecreed Duo (BLB) 20
+1 Lightning Greaves (WHO) 243
+1 Luminous Rebuke (FDN) 20
+1 Malicious Eclipse (LCI) 111
+1 Mark of the Vampire (PLST) UMA-105
+1 Mind Stone (LCC) 309
 1 Mirkwood Bats (LTR) 421
 1 Moonrise Cleric (BLB) 226
-1 Predators' Hour (VOC) 21
+1 Moonstone Eulogist (BLC) 54
+1 Orzhov Signet (DSC) 249
+1 Path of Ancestry (WOC) 165
+1 Pit of Offerings (LCI) 278
+2 Plains (BLB) 262
+1 Plains (BLB) 263 *F*
+1 Plains (BLB) 263
+2 Plains (BLB) 264
+2 Plains (BLB) 265
+1 Predators' Hour (VOC) 59
+1 Profane Procession / Tomb of the Dusk Rose (RIX) 166
+1 Promising Vein (LCI) 279
+1 Rally the Ranks (KHM) 20
+1 Rogue's Passage (C21) 312
 1 Ruin-Lurker Bat (LCI) 33
+1 Sanguine Bond (C13) 92
+1 Secluded Courtyard (LCC) 350
+1 Sol Ring (BLC) 129
+1 Sorin the Mirthless (VOW) 337
+1 Starfall Invocation (BLB) 298
 1 Starlit Soothsayer (BLB) 115
 1 Starscape Cleric (BLB) 116
+1 Stirge (CLB) 150 *F*
+1 Sunken Citadel (LCI) 285
+1 Swamp (BLB) 270 *F*
+1 Swamp (BLB) 270
+1 Swamp (BLB) 271 *F*
+1 Swamp (BLB) 271
+2 Swamp (BLB) 272
+1 Swamp (BLB) 273
+1 Swiftfoot Boots (C13) 263
+1 Temple of the False God (MIC) 186
+1 True Conviction (SS2) 6 *F*
+1 Unclaimed Territory (40K) 304
+1 Volatile Fault (LCI) 286
+1 Wayfarer's Bauble (PIP) 252
+1 Welcoming Vampire (VOW) 287 *F*
+    Check 
     In 
-1 Bandit's Talent (BLB) 83
+1 Blight Keeper (XLN) 92
+1 Blighted Bat (JMP) 205
 1 Bloodhunter Bat (JMP) 210
+1 Bloodletter of Aclazotz (LCI) 336
 1 Courier Bat (VOW) 102
 1 Duskhunter Bat (DDK) 6
+1 Echoing Deeps (LCI) 271
 1 Final Act (M3C) 104
+1 Ghastly Gloomhunter (ZNR) 103
+1 Grasping Shadows / Shadows' Lair (LCI) 108
+1 Grimclaw Bats (DST) 45
+1 Hidden Necropolis (LCI) 275
+1 Leyline of Hope (DSK) 18
+1 Light of Promise (M21) 25
 1 Lunar Convocation (BLB) 223
 1 Lupinflower Village (BLB) 256
+1 Malakir Familiar (JMP) 253
+1 Marrow Bats (C13) 82
 1 Moonstone Harbinger (BLB) 101
 1 Mudflat Village (BLB) 257
-1 Nesting Grounds (MH3) 302
-1 Profane Procession / Tomb of the Dusk Rose (RIX) 166
+1 Nesting Grounds (NCC) 418
+1 Nocturnal Hunger (BLB) 102
+1 Regal Bloodlord (M19) 222
+1 Sanguine Evangelist (LCI) 34
+1 Skeletal Vampire (C17) 126
+1 Sonar Strike (BLB) 32
 1 Star Charter (BLB) 33
 1 Stargaze (BLB) 114
 1 Starseer Mentor (BLB) 233
+1 Tarrian's Journal / The Tomb of Aclazotz (LCI) 126
+1 Urza's Cave (MH3) 234
+1 Vampire Bats (GVL) 35
 1 Wax-Wane Witness (BLB) 39
