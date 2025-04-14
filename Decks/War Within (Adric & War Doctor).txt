@@ -1,27 +1,26 @@
     Adric, Mathematical Genuis & The War Doctor 
-1 Abdel Adrian, Gorion's Ward (CLB) 2
 1 Aggravated Assault (WOT) 39
 1 Alrund, God of the Cosmos / Hakka, Whispering Raven (KHM) 302
 1 Angelic Exaltation (RNA) 2
 1 Aqueous Form (CMR) 56
 1 Augury Raven (KHM) 44 *F*
 1 Banishing Light (THB) 4
+1 Bohn, Beguiling Balladeer (SLD) 1242 *F*
 1 Cathedral of War (PM13) 221★ *F*
 1 Chained to the Rocks (THS) 4
 1 Circle of Confinement (VOW) 329 *F*
 1 Command Tower (C20) 264
 1 Cosmos Charger (KHM) 51
 1 Crack in Time (WHO) 16
+1 Curiosity (WOT) 17 *F*
 1 Delay (FUT) 35
 1 Delayed Blast Fireball (CLB) 676
 1 Disorder in the Court (MKC) 209
 1 Doomskar Oracle (KHM) 10
 1 Ecstatic Beauty (WHO) 83
-1 Edgin, Larcenous Lutenist (SLD) 1242 *F*
 1 Ethereal Valkyrie (KHC) 16
 1 Exotic Orchard (C20) 273
 1 Farewell (WHO) 207
-1 Fiend Hunter (C13) 11
 1 Frostwalk Bastion (MH1) 240
 1 Future Sight (SLD) 1178
 1 Gisela, Blade of Goldnight (MKC) 211
@@ -34,14 +33,16 @@
 1 Karn's Bastion (ONC) 156
 1 Kediss, Emberclaw Familiar (CMR) 188
 1 Lae'zel, Vlaakith's Champion (CLB) 476 *E*
-1 Leonin Relic-Warder (MBS) 10
 1 Lightmine Field (ROE) 32
 1 Mouth of Ronom (CSP) 148
 1 Nahiri's Resolve (MAT) 37
 1 Nomads' Assembly (ROE) 39
+1 Norin the Wary (SLD) 827
 1 Olórin's Searing Light (LTC) 503 *F*
 1 Ossification (ONE) 26
+1 Passionate Archaeologist (CLB) 656 *F*
 1 Ranar the Ever-Watchful (KHC) 2 *F*
+1 Rashel, Fist of Torm (SLD) 1237 *F*
 1 Ravenform (KHM) 72
 1 Redemption Arc (MKC) 13
 1 Regenerations Restored (WHO) 151
@@ -80,15 +81,13 @@
 1 Vega, the Watcher (KHM) 332
 1 Virtue of Courage / Embereth Blaze (WOE) 282
 1 Watcher of Hours (MKC) 25
-1 Xenk, Paladin Unbroken (SLD) 1237 *F*
     Check 
 1 Alpine Meadow (KHM) 248
 1 Boreal Shelf (CSP) 144
 1 Glacial Floodplain (KHM) 257
 1 Inexorable Tide (SOM) 35
 1 Inspiring Refrain (WHO) 216
-1 Nalfeshnee (CLB) 678
-1 Oblivion Sower (CMM) 808
+1 Oblivion Sower (OTC) 77
 1 Rousing Refrain (C21) 56
 1 Sakashima of a Thousand Faces (CMR) 561 *E*
 1 Strionic Resonator (NCC) 381
@@ -100,15 +99,13 @@
 1 Ardent Plea (ARB) 1
 1 Cursed Recording (DSK) 131
 1 Dreamtide Whale (MH3) 59
-1 Fblthp, Lost on the Range (OTJ) 48
 1 Gemstone Caverns (TSP) 274
 1 Mirror Room / Fractured Realm (DSK) 67
 1 Mox Tantalite (MH1) 226
 1 Scrying Sheets (CSP) 149
-1 Sea of Clouds (CLB) 360
 1 Suspend (MH2) 68
+1 Taigam, Master Opportunist (TDM) 60
 1 The Ozolith (IKO) 237
-1 Training Center (CMM) 434
     Out 
 Swiftfoot Boots
 Trailblazer Boots 

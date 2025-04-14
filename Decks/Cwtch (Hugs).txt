@@ -2,9 +2,11 @@
 1 Ashcloud Phoenix (MKC) 147
 1 Azusa, Lost but Seeking (SLD) 1597★ *F*
 1 Azusa's Many Journeys / Likeness of the Seeker (NEO) 172
+1 Boundless Realms (M13) 162 *F*
 1 Call Forth the Tempest (LTC) 553 *F*
 1 Courser of Kruphix (CMM) 888
 1 Cultivate (WHO) 230
+1 Domri Rade (RVR) 444
 1 Dryad of the Ilysian Grove (CMM) 891
 1 Escape to the Wilds (OTC) 223
 1 Explore (40K) 213
@@ -13,24 +15,24 @@
 1 Fanatic of Mogis (THS) 121
 1 Fires of Yavimaya (PCA) 92
 1 Food Chain (SLD) 1369 *F*
-1 Forest (BLB) 280
-2 Forest (BLB) 281
-2 Forest (BLB) 278
-1 Forest (BLB) 279 *F*
-2 Forest (BLB) 279
-1 Forest (BLB) 377 *F*
-1 Forest (BLB) 378 *F*
-3 Forest (ZNR) 384 *F*
 1 Forest (IKO) 272 *F*
 2 Forest (IKO) 273 *F*
 1 Forest (IKO) 274 *F*
-2 Forest (THB) 287 *F*
-2 Forest (THB) 286 *F*
 3 Forest (WOE) 275 *F*
 2 Forest (WOE) 276 *F*
 1 Forest (BRO) 277 *F*
-2 Forest (MH2) 489 *F*
+2 Forest (BLB) 278
+1 Forest (BLB) 279 *F*
+2 Forest (BLB) 279
+1 Forest (BLB) 280
+2 Forest (BLB) 281
+1 Forest (THB) 286 *F*
+2 Forest (THB) 287 *F*
 1 Forest (STX) 374 *F*
+1 Forest (BLB) 377 *F*
+1 Forest (BLB) 378 *F*
+2 Forest (MH2) 489 *F*
+2 Forest (ZNR) 384 *F*
 1 Forgeborn Oreads (JOU) 98
 1 Frenzied Tilling (GTC) 166
 1 Ghirapur Orrery (BLC) 270
@@ -40,23 +42,22 @@
 1 Koth, Fire of Resistance (ONE) 138
 1 Mina and Denn, Wildborn (ZNC) 94
 1 Moraug, Fury of Akoum (ZNR) 300
-1 Mountain (STX) 373 *F*
-1 Mountain (DMU) 271 *F*
-1 Mountain (THB) 285 *F*
-1 Mountain (LCI) 400 *F*
-4 Mountain (ZNR) 383 *F*
 1 Mountain (ELD) 262 *F*
-2 Mountain (IKO) 270 *F*
 2 Mountain (IKO) 269 *F*
+1 Mountain (DMU) 271 *F*
 1 Mountain (IKO) 271 *F*
-3 Mountain (WOE) 274 *F*
 3 Mountain (WOE) 273 *F*
+3 Mountain (WOE) 274 *F*
+1 Mountain (BLB) 274
+1 Mountain (BLB) 275
 1 Mountain (BLB) 276 *F*
 1 Mountain (BLB) 276
-1 Mountain (BLB) 275
-1 Mountain (BLB) 274
 2 Mountain (BLB) 277
+1 Mountain (THB) 285 *F*
+1 Mountain (STX) 373 *F*
 1 Mountain (BLB) 375 *F*
+4 Mountain (ZNR) 383 *F*
+1 Mountain (LCI) 400 *F*
 1 Nalfeshnee (CLB) 678
 1 Nissa's Renewal (ZNC) 76
 1 Omnath, Locus of Mana (CC1) 2
@@ -65,6 +66,7 @@
 1 Price of Progress (SLD) 1521
 1 Rampant Growth (LTC) 257
 1 Rhythm of the Wild (NEC) 142
+1 Road / Ruin (MH2) 212 *F*
 1 Scute Swarm (ZNR) 308
 1 Seeds of Renewal (C16) 24
 1 Spitfire Lagac (ZNR) 302
@@ -73,16 +75,15 @@
 1 Summer Bloom (2X2) 160
 1 The Great Aurora (ORI) 179
 1 Treacherous Terrain (ZNC) 105
+1 Valakut Exploration (ZNR) 175
 1 Vengeful Rebirth (PLST) MM2-188
 1 Wayward Swordtooth (LCC) 263
 1 Yedora, Grave Gardener (C21) 70
     Check 
 
     In 
-1 Boundless Realms (M13) 162
 1 Case of the Locked Hothouse (MKM) 155
 1 Crash Landing (GPT) 82
-1 Domri Rade (RVR) 179
 1 Druid Class (AFR) 180
 1 Exploration (DMR) 159
 1 Hammer of Purphoros (THS) 124
@@ -91,11 +92,7 @@
 1 Loot, Exuberant Explorer (FDN) 106
 1 Lumra, Bellow of the Woods (BLB) 183
 1 Muerra, Trash Tactician (BLB) 227
-1 Road / Ruin (MH2) 212
 1 Sunspine Lynx (BLB) 155
-1 Trailtracker Scout (BLC) 35
-1 Valakut Exploration (ZNR) 175
-1 Wandertale Mentor (BLB) 240
 1 Weight of Spires (DIS) 78
 1 Wilderness Elemental (C16) 230
 1 Worldsoul's Rage (MKM) 244

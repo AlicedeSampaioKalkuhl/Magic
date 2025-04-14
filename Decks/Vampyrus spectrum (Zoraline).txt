@@ -9,6 +9,7 @@ Zoraline, Cosmos Caller
 1 Bat Colony (LCI) 5
 1 Bat Whisperer (MID) 86 *F*
 1 Batwing Brume (EVE) 81
+1 Blight Keeper (XLN) 92 *F*
 1 Blind Hunter (RVR) 166
 1 Captivating Cave (LCI) 268
 1 Cavernous Maw (LCI) 270
@@ -92,11 +93,9 @@ Zoraline, Cosmos Caller
 1 True Conviction (SS2) 6 *F*
 1 Unclaimed Territory (40K) 304
 1 Volatile Fault (LCI) 286
-1 Wayfarer's Bauble (PIP) 252
 1 Welcoming Vampire (VOW) 287 *F*
     Check 
     In 
-1 Blight Keeper (XLN) 92
 1 Blighted Bat (JMP) 205
 1 Bloodhunter Bat (JMP) 210
 1 Bloodletter of Aclazotz (LCI) 336
