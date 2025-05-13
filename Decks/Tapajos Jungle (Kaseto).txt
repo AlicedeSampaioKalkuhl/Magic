@@ -35,7 +35,9 @@
 1 Cobra Trap (C15) 180
 1 Endless Swarm (SOK) 129
 1 Fanatic of Rhonas (MH3) 152
+1 Floral Evoker (TDC) 46
 1 Hope-Ender Coatl (MH3) 64
+1 Jade-Cast Sentinel (TDM) 243
 1 Kashi-Tribe Elite (SOK) 135
 1 Kashi-Tribe Reaver (CHK) 220
 1 Kashi-Tribe Warriors (CHK) 221

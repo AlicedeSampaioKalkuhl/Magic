@@ -1,17 +1,18 @@
     Sydri, Galvanic Genius as Emma Frost, Genosha Survivor 
 1 Aetherflux Reservoir (KLD) 192
 1 Ancient Den (BRC) 172
+1 Angel's Tomb (INR) 253
 1 Arcane Sanctum (BRC) 173
 1 Arcane Signet (OTC) 252
 1 Argentum Armor (GN3) 113
 1 Ayesha Tanaka, Armorer (DMC) 51 *E*
 1 Azorius Cluestone (DGM) 136
-1 Balan, Wandering Knight (CMM) 16
-1 Batterbone (MH2) 221
+1 Azorius Keyrune (C13) 236
 1 Blackblade Reforged (PLST) SS2-8
 1 Bolas's Citadel (SLD) 1187
 1 Bronze Guardian (C21) 13
 1 Chromatic Lantern (RVR) 253
+1 Command Tower (DMC) 204
 1 Cranial Plating (5DN) 113
 1 Dalek Drone (WHO) 64
 1 Dalek Squadron (WHO) 538 *F*
@@ -23,13 +24,12 @@
 1 Dispatch (PIP) 159
 1 Doomsday Confluence (WHO) 67 *F*
 1 Éowyn, Lady of Rohan (LTR) 10
-1 Etherium Sculptor (BRC) 82
-1 Exotic Orchard (WHO) 276
-1 Exterminate! (WHO) 68
-1 Fabricate (SLD) 1084
+1 Etherium Sculptor (SLD) 443
 1 Forebear's Blade (PLST) DOM-214
+1 Foreboding Statue / Forsaken Thresher (VOW) 256
 1 Foundry Inspector (BRR) 79 *F*
 1 Goldmire Bridge (BRC) 186
+1 Guidelight Optimizer (DFT) 45 *F*
 1 Hanna, Ship's Navigator (NEC) 139
 1 Haunted Cloak (CMR) 463
 1 Island (ONE) 263 *F*
@@ -38,15 +38,14 @@
 1 Jhoira's Familiar (DOM) 220 *F*
 1 Kappa Cannoneer (MKC) 108
 1 Karn, Legacy Reforged (MAT) 49
-1 Kemba, Kha Enduring (ONE) 330 *F*
 1 Levitating Statue (BRO) 236
 1 Lightning Greaves (C20) 245
 1 Losheel, Clockwork Scholar (C21) 18
 1 Loxodon Warhammer (ONC) 135
-1 Mask of Riddles (NCC) 347
 1 Master Transmuter (PLST) CON-31
 1 Midnight Clock (ELD) 54
 1 Mirran Bardiche (ONE) 22
+1 Mycosynth Golem (SLD) 1433
 1 Mystic Forge (PIP) 236
 1 Mystic Skull / Mystic Monstrosity (MID) 256
 1 Nardole, Resourceful Cyborg (WHO) 50
@@ -55,59 +54,56 @@
 1 Orzhov Locket (MOC) 368
 1 Osgood, Operation Double (WHO) 958 *F*
 1 Padeem, Consul of Innovation (KLD) 59
-1 Plains (BRO) 279
 1 Plains (DMU) 262
+1 Plains (DMU) 264
 1 Plains (DMU) 277
 2 Plains (BRO) 278 *F*
 2 Plains (BRO) 278
-1 Plains (DMU) 264
+1 Plains (BRO) 279
 1 Puresteel Paladin (PIP) 170
 1 Razortide Bridge (BRC) 195
 1 Rise and Shine (MH2) 58
-1 Scytheclaw (MOC) 375
+1 Rusted Relic (MM2) 227
+1 Sculpting Steel (MOC) 374
 1 Shimmer Myr (CMR) 339 *F*
 1 Silas Renn, Seeker Adept (CMR) 536 *E*
 1 Sol Ring (OTC) 267
 1 Solemn Simulacrum (ONC) 141
 1 Staff of Nin (M13) 217
 1 Stoic Rebuttal (SOM) 46
-1 Stone Haven Outfitter (OGW) 37
-1 Stoneforge Mystic (SLD) 1253
-1 Swamp (ONE) 269
-1 Swamp (DMU) 279
 1 Swamp (ONE) 264
 4 Swamp (ONE) 264 *F*
+1 Swamp (ONE) 269
+1 Swamp (DMU) 279
 1 Swiftfoot Boots (VOC) 169
 1 Sword of Vengeance (NEC) 164
 1 Temple of the False God (OTC) 334
 1 Terisiare's Devastation (BRC) 9
+1 Tezzeret the Seeker (SLD) 1619
 1 Tezzeret, Betrayer of Flesh (MKC) 120
 1 Thran Power Suit (BRO) 253
 1 Urza, Chief Artificer (BRC) 2 *F*
+1 Urza, Prince of Kroog (BRO) 296
 1 Weeping Angel (WHO) 773 *F*
 1 Whispersilk Cloak (LTC) 292
 1 Zamriel, Seraph of Steel (GN3) 1 *F*
 
     Check 
 1 Academy Ruins (SLD) 1506
-1 Angel's Tomb (INR) 253
 1 Artificer Class (CLB) 663
-1 Azorius Keyrune (C13) 236
 1 Bojuka Bog (OTC) 273
 1 Buried Ruin (PIP) 254
-1 Command Tower (DMC) 204
 1 Darksteel Citadel (C21) 285
+1 Exotic Orchard (WHO) 276
 1 Eye of Malcator (ONE) 50
+1 Fabricate (SLD) 1084
 1 Mistvault Bridge (BRC) 189
 1 Phyrexian Metamorph (MKC) 116
-1 Ratonhnhaké꞉ton (ACR) 62 *F*
-1 Rusted Relic (MM2) 227
-1 Sculpting Steel (40K) 247
-1 Seat of the Synod (MRD) 283
+1 Seat of the Synod (BRC) 198
 1 The Mycosynth Gardens (ONE) 256
 1 Thousand Moons Smithy / Barracks of the Thousand (LCI) 39
 1 Unwinding Clock (BRR) 61
-1 Vault of Whispers (MRD) 286
+1 Vault of Whispers (BRC) 211
     In 
 1 Archway of Innovation (MH3) 214
 1 Caltrops (7ED) 288
@@ -120,7 +116,6 @@
 1 Darksteel Monolith (CMM) 743
 1 Glint Hawk Idol (MM2) 216
 1 Guardian Idol (IMA) 216
-1 Guidelight Optimizer (DFT) 45
 1 Idol of False Gods (MH3) 210
 1 Inventors' Fair (KLD) 247
 1 Jade Statue (9ED) 300
@@ -135,26 +130,23 @@
 1 Winter, Cursed Rider (DFT) 228
 1 Xanthic Statue (WTH) 163
     Out 
-Kemba, Kha Enduring out 
-Stoneforged Mystic out 
-Puresteel Paladin out 
-Stone Haven Outfitter out 
-Eowyn, Lady of Rohan out 
-Balan, Wandering Knight out 
-Zamriel, Seraph of Steel 
-Batterbone out 
-Blackblade Reforged out 
-Cranial Plating 
-Mask of Riddles 
-Lightning Greaves 
-Swiftfoot Boots 
-Thran Power Suit out 
+Argentum Armor out 
+Blackblade reforged Out 
+Cranial Plating out 
+Dalek Drone out 
+Dalek Squadron out 
 Darksteel Plate out 
+Doomsday Confluence out 
+Eowyn, Lady of Rohan out 
+Exyterminate! out 
 Forebear's Blade out 
 Haunted Cloak out 
-Loodon Warhammer out 
-Sword of Vengeance 
-Whispersilk Cloak 
-Mirran Bardiche 
-Scytheclaw 
-Argentum Armor 
+Lightning Greaves out 
+Loxodon Warhammer out 
+Mirran Bardiche  out
+Puresteel Paladin out 
+Swiftfoot Boots out 
+Sword of Vengeance out 
+Thran Power Suit out 
+Whispersilk Cloak out 
+Zamriel, Seraph of Steel out

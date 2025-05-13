@@ -70,6 +70,7 @@
 1 Cauldron Dance (C17) 166
 1 Electroduplicate (FDN) 85
 1 Elemental Appeal (ZEN) 123
+1 Emperor of Bones (MH3) 90
 1 Goryo's Vengeance (UMA) 99
 1 Graven Cairns (FUT) 175
 1 Gruesome Encore (MBS) 44
@@ -80,6 +81,7 @@
 1 Molten Duplication (BIG) 79
 1 Mordor on the March (LTC) 512
 1 Rakshasa Debaser (CMR) 146
+1 Redoubled Stormsinger (TDC) 37
 1 Rionya, Fire Dancer (C21) 55
 1 Sedris, the Traitor King (2X2) 274
 1 Slave of Bolas (E01) 86

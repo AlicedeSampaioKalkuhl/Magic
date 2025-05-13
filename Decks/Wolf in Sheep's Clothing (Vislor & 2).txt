@@ -1,6 +1,7 @@
     Vislor Turlough & The Second Doctor
 1 Alms Collector (SLD) 1227 *F*
 1 Arcane Denial (SLD) 1545
+1 Arcane Laboratory (7ED) 60
 1 Arcane Sanctum (MOC) 390
 1 Arcane Signet (WHO) 239
 1 As Foretold (WOT) 68
@@ -16,6 +17,7 @@
 1 Diplomatic Immunity (MMQ) 75
 1 Dissipation Field (CLB) 718
 1 Dream Fracture (CNS) 95
+1 Enduring Curiosity (DSK) 51
 1 Everybody Lives! (WHO) 338
 1 Exotic Orchard (NCC) 400
 1 Fate Unraveler (BNG) 68
@@ -28,7 +30,6 @@
 1 Glacial Fortress (LTC) 315
 1 Horn of Greed (STH) 135
 1 Howling Mine (BRR) 20
-1 Imp's Mischief (OTP) 15
 4 Island (PIP) 319
 2 Island (BRO) 280
 1 Isolated Chapel (LCC) 337
@@ -46,14 +47,14 @@
 1 Ominous Seas (IKO) 61
 1 Orzhov Signet (GPT) 155
 1 Peek (SLD) 401 *F*
-1 Phyrexian Metamorph (MKC) 116
 1 Plains (SLD) 1088
 6 Plains (BRO) 279
 1 Propaganda (WHO) 219
 1 Reliquary Tower (40K) 291
-1 Reverse the Polarity (WHO) 54 *F*
+1 Render Silent (PDGM) 96★ *F*
 1 Scheming Symmetry (SLD) 1520
 1 Seizan, Perverter of Truth (CHK) 143
+1 Sokrates, Athenian Teacher (ACR) 67
 1 Sol Ring (WHO) 245
 1 Sonic Screwdriver (WHO) 185
 1 Stolen Identity (NCC) 233
@@ -62,7 +63,6 @@
 1 Swamp (SLD) 1132
 1 Swamp (PIP) 321
 1 Swords to Plowshares (SLD) 1627★ *F*
-1 Synth Infiltrator (PIP) 40
 1 Teferi's Puzzle Box (PLST) 8ED-316 *F*
 1 Telepathy (9ED) 101
 1 Temple of Deceit (WHO) 1115 *F*
@@ -72,11 +72,11 @@
 1 The Wedding of River Song (WHO) 31 *F*
 1 Thought Vessel (WHO) 255
 1 Time Reversal (SLD) 1499
+1 Triskaidekaphile (BLC) 178
 1 Underworld Dreams (THB) 121
 1 Verity Circle (RNA) 58
 1 Vilis, Broker of Blood (SLD) 1567
 1 Viseling (NEM) 140 *F*
-1 Void Rend (PSNC) 230p
 1 Wedding Ring (WHO) 213
 1 Wheel and Deal (SLD) 1262 *F*
 1 Windborn Muse (MKC) 92
@@ -85,11 +85,8 @@
 1 Wound Reflection (WHO) 223
 1 Zhalfirin Void (PDOM) 249 *F*
     Check 
-1 Geier Reach Sanitarium (LCC) 335
+1 Geier Reach Sanitarium (DMC) 213
 1 Smothering Tithe (PRNA) 22p
-1 Triskaidekaphile (PMID) 81p
-1 Sokrates, Athenian Teacher (ACR) 67
-1 Arcane Laboratory (7ED) 60
     In 
 1 Boseiju, Who Shelters All (CHK) 273
 1 Consecrated Sphinx (2X2) 345

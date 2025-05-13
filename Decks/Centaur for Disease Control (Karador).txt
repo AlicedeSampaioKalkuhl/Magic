@@ -94,12 +94,12 @@
 1 Plague Myr (ONC) 139
 1 Polluted Mire (40K) 288
     In 
+1 Blasting Station (5DN) 107
 1 Blowfly Infestation (SHM) 58
 1 Cauldron Haze (EVE) 84
 1 Channeler Initiate (AKH) 160
 1 Cinderbones (SHM) 59
 1 Crumbling Ashes (EVE) 35
-1 Fanatic of Rhonas (MH3) 152
 1 Generous Patron (BBD) 70
 1 Glistening Oil (NPH) 62
 1 Hex Parasite (NPH) 137
@@ -107,14 +107,13 @@
 1 Liliana, Death Wielder (AKH) 275 *F*
 1 Massacre Girl, Known Killer (MKM) 94
 1 Midnight Banshee (MM2) 86
-1 Mirrex (ONE) 254
 1 Necroskitter (EVE) 38
 1 Needle Specter (EVE) 39
-1 Obelisk Spider (PLST) HOU-141
 1 Persuasive Interrogators (MKM) 98
 1 Putrid Goblin (MH1) 101
 1 Rendclaw Trow (EVE) 127
-1 Safehold Elite (UMA) 220
+1 Renegade Rallier (AER) 133
+1 Saffi Eriksdotter (TSR) 260
 1 Tarrian's Journal / The Tomb of Aclazotz (LCI) 126
 1 Tower Above (SHM) 131
 1 Twilight Shepherd (SHM) 25

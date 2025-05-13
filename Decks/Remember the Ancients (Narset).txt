@@ -1,0 +1,119 @@
+    Narset,
+    
+    Check 
+1 Abandon the Post (MID) 127
+1 Angelfire Ignition (MID) 209
+1 Arcane Infusion (MID) 210
+1 Archmage's Newt (OTJ) 39
+1 Azorius Chancery (DSC) 261
+1 Battle Screech (MOC) 174
+1 Boros Garrison (CLU) 231
+1 Bulk Up (FDN) 80
+1 Cackling Counterpart (DSC) 72
+1 Chemister's Insight (C20) 108
+1 Command Tower (TDC) 107
+1 Commit / Memory (LCC) 147
+1 Decaying Time Loop (WHO) 80
+1 Deep Analysis (TDC) 150
+1 Desperate Ravings (PLST) C15-149
+1 Dusk / Dawn (LTC) 166
+1 Electric Revelation (MID) 135
+1 Embrace the Unknown (OTC) 28
+1 Finale of Promise (WAR) 127
+1 Firebolt (DDS) 37
+1 Frantic Search (TDC) 153
+1 Gravitic Punch (PLST) GRN-105
+1 Hallowed Respite (MID) 227
+1 Homestead Courage (MID) 24
+1 Ignite the Future (CLB) 797
+1 Increasing Devotion (C20) 91
+1 Increasing Vengeance (DKA) 95
+1 Isengard Unleashed (LTC) 495 *F*
+1 Lier, Disciple of the Drowned (TDC) 157
+1 Maximize Velocity (GRN) 111
+1 Mizzix's Mastery (OTC) 175
+1 Myriad Landscape (DSC) 289
+1 Mystic Monastery (TDM) 262
+1 Mystic Sanctuary (MKC) 277
+1 Otherworldly Gaze (MID) 67
+1 Past in Flames (40K) 206
+1 Perilous Landscape (TDC) 383
+1 Pull from Eternity (TSP) 35
+1 Pyromancer's Goggles (C21) 259
+1 Radical Idea (OTC) 110
+1 Recoup (PLST) DDK-63
+1 Reliquary Tower (TDC) 386
+1 Return the Past (WHO) 92
+1 Sacred Fire (MID) 239
+1 Secrets of the Dead (C19) 95
+1 Seize the Day (SLD) 1172
+1 Seize the Storm (INR) 170
+1 Self-Reflection (LCI) 74
+1 Sevinne's Reclamation (MKC) 83
+1 Silent Departure (INR) 84
+1 Sol Ring (TDC) 106
+1 Spellweaver Volute (PLST) FUT-59 *F*
+1 Start the TARDIS (WHO) 56
+1 Strike It Rich (MH2) 143
+1 Temple of the False God (DSC) 313
+1 Think Twice (TDC) 168
+1 Twinning Staff (NCC) 383
+1 Vega, the Watcher (KHM) 233
+1 Visions of Glory (LTC) 182
+1 Visions of Ruin (MIC) 74
+1 Will of the Jeskai (TDC) 40
+    In 
+1 Altar of the Lost (DKA) 144
+1 Ancestral Tribute (ODY) 2
+1 Artful Dodge (DKA) 27
+1 Ashling, Flame Dancer (MH3) 115
+1 Backdraft Hellkite (2X2) 103
+1 Bash to Bits (ODY) 176
+1 Beacon Bolt (GRN) 154
+1 Burning Oil (DKA) 84
+1 Calibrated Blast (MH2) 118
+1 Catalyst Stone (ODY) 297
+1 Conflagrate (TSR) 160
+1 Defy Gravity (UMA) 48
+1 Dematerialize (ODY) 81
+1 Devil's Play (C19) 138
+1 Divine Reckoning (C19) 62
+1 Echo of Eons (MB2) 160
+1 Electroduplicate (FDN) 85
+1 Embolden (ODY) 22
+1 Engulfing Flames (ODY) 191
+1 Farm / Market (C19) 192
+1 Feeling of Dread (ISD) 14
+1 Fervent Denial (C19) 86
+1 Gaze of Justice (TSP) 20
+1 Geistflame (DDK) 61
+1 Inspiration from Beyond (FDN) 43
+1 Lava Dart (MH1) 134
+1 March from Velis Vel (M3C) 48
+1 Marshaling Cry (FUT) 13
+1 Mass Diminish (C19) 10
+1 Memory Deluge (INR) 75
+1 Mystic Retrieval (INR) 77
+1 Nightbird's Clutches (UMA) 141
+1 Oona's Grace (C19) 91
+1 Otterball Antics (BLB) 63
+1 Phantom Carriage (MID) 70
+1 Prismatic Strands (C19) 69
+1 Purify the Grave (C19) 71
+1 Quasiduplicate (RVR) 55
+1 Quiet Speculation (EMA) 68
+1 Rally the Peasants (INR) 37
+1 Reduce / Rubble (AKH) 216
+1 Refuse / Cooperate (C19) 199
+1 Rolling Temblor (C19) 151
+1 Runic Repetition (C19) 94
+1 Saving Grasp (DKA) 46
+1 Scour All Possibilities (MH1) 67
+1 Sevinne, the Chronoclasm (C19) 49 *F*
+1 Slickshot Lockpicker (OTJ) 67
+1 Snapcaster Mage (UMA) 71
+1 Sonic Assault (GRN) 199
+1 Sorcerer Class (AFR) 233
+1 Visions of Duplicity (MIC) 33
+1 Volley of Boulders (DDI) 73
+1 Waves of Aggression (EVE) 148

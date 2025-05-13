@@ -99,5 +99,16 @@
 1 Worldly Tutor (DMR) 442
 1 Yawgmoth's Will (USG) 171
     In 
-
+1 Bane of Progress (C13) 137
+1 Borne Upon a Wind (LTR) 44
+1 Counterbalance (CSP) 31
+1 Hullbreaker Horror (INR) 68
+1 Kitsa, Otterball Elite (BLB) 54
+1 Lotuslight Dancers (TDM) 204
+1 Malevolent Hermit / Benevolent Geist (MID) 336
+1 Mistrise Village (TDM) 261
+1 Praetor's Grasp (NPH) 71
+1 Reverent Silence (NEM) 111
+1 Seedborn Muse (9ED) 270
+1 Tyvar, Jubilant Brawler (ONE) 344
     Out 

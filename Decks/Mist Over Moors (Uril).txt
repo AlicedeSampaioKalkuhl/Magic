@@ -57,6 +57,7 @@
 1 Wild Growth (PIP) 208
 1 Winds of Rath (MKC) 93
 1 Xenk, Paladin Unbroken (SLD) 1237 *F*
+1 Tempest Technique (TDC) 16
         In 
 1 Blessing of the Nephilim (DIS) 4
 1 Contested Cliffs (C13) 282

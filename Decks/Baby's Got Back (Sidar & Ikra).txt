@@ -20,27 +20,40 @@
 1 Abzan Beastmaster (FRF) 119
 1 Ancient Lumberknot (VOW) 230
 1 Arachnogenesis (DSC) 169
+1 Arbor Adherent (TDC) 42
+1 Assault Formation (TDC) 246
 1 Assemble the Players (MKM) 3
+1 Axebane Guardian (TDC) 248
 1 Baldin, Century Herdmaster (SLX) 10
+1 Baldin, Century Herdmaster (TDC) 110
 1 Bedrock Tortoise (LCI) 176
 1 Behind the Scenes (SOI) 100
+1 Betor, Kin to All (TDM) 172
 1 Birds of Paradise (RVR) 133
 1 Brave the Sands (CM2) 19
+1 Canopy Gargantuan (TDC) 45
 1 Catapult Fodder / Catapult Captain (VOW) 99
 1 Colfenor, the Last Yew (CMR) 274
 1 Delney, Streetwise Lookout (MKM) 12
 1 Doran, the Siege Tower (2X2) 201
 1 Expel the Interlopers (WOE) 13
 1 Fecund Greenshell (BLB) 171
+1 Felothar the Steadfast (TDC) 4
 1 Fruit of the First Tree (FRF) 132
+1 Jaws of Defeat (TDC) 27
 1 Kin-Tree Invocation (KTK) 183
 1 Meekstone (7ED) 307
 1 Oathsworn Giant (RAV) 27
+1 Rampart Architect (TDC) 47
 1 Ready / Willing (DGM) 132
 1 Shape the Sands (DTK) 205
 1 Sight of the Scalelords (DTK) 207
 1 Spidersilk Armor (DDG) 32
 1 The Necrobloom (MH3) 194
+1 Tip the Scales (TDC) 29
+1 Tower Defense (TDC) 275
+1 Towering Titan (TDC) 276
 1 Tree of Redemption (A25) 191
 1 Virtus the Veiled (PLST) BBD-7
+1 Wall of Reverence (TDC) 139
 1 Wave of Reckoning (C16) 79

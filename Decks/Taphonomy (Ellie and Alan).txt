@@ -1,11 +1,12 @@
     Ellie and Alan, Palaeontologists
+1 Agonasaur Rex (DFT) 151
+1 Altanak, the Thrice-Called (DSK) 166
 1 Angel of the Ruins (MKC) 55
 1 Arcane Signet (LTC) 273
 1 Artisan of Kozilek (NCC) 191
 1 Ash Barrens (MKC) 248
 1 Birthing Pod (SLC) 2011
 1 Burnished Hart (CMR) 691 *F*
-1 Captivating Cave (LCI) 268
 1 Cathars' Crusade (JMP) 95
 1 Champion of Lambholt (2XM) 156
 1 Chulane, Teller of Tales (ELD) 326 *F*
@@ -14,7 +15,6 @@
 1 Consider (MID) 44 *F*
 1 Death's Presence (MIC) 137
 1 Deathbonnet Sprout / Deathbonnet Hulk (MID) 181
-1 Drumbellower (NEC) 6
 1 Eldrazi Temple (SLD) 1154
 1 Eldritch Evolution (EMN) 155
 1 Elesh Norn, Grand Cenobite (MUL) 3 *F*
@@ -28,32 +28,33 @@
 4 Forest (LCI) 291
 1 Ghalta and Mavren (MOM) 386 *F*
 1 Ghalta, Primal Hunger (SLD) 1124
+1 Glittering Wish (PLST) FUT-156 *F*
 1 Hidden Cataract (LCI) 273 *F*
-1 Hidden Courtyard (LCI) 274
 1 Hidden Nursery (LCI) 276 *F*
+1 Hua Tuo, Honored Physician (C13) 149
 1 Hullbreaker Horror (WOC) 95
 1 Ioreth of the Healing House (LTR) 56
 1 Irrigated Farmland (WHO) 288
 3 Island (LCI) 288
 1 Kinnan, Bonder Prodigy (IKO) 192
 1 Kiora's Follower (PBNG) 150
+1 Kona, Rescue Beastie (DSK) 358
 1 Kozilek, the Great Distortion (SLD) 493
 1 Kozilek's Predator (PLST) MM2-147
 1 Last March of the Ents (LTR) 418
 1 Lonely Sandbar (MKC) 273
 1 Lunar Hatchling (WHO) 424 *F*
-1 Lurking Predators (M10) 190
 1 Matter Reshaper (SLD) 1048
 1 Mind's Desire (DDS) 4
+1 Misthollow Griffin (PLST) AVR-68 *F*
 1 Moment's Peace (SLD) 1466
 1 Monster Manual / Zoological Study (CLB) 242
 1 Nest Invader (PCA) 69
+1 Paleontologist's Pick-Axe / Dinosaur Headdress (LCC) 16 *F*
 1 Pathrazer of Ulamog (PLST) ROE-9
 1 Phyrexian Metamorph (PLST) NPH-42
-1 Pit of Offerings (LCI) 278
 3 Plains (LCI) 287
 1 Prime Speaker Vannifar (RNA) 195
-1 Promising Vein (LCI) 279
 1 Reclusive Taxidermist (VOW) 340 *F*
 1 Regal Behemoth (CMM) 651
 1 Rogue's Passage (MKC) 284
@@ -68,11 +69,10 @@
 1 Slippery Karst (DMR) 256 *F*
 1 Spara's Adjudicators (SNC) 335
 1 Spara's Headquarters (SNC) 355
-1 Sunken Citadel (LCI) 285
 1 The Everflowing Well / The Myriad Pools (LCI) 56
 1 The Grey Havens (LTR) 255 *F*
 1 Thousand-Year Elixir (C21) 271
-1 Thrashing Brontodon (LCI) 216
+1 Thrashing Brontodon (LCI) 329
 1 Timeless Witness (MH2) 358
 1 Titanoth Rex (IKO) 174
 1 Tocasia, Dig Site Mentor (BRO) 224 *F*
@@ -86,25 +86,22 @@
 1 Void Winnower (BFZ) 17
 1 Warden of Geometries (OGW) 11
 1 Wastes (SLD) 704
-1 Wastes (SLD) 706
 1 Wastes (SLD) 705
+1 Wastes (SLD) 706
 1 Wayward Swordtooth (SLD) 1392
 1 Welcome to . . . / Jurassic Park (REX) 7
 1 Windfall (C20) 128
+    Check 
+
     In 
-1 Agonasaur Rex (DFT) 151
 1 Bant Sojourners (ARB) 125
 1 Blasted Landscape (USG) 319
 1 Corrupted Grafstone (SOI) 253
 1 Drifting Meadow (USG) 320
 1 Elvish Aberration (CNS) 163
 1 Fatestitcher (ALA) 43
-1 Forgotten Monument (LCI) 272
 1 Ghalta, Stampede Tyrant (LCI) 185
-1 Glittering Wish (TSR) 253
-1 Hua Tuo, Honored Physician (C13) 149
 1 Hunting Grounds (DMR) 191
-1 Kona, Rescue Beastie (DSK) 187
 1 Matzalantli, the Great Door / The Core (LCI) 256
 1 Noble Hierarch (MM2) 151
 1 Reclaim (ORI) 195
@@ -112,7 +109,6 @@
 1 Repopulate (ULG) 111
 1 Riftstone Portal (JUD) 143
 1 Spinner of Souls (FDN) 112
-1 Timeless Dragon (MH2) 35
     Out 
 Arcane Signet out
 Windfall out

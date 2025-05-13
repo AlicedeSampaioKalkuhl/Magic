@@ -75,6 +75,7 @@ Marchesa, Dealer of Death
 1 Charnel Serenade (MKC) 26
 1 Constricting Tendrils (CON) 22
 1 Crowd's Favor (M15) 138
+1 Desperate Measures (TDM) 78
 1 Detection Tower (M19) 249
 1 Foul-Tongue Shriek (DTK) 103
 1 Furious Resistance (GTC) 93

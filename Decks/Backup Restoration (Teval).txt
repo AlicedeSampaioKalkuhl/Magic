@@ -1,0 +1,134 @@
+    Teval, Arbiter 
+
+    Check 
+1 Angel of Suffering (SNC) 67 *F*
+1 Arcane Signet (TDC) 105
+1 Basilica Stalker (MKM) 78
+1 Billowing Shriekmass (FDN) 56
+1 Bone Miser (C19) 15
+1 Broodheart Engine (DFT) 193
+1 Candlestick (MKM) 43
+1 Case of the Shifting Visage (MKC) 19
+1 Cemetery Tampering (DSC) 135
+1 Command Tower (TDC) 107
+1 Conduit of Worlds (ONE) 163
+1 Conduit Pylons (OTJ) 254
+1 Consuming Ashes (OTJ) 83
+1 Counterspell (5ED) 77
+1 Damia, Sage of Stone (CM2) 2 *F*
+1 Darkblast (PLST) GK1-51
+1 Deadbridge Chant (DSC) 215
+1 Deathrite Shaman (SLC) 2012
+1 Deranged Assistant (CMR) 65
+1 Dread Return (CMM) 153
+1 Eloise, Nephalia Sleuth (MIC) 3 *F*
+1 Enhanced Surveillance (MKC) 102
+1 Essence Warden (PLC) 145
+1 Eternal Witness (SLD) 1522
+1 Exotic Orchard (TDC) 360
+1 Far Wanderings (ZNC) 66
+1 Feast of Sanity (MH2) 84
+1 Foreboding Landscape (MH3) 221
+1 Frantic Search (TDC) 153
+1 Golgari Thug (PLST) RAV-87
+1 Gossip's Talent (BLB) 51
+1 Gray Merchant of Asphodel (C14) 146
+1 Healing Technique (C21) 63
+1 Jace, Wielder of Mysteries (WAR) 54
+1 Laboratory Maniac (SLD) 1394
+1 Leyline of Anticipation (WOT) 23 *F*
+1 Millikin (MH2) 297 *F*
+1 Mirko, Obsessive Theorist (MKC) 2 *F*
+1 Molt Tender (DFT) 171
+1 Noose Constrictor (INR) 210
+1 Nyx Weaver (C20) 226
+1 Oblivion Crown (FUT) 73
+1 Opulent Palace (OTC) 307
+1 Oskar, Rubbish Reclaimer (NCC) 77
+1 Overlord of the Balemurk (DSK) 113
+1 Peer into the Abyss (M21) 360
+1 Platinum Angel (SLD) 496
+1 Rakshasa Vizier (PKTK) 193 *F*
+1 Reanimate (MKC) 137
+1 Rubblebelt Maverick (MKM) 174
+1 Satyr Wayfinder (OTC) 204
+1 Sidisi, Brood Tyrant (2X2) 276
+1 Skirge Familiar (MH2) 276
+1 Skull Prophet (IKO) 206 *F*
+1 Sol Ring (LCC) 313
+1 Stitcher's Supplier (DSC) 157
+1 Tasigur, the Golden Fang (FRF) 87
+1 Terramorphic Expanse (DRC) 179
+1 The Gitrog Monster (SLD) 1051
+1 Timeless Witness (MH2) 358
+1 Tocasia's Dig Site (BRO) 266
+1 Unshakable Tail (MKC) 29
+1 Urborg Syphon-Mage (DMR) 106
+1 Uurg, Spawn of Turg (DMU) 225
+1 Victimize (CMR) 157
+1 Vilis, Broker of Blood (SLD) 1567
+1 Whip of Erebos (DSC) 159
+1 Whispering Snitch (MKC) 144
+
+    In 
+1 Aboshan's Desire (ODY) 59
+1 Arid Archway (OTJ) 252
+1 Awaken the Honored Dead (TDM) 170
+1 Beledros Witherbloom (STX) 163
+1 Bog Witch (ARC) 11
+1 Broodspinner (DSK) 211
+1 Cabal Pit (ODY) 315
+1 Centaur Garden (ODY) 316
+1 Colossal Grave-Reaver (TDC) 50
+1 Consign to Memory (MH3) 54
+1 Dakmor Salvage (UMA) 240
+1 Dawnstrider (MMQ) 237
+1 Death Begets Life (TDM) 176
+1 Dimir Strandcatcher (CLU) 30
+1 Diplomatic Escort (MMQ) 74
+1 Drag the Canal (MKM) 199
+1 Dreadwing Scavenger (FDN) 118
+1 Dredger's Insight (DFT) 159
+1 Eternity Vessel (ZEN) 200
+1 Fangkeeper's Familiar (TDM) 183
+1 Hermit Druid (INR) 202
+1 Hidden Grotto (BLB) 254
+1 Izoni, Center of the Web (MKM) 209
+1 Jarad's Orders (RTR) 175
+1 Kheru Goldkeeper (TDM) 199
+1 Kishla Skimmer (TDM) 201
+1 Kishla Village (TDM) 259
+1 Life from the Loam (TDC) 96
+1 Manabond (EXO) 113
+1 Mesmeric Orb (MRD) 204
+1 Monstrify (EVE) 70
+1 Muldrotha, the Gravetide (FDN) 243
+1 Null Profusion (PLC) 89
+1 Oppression (7ED) 152
+1 Outwit (AVR) 70
+1 Oversold Cemetery (DMR) 96
+1 Pact Weapon (CLB) 139
+1 Platinum Emperion (SOM) 193
+1 Profane Transfusion (CMR) 145
+1 Psychic Drain (RAV) 220
+1 Rakshasa's Bargain (TDM) 214
+1 Repay in Kind (ROE) 125
+1 Silverglade Pathfinder (MMQ) 270
+1 Six (MH3) 169
+1 Soul Conduit (NPH) 158
+1 Spitting Image (C21) 229
+1 Stillness in Motion (TDM) 59
+1 Stronghold Biologist (NEM) 45
+1 Stronghold Machinist (NEM) 46
+1 Sultai Ascendancy (KTK) 203
+1 Syphon Life (MMA) 100
+1 Taigam, Sidisi's Hand (CMM) 357
+1 Teval, the Balanced Scale (TDC) 8
+1 Titans' Nest (IKO) 212
+1 Torrent Elemental (FRF) 56
+1 Undercity Sewers (MKM) 270
+1 Underrealm Lich (CLU) 215
+1 Undertaker (TSB) 53
+1 Uro, Titan of Nature's Wrath (THB) 229
+1 Witchbane Orb (ISD) 236
+1 Worm Harvest (C18) 194

@@ -34,11 +34,14 @@
         In 
 1 Amphibian Downpour (MH3) 51
 1 Case of the Crimson Pulse (MKM) 114
+1 Cori Mountain Monastery (TDM) 252
 1 Count on Luck (DFT) 118
 1 Dangerous Wager (AVR) 131
+1 Equilibrium Adept (TDM) 106
 1 Experimental Frenzy (GRN) 99
 1 Great Train Heist (OTJ) 125
 1 Ignite Memories (TSP) 164
+2 Kaho, Minamo Historian (CMM) 101
 1 Null Brooch (EXO) 136
 1 Party Thrasher (MH3) 129
 1 Phantom Interference (OTJ) 61

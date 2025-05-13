@@ -1,0 +1,110 @@
+   Elsha,   
+        Check 
+1 Bloodfire Expert (KTK) 101 *F*
+1 Goblin Electromancer (TDC) 99
+1 Harmonic Prodigy (MH2) 132
+1 Narset of the Ancient Way (IKO) 195
+1 Narset, Parter of Veils (WAR) 61
+1 Aligned Heart (TDC) 12
+1 Anticipate (IKO) 40
+1 Artful Maneuver (DTK) 4 *F*
+1 Clone Legion (NCC) 215
+1 Compulsive Research (TDC) 147
+1 Cunning Strike (FRF) 150 *F*
+1 Deflecting Palm (KTK) 173
+1 Dragon-Style Twins (KTK) 108
+1 Elsha of the Infinite (C19) 40 *F*
+1 Enhanced Awareness (FRF) 33 *F*
+1 Erase (KTK) 9
+1 Fierce Invocation (PLST) FRF-98
+1 Goblinslide (KTK) 109
+1 Great Teacher's Decree (DTK) 21 *F*
+1 Jeskai Charm (KTK) 181
+1 Jeskai Elder (2X2) 53 *F*
+1 Lose Calm (DTK) 147 *F*
+1 Mistfire Adept (FRF) 42
+1 Monastery Mentor (TDC) 125
+1 Monastery Swiftspear (2X2) 119
+1 Mystic Monastery (TDM) 262
+1 Narset's Reversal (TDC) 92
+1 Pressure Point (FRF) 21 *F*
+1 Refocus (FRF) 47 *F*
+1 Riverwheel Aerialists (KTK) 51 *F*
+1 Sage of the Inward Eye (PKTK) 195 *F*
+1 Sage-Eye Avengers (FRF) 50
+1 Sage's Reverie (FRF) 23
+1 Shu Yun, the Silent Tempest (FRF) 52 *F*
+1 Sight Beyond Sight (DTK) 75 *F*
+1 Swift Kick (KTK) 122 *F*
+1 Taigam's Strike (DTK) 81 *F*
+1 Void Squall (DTK) 83 *F*
+1 Volcanic Vision (DTK) 167
+1 Whirlwind of Thought (TDC) 311
+1 Will of the Jeskai (TDC) 40
+        In 
+1 Arc Lightning (KTK) 97
+1 Battle Mastery (DTK) 7
+1 Blessed Reincarnation (DTK) 47
+1 Burn Away (KTK) 104
+1 Center Soul (DTK) 8
+1 Channel Harm (FRF) 7
+1 Collateral Damage (FRF) 95
+1 Cori Mountain Stalwart (TDM) 175
+1 Cori-Steel Cutter (TDM) 103
+1 Dance of the Skywise (DTK) 50
+1 Devoted Duelist (TDM) 104
+1 Dragon Bell Monk (FRF) 10
+1 End Hostilities (KTK) 8
+1 Fate Forgotten (DTK) 17
+1 Fire-Rim Form (TDM) 107
+1 Flamehold Grappler (TDM) 185
+1 Flying Crane Technique (KTK) 176
+1 Focus the Mind (TDM) 45
+1 Fresh Start (TDM) 46
+1 Frostcliff Siege (TDM) 187
+1 Highspire Bell-Ringer (TDM) 47
+1 Illusory Gains (DTK) 59
+1 Jeskai Ascendancy (2X2) 231
+1 Jeskai Banner (KTK) 222
+2 Jeskai Brushmaster (TDM) 195
+1 Jeskai Monument (TDM) 244
+1 Jeskai Revelation (TDM) 196
+1 Jeskai Runemark (FRF) 37
+1 Jeskai Sage (FRF) 38
+1 Jeskai Student (KTK) 14
+1 Jeskai Windscout (KTK) 44
+1 Learn from the Past (DTK) 60
+1 Lightfoot Technique (TDM) 14
+1 Lotus Path Djinn (FRF) 39
+1 Master the Way (KTK) 188
+1 Monastery Siege (FRF) 43
+1 Mystic Meditation (DTK) 64
+1 Narset's Rebuke (TDM) 114
+1 New Way Forward (TDM) 211
+1 Ojutai's Summons (DTK) 68
+1 Pinnacle Monk / Mystic Peak (MH3) 246
+1 Profound Journey (DTK) 30
+1 Quiet Contemplation (KTK) 50
+1 Rally the Monastery (TDM) 19
+1 Rebellious Strike (TDM) 20
+1 Rediscover the Way (TDM) 215
+1 Ringing Strike Mastery (TDM) 53
+1 Riverwheel Sweep (TDM) 219
+1 Scroll of the Masters (FRF) 163
+1 Shatter (KTK) 120
+1 Shifting Loyalties (FRF) 51
+1 Silkwrap (DTK) 38
+1 Skywise Teachings (DTK) 79
+1 Soulfire Grand Master (FRF) 27
+1 Stillness in Motion (TDM) 59
+1 Sunset Strikemaster (TDM) 126
+1 Tapestry of the Ages (DTK) 246
+1 Twin Bolt (CN2) 173
+1 Whirlwind Adept (KTK) 63
+1 Whisk Away (FRF) 57
+1 Windcrag Siege (TDM) 235
+1 Wingspan Stride (TDM) 66
+        Out 
+Monastery Flock out 
+Command Tower out 
+Vanquish the Horde out

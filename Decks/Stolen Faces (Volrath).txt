@@ -49,10 +49,12 @@
 1 Cryptoplasm (MBS) 23
 1 Dimir Doppelganger (CNS) 186
 1 Evil Twin (BBD) 222
+1 Fertilid (CMR) 226
 1 Gigantoplasm (C15) 11
 1 Metamorphic Alteration (M19) 60
 1 Mirror Image (M19) 61
 1 Mystic Reflection (KHM) 69
+1 Ob Nixilis, Unshackled (PM15) 110p
 1 Pirated Copy (J22) 16
 1 Progenitor Mimic (2XM) 212
 1 See Double (MOM) 77
@@ -60,3 +62,4 @@
 1 Undercover Operative (SNC) 63
 1 Visage Bandit (OTJ) 76
 1 Wall of Stolen Identity (C19) 13
+1 Will of the Temur (TDC) 24

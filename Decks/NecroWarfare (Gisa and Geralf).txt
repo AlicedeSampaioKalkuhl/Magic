@@ -90,10 +90,12 @@
 1 Zombie Master (DRC) 46
 	Check 
 	In 
+1 Afterlife from the Loam (TDC) 25
 1 Cabal Coffers (MH2) 301
 1 Cavern of Souls (AVR) 226
 1 Cemetery Recruitment (EMN) 83
 1 Crypt of Agadeem (C14) 288
+1 Essence Anchor (TDM) 44
 1 Field of the Dead (PM20) 247p
 1 Flip the Switch (MID) 54
 1 Geralf, the Fleshwright (OTJ) 287
@@ -109,6 +111,7 @@
 1 Urborg, Tomb of Yawgmoth (PLC) 165
 1 Vengeful Dead (SCG) 80
 1 Warren Soultrader (MH3) 110
+1 Welcome the Dead (TDC) 30
 	Out 
 Jason Bright, Glowing Prophet out 
 Bladestitched Skaab out 

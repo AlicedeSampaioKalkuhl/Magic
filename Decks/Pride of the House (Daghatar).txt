@@ -6,6 +6,7 @@
 1 Anafenza, the Foremost (KTK) 163
 1 Arcus Acolyte (MH2) 361
 1 Arwen, Weaver of Hope (LTC) 35
+1 Basri Ket (M21) 7
 1 Branching Evolution (PIP) 195
 1 Cathars' Crusade (JMP) 95
 1 Conclave Mentor (MOC) 320
@@ -19,19 +20,21 @@
 1 Fertilid (CMR) 226
 1 Forgotten Ancient (BLC) 217
 1 Gavony Township (C20) 276
+1 Gleam of Authority (DTK) 19
 1 Gyre Sage (MIC) 140
 1 Hardened Scales (PIP) 200
 1 Incubation Druid (MOC) 302
 1 Ivorytusk Fortress (PKTK) 179 *F*
 1 Kami of Whispered Hopes (MOM) 196
-1 Karn's Bastion (PWAR) 248p
+1 Karn's Bastion (LCC) 339
 1 Lae'zel, Vlaakith's Champion (CLB) 29
 1 Leinore, Autumn Sovereign (MIC) 1 *F*
 1 Managorger Hydra (C21) 199
 1 Map the Wastes (PLST) FRF-134
 1 Master Chef (CLB) 241
-1 Nesting Grounds (MH3) 302
+1 Oathsworn Knight (ELD) 98
 1 Reyhan, Last of the Abzan (CMR) 534 *E*
+1 Scale Blessing (2X2) 27 *F*
 1 Shaile, Dean of Radiance / Embrose, Dean of Shadow (STX) 158 *F*
 1 Sunbringer's Touch (DTK) 209 *F*
 1 Sunscorch Regent (MOC) 209
@@ -42,20 +45,21 @@
 1 Abzan Banner (KTK) 215
 1 Ajani, Mentor of Heroes (JOU) 145
 1 Avatar of the Resolute (DTK) 175
-1 Basri Ket (M21) 7
 1 Cursed Wombat (MH3) 181
 1 Doubling Season (FDN) 216
 1 Dragonscale General (FRF) 11
 1 Echoes of the Kin Tree (DTK) 15
 1 Evolution Witness (MH3) 151
+1 Felothar, Dawn of the Abzan (TDM) 184
 1 Forge of Heroes (CMM) 995
-1 Gleam of Authority (DTK) 19
 1 Hopeful Initiate (VOW) 20
 1 Innkeeper's Talent (BLB) 180
 1 Invasion of Moag / Bloomwielder Dryads (MOM) 237
 1 Jiang Yanggu, Wildcrafter (WAR) 164
 1 Pledge of Unity (WAR) 210
 1 Retribution of the Ancients (KTK) 85
-1 Scale Blessing (2X2) 27
+1 Stalwart Successor (TDM) 227
+1 Synchronized Charge (TDM) 162
 1 Unspeakable Symbol (SCG) 79
+1 Warden of the Grove (TDM) 166
         Out 

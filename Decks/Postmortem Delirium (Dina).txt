@@ -1,11 +1,14 @@
-
-    In 
-1 Blossom Dryad (XLN) 178
-1 Dawnstrider (MMQ) 237
+Dina, Soul Steeper 
+    Check 
 1 Gnarlwood Dryad (DSC) 180
-1 Loam Dryad (SOI) 216
 1 Needletooth Pack (FDN) 108
-1 Quirion Beastcaller (DMU) 175
-1 Saruli Caretaker (RNA) 139
+1 Quirion Beastcaller (J25) 703
 1 Wardens of the Cycle (FDN) 125
 1 Willowdusk, Essence Seer (C21) 6 *F*
+    In 
+1 Adorned Crocodile (TDM) 69
+1 Blossom Dryad (XLN) 178
+1 Dawnstrider (MMQ) 237
+1 Loam Dryad (SOI) 216
+1 Qarsi Revenant (TDM) 86
+1 Saruli Caretaker (RNA) 139

@@ -94,12 +94,12 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Karn's Bastion (PWAR) 248p
 1 Witch's Clinic (C21) 81
     In 
-1 Camellia, the Seedmiser (BLB) 207
 1 Experimental Confectioner (WOE) 314
 1 Fairgrounds Trumpeter (KLD) 155
 1 Gyome, Master Chef (C21) 332
 1 High Market (C15) 289
 1 Krark-Clan Ironworks (5DN) 134
+1 Loxodon Battle Priest (TDM) 15
 1 Phyrexian Reclamation (C13) 88
 1 Reluctant Role Model (DSK) 26
 1 Return from the Wilds (WOE) 181

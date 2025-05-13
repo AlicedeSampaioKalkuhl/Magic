@@ -1,0 +1,95 @@
+    Kotis, the Fangkeeper 
+
+    Check 
+1 Apprentice Wizard (2XM) 40 *F*
+1 Aqueous Form (CMR) 56
+1 Arcane Signet (DRC) 51
+1 Archetype of Imagination (DSC) 111
+1 Base Camp (ZNR) 257
+1 Bladestitched Skaab (MID) 212
+1 Bramblewood Paragon (PLST) MOR-115 *F*
+1 Burakos, Party Leader (CLB) 653 *F*
+1 Butch DeLoria, Tunnel Snake (PIP) 43
+1 Cascade Seer (ZNR) 48 *F*
+1 Cemetery Reaper (MIC) 108
+1 Chromatic Lantern (DRC) 53
+1 Command Tower (TDC) 107
+1 Concerted Defense (ZNR) 52 *F*
+1 Coveted Prize (ZNR) 95
+1 Darksteel Ingot (OTC) 256
+1 Deadly Alliance (ZNR) 96
+1 Death Baron (MIC) 111
+1 Dimir Signet (MKC) 226
+1 Diregraf Captain (MIC) 148
+1 Drana's Silencer (ZNR) 99
+1 Dreadhorde Invasion (CMM) 866
+1 Favor of the Overbeing (EVE) 151
+1 Glittermonger (SNC) 149
+1 Golgari Signet (DSC) 246
+1 Guardian Augmenter (C21) 62
+1 Gyre Engineer (RNA) 180
+1 Hancock, Ghoulish Mayor (PIP) 45
+1 Hordewing Skaab (MIC) 15
+1 Indomitable Might (WOC) 127
+1 Jaspera Sentinel (KHM) 178
+1 Lightning Greaves (OTC) 260
+1 Liliana's Mastery (MIC) 123
+1 Lord of the Accursed (MIC) 124
+1 Magus of the Library (PLC) 134
+1 Malakir Blood-Priest (CLB) 760
+1 Mindblade Render (CLB) 762
+1 Priest of Forgotten Gods (RNA) 83
+1 Prismatic Lens (TSP) 262
+1 Profaner of the Dead (DTK) 70
+1 Rogue's Passage (OTC) 313
+1 Seafloor Stalker (ZNR) 78
+1 Security Bypass (SNC) 59
+1 Simic Signet (DSC) 252
+1 Sol Ring (LCC) 313
+1 Solemn Doomguide (CLB) 672
+1 Strength of Solidarity (ZNR) 206
+1 Strionic Resonator (MOC) 384
+1 Swiftfoot Boots (FDN) 258
+1 Talisman of Dominance (MKC) 242
+1 Talisman of Resilience (SLD) 1059
+1 The Thirteenth Doctor (WHO) 4 *F*
+1 Thwart the Grave (ZNR) 130
+1 Tomb Tyrant (MIC) 23
+1 Trailblazer's Boots (LTR) 398 *F*
+1 Treasure Dredger (OTJ) 110
+1 Varis, Silverymoon Ranger (AFR) 209
+1 Veteran Adventurer (ZNR) 218
+1 Whispersilk Cloak (LTC) 292
+1 You Meet in a Tavern (CLB) 263 *F*
+1 Zombie Master (DRC) 46
+    In 
+1 Acquisitions Expert (ZNR) 89
+1 Aether Tunnel (M19) 43
+1 Alpha Authority (GTC) 114
+1 Blaring Captain (BBD) 14
+1 Blood Celebrant (LGN) 61
+1 Blood-Chin Rager (DTK) 89
+1 Bog Initiate (INV) 95
+1 Canopy Cover (WWK) 98
+1 Corrosive Mentor (SHM) 61
+1 Decorated Champion (BBD) 69
+1 Disciple of Deceit (JOU) 148
+1 Dragon Fangs (SCG) 117
+1 Drumhunter (C13) 142
+1 Glasspool Mimic / Glasspool Shore (ZNR) 60
+1 Graf Harvest (EMN) 90
+1 Inquisitor's Flail (ISD) 227
+1 Lazotep Plating (WAR) 59
+1 Nimble Trapfinder (ZNR) 72
+1 Obsidian Battle-Axe (MOR) 144
+1 One with Nature (SCG) 125
+1 Predatory Hunger (EXO) 117
+1 Sages of the Anima (ARB) 103
+1 Sita Varma, Masked Racer (DFT) 223
+1 Skyclave Plunder (ZNR) 81
+1 Skyshroud Troopers (STH) 115
+1 Sleeper's Robe (INV) 273
+1 Sultai Monument (TDM) 247
+1 Tajuru Paragon (ZNR) 209
+1 Triton Wavebreaker (MH3) 74
+1 Undead Warchief (HOP) 44

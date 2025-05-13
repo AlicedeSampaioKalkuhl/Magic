@@ -87,6 +87,7 @@
 1 Druid Class (AFR) 180
 1 Exploration (DMR) 159
 1 Hammer of Purphoros (THS) 124
+1 Incite Rebellion (CM2) 108
 1 Jaheira's Respite (CLB) 238
 1 Journey of Discovery (MRD) 123
 1 Loot, Exuberant Explorer (FDN) 106

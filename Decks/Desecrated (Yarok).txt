@@ -27,6 +27,8 @@
 1 Craterhoof Behemoth (CMM) 280
 1 Dour Port-Mage (BLB) 47
 1 Ertai Resurrected (DMU) 199
+1 Steward of the Harvest (TDC) 48
 1 Teferi's Time Twist (WAR) 72
+1 The Sibsig Ceremony (TDM) 91
 1 Uro, Titan of Nature's Wrath (THB) 229
         Out 
