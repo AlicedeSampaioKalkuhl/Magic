@@ -98,5 +98,10 @@
 1 Windswept Heath (MH3) 235
 1 Words of Wind (ONS) 122
     In 
-1 Magmakin Artillerist (DFT) 137
-    Out 
+1 Thassa's Oracle (THB) 73
+1 Vivi Ornitier (FIN) 248
+Gifts Ungiven
+    Out ?
+Artist's Talent 
+Moonsnare Prototype 
+Conqueror's Flail 

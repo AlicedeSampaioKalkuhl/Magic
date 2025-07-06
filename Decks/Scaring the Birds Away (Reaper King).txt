@@ -96,8 +96,11 @@
 1 Unclaimed Territory (LCC) 366
 1 Zinnia, Valley's Voice (BLC) 4 *F*
         Check 
+1 Kastral, the Windcrested (BLB) 221
 1 Messenger Falcons (ARB) 145 *F*
+1 Murmuration (BLC) 10
 1 Sunbird Standard / Sunbird Effigy (LCI) 262
+1 The Swarmweaver (DSK) 363
 1 Wickerfolk Thresher (DSK) 207 *F*
         In 
 1 Aerial Assault (JMP) 80
@@ -107,6 +110,7 @@
 1 Arcbound Condor (MH3) 81
 1 Aven Brigadier (ONS) 7
 1 Aven Wind Guide (AKH) 195
+1 Bartz and Boko (FIN) 175
 1 Beck / Call (DGM) 123
 1 Blazethorn Scarecrow (SHM) 246
 1 Crookclaw Elder (LGN) 34
@@ -118,26 +122,25 @@
 1 Jackdaw Savior (BLB) 18
 1 Jawbone Skulkin (EVE) 170
 1 Junk Diver (MH3) 293
-1 Kastral, the Windcrested (BLB) 221
 1 Keeper of the Nine Gales (LGN) 42
 1 Knightfisher (BLB) 55
 1 Lockjaw Snapper (SHM) 255
 1 Lurebound Scarecrow (SHM) 256
-1 Murmuration (BLC) 10
 1 Painter's Servant (SHM) 257
 1 Pili-Pala (SHM) 258
 1 Scour the Desert (MH2) 28
 1 Scrapbasket (SHM) 262
 1 Seaside Haven (ONS) 323
+1 Sidequest: Raise a Chocobo / Black Chocobo (FIN) 201
 1 Signpost Scarecrow (JMP) 485
 1 Skycat Sovereign (IKO) 207
 1 Soulcatchers' Aerie (JUD) 25
 1 Strix Serenade (MH3) 71
 1 Tatterkite (SHM) 264
-1 The Swarmweaver (DSK) 236
 1 Thornwatch Scarecrow (SHM) 265
 1 Three Tree City (BLB) 260
 1 Timeless Lotus (DMU) 239
+1 Traveling Chocobo (FIN) 210
 1 Wicker Warcrawler (SHM) 269
 1 Wild-Field Scarecrow (SOI) 269
 1 Wildfire Wickerfolk (DSK) 239

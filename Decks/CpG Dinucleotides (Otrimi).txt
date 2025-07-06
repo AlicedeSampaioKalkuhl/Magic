@@ -4,13 +4,12 @@ Otrimi, the Ever Playful
 1 Bighorner Rancher (PIP) 73
 1 Black Market (CLB) 739
 1 Boneyard Lurker (IKO) 298
-1 Cackling Counterpart (ISD) 46
+1 Brokkos, Apex of Forever (IKO) 299
 1 Cavern Whisperer (IKO) 287
 1 Cerulean Wisps (SHM) 31
 1 Charge Through (STX) 124 *F*
 1 Chittering Harvester (IKO) 288
 1 Command Tower (PIP) 259
-1 Croaking Counterpart (MID) 215 *F*
 1 Decisive Denial (STX) 177 *F*
 1 Dirge Bat (IKO) 386
 1 Dreamtail Heron (IKO) 284 *F*
@@ -21,6 +20,7 @@ Otrimi, the Ever Playful
 2 Forest (UNF) 244
 6 Forest (UNF) 239
 1 Gemrazer (IKO) 376
+1 Get a Leg Up (MKM) 161
 1 Glowstone Recluse (IKO) 296 *F*
 1 Helm of the Host (DOM) 217
 1 Hinterland Harbor (DMR) 396
@@ -28,7 +28,6 @@ Otrimi, the Ever Playful
 1 Honored Hierarch (ORI) 182
 1 Hunter's Insight (CMR) 232 *F*
 1 Insatiable Hemophage (IKO) 290
-1 Invigorating Surge (M21) 190
 1 Island (UNF) 236 *F*
 5 Island (UNF) 236
 2 Island (UNF) 241
@@ -49,6 +48,7 @@ Otrimi, the Ever Playful
 1 Quantum Misalignment (WHO) 52 *F*
 1 Rally the Galadhrim (LTC) 499 *F*
 1 Rejuvenating Springs (CMM) 662 *F*
+1 Reliquary Tower (PF23) 3
 1 Return to Nature (ELD) 173 *F*
 1 Rogue's Passage (MKC) 284
 1 Sakashima of a Thousand Faces (SLD) 1541
@@ -83,16 +83,13 @@ Otrimi, the Ever Playful
 1 Withstand Death (SOM) 134
 1 Zagoth Crystal (IKO) 242
     Check 
-1 Brokkos, Apex of Forever (IKO) 299
-1 Get a Leg Up (MKM) 161
-1 Reliquary Tower (OTC) 312
+
     In 
+1 Gogo, Master of Mimicry (FIN) 54
 1 Rainveil Rejuvenator (TDM) 152
 1 Storm of Saruman (LTR) 72
     Out 
-Croaking Counterpart 
-Scale the Heights
-Invigorating Surge
+
 
     Tokens 
 Venerated Rotpriest copy

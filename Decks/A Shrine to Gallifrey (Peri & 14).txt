@@ -48,9 +48,9 @@ Peri Brown & The Fourteenth Doctor
 1 Overgrown Farmland (WHO) 292 *F*
 1 Path of Ancestry (WHO) 293
 1 Peer Through Depths (DDS) 5
-2 Plains (NEO) 283 *F*
-1 Plains (NEO) 294
 2 Plains (NEO) 293
+1 Plains (NEO) 294
+1 Plains (NEO) 283 *F*
 1 Plaza of Heroes (PDMU) 252p *F*
 1 Reach Through Mists (DDS) 7
 1 Rockfall Vale (WHO) 1101 *F*
@@ -59,6 +59,7 @@ Peri Brown & The Fourteenth Doctor
 1 Sanctum of Calm Waters (M21) 68
 1 Sanctum of Fruitful Harvest (M21) 203
 1 Sanctum of Shattered Heights (M21) 157
+1 Sanctum of Tranquil Light (M21) 33
 1 Sift Through Sands (DDS) 9
 1 Sol Ring (WHO) 245
 1 Sonic Screwdriver (SLD) 803 *F*
@@ -91,13 +92,9 @@ Peri Brown & The Fourteenth Doctor
 1 Toils of Night and Day (BOK) 57 *F*
 1 Twice Upon a Time / Unlikely Meeting (WHO) 61
 1 Yomiji, Who Bars the Way (BOK) 30
-    Check 
-
     In 
 1 Minamo, School at Water's Edge (CHK) 279
-1 Sanctum of Tranquil Light (M21) 33
     Out 
-
     Tokens 
 Clue 
 Food 

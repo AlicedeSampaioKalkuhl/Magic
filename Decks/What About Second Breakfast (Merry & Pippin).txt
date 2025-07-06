@@ -92,6 +92,8 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Inspiring Statuary (BRR) 22
 1 Jungle Hollow (PLST) KTK-235
 1 Karn's Bastion (PWAR) 248p
+1 Reluctant Role Model (DSK) 26 *F*
+1 Return from the Wilds (WOE) 181
 1 Witch's Clinic (C21) 81
     In 
 1 Experimental Confectioner (WOE) 314
@@ -101,9 +103,8 @@ Merry, Warden of Isengard & Pippin, Warden of Isengard
 1 Krark-Clan Ironworks (5DN) 134
 1 Loxodon Battle Priest (TDM) 15
 1 Phyrexian Reclamation (C13) 88
-1 Reluctant Role Model (DSK) 26
-1 Return from the Wilds (WOE) 181
 1 Sandsteppe Mastodon (FRF) 137
+1 Sidequest: Catch a Fish / Cooking Campsite (FIN) 31
 1 Sorin of House Markov / Sorin, Ravenous Neonate (MH3) 245
 1 The Great Henge (PELD) 161p
 1 Ygra, Eater of All (BLB) 241

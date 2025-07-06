@@ -11,31 +11,25 @@
 1 Cryptid Inspector (DSK) 174 *F*
 1 Curator Beastie (DSC) 30
 1 Cyber Conversion (WHO) 355
-1 Cybership (WHO) 458
 1 Death in Heaven (WHO) 66
 1 Deathmist Raptor (C19) 160
 1 Den Protector (C19) 161
 1 Disruptive Pitmage (ONS) 81
 1 Dream Chisel (ONS) 308
+1 Etrata, Deadly Fugitive (MKM) 200
 1 Exotic Orchard (C19) 242
 1 Experiment Twelve (MKC) 37
-5 Forest (GS1) 40
-2 Forest (ONE) 276 *F*
-2 Forest (STX) 374
-1 Formless Nurturing (FRF) 129
+1 Experimental Lab / Staff Room (DSC) 33
+9 Forest (GS1) 40
 1 Ghastly Conscription (C19) 115
 1 Growing Dread (DSK) 216 *F*
 1 Hauntwoods Shrieker (DSK) 182
 1 Icefeather Aven (C19) 194
-2 Island (BRO) 270 *F*
-2 Island (STX) 368
-1 Island (STX) 369 *F*
-4 Island (STX) 369
+9 Island (STX) 368 *F*
 1 Ixidron (C19) 87
 1 Jungle Hollow (C19) 254
 1 Kadena's Silencer (C19) 8
 1 Kheru Spellsnatcher (C19) 89
-1 Killer's Mask (DSK) 104
 1 Leyline of Anticipation (M11) 61
 1 Master Biomancer (C21) 224
 1 Mistfire Weaver (KTK) 46
@@ -43,11 +37,12 @@
 1 Myriad Landscape (C19) 261
 1 Nantuko Vigilante (C19) 174
 1 Obscuring Aether (DTK) 194
+1 Omarthis, Ghostfire Initiate (CMM) 708 *F*
 1 Opulent Palace (C19) 264
-1 Orochi Soul-Reaver (OTC) 22
 1 Overgrown Zealot (DSK) 193
 1 Panoptic Projektor (MKC) 44
 1 Pine Walker (KTK) 143 *F*
+1 Primordial Mist (DSC) 123
 1 Printlifter Ooze (MKC) 40
 1 Reality Shift (CMM) 634
 1 Roshan, Hidden Magister (ACR) 32 *F*
@@ -59,17 +54,11 @@
 1 Soul Collector (TSB) 47
 1 Stratus Dancer (C19) 96
 1 Sunken Hollow (C19) 278
-1 Swamp (THB) 283
-2 Swamp (STX) 370
-1 Swamp (STX) 371
-1 Swamp (MID) 382 *F*
-2 Swamp (KHM) 396
-1 Swamp (VOW) 400
+8 Swamp (VOW) 400
 1 Temple of the False God (C19) 280
 1 Temur War Shaman (PFRF) 142 *F*
 1 Terramorphic Expanse (C19) 281
 1 They Came from the Pipes (DSC) 14
-1 Thieving Amalgam (C19) 21
 1 Thornwood Falls (C19) 283
 1 Thousand Winds (C19) 100
 1 Threats Around Every Corner (DSK) 200
@@ -79,6 +68,7 @@
 1 Ugin's Mastery (MKC) 53
 1 Under the Skin (DSK) 203
 1 Valgavoth's Onslaught (PDSK) 204p *F*
+1 Vannifar, Evolved Enigma (MKM) 241
 1 Vesuvan Shapeshifter (C19) 101
 1 Whisperwood Elemental (MKC) 194
 1 Wildcall (FRF) 146
@@ -86,11 +76,7 @@
 1 Zimone, Mystery Unraveler (DSC) 8
 1 Zoetic Cavern (FUT) 180
         Check 
-1 Etrata, Deadly Fugitive (MKM) 200
-1 Experimental Lab / Staff Room (DSC) 33
-1 Glitch Interpreter (DSC) 13
-1 Primordial Mist (DSC) 123
-1 Vannifar, Evolved Enigma (MKM) 241
+1 Glitch Interpreter (DSC) 13   
         In 
 1 Abhorrent Oculus (DSK) 42
 1 Ixidor, Reality Sculptor (PLST) ONS-89
@@ -101,10 +87,12 @@
 1 Weaver of Lies (LGN) 57
         Out 
 Myriad Landscape out 
-Formless Nurturing out 
 Thieving Amalgam out 
-Orochi Soul-Raver out 
 Nantuko Vigilante out 
-Killer's Mask out 
 Cybership out 
+Break Down the Door out 
+Master Biomancer out 
+Death in Heaven out 
+Leyline of Anticipation out 
+
 3 basics out 

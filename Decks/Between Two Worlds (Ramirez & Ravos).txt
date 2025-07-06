@@ -82,6 +82,7 @@
 1 Devouring Greed (CHK) 110
 1 Dreamcatcher (SOK) 34
 1 Elgaud Inquisitor (DKA) 6
+1 Emissary of Despair (DST) 42
 1 Ethereal Absolution (RNA) 170
 1 Gallows at Willow Hill (AVR) 215
 1 Gallows Warden (ISD) 16

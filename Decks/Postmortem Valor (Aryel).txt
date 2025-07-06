@@ -1,28 +1,81 @@
     Aryel, Knight of Windgrace 
         Check 
+1 Acclaimed Contender (MOC) 166
 1 Allied Reinforcements (OGW) 15
+1 Always Watching (SOI) 1
+1 Arcane Signet (DSC) 92
+1 Arvad the Cursed (MOC) 317
+1 Ayara's Oathsworn (MAT) 61 *F*
+1 Barrow Witches (ELD) 77 *F*
+1 Belle of the Brawl (ELD) 78
+1 Benalish Marshal (DOM) 6
+1 Black Market Connections (LCC) 181
+1 Blacklance Paragon (ELD) 79
+1 Bloodcrazed Paladin (XLN) 93
+1 Bojuka Bog (OTC) 273
+1 Call the Cavalry (DOM) 9
+1 Caves of Koilos (DMU) 244
+1 Chivalric Alliance (MOC) 11
+1 Desperate Farmer / Depraved Harvester (VOW) 104
+1 Dion, Bahamut's Dominant / Bahamut, Warden of Light (FIN) 16
 1 Doom Foretold (ELD) 187
+1 Door of Destinies (C17) 208
+1 Dub (M21) 16
+1 Elder Arthur Maxson (PIP) 102
+1 Elenda, Saint of Dusk (PFDN) 119s *F*
+1 Exsanguinator Cavalry (MOC) 26
+1 Fell Horseman / Deathly Ride (WOE) 92
 1 Fetid Heath (OTC) 295
 1 Gideon's Phalanx (ORI) 14
 1 Guarded Heir (FDN) 14
+1 Haakon, Stromgald Scourge (MOC) 252
+1 Heraldic Banner (ELD) 222
 1 History of Benalia (DOM) 21
+1 Invasion of Belenon / Belenon War Anthem (MOM) 20
 1 Kinsbaile Cavalier (DDG) 17
-1 Knight of the New Coalition (MOM) 25
-1 Ledev Guardian (GRN) 18
-1 Moonshaker Cavalry (WOE) 21
-1 Patchwork Banner (BLB) 247
-1 Stoneforge Masterwork (OGW) 166
-1 Syr Alin, the Lion's Claw (FDN) 582
-1 Tainted Field (DSC) 302
-1 Valiant Endeavor (AFC) 13
-1 Zhalfirin Commander (DDG) 13
-        In 
-1 Blacklance Paragon (ELD) 79
-1 Bloodcrazed Paladin (XLN) 93
+1 Knight Exemplar (SLD) 707
 1 Knight of Dusk's Shadow (DMU) 96
 1 Knight of Grace (FDN) 576
 1 Knight of Malice (FDN) 608
+1 Knight of the Ebon Legion (M20) 105
 1 Knight of the Holy Nimbus (TSR) 23
+1 Knight of the New Coalition (MOM) 25
+1 Knightly Valor (2X2) 14
+1 Knights' Charge (MOC) 333
+1 Ledev Guardian (GRN) 18
+1 Locthwain Lancer (MOC) 27
+1 Locthwain Paladin (ELD) 93
+1 Moonshaker Cavalry (WOE) 21
+1 Moorland Rescuer (MIC) 7
+1 Myriad Landscape (DSC) 289
+1 Oathsworn Vampire (RIX) 80 *F*
 1 Paladin of Atonement (RIX) 16
+1 Patchwork Banner (BLB) 247
+1 Path of Ancestry (OTC) 310
+1 Ria Ivor, Bane of Bladehold (ONE) 323 *F*
+1 Sigiled Sword of Valeron (M19) 244
+1 Silverwing Squadron (ELD) 315
+1 Smitten Swordmaster / Curry Favor (ELD) 290
+1 Sol Ring (DSC) 94
 1 Sorin, Grim Nemesis (SOI) 251
+1 Stoneforge Masterwork (OGW) 166
+1 Summon: Knights of Round (FIN) 36
+1 Syr Alin, the Lion's Claw (FDN) 582
+1 Syr Konrad, the Grim (MKC) 141
+1 Tainted Field (DSC) 302
+1 Talisman of Hierarchy (LCC) 315
+1 The Circle of Loyalty (DMC) 98
+1 Unclaimed Territory (LCC) 366
+1 Valiant Endeavor (AFC) 13
+1 Valiant Knight (M19) 42
+1 Venerable Knight (ELD) 35
+1 Virtue of Loyalty / Ardenvale Fealty (WOE) 38
+1 Vona, Butcher of Magan (LCC) 293
+1 Westfold Rider (LTR) 37
+1 Wintermoor Commander (ELD) 205
+1 Worthy Knight (MOC) 217
+1 Zhalfirin Commander (TSB) 18
+1 Zhalfirin Lancer (MOM) 45 *F*
+        In 
+
         Out 

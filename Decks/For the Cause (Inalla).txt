@@ -78,12 +78,15 @@
 1 Entomb (DMR) 82
 1 Kindred Discovery (CLB) 81
 1 Panharmonicon (PIP) 237
+1 Roaring Furnace / Steaming Sauna (DSK) 230
 1 Umara Wizard / Umara Skyfalls (ZNR) 86
     In 
 1 Apprentice Necromancer (C17) 97
 1 Bog Initiate (INV) 95
 1 Burnt Offering (ICE) 116
+1 Circle of Power (FIN) 92
 1 Come Back Wrong (DSK) 86
+1 Cornered by Black Mages (FIN) 93
 1 Corpse Connoisseur (DDK) 54
 1 Docent of Perfection / Final Iteration (EMN) 56
 1 Eroded Canyon (OTJ) 256
@@ -92,10 +95,10 @@
 1 Mana Echoes (2XM) 136
 1 Mistbind Clique (LRW) 75
 1 Molten Echoes (C20) 54
+1 Mysidian Elder (FIN) 145
 1 Persist (MH2) 96
 1 Phyrexian Altar (UMA) 232
 1 Riptide Laboratory (MH2) 303
-1 Roaring Furnace / Steaming Sauna (DSK) 230
 1 Shallow Grave (MIR) 141
 1 Soured Springs (OTJ) 264
 1 Sunscorched Desert (AKH) 249

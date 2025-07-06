@@ -14,7 +14,6 @@
 1 Cyclonic Rift (2XM) 47
 1 Damn (MH2) 80
 1 Dark Ritual (MMQ) 129
-1 Dauntless Dismantler (LCI) 8
 1 Dauthi Voidwalker (MH2) 81
 1 Deadly Rollick (C20) 42
 1 Demonic Consultation (ICE) 121
@@ -39,8 +38,9 @@
 1 Godless Shrine (GTC) 242
 1 Grand Abolisher (SLD) 1285
 1 Hallowed Fountain (RTR) 241
+1 Hashaton, Scarab's Fist (DRC) 1 *F*
 1 Island (SNC) 275
-1 Jace, Wielder of Mysteries (PWAR) 54p
+1 Jace, Wielder of Mysteries (PWAR) 54p *F*
 1 Ledger Shredder (SNC) 412
 1 Lion's Eye Diamond (VMA) 271
 1 Lotus Petal (TMP) 294
@@ -98,13 +98,15 @@
 1 Watery Grave (GTC) 249
 1 Windfall (USG) 111
 1 Yahenni's Expertise (PAER) 75 *F*
-
-    In 
+    Maybe
+1 Bolas's Citadel (PLG21) 3 *F*
 1 Flare of Denial (MH3) 62
+1 Knowledge Exploitation (MOR) 38
+1 Louisoix's Sacrifice (FIN) 59
+1 Stifle (MB2) 173
 1 Stubborn Denial (KTK) 56
 1 Supreme Verdict (2X2) 280
     Out 
-
 
     Tokens 
 Bird 

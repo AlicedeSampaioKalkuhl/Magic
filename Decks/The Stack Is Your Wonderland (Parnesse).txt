@@ -4,6 +4,7 @@
 1 Birgi, God of Storytelling / Harnfel, Horn of Bounty (KHM) 123
 1 Blightstep Pathway / Searstep Pathway (KHM) 252
 1 Bojuka Bog (MIC) 167
+1 Breeches, the Blastmaker (OTJ) 292
 1 Cascade Bluffs (OTC) 276
 1 Chance Encounter (MH2) 277 *F*
 1 Chaos Wand (CLB) 855
@@ -18,7 +19,6 @@
 1 Dark Ritual (SLD) 1170
 1 Dimir Aqueduct (MIC) 172
 1 Dimir Signet (RAV) 260
-1 Double Vision (NCC) 267
 1 Dragonskull Summit (OTC) 289
 1 Drowned Catacomb (OTC) 290
 1 Errant, Street Artist (SNC) 344
@@ -26,6 +26,8 @@
 1 Exotic Orchard (NCC) 400
 1 Extravagant Replication (NCC) 25
 1 Feed the Swarm (NCC) 250
+1 Fiery Gambit (PLST) MRD-90 *F*
+1 Gale, Waterdeep Prodigy (CLB) 72
 1 Goblin Archaeologist (DST) 63
 1 Grixis Panorama (NCC) 407
 1 Harmonic Prodigy (MH2) 132
@@ -33,28 +35,25 @@
 1 Homeward Path (C16) 301
 1 Ian Malcolm, Chaotician (REX) 13 *F*
 1 Increasing Vengeance (DKA) 95
-1 Infernal Grasp (MID) 107
 4 Island (SNC) 274 *F*
 1 Izzet Boilerworks (2X2) 408
 1 Izzet Signet (NCC) 369
-1 Krark, the Thumbless (CMR) 189
+1 Kaervek, the Punisher (OTJ) 92
+1 Krark, the Thumbless (SLD) 1543
 1 Krark's Thumb (MRD) 190
 1 Legerdemain (TMP) 72
 1 Maestros Theater (SNC) 251
 1 Magar of the Magic Strings (UNF) 457 *F*
-1 Magnus the Red (40K) 131
 1 Maze of Ith (DMR) 250
 1 Melek, Izzet Paragon (PDGM) 84 *F*
 1 Mirror March (RNA) 108
-1 Mizzix's Mastery (STA) 43
 3 Mountain (SNC) 279
 1 Nightscape Familiar (PLS) 48
 1 Okaun, Eye of Chaos (BBD) 6
-1 Path of Ancestry (CMM) 661 *F*
 1 Planar Chaos (JUD) 97
 1 Possibility Storm (DGM) 34
+1 Powerbalance (MH3) 131 *F*
 1 Propaganda (CMD) 55
-1 Protection Racket (NCC) 39
 1 Pyromancer's Goggles (SLD) 1066
 1 Rakdos Carnarium (VOC) 180
 1 Rakdos Signet (DIS) 165
@@ -63,7 +62,6 @@
 1 Reliquary Tower (CMM) 663 *F*
 1 Replication Technique (C21) 358
 1 Reversal of Fortune (5DN) 77
-1 Risky Move (ONS) 223
 1 River Song's Diary (WHO) 182
 1 Riverglide Pathway / Lavaglide Pathway (ZNR) 264
 1 Rousing Refrain (C21) 56
@@ -73,14 +71,18 @@
 1 Spelltwine (C17) 94
 1 Squee's Revenge (APC) 123
 1 Storm-Kiln Artist (STX) 115
-3 Swamp (SNC) 276
+2 Swamp (SNC) 277
+1 Swamp (SNC) 276
+1 Swiftfoot Boots (BRR) 58
 1 Swindler's Scheme (NCC) 88
 1 Tavern Scoundrel (MH2) 144
+1 Tavern Swindler (PLST) BBD-162
 1 Temple of the False God (ONC) 172
 1 The Twelfth Doctor (WHO) 563
 1 Thousand-Year Storm (GRN) 207
 1 Tibalt's Trickery (KHM) 153
 1 Tide of War (CHK) 194
+1 Trade the Helm (DFT) 69 *F*
 1 Twinning Staff (NCC) 383
 1 Urabrask / The Great Work (MOM) 299 *F*
 1 Wand of Wonder (CLB) 204
@@ -91,31 +93,26 @@
 1 Zevlor, Elturel Exile (CLB) 296
 1 Zndrsplt, Eye of Wisdom (BBD) 5
     Check 
-1 Breeches, the Blastmaker (OTJ) 292
-1 Fiery Gambit (PLST) MRD-90 *F*
-1 Kaervek, the Punisher (OTJ) 92
-1 Powerbalance (MH3) 131 *F*
 
     In 
 1 Boseiju, Who Shelters All (CHK) 273
+1 Edgar, King of Figaro (FIN) 51
 1 Endless Whispers (5DN) 49
 1 Fighting Chance (EXO) 82
 1 Puppet's Verdict (MMQ) 208
 1 Ral, Monsoon Mage / Ral, Leyline Prodigy (MH3) 247
 1 Stitch in Time (RVR) 229
-1 Trade the Helm (DFT) 69
     Out 
 Sol Ring 
 Arcane Signet 
 Dimir Signet 
 Rakdos Signet 
 Izzet Signet 
-Protection Racket
-Chance Encounter 
-Squee's Refence 
-Infernal Grasp 
-Wand of Wonder 
-Swindler's Scheme 
+Increasing Vengeance 
+Swiftfoot Boots 
+Tavern Swindler 
+Goblin Archaeologist 
+
 
     Tokens 
 Construct 

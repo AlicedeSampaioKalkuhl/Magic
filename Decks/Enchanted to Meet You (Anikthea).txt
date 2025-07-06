@@ -1,5 +1,4 @@
     Anikthea, Hand of Erebos 
-1 Ancestral Mask (PLST) EMA-157
 1 Anointed Procession (AKH) 2
 1 Authority of the Consuls (KLD) 5
 1 Blind Obedience (WOT) 1
@@ -7,10 +6,10 @@
 1 Boon of the Spirit Realm (CMM) 720
 1 Bountiful Promenade (ZNE) 20 *F*
 1 Cacophony Unleashed (CMM) 730
-1 Calix, Destiny's Hand (CMM) 918
 1 Call the Bloodline (SOI) 103
 1 Calming Verse (PCY) 110
 1 Campaign of Vengeance (EMN) 182
+1 Case of the Gateway Express (MKM) 8
 1 Cemetery Tampering (SNC) 69
 1 Chivalric Alliance (MOC) 11
 1 Command Tower (NCC) 395
@@ -23,6 +22,7 @@
 1 Druid's Deliverance (C19) 162
 1 Dying to Serve (VOW) 370
 1 Elemental Bond (ORI) 174
+1 Elven Chorus (LTR) 364
 1 Enchantress's Presence (MH2) 283
 1 Endless Ranks of the Dead (J22) 410
 1 Entomb (PD3) 14 *F*
@@ -30,8 +30,6 @@
 1 Exotic Orchard (C19) 242
 1 Exploration (DMR) 339
 1 Extinguish All Hope (CMM) 157
-1 Feast of the Victorious Dead (MAT) 80 *F*
-1 Fertile Ground (WOC) 126
 4 Forest (THB) 254 *F*
 2 Forest (DSK) 276
 2 Forest (ONE) 266 *F*
@@ -43,22 +41,24 @@
 1 Inspiring Leader (CLB) 28
 1 Intangible Virtue (WOT) 6
 1 Isolated Chapel (OTC) 301
-1 Kenrith's Transformation (ELD) 395
 1 Legion Loyalty (M3C) 171
 1 Life Finds a Way (REX) 31 *F*
+1 Liliana's Mastery (GN3) 54
 1 Martyr's Bond (PLST) CMD-19
 1 Mirari's Wake (CMM) 928
 1 Nature's Will (WOT) 57 *F*
+1 On Wings of Gold (DRC) 21
 1 Overgrown Farmland (WHO) 506
 1 Painful Quandary (SOM) 73 *F*
+1 Path of Discovery (RIX) 142
 1 Peace of Mind (EMN) 36
-4 Plains (PIP) 318
-4 Plains (THB) 250 *F*
+3 Plains (PIP) 318
+5 Plains (THB) 250 *F*
 1 Privileged Position (2X2) 385
+1 Promise of Aclazotz / Foul Rebirth (LCC) 84
 1 Pull from Eternity (TSP) 35
 1 Quest for the Gravelord (PLST) BBD-156
 1 Rabble Rousing (SNC) 24 *F*
-1 Rite of Harmony (PMID) 236p
 1 Rootborn Defenses (MM3) 21
 1 Sandsteppe Citadel (PLST) KTK-241
 1 Sandwurm Convergence (CMM) 911
@@ -66,51 +66,46 @@
 1 Seal of Doom (PLST) C15-135
 1 Seal of Primordium (TSR) 228
 1 Second Harvest (C19) 178
+1 Secret Arcade / Dusty Parlor (DSC) 10
 1 Smothering Tithe (RNA) 22
 1 Song of the Worldsoul (C19) 6
-1 Sterling Grove (MH2) 293
+1 Sphere of Safety (SLD) 588 *F*
 1 Strionic Resonator (MOC) 384
 1 Sundering Growth (C19) 203
-3 Swamp (THB) 252
-3 Swamp (PIP) 321
+2 Swamp (PIP) 321
+4 Swamp (THB) 252
+1 Sylvan Scavenging (FDN) 113
 1 Touch the Spirit Realm (NEO) 40
-1 Tribute to the World Tree (MOM) 373 *F*
 1 Unmarked Grave (MH2) 106
 1 Utopia Sprawl (SLD) 409
 1 Vault of Champions (CMM) 667
 1 Vraska Joins Up (OTJ) 366
 1 Wake the Reflections (PLST) MM3-28
-1 Wild Growth (C18) 165
 1 Woodland Cemetery (ISD) 249
 1 Zombie Infestation (C19) 132
     Check
-1 Caretaker's Talent (BLB) 6
-1 Path of Discovery (RIX) 142
-1 Promise of Aclazotz / Foul Rebirth (LCC) 84
-1 Secret Arcade / Dusty Parlor (DSC) 10
-1 Sphere of Safety (SLD) 588 *F*
-1 Sylvan Scavenging (FDN) 113
+
     In 
+1 A Realm Reborn (FIN) 196
 1 Barrensteppe Siege (TDM) 171
+1 Caretaker's Talent (BLB) 6
 1 Case of the Locked Hothouse (MKM) 155
 1 Cream of the Crop (MOR) 117
 1 Dollmaker's Shop / Porcelain Gallery (DSK) 4
 1 Doubling Season (RAV) 158
-1 Elven Chorus (LTR) 160
 1 Gravestorm (ODY) 141
 1 Greater Auramancy (SHM) 7
 1 Mesmeric Orb (2XM) 272
 1 Mindless Conscription (MH3) 101
 1 Necromancer's Covenant (C15) 229
 1 Parallel Lives (ISD) 199
+1 Ride the Shoopuf (FIN) 197
 1 Song of the Dryads (CMA) 147
 1 Teval's Judgment (TDC) 28
     Out 
 Legion Loyalty 
 Martyr's Bond 
-Utopia Sprawl
-Wild Growth 
-Fertile Ground 
+Utopia Sprawl  q
 Stony Silence 
 Elemental Bond
 

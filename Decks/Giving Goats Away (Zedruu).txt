@@ -124,7 +124,9 @@
 1 Sheer Drop (BFZ) 48
 1 Silent Arbiter (CNS) 204
 1 Stalking Stones (MRD) 284
+1 Stiltzkin, Moogle Merchant (FIN) 34
 1 Terra Eternal (WWK) 22
+1 Zidane, Tantalus Thief (FIN) 251
 
     Out 
 Folio of Fancies out

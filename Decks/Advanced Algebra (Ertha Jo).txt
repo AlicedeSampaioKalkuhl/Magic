@@ -1,6 +1,5 @@
     Ertha Jo, Frontier Mentor 
 1 Abraded Bluffs (OTJ) 251
-1 Abzan Battle Priest (MOC) 164
 1 Abzan Falconer (MIC) 77
 1 Adaptive Gemguard (LCI) 3
 1 Ajani, Caller of the Pride (SCD) 6
@@ -14,6 +13,7 @@
 1 Cathars' Crusade (C16) 61
 1 Chandra, Fire of Kaladesh / Chandra, Roaring Flame (PLST) ORI-135
 1 Chandra's Magmutt (M21) 137 *F*
+1 Cinder Pyromancer (EVE) 50
 1 Clifftop Retreat (LTC) 300
 1 Command Tower (ELD) 333
 1 Contagion Clasp (ONC) 129
@@ -21,9 +21,12 @@
 1 Drumbellower (NEC) 6
 1 Duergar Mine-Captain (EVE) 138
 1 Elspeth Resplendent (SNC) 282
+1 Endrider Catalyzer (DFT) 124
 1 Ent-Draught Basin (LTR) 238
 1 Falkenrath Exterminator (MOC) 276
+1 Fallen Ferromancer (NPH) 82
 1 Felidar Retreat (ZNR) 16
+1 Form a Posse (OTJ) 204
 1 Giver of Runes (SLD) 1463
 1 Goblin Fireslinger (PLST) MM2-114
 1 Grand Master of Flowers (AFR) 282
@@ -36,35 +39,36 @@
 1 Infested Fleshcutter (ONE) 17
 1 Inspiring Vantage (SLD) 1605★ *F*
 1 Jeska, Thrice Reborn (CMR) 186
+1 Junk Jet (PIP) 60
 1 Kiki-Jiki, Mirror Breaker (TSR) 346
 1 Kor Halberd (MOM) 27 *F*
 1 Koth of the Hammer (SLD) 1248 *F*
 1 Kytheon, Hero of Akros / Gideon, Battle-Forged (PLST) ORI-23
-1 Kytheon's Irregulars (ORI) 24
 1 Laser Screwdriver (WHO) 178
 1 Lassoed by the Law (OTJ) 18
 1 Lightning Greaves (OTC) 260
 1 Lukka, Coppercoat Outcast (IKO) 276
-1 Meteorite (PLST) ORI-233
-1 Mila, Crafty Companion / Lukka, Wayward Bonder (STX) 153
+1 Mila, Crafty Companion / Lukka, Wayward Bonder (STX) 277
 1 Mistveil Plains (UMA) 247
 1 Monk of the Open Hand (AFR) 25
 1 Mother of Runes (CLB) 702
-1 Mountain (UNF) 238 *F*
+3 Mountain (UNF) 238
 1 Mountain (ZNR) 275
 1 Mountain (MOM) 288 *F*
 1 Mountain (MOM) 289 *F*
-4 Mountain (UNF) 238
+2 Mountain (UNF) 238 *F*
 1 Myr Convert (ONE) 297
 1 Nahiri's Machinations (SOI) 28
 1 Needleverge Pathway / Pillarverge Pathway (PLST) ZNR-263
 1 Order of Whiteclay (CLB) 703
-1 Plague Myr (MBS) 125
-5 Plains (ZNR) 267
-1 Plains (ZNR) 267 *F*
 1 Plains (UNF) 240
-1 Plains (MOM) 283
+1 Plains (BFZ) 254
+1 Plains (ZNR) 268 *F*
+2 Plains (ZNR) 268
+1 Plains (ZNR) 266
+1 Plains (ZNR) 267
 1 Plains (MOM) 282 *F*
+1 Plains (MOM) 283
 1 Plains (PIP) 318
 1 Prickly Pair (OTJ) 137
 1 Prosthetic Injector (ONE) 239
@@ -82,14 +86,13 @@
 1 Stonespeaker Crystal (CLB) 338
 1 Sunbaked Canyon (WHO) 1110 *F*
 1 Swiftfoot Boots (OTC) 268
-1 Sword of Truth and Justice (SLD) 1096
 1 Temple of the False God (MKC) 305
 1 Thousand-Year Elixir (C13) 266
 1 Umezawa's Jitte (SLD) 1288
+1 Vikya, Scorching Stalwart (SLX) 11
 1 Village Bell-Ringer (LTC) 181
 1 Virtue of Loyalty / Ardenvale Fealty (WOE) 38
 1 Wrench (CLU) 7
-1 Wurmcoil Engine (BRR) 126 *F*
 1 Zirda, the Dawnwaker (MUL) 65 *F*
     Check
 1 Fallen Ferromancer (NPH) 82
@@ -136,7 +139,6 @@ Duergar Mine-Captain
 Prickly Pair 
 Adaptive Gemguard 
 High Sentinels of Arashin 
-Kytheon's Irregulars 
 Requisition Raid 
 Kor Halberd 
 Wrench 

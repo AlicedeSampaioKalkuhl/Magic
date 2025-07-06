@@ -119,6 +119,7 @@
 1 Pestilent Spirit (RNA) 81
 1 Rivaz of the Claw (DMU) 215
 1 Savai Triome (PIKO) 253p
+1 Self-Destruct (FIN) 157
 1 Solar Blaze (WAR) 216
 1 Stinging Study (C21) 44
 1 Wall of Essence (M15) 41

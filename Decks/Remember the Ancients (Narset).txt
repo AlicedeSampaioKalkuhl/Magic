@@ -109,11 +109,14 @@
 1 Runic Repetition (C19) 94
 1 Saving Grasp (DKA) 46
 1 Scour All Possibilities (MH1) 67
+1 Seifer Almasy (FIN) 156
 1 Sevinne, the Chronoclasm (C19) 49 *F*
 1 Slickshot Lockpicker (OTJ) 67
 1 Snapcaster Mage (UMA) 71
 1 Sonic Assault (GRN) 199
 1 Sorcerer Class (AFR) 233
+1 Sorceress's Schemes (FIN) 159
+1 Summon: G.F. Cerberus (FIN) 162
 1 Visions of Duplicity (MIC) 33
 1 Volley of Boulders (DDI) 73
 1 Waves of Aggression (EVE) 148

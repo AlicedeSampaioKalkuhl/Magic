@@ -1,7 +1,7 @@
 deck,commander,power,played,won,draw,lost,type,W,U,B,R,G,artist,plane,moxfield,themes,last_updated,priority
-Doomeed Wedding Day,Toluz,cEDH,13,5,1,7,cEDH,TRUE,TRUE,TRUE,FALSE,FALSE,Donato Giancola,New Capenna,jIQUKoqnmUi560I-XWEWWg,cEDH Doomsday&cEDH midrange,25.03.2024,1
-twiddle shark,Brallin&Shabraz,cEDH,4,2,0,2,cEDH,TRUE,TRUE,FALSE,TRUE,TRUE,Paul Scott Canavan&Paul Scott Canavan,Ikoria,F7gmcCibf026zTcNnB0rew,cEDH artifacts,12.2024,2
-Pondering the End of Days,Glarb,cEDH,0,0,0,0,cEDH,FALSE,TRUE,TRUE,FALSE,TRUE,Bram Sels,Bloomburrow,c-4WFWCVJUaOjbzWbj-TnQ,cEDH Doomsdays,04.02.2025,3
+Doomeed Wedding Day,Toluz,cEDH,13,5,1,7,cEDH,TRUE,TRUE,TRUE,FALSE,FALSE,Donato Giancola,New Capenna,jIQUKoqnmUi560I-XWEWWg,cEDH Doomsday&cEDH midrange,19.06.2025,1
+twiddle shark,Brallin&Shabraz,cEDH,4,2,0,2,cEDH,TRUE,TRUE,FALSE,TRUE,TRUE,Paul Scott Canavan&Paul Scott Canavan,Ikoria,F7gmcCibf026zTcNnB0rew,cEDH artifacts,19.06.2025,2
+Pondering the End of Days,Glarb,cEDH,0,0,0,0,cEDH,FALSE,TRUE,TRUE,FALSE,TRUE,Bram Sels,Bloomburrow,c-4WFWCVJUaOjbzWbj-TnQ,cEDH Doomsdays,19.06.2025,3
 The Stack Is Your Wonderland,Parnesse,mid,14,2,1,11,LGS,FALSE,TRUE,TRUE,TRUE,FALSE,Svetlin Velinov,New Capenna,FxogC8HyLESeMO0RKeZ5iQ,chaos&coin flip,29.01.2025,4
 Nephalia Nightmares,Jeleva,high,16,6,2,8,LGS,FALSE,TRUE,TRUE,TRUE,FALSE,Cynthia Sheppard,Innistrad,wa9WtU4FeEO7RsyPj5zawgm,mill&drawing cards,25.02.2025,5
 Cartography 1.01,Amalia,mid,1,1,0,0,LGS,TRUE,FALSE,TRUE,FALSE,FALSE,Alix Branwyn,Ixalan,I8JP_6ORP0SRdJc0CaLeGA,lifegain&artistocrats,14.02.2025,
@@ -17,7 +17,7 @@ Genosha Diamon,Emma Frost,mid,1,1,0,0,LGS,TRUE,TRUE,TRUE,FALSE,FALSE,Alice de Sa
 Ixalan Omenpaths,Xavier Sal,mid,1,0,0,1,LGS,FALSE,TRUE,TRUE,FALSE,TRUE,Bryan Sola,Ixalan,FALSE,TRUE,27BleU9wSE-THUunFagFKA,TRUE,superfriends,02.2024,13
 Wolf in Sheep's Clothing,Vislor&The Second Doctor,mid,3,2,0,1,LGS,TRUE,TRUE,TRUE,FALSE,FALSE,Wangjie Li&Bryan Sola,Tardis&Tardis,TRUE,FALSE,fD7I-DpVe0eQ1xVii4L7cg,FALSE,group hug&drawing cards,29.01.2025,14
 NecroWarfare,Gisa and Geralf,mid,5,3,0,2,LGS,FALSE,TRUE,TRUE,FALSE,FALSE,Karla Ortiz&Karla Ortiz,Innistrad&Innistrad,FALSE,FALSE,wpnKX_KZe0WCmVnfsfescA,FALSE,zombies,15.04.2025,15
-Enchanted to Meet You,Anikthea,mid,2,1,0,2,LGS,FALSE,FALSE,TRUE,TRUE,FALSE,Magali Villeneuve,Theros,D7fsR8drH0agux6bpYfvLQ,enchantress,12.04.2025,16
+Enchanted to Meet You,Anikthea,mid,2,1,0,2,LGS,FALSE,FALSE,TRUE,TRUE,FALSE,Magali Villeneuve,Theros,D7fsR8drH0agux6bpYfvLQ,enchantress,19.06.2025,16
 War Within,Adric&The War Doctor,mid,2,1,0,1,LGS,TRUE,TRUE,FALSE,TRUE,FALSE,Billy Christian&Lixin,Tardis&Tardis,td6uYctlJkyqWszob_xVxA,exalted&foretell,12.04.2025,17
 Modelling Infectious Disease Parameters,Nashi,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,FALSE,TRUE,Patrik Hell,Kamigawa,VT1gkaMdHkiD_zLDrSMZag,rats,09.04.2024,18
 Library Loan Collection,Eriette,mid,1,0,1,0,proxied,TRUE,TRUE,TRUE,FALSE,FALSE,,Eldraine,hcDCV-3moEWcj7EwmPipXg,auras&theft&tokens,03.04.2024,19
@@ -28,7 +28,7 @@ In The Blink Of Time,Abuelo,mid,1,0,0,1,LGS,TRUE,TRUE,FALSE,FALSE,FALSE,Victor A
 What About Second Breakfast?,Merry&Pippin,mid,2,0,1,1,LGS,TRUE,FALSE,TRUE,FALSE,TRUE,Viko Menezes&Viko Menezes,middle Earth&middle Earth,FALSE,FALSE,xPAFdVjyAUuINvbkNLyHVg,FALSE,food&elephants&stickers,20.03.2024,23
 Pompeii,Gallia,high,10,1,2,7,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Johannes Voss,Theros,FALSE,FALSE,HuLxRxvIu0WlLzUwmdk46g,FALSE,discard&reanimator,27.03.2024,24
 Symbiosis,Abomination of Llanowar,mid,13,8,0,5,LGS,FALSE,FALSE,TRUE,FALSE,TRUE,Johannes Voss&Magali Villeneuve,Lorwyn&,FALSE,FALSE,n5_lUaLKukO3Ws6D2c3tvA,TRUE,elves,04.04.2024,25
-A Shrine to Gallifrey,Peri Brown & The Fourteenth Doctor,mid,1,0,0,1,LGS,TRUE,TRUE,FALSE,TRUE,TRUE,Justyna Dura&Wangjie Li,Tardis&Tardis,FALSE,FALSE,s0waMyW5ukyNVx8EPgAv4g,FALSE,doctors&arcane&shrines&the Unspeakable,29.01.2025,26
+A Shrine to Gallifrey,Peri Brown & The Fourteenth Doctor,mid,2,0,1,1,LGS,TRUE,TRUE,FALSE,TRUE,TRUE,Justyna Dura&Wangjie Li,Tardis&Tardis,FALSE,FALSE,s0waMyW5ukyNVx8EPgAv4g,FALSE,doctors&arcane&shrines&the Unspeakable,19.06.2025,26
 The Weatherlight is Under Construction,Jhoira,high,9,0,1,8,LGS,FALSE,TRUE,FALSE,TRUE,FALSE,Lisa Heidhoff,Dominaria,FALSE,FALSE,jLFKB8hsVEalMDUZzieFDQ,TRUE,artifacts&attractions,20.03.2024,27
 Siege,Piru,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,TRUE,FALSE,Greg Staples,Dominaria,TRUE,FALSE,-nCX0TSSQUSQcv-6gntvdA,FALSE,big butts&stuffy doll&poison,28.03.2024,28
 Sign Here,Rubinia,mid,0,0,0,0,Unfinished,TRUE,TRUE,FALSE,FALSE,TRUE,Cynthia Sheppard,Unknown,FALSE,FALSE,tVS6EoKpSEaJIEAPGDy0FA,FALSE,plot&theft&etb,14.02.2025,29
@@ -87,7 +87,7 @@ The Way,Elsha,mid,0,0,0,0,Unfinished,TRUE,TRUE,FALSE,TRUE,FALSE,Irina Nordsol,Ta
 Flying Hippos,Eutropia,mid,0,0,0,0,Unfinished,FALSE,TRUE,FALSE,FALSE,TRUE,,Theros,,,enchantress,,82
 Stalled Engine,Greasefang,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,FALSE,FALSE,,Kamigawa,,,vehicles,15.02.2025,83
 Spice Up Your Life,The Toymaker,mid,0,0,0,0,Unfinished,TRUE,TRUE,TRUE,FALSE,FALSE,,Gallifrey,,,sphinx,,84
-Between Worlds,Ravos&Ramirez,mid,0,0,0,0,Unfinished,TRUE,TRUE,TRUE,FALSE,FALSE,,Theros&Dominaria,,,spirits,,85
+Between Worlds,Ravos&Ramirez,mid,0,0,0,0,Unfinished,TRUE,TRUE,TRUE,FALSE,FALSE,,Theros&Dominaria,,,spirits,29.06.2025,85
 What We Do In The Shadows,Minthara,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,FALSE,FALSE,,Forgotten Realms,,,demons&clerics,29.01.2025,86
 Heart of the Cards,Sheldon,mid,0,0,0,0,Unfinished,TRUE,TRUE,FALSE,FALSE,TRUE,,Ir,,,,,87
 Headhunters,Saskia,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,TRUE,TRUE,,Unknown,,,,,88

@@ -102,6 +102,7 @@
 1 Serpentine Curve (STX) 52
     In 
 1 Aggressive Biomancy (M3C) 121
+1 Chocobo Kick (FIN) 178
 1 Dreamscape Artist (PLC) 40
 1 Field of the Dead (PM20) 247p
 1 Fountainport (BLB) 253
@@ -118,6 +119,8 @@
 1 Sword of Hours (AFC) 61
 1 Tanazir Quandrix (STX) 240
 1 The Millennium Calendar (LCI) 257
+1 Tifa Lockhart (FIN) 206
+1 Tifa's Limit Break (FIN) 207
 1 Traverse the Outlands (CLB) 258
 1 Visions of Dominance (MIC) 37
     Out 

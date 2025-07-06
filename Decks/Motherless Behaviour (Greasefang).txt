@@ -1,15 +1,12 @@
-    Greasefang, Okiba Boss 
+        Greasefang, Okiba Boss 
 1 Aerial Surveyor (NEC) 5
 1 Aeronaut Admiral (NEC) 79
 1 Armed and Armored (NEC) 80
 1 Bog Witch (ARC) 11
 1 Born to Drive (NEO) 6
 1 Brotherhood Vertibird (PIP) 128
-1 Carrion Cruiser (DFT) 78
-1 Cultivator's Caravan (FDN) 670
+1 Cultivator's Caravan (DRC) 127
 1 Dermotaxi (MH2) 224
-1 Dreadmobile (MH3) 87
-1 Gearshift Ace (KLD) 16
 1 Hotshot Mechanic (NEO) 16
 1 Imperial Recovery Unit (NEO) 18
 1 Kitsune Ace (NEO) 22
@@ -17,7 +14,6 @@
 1 Lita, Mechanical Engineer (J22) 6
 1 Mech Hangar (NEO) 270
 1 Mukotai Soulripper (NEO) 113
-1 Nautiloid Ship (CLB) 328
 1 Okiba Reckoner Raid / Nezumi Road Captain (NEO) 117
 1 Parhelion II (WAR) 24
 1 Peacewalker Colossus (NEC) 155
@@ -26,14 +22,18 @@
 1 Smuggler's Copter (SLD) 446
 1 Surgehacker Mech (NEO) 260 *F*
 1 The Prydwen, Steel Flagship (PIP) 22
-1 Unlicensed Hearse (SNC) 246
-1 Untethered Express (AER) 179
-1 Weatherlight (NEC) 165
+1 Unlicensed Hearse (OTP) 64
+1 Weatherlight (PLST) DOM-237
     Check 
-
-    In 
-1 Demonic Junker (DFT) 83
-1 Salvation Engine (DFT) 27
 1 Tune Up (DFT) 33
+    In 
+1 Carrion Cruiser (DFT) 78
+1 Demonic Junker (DFT) 83
+1 Dreadmobile (MH3) 87
+1 From Father to Son (FIN) 20
+1 Gearshift Ace (KLD) 16
+1 Nautiloid Ship (CLB) 328
+1 Salvation Engine (DFT) 27
+1 Untethered Express (AER) 179
 1 Voyager Glidecar (DFT) 36
     Out 

@@ -52,6 +52,7 @@
 1 Anticipate (DTK) 45 *F*
 1 Aqueous Form (THS) 39
 1 Arcane Signet (WHO) 239
+1 Bedlam Reveler (INR) 142
 1 Calculated Dismissal (PLST) ORI-48
 1 Castle Vantress (ELD) 242
 1 Chandra's Ignition (LCC) 220
@@ -59,6 +60,7 @@
 1 Conjurer's Bauble (5DN) 112
 1 Crystal Grotto (WOE) 254
 1 Daring Escape (SNC) 104
+1 Dragon-Style Twins (KTK) 108
 1 Dream Cache (PLST) C18-88
 1 Empty the Warrens (DMR) 118
 1 Experimental Augury (ONE) 49
@@ -80,6 +82,7 @@
 1 Otterball Antics (BLB) 63
 1 Preordain (WHO) 218
 1 Prismari Campus (STX) 270
+1 Prognostic Sphinx (DSC) 124
 1 Propaganda (C16) 94
 1 Proteus Staff (MRD) 230
 1 Retreat to Coralhelm (BFZ) 82
@@ -99,18 +102,16 @@
 1 Talisman of Creativity (WHO) 248
 1 TARDIS (WHO) 187
 1 Temple of the False God (40K) 300
-1 Thundertrap Trainer (BLB) 78
+1 Thundertrap Trainer (BLB) 386 *F*
 1 Timestream Navigator (LCC) 178
 1 Trenzalore Clocktower (WHO) 190
 1 Witness the Future (VOW) 90 *F*
 1 Zhalfirin Void (PDOM) 249 *F*
     In 
-1 Bedlam Reveler (2X2) 104
 1 Bria, Riptide Rogue (BLB) 379
 1 Crystal Ball (PLST) C18-201
 1 Desynchronize (BRO) 46
 1 Dissolve (IMA) 51
-1 Dragon-Style Twins (KTK) 108
 1 Expedite (CMR) 413
 1 Ground Rift (TSP) 162
 1 Impede Momentum (DMU) 54
@@ -118,9 +119,9 @@
 1 Isolated Watchtower (C18) 59
 1 Junktroller (RNA) 235
 1 Mana Geyser (C21) 176
+1 Memories Returning (FIN) 63
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Nyx Lotus (PTHB) 235p
-1 Prognostic Sphinx (E01) 26
 1 Reito Lantern (CNS) 202
 1 Saheeli Rai (KLD) 186
 1 Scattershot (SCG) 102
