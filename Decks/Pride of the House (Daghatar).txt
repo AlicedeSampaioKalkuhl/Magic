@@ -15,6 +15,7 @@
 1 Dromoka's Command (2X2) 206
 1 Duskshell Crawler (MH2) 156
 1 Enduring Scalelord (MOC) 325
+1 Enduring Scalelord (BBD) 221
 1 Felidar Retreat (CMM) 821
 1 Felisa, Fang of Silverquill (C21) 2 *F*
 1 Fertilid (CMR) 226
@@ -34,8 +35,11 @@
 1 Master Chef (CLB) 241
 1 Oathsworn Knight (ELD) 98
 1 Reyhan, Last of the Abzan (CMR) 534 *E*
+1 Sandsteppe War Riders (MOC) 39
 1 Scale Blessing (2X2) 27 *F*
 1 Shaile, Dean of Radiance / Embrose, Dean of Shadow (STX) 158 *F*
+1 Skyclave Shadowcat (ZNR) 126
+1 Storm the Seedcore (MOM) 206
 1 Sunbringer's Touch (DTK) 209 *F*
 1 Sunscorch Regent (MOC) 209
 1 Together Forever (ZNC) 22
@@ -54,6 +58,7 @@
 1 Forge of Heroes (CMM) 995
 1 Hopeful Initiate (VOW) 20
 1 Innkeeper's Talent (BLB) 180
+1 Inspiring Roar (AER) 186
 1 Invasion of Moag / Bloomwielder Dryads (MOM) 237
 1 Jiang Yanggu, Wildcrafter (WAR) 164
 1 Pledge of Unity (WAR) 210
@@ -63,3 +68,4 @@
 1 Unspeakable Symbol (SCG) 79
 1 Warden of the Grove (TDM) 166
         Out 
+        
