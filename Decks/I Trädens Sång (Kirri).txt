@@ -6,6 +6,8 @@
 1 Audience with Trostani (MKM) 309 *F*
 1 Avenger of Zendikar (OTC) 187
 1 Beanstalk Wurm / Plant Beans (WOE) 161
+1 Bioengineered Future (EOE) 172
+1 Bosk Banneret (MOR) 114
 1 Bristling Backwoods (OTJ) 253
 1 Bristly Bill, Spine Sower (OTJ) 157
 1 Bucolic Ranch (OTJ) 265 *F*
@@ -27,42 +29,39 @@
 1 Dunes of the Dead (OTC) 291
 1 Dust Bowl (OTP) 65
 1 Enter the Unknown (RIX) 128
-1 Everything Comes to Dust (WHO) 19
 1 Evolving Wilds (AFR) 353
 1 Explore (OTC) 192
 1 Fabled Passage (SLD) 471 *F*
 1 Faeburrow Elder (DMC) 149
 1 Fangorn, Tree Shepherd (LTR) 166
-1 Forest (OTJ) 276 *F*
-1 Forest (OTJ) 276
+2 Forest (OTJ) 276 *F*
 1 Forgotten Harvest (PCY) 114
 1 Genesis Hydra (OTC) 193
+1 Goobbue Gardener (FIN) 188
 1 Great Oak Guardian (LTC) 247
 1 Hashep Oasis (OTC) 299
 1 Hazezon, Shaper of Sand (DMC) 32 *F*
 1 Highway Robbery (OTJ) 129
 1 Hostile Desert (MKC) 266
 1 Hour of Promise (OTC) 195
+1 Ilysian Caryatid (CMM) 297 *F*
 1 Jetmir's Garden (SNC) 250
 1 Jungle Shrine (OTC) 303
 1 Khalni Garden (PCA) 122
 1 Kurbis, Harvest Celebrant (MIC) 27
 1 Lignify (SLD) 1847
-1 Living Totem (M15) 184
 1 Lorehold Excavation (STX) 200
 1 Lotus Cobra (SLD) 1223 *F*
 1 Lotus Field (SLC) 2023 *F*
 1 Map the Frontier (OTJ) 170
 1 Mirage Mesa (OTJ) 262 *F*
 1 Mirrorpool (CMM) 1010
-2 Mountain (OTJ) 275 *F*
-1 Mountain (OTJ) 275
+1 Mistveil Plains (UMA) 247
+3 Mountain (OTJ) 275 *F*
 1 Naya Panorama (ZNC) 136
-1 Nissa's Expedition (SCD) 199
 1 Oaken Brawler (LRW) 33
 1 Painted Bluffs (OTC) 309
-1 Phylath, World Sculptor (ZNR) 313
-3 Plains (OTJ) 272 *F*
+2 Plains (OTJ) 272 *F*
 1 Quickbeam, Upstart Ent (LTR) 419
 1 Ramunap Ruins (OTC) 311
 1 Reach of Branches (MOR) 132
@@ -96,22 +95,18 @@
 1 Wreck and Rebuild (OTC) 250
 1 Yuma, Proud Protector (OTC) 4
     Check 
-1 Ilysian Caryatid (CMM) 297 *F*
+
     In 
 1 Arid Archway (OTJ) 252
 1 Crucible of Worlds (2X2) 303
 1 Field of the Dead (M20) 247
-1 Goobbue Gardener (FIN) 188
-1 Life from the Loam (RVR) 148
 1 Mesmeric Orb (2XM) 272
-1 Mistveil Plains (UMA) 247
+1 Ouroboroid (PEOE) 201p
 1 Sabotender (FIN) 153
 1 Seedguide Ash (LRW) 235
 1 Walk-In Closet / Forgotten Cellar (DSK) 205
-1 Will of the Sultai (TDC) 49
     Out 
-Wand of the Worldsoul out 
 Ash Barrens out 
-Phylath, World Scupltor out 
 Mirrorpool out 
-Nissa's Expediion out 
+Wand of the Worldsoul out 
+The Mending of Dominaria out 

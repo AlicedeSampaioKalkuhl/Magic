@@ -6,7 +6,6 @@
 1 Callidus Assassin (40K) 109
 1 Cephalid Facetaker (NCC) 23
 1 Clone Legion (NCC) 215
-1 Doppelgang (MKM) 198
 1 Double Major (STX) 179
 1 Extravagant Replication (NCC) 25
 1 Fated Infatuation (BNG) 39
@@ -17,7 +16,6 @@
 1 Identity Thief (NCC) 224
 1 Imposter Mech (NEC) 13
 1 Infinite Reflection (AVR) 61
-1 Irenicus's Vile Duplication (CLB) 78
 1 Lazav, Dimir Mastermind (GTC) 174
 1 Mirror Box (NEO) 250
 1 Mocking Doppelganger (CLB) 667
@@ -25,7 +23,6 @@
 1 Moritte of the Frost (KHM) 328
 1 Nanogene Conversion (WHO) 49
 1 Phyrexian Metamorph (MKC) 116
-1 Quasiduplicate (RVR) 55
 1 Sakashima of a Thousand Faces (CMR) 561 *E*
 1 Sakashima the Impostor (PLST) SOK-53
 1 Sakashima's Protege (CMR) 90
@@ -43,20 +40,24 @@
 1 Biovisionary (GTC) 146
 1 Blade of Shared Souls (ONE) 42
 1 Cemetery Puca (SHM) 158
+1 Chameleon, Master of Disguise (SPM) 27
 1 Clever Impersonator (C19) 82
 1 Clone (M14) 47
 1 Copycrook (MH3) 55
 1 Cryptoplasm (MBS) 23
 1 Dimir Doppelganger (CNS) 186
+1 Doppelgang (MKM) 198
 1 Evil Twin (BBD) 222
 1 Fertilid (CMR) 226
 1 Gigantoplasm (C15) 11
+1 Irenicus's Vile Duplication (CLB) 78
 1 Metamorphic Alteration (M19) 60
 1 Mirror Image (M19) 61
 1 Mystic Reflection (KHM) 69
 1 Ob Nixilis, Unshackled (PM15) 110p
 1 Pirated Copy (J22) 16
 1 Progenitor Mimic (2XM) 212
+1 Quasiduplicate (RVR) 55
 1 See Double (MOM) 77
 1 Three Steps Ahead (OTJ) 75
 1 Undercover Operative (SNC) 63

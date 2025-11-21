@@ -86,6 +86,7 @@ Amareth the Lustrous
 1 Poison Dart Frog (LCI) 207
 1 Quirion Elves (MIR) 234
 1 Quirion Explorer (PLS) 90
+1 Raucous Audience (TLA) 190
 1 Runadi, Behemoth Caller (J22) 44
 1 Shaman of Forgotten Ways (DTK) 204
 1 Shield Sphere (ALL) 129
@@ -98,7 +99,6 @@ Amareth the Lustrous
 1 Three Tree Rootweaver (BLB) 198
 1 Twitching Doll (DSK) 201
 1 Utopia Tree (9ED) 277
-1 Verdant Eidolon (DIS) 100
 1 Vine Dryad (MMQ) 284
 1 Viridian Joiner (MRD) 138
 1 Weaver of Currents (AKH) 209

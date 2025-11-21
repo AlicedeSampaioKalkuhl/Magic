@@ -71,6 +71,7 @@
 1 Blood-Chin Rager (DTK) 89
 1 Bog Initiate (INV) 95
 1 Canopy Cover (WWK) 98
+1 Chorale of the Void (PEOE) 91p
 1 Corrosive Mentor (SHM) 61
 1 Decorated Champion (BBD) 69
 1 Disciple of Deceit (JOU) 148
@@ -93,3 +94,4 @@
 1 Tajuru Paragon (ZNR) 209
 1 Triton Wavebreaker (MH3) 74
 1 Undead Warchief (HOP) 44
+    Out 

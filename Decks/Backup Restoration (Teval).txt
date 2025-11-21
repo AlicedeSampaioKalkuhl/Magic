@@ -10,6 +10,7 @@
 1 Candlestick (MKM) 43
 1 Case of the Shifting Visage (MKC) 19
 1 Cemetery Tampering (DSC) 135
+1 Chaotic Chaotician (SLD) 1394
 1 Command Tower (TDC) 107
 1 Conduit of Worlds (ONE) 163
 1 Conduit Pylons (OTJ) 254
@@ -23,7 +24,7 @@
 1 Dread Return (CMM) 153
 1 Eloise, Nephalia Sleuth (MIC) 3 *F*
 1 Enhanced Surveillance (MKC) 102
-1 Essence Warden (PLC) 145
+1 Essence Warden (LTC) 242
 1 Eternal Witness (SLD) 1522
 1 Exotic Orchard (TDC) 360
 1 Far Wanderings (ZNC) 66
@@ -35,7 +36,6 @@
 1 Gray Merchant of Asphodel (C14) 146
 1 Healing Technique (C21) 63
 1 Jace, Wielder of Mysteries (WAR) 54
-1 Laboratory Maniac (SLD) 1394
 1 Leyline of Anticipation (WOT) 23 *F*
 1 Millikin (MH2) 297 *F*
 1 Mirko, Obsessive Theorist (MKC) 2 *F*
@@ -71,7 +71,7 @@
 1 Whispering Snitch (MKC) 144
 
     In 
-1 Aboshan's Desire (ODY) 59
+11 Aboshan's Desire (ODY) 59
 1 Arid Archway (OTJ) 252
 1 Awaken the Honored Dead (TDM) 170
 1 Beledros Witherbloom (STX) 163
@@ -124,6 +124,7 @@
 1 Syphon Life (MMA) 100
 1 Taigam, Sidisi's Hand (CMM) 357
 1 Teval, the Balanced Scale (TDC) 8
+1 The Endstone (PEOE) 240p
 1 Titans' Nest (IKO) 212
 1 Torrent Elemental (FRF) 56
 1 Undercity Sewers (MKM) 270

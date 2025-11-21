@@ -1,4 +1,47 @@
     Shattergang Brothers 
+1 Agatha of the Vile Cauldron (WOE) 199
+1 Aspect of Mongoose (TSP) 191
+1 Brightcap Badger / Fungus Frolic (BLC) 28
+1 Death Mutation (CMD) 192
+1 Deathspore Thallid (TSR) 109
+1 Elvish Farmer (FEM) 66
+1 Enduring Tenacity (DSK) 95
+1 Enduring Vitality (DSK) 176
+1 Fists of Ironwood (RVR) 139
+1 Flash Foliage (DIS) 85
+1 Fungal Plots (CMM) 291
+1 Fungal Sprouting (M13) 173
+1 Golgari Germination (MM3) 167
+1 Grave Pact (CMM) 165
+1 Heartstone (STH) 134
+1 Infested Thrinax (M3C) 74
+1 Into the Pit (DSC) 20
+1 Journey to Eternity / Atzal, Cave of Eternity (RIX) 160
+1 Life and Limb (TSR) 215
+1 Marionette Apprentice (MH3) 100
+1 Mephitic Draught (LCI) 112
+1 Morbid Bloom (ARB) 94
+1 Necrogenesis (C16) 215
+1 Nemata, Grove Guardian (CMM) 307
+1 Nemata, Primeval Warden (DMU) 209
+1 Night Soil (C13) 158
+1 Ordeal of Erebos (THS) 99
+1 Phyrexian Reclamation (JMP) 267
+1 Psychotrope Thallid (PLC) 137
+1 Saproling Symbiosis (DMR) 175
+1 Savage Thallid (TSP) 213
+1 Shroofus Sproutsire (J25) 54
+1 Sporecrown Thallid (DOM) 181
+1 Sporesower Thallid (TSR) 231
+1 Sporoloth Ancient (TSR) 232
+1 Sprout Swarm (FUT) 138
+1 Tendershoot Dryad (RIX) 147
+1 Thallid Germinator (TSR) 236
+1 Undercellar Myconid (CLB) 259
+1 Utopia Mycon (TSR) 244
+1 Verdant Embrace (AFC) 173
+1 Vindictive Mob (RAV) 112
+1 Vitaspore Thallid (PLC) 143
         Check 
 1 Animate Dead (MKC) 125
 1 Artifact Mutation (NCC) 326
@@ -46,47 +89,5 @@
 1 Verdant Force (SCD) 214
 1 Viridian Emissary (PCA) 80
         In 
-1 Agatha of the Vile Cauldron (WOE) 199
-1 Aspect of Mongoose (TSP) 191
-1 Brightcap Badger / Fungus Frolic (BLC) 28
-1 Death Mutation (CMD) 192
-1 Deathspore Thallid (TSR) 109
-1 Elvish Farmer (FEM) 66
-1 Enduring Tenacity (DSK) 95
-1 Enduring Vitality (DSK) 176
-1 Fists of Ironwood (RVR) 139
-1 Flash Foliage (DIS) 85
-1 Fungal Plots (CMM) 291
-1 Fungal Sprouting (M13) 173
-1 Golgari Germination (MM3) 167
-1 Grave Pact (CMM) 165
-1 Heartstone (STH) 134
-1 Infested Thrinax (M3C) 74
-1 Into the Pit (DSC) 20
-1 Journey to Eternity / Atzal, Cave of Eternity (RIX) 160
-1 Life and Limb (TSR) 215
-1 Marionette Apprentice (MH3) 100
-1 Mephitic Draught (LCI) 112
-1 Morbid Bloom (ARB) 94
-1 Necrogenesis (C16) 215
-1 Nemata, Grove Guardian (CMM) 307
-1 Nemata, Primeval Warden (DMU) 209
-1 Night Soil (C13) 158
-1 Ordeal of Erebos (THS) 99
-1 Phyrexian Reclamation (JMP) 267
-1 Psychotrope Thallid (PLC) 137
-1 Saproling Symbiosis (DMR) 175
-1 Savage Thallid (TSP) 213
-1 Shroofus Sproutsire (J25) 54
-1 Sporecrown Thallid (DOM) 181
-1 Sporesower Thallid (TSR) 231
-1 Sporoloth Ancient (TSR) 232
-1 Sprout Swarm (FUT) 138
-1 Tendershoot Dryad (RIX) 147
-1 Thallid Germinator (TSR) 236
-1 Undercellar Myconid (CLB) 259
-1 Utopia Mycon (TSR) 244
-1 Verdant Embrace (AFC) 173
-1 Vindictive Mob (RAV) 112
-1 Vitaspore Thallid (PLC) 143
+1 Weapons Manufacturing (PEOE) 168p
         Out 

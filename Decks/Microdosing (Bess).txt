@@ -12,16 +12,16 @@
 1 Command Tower (M3C) 331
 1 Compleat Devotion (ONE) 7
 1 Crawling Chorus (ONE) 8
-1 Cultivator of Blades (KHC) 55
+1 Cultivator of Blades (PKLD) 151 *F*
 1 Decimator Web (MBS) 105
 1 Elvish Mystic (LTC) 238
-1 Elvish Visionary (CMR) 223
+1 Elvish Visionary (LTC) 240
 1 Farhaven Elf (LTC) 243
 1 Farmer Cotton (LTC) 55
 1 Fyndhorn Elves (CMR) 228
 1 Gala Greeters (SNC) 450 *F*
 1 Gavony Township (MOC) 406
-1 Glistener Elf (NPH) 111
+1 Glistener Elf (NPH) 111 *F*
 1 Glistening Sphere (ONC) 20
 1 Grateful Apparition (ONC) 73
 1 Haazda Marshal (GRN) 13 *F*
@@ -48,7 +48,6 @@
 1 Sakura-Tribe Elder (C19) 177
 1 Scute Swarm (NCC) 310
 1 Selfless Savior (SLD) 732
-1 Sigil Captain (CMD) 225
 1 Skrelv, Defector Mite (ONE) 33
 1 Sol Ring (DSC) 94
 1 Soul Warden (MM3) 24
@@ -70,8 +69,10 @@
 1 Idyllic Grange (ELD) 246
 1 Keleth, Sunmane Familiar (CMM) 33
 1 Noxious Assault (ONE) 176
+1 Patrolling Peacemaker (EOC) 5
 1 Pendelhaven (A25) 244
 1 Restless Prairie (LCI) 281
+1 Sigil Captain (CMD) 225
 1 Skrelv's Hive (ONE) 34
 1 The Seedcore (ONE) 259
 1 Tocasia's Welcome (BRO) 30

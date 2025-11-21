@@ -96,10 +96,12 @@
 1 World at War (ROE) 172
     In 
 1 Angelic Benediction (M13) 4
+1 Appa, Steadfast Guardian (TLA) 10
 1 Ardent Plea (ARB) 1
 1 Cursed Recording (DSK) 131
 1 Dreamtide Whale (MH3) 59
 1 Gemstone Caverns (TSP) 274
+1 Gwen Stacy / Ghost-Spider (SPM) 78
 1 Mirror Room / Fractured Realm (DSK) 67
 1 Mox Tantalite (MH1) 226
 1 Scrying Sheets (CSP) 149
@@ -107,17 +109,16 @@
 1 Taigam, Master Opportunist (TDM) 60
 1 The Ozolith (IKO) 237
     Out 
-Swiftfoot Boots
-Trailblazer Boots 
-Ossification 
-Circle of Confinement
-Banishing Light 
-Stasis Snare
-Virtue of Courage 
-Nomad's Assembly
-Training Grounds 
-The Parting of the Ways
-Abdel Adrian, Gorion's Ward 
+Swiftfoot Boots out
+Ossification  out
+Circle of Confinement out
+Banishing Light  out
+Stasis Snare out
+Virtue of Courage  out
+Nomad's Assembly out
+Training Grounds  out
+The Parting of the Ways out
+Abdel Adrian, Gorion's Ward  out
 
      Tokens 
 Angel 

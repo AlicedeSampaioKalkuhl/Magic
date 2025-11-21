@@ -15,7 +15,6 @@
 1 Dromoka's Command (2X2) 206
 1 Duskshell Crawler (MH2) 156
 1 Enduring Scalelord (MOC) 325
-1 Enduring Scalelord (BBD) 221
 1 Felidar Retreat (CMM) 821
 1 Felisa, Fang of Silverquill (C21) 2 *F*
 1 Fertilid (CMR) 226
@@ -39,7 +38,7 @@
 1 Scale Blessing (2X2) 27 *F*
 1 Shaile, Dean of Radiance / Embrose, Dean of Shadow (STX) 158 *F*
 1 Skyclave Shadowcat (ZNR) 126
-1 Storm the Seedcore (MOM) 206
+1 Storm the Seedcore (MOM) 206 *F*
 1 Sunbringer's Touch (DTK) 209 *F*
 1 Sunscorch Regent (MOC) 209
 1 Together Forever (ZNC) 22
@@ -49,9 +48,12 @@
 1 Abzan Banner (KTK) 215
 1 Ajani, Mentor of Heroes (JOU) 145
 1 Avatar of the Resolute (DTK) 175
+1 Badgermole (TLA) 166
 1 Cursed Wombat (MH3) 181
+1 Dawnstrike Vanguard (EOE) 10
 1 Doubling Season (FDN) 216
 1 Dragonscale General (FRF) 11
+1 Drix Fatemaker (EOE) 178
 1 Echoes of the Kin Tree (DTK) 15
 1 Evolution Witness (MH3) 151
 1 Felothar, Dawn of the Abzan (TDM) 184

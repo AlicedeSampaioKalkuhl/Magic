@@ -149,14 +149,12 @@
 1 Wingrattle Scarecrow (SHM) 270
         Out 
 Aven Mindcensor Out 
-Dovescape Out 
 Resilient Roadrunner out 
 Salvation Swan Out 
 Mockingbird Out 
 Curiosity Crafter Out 
 Breena the Demagogue out 
 Baleful Strix out 
-Attempted Murder Out 
 Shaile, Dean of Radiance out 
 Empyrean Eagle out 
 Nimble Larcenist out 
@@ -167,4 +165,4 @@ Arcanist's owl out
 Koilos Roc out 
 Aerie mystics out 
 Liberated Livestock out 
-Ravenform out 
+Shaile out 

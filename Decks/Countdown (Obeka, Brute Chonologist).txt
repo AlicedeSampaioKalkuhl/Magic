@@ -65,9 +65,10 @@
 1 Whip of Erebos (THS) 110
 1 Zealous Conscripts (MM3) 116
     In 
-1 Ashling, the Extinguisher (EVE) 33
+11 Ashling, the Extinguisher (EVE) 33
 1 Cabal Coffers (TOR) 139
 1 Cauldron Dance (C17) 166
+1 Devastating Onslaught (EOE) 132
 1 Electroduplicate (FDN) 85
 1 Elemental Appeal (ZEN) 123
 1 Emperor of Bones (MH3) 90

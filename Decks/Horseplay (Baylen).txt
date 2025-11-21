@@ -1,17 +1,21 @@
     Baylen, the Haymaker 
+1 Alacrian Armory (DFT) 2 *F*
 1 Annie Flash, the Veteran (OTJ) 190
-1 Arbor Elf (WWK) 95
 1 Aurelia, the Warleader (GTC) 143
 1 Autarch Mammoth (DFT) 153
 1 Avacyn's Pilgrim (ISD) 170
 1 Bootleggers' Stash (DRC) 110
-1 Born to Drive (NEO) 6
 1 Boros Garrison (CLU) 231
 1 Bridled Bighorn (OTJ) 7
-1 Broadcast Rambler (DFT) 293 *F*
+1 Brightfield Glider (DFT) 4
+1 Brightfield Mustang (DFT) 5
+1 Canyon Vaulter (DFT) 8
+1 Caradora, Heart of Alacria (DFT) 195
+1 Cloudspire Captain (DFT) 9
+1 Cloudspire Coordinator (DFT) 196
 1 Command Tower (NCC) 395
 1 Crash the Party (NCC) 157
-1 Cultivator's Caravan (DRC) 127
+1 Defend the Rider (DFT) 157
 1 District Mascot (DFT) 344 *F*
 1 Dracosaur Auxiliary (DFT) 122 *F*
 1 Drover Grizzly (OTJ) 161
@@ -38,16 +42,16 @@
 1 Humble Naturalist (IKO) 160
 1 Hyrax Tower Scout (THB) 173
 1 Idol of Oblivion (BRC) 144
+1 Interface Ace (DFT) 17
 1 Intrepid Stablemaster (OTJ) 169
-1 Jaspera Sentinel (KHM) 178
 1 Jungle Shrine (ZNC) 132
-1 Lightning Greaves (PIP) 233
-1 Llanowar Tribe (H1R) 22 *F*
+1 Kona, Rescue Beastie (DSK) 187
+1 Lagorin, Soul of Alacria (DFT) 211
 1 Lumbering Worldwagon (DFT) 422 *F*
 1 Magda, Brazen Outlaw (KHM) 142
 1 Makindi Stampede / Makindi Mesas (ZNR) 26
-1 Maskwood Nexus (DRC) 132
 1 Mech Hangar (NEO) 270
+1 Miriam, Herd Whisperer (OTJ) 221
 1 Mosswort Bridge (C20) 291
 1 Mountain (DFT) 275
 1 Mountain (DFT) 275 *F*
@@ -64,11 +68,9 @@
 1 Pride of the Road (DFT) 24
 1 Push the Limit (DFT) 143
 1 Quilled Charger (OTJ) 139
-1 Radha, Heir to Keld (DMR) 196
 1 Reckoner Bankbuster (NEO) 255
 1 Redshift, Rocketeer Chief (DFT) 489 *F*
 1 Rip, Spawn Hunter (DSK) 228
-1 Rocco, Cabaretti Caterer (SNC) 332 *F*
 1 Rocky Roads (DFT) 261
 1 Rogue's Passage (C21) 312
 1 Romana II (WHO) 27
@@ -76,50 +78,37 @@
 1 Run Over (DFT) 179 *F*
 1 Scute Swarm (NCC) 310
 1 Selesnya Sanctuary (CLU) 246
-1 Smuggler's Copter (NEC) 160
 1 Sol Ring (DSC) 94
-1 Starlight Spectacular (UNF) 28
+1 Spire Mechcycle (DFT) 147
+1 Spireside Infiltrator (KLD) 133 *F*
 1 Stonybrook Schoolmaster (MOR) 25
 1 Sunhome, Fortress of the Legion (C21) 319
-1 Swiftfoot Boots (FDN) 258
 1 Temple of Abandon (MKC) 301
 1 Temple of Plenty (SCD) 327
 1 Temple of the False God (C21) 326
 1 Temple of Triumph (DMC) 238
-1 Thousand Moons Smithy / Barracks of the Thousand (LCI) 39
 1 Throw from the Saddle (OTJ) 185
 1 Trained Arynx (OTJ) 36
 1 True Conviction (SS2) 6
-1 Tuktuk Rubblefort (ZNR) 173
 1 Venomsac Lagac (DFT) 185 *F*
+1 Veteran Beastrider (DFT) 226
 1 Wild Roads (DFT) 269
 1 Wildfire Awakener (MOC) 44
 1 Windbrisk Heights (LTC) 345
     Check 
-1 Caradora, Heart of Alacria (DFT) 195
-1 Lagorin, Soul of Alacria (DFT) 211
-1 Mimic Vat (C20) 246
-1 Spireside Infiltrator (KLD) 133 *F*
 1 Stubborn Burrowfiend (OTJ) 184
     In 
 1 Bounding Felidar (OTJ) 5
 1 Bramble Sovereign (CLB) 218
-1 Brightfield Glider (DFT) 4
-1 Brightfield Mustang (DFT) 5
 1 Bulwark Ox (DFT) 7
 1 Calamity, Galloping Inferno (OTJ) 116
-1 Canyon Vaulter (DFT) 8
-1 Cloudspire Captain (DFT) 9
-1 Cloudspire Coordinator (DFT) 196
 1 Congregation Gryff (OTJ) 200
 1 Country Roads (DFT) 253
 1 Defend the Rider (DFT) 157
 1 Felhide Spiritbinder (BNG) 96
 1 Fortune, Loyal Steed (OTJ) 12
 1 Guardian Sunmare (DFT) 15
-1 Interface Ace (DFT) 17
 1 Kolodin, Triumph Caster (DFT) 210
-1 Miriam, Herd Whisperer (OTJ) 221
 1 Oltec Matterweaver (BIG) 3
 1 Ornery Tumblewagg (OTJ) 171
 1 Pheres-Band Raiders (BNG) 133
@@ -132,12 +121,16 @@
 1 Traveling Botanist (TDM) 164
 1 Unswerving Sloth (DFT) 34
 1 Valor's Flagship (DFT) 35
-1 Veteran Beastrider (DFT) 226
 1 Wylie Duke, Atiin Hero (OTJ) 239
     Out 
-Born to Drive out 
-Lumbering Worldwagon out 
-Rocco out 
-Tuktuk out 
-Radha out 
-Broadcast Rambler out 
+Paradise Druid 
+Avacyn's Pilgrim 
+Elvish Mystic 
+Fyndhorn Elves
+Druid of the Anima 
+Humble Naturalist 
+Magda 
+Paradise Druid 
+Hyrax Tower Scout 
+Lumbering Worldwagon 
+Reckoner Bankbuster 

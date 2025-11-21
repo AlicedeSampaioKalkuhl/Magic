@@ -99,6 +99,7 @@
 1 Halimar Depths (DDM) 36
 1 Kalitas, Bloodchief of Ghet (ZEN) 99
 1 Kefnet's Monument (AKH) 231
+1 Morbius the Living Vampire (SPM) 137
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Sapphire Medallion (CMM) 407
 1 Scroll Rack (CMR) 337

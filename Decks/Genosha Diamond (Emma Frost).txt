@@ -106,11 +106,13 @@
 1 Vault of Whispers (BRC) 211
     In 
 1 Archway of Innovation (MH3) 214
+1 Bender's Waterskin (TLA) 255
 1 Caltrops (7ED) 288
 1 Chimeric Egg (DST) 106
 1 Chimeric Idol (PCY) 136
 1 Chimeric Sphere (WTH) 148
 1 Chimeric Staff (10E) 313
+1 Costume Closet (SPM) 5
 1 Darksteel Brute (DST) 108
 1 Darksteel Forge (M14) 206
 1 Darksteel Monolith (CMM) 743
@@ -125,6 +127,7 @@
 1 Orzhov Keyrune (GTC) 233
 1 Silumgar Monument (DTK) 243
 1 Simulacrum Synthesizer (BIG) 36
+1 The Eternity Elevator (PEOE) 241p
 1 Thunder Totem (TSP) 265
 1 Warden of the Wall (DKA) 153
 1 Winter, Cursed Rider (DFT) 228

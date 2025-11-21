@@ -20,16 +20,18 @@
 1 Experimental Augury (ONE) 49
 1 Ezuri's Predation (CMM) 287
 5 Forest (ONE) 266
-2 Forest (MOM) 290
 1 Forest (MOM) 290 *F*
 1 Forest (MOM) 291 *F*
+1 Forest (MOM) 290
 1 Freyalise, Llanowar's Fury (CC1) 1
 1 Garruk Relentless / Garruk, the Veil-Cursed (PLST) ISD-181
 1 Garruk Wildspeaker (SLD) 1142
+1 Garruk, Apex Predator (M3C) 262
 1 Garruk, Cursed Huntsman (ELD) 270
 1 Heroic Intervention (LTC) 249
 1 Hinterland Harbor (LCC) 336
 1 Idol of Oblivion (MKC) 229
+1 Interplanar Beacon (WAR) 247
 1 Intruder Alarm (SLD) 229 *F*
 3 Island (ONE) 268 *F*
 5 Island (MOM) 278 *F*
@@ -46,7 +48,6 @@
 1 Liliana, Heretical Healer / Liliana, Defiant Necromancer (PLST) ORI-106
 1 Liliana's Talent (MOC) 76
 1 Mutational Advantage (PIP) 111
-1 Necromantic Selection (ZNC) 48
 1 Nesting Grounds (NCC) 418
 1 Nissa of Shadowed Boughs (ZNR) 283
 1 Nissa, Ascended Animist (ONE) 327
@@ -83,12 +84,10 @@
 1 Vraska, Swarm's Eminence (WAR) 236
 1 Whisper of the Dross (ONE) 117
     Check 
-1 Garruk, Apex Predator (M3C) 262
     In 
 1 Astral Cornucopia (BRR) 5
 1 Garruk, Primal Hunter (C19) 167
 1 Ichormoon Gauntlet (ONE) 56
-1 Interplanar Beacon (WAR) 247
 1 Kaya's Ghostform (WAR) 94
 1 Kiora, Master of the Depths (BFZ) 213
 1 Liliana, Dreadhorde General (PWAR) 97p
@@ -118,7 +117,6 @@ Rampant Growth out
 Cultivate out 
 Expand the Sphere out 
 Ezuri's Predation out 
-Necromantic Selection out
 Sol Ring out
 Arcane Signet out 
 

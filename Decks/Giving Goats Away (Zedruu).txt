@@ -110,6 +110,8 @@
 1 Dread Statuary (CN2) 217
 1 Encircling Fissure (PLST) BFZ-23
 1 Forbidding Watchtower (10E) 352
+1 Friendly Neighborhood (SPM) 8
+1 Hydro-Man, Fluid Felon (SPM) 33
 1 Inkmoth Nexus (MBS) 145
 1 Maze of Ith (EMA) 241
 1 Ondu Rising (BFZ) 41

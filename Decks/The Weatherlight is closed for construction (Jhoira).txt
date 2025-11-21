@@ -102,9 +102,10 @@
 1 Ensnaring Bridge (STH) 133
 1 Glacial Chasm (ICE) 353
 1 Goblin Engineer (MH1) 128
-1 Hanweir Garrison (PEMN) 130as *F*
+1 Hanweir Garrison (PEMN) 130s *F*
 1 Inventors' Fair (KLD) 247
 1 Krark-Clan Ironworks (5DN) 134
+1 Lady Octopus, Inspired Inventor (SPM) 35
 1 Mox Opal (2XM) 275
 1 Rod of Absorption (AFC) 19
 1 Sensei's Divining Top (EMA) 232

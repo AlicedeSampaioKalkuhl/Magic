@@ -92,9 +92,10 @@ Jeleva, Nephalia's Scourge
 	In 
 1 Archive Trap (OTP) 7
 1 Blasphemous Edict (FDN) 57
+1 Fire Nation Attacks (TLA) 133
 1 Full Throttle (DFT) 127
 1 Glamdring (LTR) 239
-1 Open the Omenpaths (KHM) 143
+1 Singularity Rupture (PEOE) 228p
 	Out 
 Sadistic Sacrament out 
 
