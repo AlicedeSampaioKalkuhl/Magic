@@ -1,49 +1,75 @@
     Zimone and Dina 
         Check 
+1 Agent Venom (SPM) 49
 1 Alandra, Sky Dreamer (MKC) 94
 1 Azusa, Lost but Seeking (SLD) 1234 *F*
 1 Bloodghast (LCC) 184
 1 Chasm Skulker (CLB) 714
 1 Detective of the Month (MKC) 21
 1 Dina, Soul Steeper (MUL) 167 *F*
+1 Enduring Curiosity (DSK) 51
+1 Erebos, Bleak-Hearted (CMM) 868
 1 Erudite Wizard (FDN) 37
 1 Faerie Vandal (SNC) 44
 1 Garruk Relentless / Garruk, the Veil-Cursed (PLST) ISD-181
 1 Growth Spiral (DSC) 88
 1 Homunculus Horde (FDN) 41
 1 Jace, Arcane Strategist (WAR) 270 *F*
+1 Khalni Gem (ZEN) 205
 1 Knights of Dol Amroth (LTR) 59
 1 Lat-Nam Adept (BRO) 56
 1 Marvin, Murderous Mimic (DSK) 253
+1 Meloku the Clouded Mirror (CHK) 74
+1 Midnight Reaper (DRC) 44
+1 Oboro Breezecaller (SOK) 48
 1 On the Trail (MKC) 39
 1 Quirion Ranger (MH2) 285
 1 Reassembling Skeleton (GN3) 60
+1 Rhizome Lurcher (GRN) 196 *F*
 1 Scryb Ranger (PLIST) 787
 1 Seedborn Muse (MKC) 186
 1 Solemn Simulacrum (M3C) 306
+1 Soramaro, First to Dream (SOK) 58
+1 Soratami Rainshaper (CHK) 89
+1 Soratami Savant (PLST) CHK-90
 1 Thopter Mechanic (BRO) 68
 1 Thousand-Year Elixir (C21) 271
 1 Undercity Upheaval (MAT) 75 *F*
 1 Vraan, Executioner Thane (ONE) 114
+1 Wight of the Reliquary (SOC) 338
 1 Zimone, Quandrix Prodigy (STX) 250 *F*
         In 
+1 Dark Prophecy (M14) 93
 1 Death Begets Life (TDM) 176
+1 Deprive (ROE) 59
+1 Dimir Aqueduct (C20) 270
+1 Doom Weaver (VOC) 34
 1 Emrakul's Messenger (MH3) 61
+1 Fruit of the First Tree (FRF) 132
+1 Ghost Town (TMP) 318
 1 Gixian Puppeteer (BRO) 99
 1 Golgari Raiders (GRN) 130
+1 Golgari Rot Farm (CMD) 275
+1 Grim Haruspex (KTK) 73
 1 Gurgling Anointer (BRO) 104
 1 Izoni, Thousand-Eyed (GRN) 180
+1 Jungle Basin (CMR) 484
 1 Lie in Wait (TDM) 203
 1 Lotleth Giant (CMM) 171
 1 Mantle of Tides (ELD) 52
 1 Minn, Wily Illusionist (AFC) 16
+1 Mistvein Borderpost (ARB) 27
 1 Molderhulk (GRN) 190
 1 Mosswood Dreadknight / Dread Whispers (WOE) 231
 1 Necrotic Wound (GRN) 79
-1 Rhizome Lurcher (GRN) 196
+1 Overburden (PCY) 39
 1 Sidisi, Regent of the Mire (TDM) 92
+1 Simic Growth Chamber (AFC) 260
 1 Sneaky Snacker (MH3) 205
+1 Soratami Cloudskater (CHK) 86
+1 Soratami Mirror-Guard (CHK) 87
+1 Soratami Mirror-Mage (CHK) 88
+1 Sutina, Speaker of the Tajuru (J25) 56
+1 Unexpected Results (GTC) 203
 1 Vigorspore Wurm (GRN) 147
-1 Wight of the Reliquary (MH3) 207
-        Out 
-
+1 Withering Curse (SOS) 105

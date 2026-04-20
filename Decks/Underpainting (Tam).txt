@@ -1,0 +1,147 @@
+    Tam 
+    Check 
+1 Abstruse Archaic (CMM) 744
+1 Alloy Myr (PLST) MM2-201
+1 Ana Sanctuary (PLST) APC-74
+1 Arcane Signet (BLC) 127
+1 Barrels of Blasting Jelly (TLA) 254
+1 Blue Elemental Blast (SS1) 2
+1 Bonder's Ornament (C20) 67
+1 Bronze Walrus (CLB) 302 *F*
+1 Chromatic Lantern (RVR) 253
+1 Civic Saber (2X2) 300
+1 Command Tower (CMR) 350
+1 Commander's Sphere (MOC) 352
+1 Compost (SLD) 1047
+1 Conqueror's Flail (2X2) 302
+1 Darksteel Ingot (C13) 241
+1 Decanter of Endless Water (CLB) 444
+1 Dirgur Focusmage / Braingeyser (SOC) 18
+1 Exotic Orchard (DMC) 209
+1 Fellwar Stone (BLC) 269
+1 Foreboding Statue / Forsaken Thresher (VOW) 256
+1 Honored Heirloom (VOW) 257
+1 Ioreth of the Healing House (LTR) 56
+1 Lantern of Revealing (CLB) 318
+1 Laser Screwdriver (WHO) 178
+1 Letter of Acceptance (STX) 256
+1 Llawan, Cephalid Empress (SLD) 1277
+1 Mana Geode (WAR) 241
+1 Murkfiend Liege (2X2) 259
+1 Mystic Skull / Mystic Monstrosity (MID) 256
+1 Network Terminal (NEO) 251
+1 Opaline Unicorn (THS) 218
+1 Ornithopter of Paradise (DRC) 133
+1 Patriar's Seal (CLB) 332
+1 Prismatic Lens (TSP) 262
+1 Prismatic Omen (SLD) 1104
+1 Prophetic Prism (ONE) 238
+1 Pyramid of the Pantheon (AKH) 235
+1 Replicating Ring (KHM) 244
+1 Simic Signet (DIS) 166
+1 Skyrider Elf (BFZ) 220
+1 Sonic Screwdriver (WHO) 186
+1 Spinning Wheel (ELD) 234 *F*
+1 Starting Column (DFT) 244
+1 Striding Shotcaller / Run the Play (SOC) 50
+1 Talisman of Curiosity (WHO) 249
+1 Teachings of the Archaics (STX) 299
+1 Thousand-Year Elixir (C13) 266
+1 Three Tree Mascot (BLB) 251
+1 Uncle's Musings (TLE) 73 *F*
+1 Vexing Puzzlebox (CLB) 343
+1 Wandering Archaic / Explore the Vastlands (STX) 6 *F*
+1 Wash Out (C13) 66
+1 Yavimaya Bloomsage / Channel (SOC) 44
+    In 
+1 All-Fates Scroll (EOE) 234
+1 Ancient Cornucopia (BIG) 16
+1 Aura of Dominion (CHK) 51
+1 Aurora Awakener (ECL) 165
+1 Biblioplex Tomekeeper (SOS) 247
+1 Blind Seer (INV) 47
+1 Blitzball (FIN) 254
+1 Bloom Tender (ECL) 166
+1 Brilliant Spectrum (PLST) BFZ-70
+1 Bring to Light (BFZ) 209
+1 Campus Composer / Aqueous Aria (SOS) 40
+1 Case of the Shattered Pact (MKM) 1
+2 Crystalline Crawler (EOC) 133
+1 Display of Dominance (DTK) 182
+1 Distorting Lens (8ED) 299
+1 Douse (USG) 70
+1 Dragonfire Blade (PTDM) 240p
+1 Elemental Spectacle (ECC) 15
+1 Emeritus of Abundance / Regrowth (SOS) 145
+1 Emeritus of Ideation / Ancestral Recall (SOS) 45
+1 Encouraging Aviator / Jump (SOS) 46
+1 Exert Influence (BFZ) 77
+1 Eye of Ojer Taq / Apex Observatory (LCC) 35
+1 Fountain of Ichor (MH1) 223
+1 Gene Pollinator (EOE) 186
+1 Glamerdye (EVE) 21
+1 Glinting Creeper (MH2) 164
+1 Glister Bairn (ECL) 227
+1 Govern the Guildless (DIS) 25
+1 Harmonized Trio / Brainstorm (SOS) 52
+1 Hot Dog Cart (SPM) 164
+1 Hydroblast (5ED) 94
+1 Illusion / Reality (PLST) APC-129
+1 Infirmary Healer / Stream of Life (SOS) 152
+1 Infuse with the Elements (BFZ) 175
+1 Insight (TMP) 68
+1 Jaded Response (APC) 26
+1 Jadzi, Steward of Fate / Oracle's Gift (SOS) 55
+1 King Crab (ULG) 34
+1 Landscape Painter / Vibrant Idea (SOS) 56
+1 Lessons from Life (TMT) 155
+1 Lifeforce (SUM) 207
+1 Lifelace (4ED) 258
+1 Luminollusk (ECL) 179
+1 Mana Cylix (CON) 138
+1 Mana Prism (6ED) 297
+1 Manalith (HOU) 164
+1 Might of the Nephilim (DIS) 88
+1 Mind Bend (8ED) 92
+2 Mondo Gecko (TMT) 46
+1 Nylea's Presence (THS) 169
+1 Prismabasher (ECL) 188
+1 Prismatic Lace (MIR) 84
+1 Prismatic Undercurrents (ECL) 189
+1 Puca's Eye (ECL) 259
+1 Quickchange (RAV) 62
+1 Reap (TMP) 247
+1 Second Wind (FUT) 57
+1 Seedtime (MB2) 73
+1 Shifting Sky (PLS) 32
+1 Shinestriker (ECL) 68
+1 Skycoach Conductor / All Aboard (SOS) 67
+1 Skycoach Waypoint (SOS) 261
+1 Sleight of Mind (ICE) 99
+1 Snake Pit (MMQ) 271
+1 Snarl Song (SOS) 161
+1 Soul of Ravnica (M15) 78
+1 Spellbook Seeker / Careful Study (SOS) 68
+1 Studious First-Year / Rampant Growth (SOS) 162
+1 Sundering Archaic (SOS) 3
+1 Sway of Illusion (INV) 77
+1 Sweep the Skies (MH2) 70
+1 Swirl the Mists (CHK) 94
+1 Swirling Spriggan (EVE) 76
+1 Tajuru Stalwart (BFZ) 194
+1 Tam, Observant Sequencer / Deep Sight (SOS) 237
+1 Tarnation Vista (PBIG) 30p
+1 The Dawning Archaic (SOS) 1
+1 Thoughtlace (4ED) 107
+1 Tidal Visionary (INV) 80
+1 Together as One (SOS) 4
+1 Tome of the Guildpact (RNA) 242
+1 Transcendent Archaic (SOS) 5
+1 Vastlands Scavenger / Bind to Life (SOS) 166
+1 Vessel of Endless Rest (UMA) 235
+1 Vodalian Mystic (APC) 33
+1 Well-Laid Plans (INV) 88
+1 Whim of Volrath (TMP) 102
+1 Wildgrowth Archaic (SOS) 168
+1 Woodland Wanderer (BFZ) 198
+    Out 

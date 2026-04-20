@@ -87,6 +87,7 @@
     Check 
 
     In 
+1 Abigale, Poet Laureate / Heroic Stanza (SOS) 170
 1 Anodet Lurker (5DN) 101
 1 Archangel's Light (DKA) 1
 1 Auspicious Ancestor (MIR) 3
@@ -98,6 +99,7 @@
 1 Embalmed Ascendant (DFT) 201
 1 Entropic Eidolon (DIS) 45
 1 Fiendish Panda (FDN) 120
+1 Fix What's Broken (SOS) 188
 1 Ghost Council of Orzhova (MM2) 176
 1 Grasping Shadows / Shadows' Lair (LCI) 108
 1 Guardian Automaton (ORI) 227

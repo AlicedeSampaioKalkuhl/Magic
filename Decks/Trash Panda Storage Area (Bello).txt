@@ -76,7 +76,12 @@
 1 Wilderness Reclamation (C20) 196
 1 Wondrous Crucible (BRC) 20
     Check 
-
+1 Experimental Lab / Staff Room (DSC) 33
+1 Fiery Emancipation (WOT) 42
+1 Sandwurm Convergence (CMM) 911
+1 Showstopping Surprise (MKC) 35
+1 Uncivil Unrest (MOC) 35
+1 Walk-In Closet / Forgotten Cellar (DSK) 341
     In 
 1 Blinkmoth Urn (C18) 197
 1 Blunt the Assault (SOM) 113
@@ -84,10 +89,9 @@
 1 Chaotic Transformation (DMU) 117
 1 Charred Foyer / Warped Space (DSK) 129
 1 Chimil, the Inner Sun (LCI) 249
+1 Collective Inferno (ECL) 132
 1 Demolition Stomper (KLD) 206
-1 Experimental Lab / Staff Room (DSC) 33
 1 Fanatic of Rhonas (MH3) 152
-1 Fiery Emancipation (WOT) 42
 1 Fire-Lit Thicket (2XM) 317
 1 Greenhouse / Rickety Gazebo (DSK) 181
 1 Herd Heirloom (TDM) 144
@@ -104,15 +108,11 @@
 1 Rage Reflection (2XM) 139
 1 Ring of the Lucii (FIN) 269
 1 Ruthless Instincts (FRF) 136
-1 Sandwurm Convergence (CMM) 911
-1 Showstopping Surprise (MKC) 35
 1 Sight of the Scalelords (DTK) 207
 1 Smokebraider (MM2) 125
 1 Spiked Corridor / Torture Pit (DSC) 28
 1 Tangle (INV) 213
-1 Uncivil Unrest (MOC) 35
 1 Urza's Armor (PLST) USG-313
-1 Walk-In Closet / Forgotten Cellar (DSK) 205
 1 Wild Magic Surge (CLB) 206
 1 Winds of Qal Sisma (FRF) 147
 1 Zendikar Resurgent (C17) 160

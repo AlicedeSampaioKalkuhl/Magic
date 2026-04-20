@@ -1,0 +1,78 @@
+Primo, the Unbounded
+    Check 
+1 Additive Evolution (SOS) 139
+1 Ambitious Augmenter (SOS) 140
+1 Applied Geometry (SOS) 172
+1 Arcade Cabinet (TMC) 36
+1 Berta, Wise Extrapolator (SOS) 175
+1 Big Mother Mouser (TMC) 37
+1 Biomathematician (STX) 164
+1 Birds of Paradise (LTC) 235
+1 Body of Research (STX) 168
+1 Charix, the Raging Isle (ZNR) 386 *F*
+1 Cloudfin Raptor (RVR) 37
+1 Combine Chrysalis (MOC) 319
+1 Command Tower (SOC) 129
+1 Cuboid Colony (SOS) 183
+1 Dawnhart Mentor (MID) 179
+1 Deekah, Fractal Theorist (SOC) 193
+1 Duskshell Crawler (MH2) 156
+1 Elusive Krasis (GTC) 160
+1 Emergent Sequence (STX) 129
+1 Emil, Vastlands Roamer (SOS) 146
+1 Experimental Aviator (KLD) 46
+1 Fathom Mage (CMR) 445
+1 Flooded Grove (SOC) 373
+1 Forgotten Ancient (SOC) 267
+1 Fractal Anomaly (SOS) 50
+1 Fractal Harness (SOC) 268
+1 Fractal Summoning (STX) 187
+1 Fractal Tender (SOS) 190
+1 Fractalize (SOS) 51
+1 Geometric Nexus (C21) 77
+1 Germination Practicum (SOS) 149
+1 Great Forest Druid (ECL) 178
+1 Hedron Crawler (OGW) 164
+1 Hungry Graffalon (SOS) 151
+1 Incubation Druid (MOC) 302
+1 Infested Roothold (DST) 76
+1 Ixalli's Diviner (XLN) 192
+1 Jadzi, Steward of Fate / Oracle's Gift (SOS) 55
+1 Kalonian Hydra (MOC) 305
+1 Kasmina, Enigma Sage (STX) 196
+1 Kianne, Dean of Substance / Imbraham, Dean of Theory (STX) 326 *F*
+1 Lattice Library (SOC) 40
+1 Leafkin Druid (M20) 178
+1 Leyline Invocation (STX) 136
+1 Manifestation Sage (STX) 205
+1 Mosswort Bridge (DSC) 288
+1 Muddle the Mixture (SLD) 1254
+1 Opal Palace (SOC) 390
+1 Ornithopter of Paradise (DRC) 133
+1 Oversimplify (SOC) 322
+1 Paradox Zone (C21) 64
+1 Pensive Professor (SOS) 63
+1 Plaxcaster Frogling (C21) 226
+1 Quandrix Campus (STX) 271
+1 Quandrix Command (SOC) 325
+1 Ray Fillet, Wave Warrior (TMC) 14
+1 Sequence Engine (C21) 67
+1 Serpentine Curve (STX) 52
+1 Simic Manipulator (GTC) 50
+1 Singing Tree (ME1) 130
+1 Snarl Song (SOS) 161
+1 Sodden Verdure (SOC) 406
+1 Sunshower Druid (BLB) 195
+1 Sweet-Gum Recluse (CLB) 835
+1 Temple of Mystery (SOC) 414
+1 Tester of the Tangential (SOS) 69
+1 Textbook Tabulator (SOS) 70
+1 The Earth Crystal (FIN) 184
+1 The Great Henge (CMM) 294
+1 Topiary Lecturer (SOS) 165
+1 Transdimensional Bovine (TMT) 134
+1 Tyranid Prime (40K) 145
+1 Wild Hypothesis (SOS) 167
+1 Yavimaya Coast (SOC) 425
+1 Zimone, All-Questioning (SOC) 340
+    In 

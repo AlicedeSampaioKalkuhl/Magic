@@ -29,9 +29,11 @@ Marchesa, Dealer of Death
 1 Arcane Signet (OTC) 252
 1 Armor of Shadows (CLB) 112
 1 Bandit's Haul (OTJ) 240
+1 Blood Operative (PGRN) 63s *F*
 1 Bojuka Bog (OTC) 273
 1 Borrowed Hostility (EMN) 121
 1 Chainer, Nightmare Adept (C19) 39 *F*
+1 Charnel Serenade (MKC) 26
 1 Coat with Venom (DTK) 91
 1 Command Tower (OTC) 280
 1 Conduit Pylons (OTJ) 254
@@ -39,6 +41,7 @@ Marchesa, Dealer of Death
 1 Crumbling Necropolis (LCC) 326
 1 Daring Escape (SNC) 104
 1 Decanter of Endless Water (CLB) 444
+1 Desperate Measures (TDM) 78
 1 Dreadmaw's Ire (LCI) 147
 1 Exotic Orchard (OTC) 293
 1 Fading Hope (MID) 51
@@ -59,6 +62,7 @@ Marchesa, Dealer of Death
 1 Rogue's Passage (OTC) 313
 1 Search for Azcanta / Azcanta, the Sunken Ruin (XLN) 74
 1 Shadow Rift (TMP) 86
+1 Spectacular Showdown (MKC) 162
 1 Spreading Insurrection (MH2) 142
 1 Storm-Kiln Artist (OTC) 181
 1 Temple of Epiphany (OTC) 329
@@ -71,21 +75,19 @@ Marchesa, Dealer of Death
     In 
 1 Alchemist's Gift (M21) 87
 1 Arid Archway (OTJ) 252
-1 Blood Operative (GRN) 63
-1 Charnel Serenade (MKC) 26
 1 Constricting Tendrils (CON) 22
 1 Crowd's Favor (M15) 138
-1 Desperate Measures (TDM) 78
 1 Detection Tower (M19) 249
+1 Fire Nation Occupation (TLE) 105
 1 Foul-Tongue Shriek (DTK) 103
 1 Furious Resistance (GTC) 93
 1 Great Train Heist (OTJ) 125
 1 Leyline of Resonance (DSK) 143
 1 Rush of Adrenaline (SOI) 177
 1 Samut's Sprint (WAR) 142
-1 Spectacular Showdown (MKC) 162
 1 Thundering Falls (MKM) 269
 1 Titan's Strength (2X2) 128
 1 Undercity Sewers (MKM) 270
 1 Vile Rebirth (M14) 121
 1 Virulent Swipe (IMA) 113
+1 Zuko, Seeking Honor (TLE) 150

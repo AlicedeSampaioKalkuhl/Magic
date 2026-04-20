@@ -71,6 +71,7 @@
 1 Noxious Assault (ONE) 176
 1 Patrolling Peacemaker (EOC) 5
 1 Pendelhaven (A25) 244
+1 Pendelhaven Elder (TSP) 209
 1 Restless Prairie (LCI) 281
 1 Sigil Captain (CMD) 225
 1 Skrelv's Hive (ONE) 34

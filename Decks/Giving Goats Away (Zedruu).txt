@@ -102,6 +102,7 @@
 
     In 
 1 Arcane Lighthouse (C14) 59
+1 Azula, Flame of Ember Island (TLE) 27
 1 Blinkmoth Nexus (MM2) 236
 1 Clutch of Currents (PLST) BFZ-72
 1 Coastal Discovery (BFZ) 73
@@ -117,6 +118,7 @@
 1 Ondu Rising (BFZ) 41
 1 Paradox Haze (TSP) 71
 1 Part the Waterveil (BFZ) 80
+1 Princess Yue (TLE) 95
 1 Raugrin Triome (PIKO) 251p
 1 Restless Anchorage (LCI) 347
 1 Roil Spout (BFZ) 219

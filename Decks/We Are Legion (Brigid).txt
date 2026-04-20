@@ -1,0 +1,86 @@
+    Brigid, 
+
+    Check 
+1 Ballynock Cohort (EMA) 3
+1 Canyon Jerboa (ZNR) 7
+1 Cenn's Tactician (MOR) 5
+1 Cloudgoat Ranger (KHC) 21
+1 Elvish Mystic (M14) 169
+1 Full Steam Ahead (OTJ) 164
+1 Galepowder Mage (CLB) 694
+1 Goldmeadow Lookout (FUT) 22
+1 Kinsbaile Borderguard (MOR) 14
+1 Kinsbaile Courier (CMR) 29 *F*
+1 Kithkin Billyrider (MOM) 24 *F*
+1 Mistmeadow Skulk (OTC) 84
+1 Order of Whiteclay (CLB) 703
+1 Overrun (SCD) 201
+1 Overwhelming Stampede (LTC) 254
+1 Patrol Signaler (EVE) 12
+1 Starlight Spectacular (UNF) 28
+    In 
+1 Ajani, Outland Chaperone (ECL) 4
+1 Amrou Kithkin (REN) 3
+1 Amrou Seekers (MMA) 3
+1 Apothecary Initiate (SHM) 1
+1 Ballynock Trapper (EVE) 2
+1 Ballyrush Banneret (MOR) 1
+1 Brigid, Hero of Kinsbaile (LRW) 6
+1 Brigid's Command (ECL) 208
+1 Bristlebane Outrider (ECL) 169
+1 Burrenton Bombardier (MOR) 3
+1 Burrenton Forge-Tender (MD1) 22
+1 Cenn's Heir (LRW) 8
+1 Champion of the Clachan (ECL) 9
+1 Changeling Wayfinder (ECL) 1
+1 Chronicle of Victory (ECL) 253
+1 Clachan Festival (ECL) 10
+1 Craterhoof Behemoth (PTDM) 138p
+1 Crossroads Watcher (ECL) 173
+1 Dawn-Blessed Pennant (ECL) 254
+1 Decimator of the Provinces (INR) 2
+1 Dundoolin Weaver (ECL) 175
+1 Earthshaker Giant (PLST) GN2-5
+1 Eclipsed Kithkin (ECL) 220
+1 Eclipsed Realms (ECL) 263
+1 End-Raze Forerunners (GN3) 97
+1 Gallant Fowlknight (ECL) 17
+1 Goldmeadow Dodger (LRW) 16
+1 Goldmeadow Harrier (DDF) 3
+1 Goldmeadow Nomad (ECL) 18
+1 Goldmeadow Stalwart (LRW) 18
+1 Joraga Invocation (ORI) 183
+1 Jubilation (ECC) 17
+1 Kamahl, Fist of Krosa (DMR) 166
+1 Kinbinding (ECL) 20
+1 Kinsbaile Aspirant (ECL) 21
+1 Kinsbaile Balloonist (LRW) 23
+1 Kinsbaile Skirmisher (M15) 16
+1 Kinscaer Sentry (ECL) 22
+1 Kithkin Daggerdare (LRW) 223
+1 Kithkin Harbinger (LRW) 26
+1 Kithkin Mourncaller (LRW) 224
+1 Kithkin Rabble (SHM) 9
+1 Kithkin Zealot (EVE) 9
+1 Kithkin Zephyrnaut (MOR) 16
+1 Knight of Meadowgrain (LRW) 28
+1 Militia's Pride (LRW) 30
+1 Mosquito Guard (DDF) 6
+1 Order of the Golden Cricket (MOR) 19
+1 Overcome (HOU) 125
+1 Pathbreaker Ibex (SPG) 91
+1 Phalanx Tactics (J22) 224
+1 Resplendent Mentor (SHM) 19
+1 Rustic Clachan (DDF) 34
+1 Spectral Hunt-Caller (J22) 45
+1 Springjack Pasture (C13) 326
+1 Springjack Shepherd (PLST) EVE-15
+1 Stampede (5ED) 327
+1 Surge of Thoughtweft (LRW) 43
+1 Surly Farrier (ECL) 196
+1 Thoughtweft Imbuer (ECL) 38
+1 Thoughtweft Lieutenant (ECL) 246
+1 Thoughtweft Trio (LRW) 44
+1 Timid Shieldbearer (ECL) 39
+1 Wary Farmer (ECL) 251
+1 Wizened Cenn (PLST) LRW-49

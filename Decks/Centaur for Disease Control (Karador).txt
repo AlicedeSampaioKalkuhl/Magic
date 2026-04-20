@@ -94,6 +94,7 @@
 1 Channeler Initiate (AKH) 160
 1 Cinderbones (SHM) 59
 1 Crumbling Ashes (EVE) 35
+1 Eirdu, Carrier of Dawn / Isilu, Carrier of Twilight (ECL) 13
 1 Generous Patron (BBD) 70
 1 Glistening Oil (NPH) 62
 1 Hex Parasite (NPH) 137
@@ -106,6 +107,7 @@
 1 Putrid Goblin (MH1) 101
 1 Rendclaw Trow (EVE) 127
 1 Renegade Rallier (AER) 133
+1 Rhys, the Evermore (ECL) 32
 1 Saffi Eriksdotter (TSR) 260
 1 Tarrian's Journal / The Tomb of Aclazotz (LCI) 126
 1 Tower Above (SHM) 131

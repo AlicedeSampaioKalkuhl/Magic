@@ -1,5 +1,4 @@
     Baylen, the Haymaker 
-1 Alacrian Armory (DFT) 2 *F*
 1 Annie Flash, the Veteran (OTJ) 190
 1 Aurelia, the Warleader (GTC) 143
 1 Autarch Mammoth (DFT) 153
@@ -96,15 +95,13 @@
 1 Wildfire Awakener (MOC) 44
 1 Windbrisk Heights (LTC) 345
     Check 
-1 Stubborn Burrowfiend (OTJ) 184
     In 
+1 Adept Watershaper (ECL) 3
 1 Bounding Felidar (OTJ) 5
-1 Bramble Sovereign (CLB) 218
 1 Bulwark Ox (DFT) 7
 1 Calamity, Galloping Inferno (OTJ) 116
 1 Congregation Gryff (OTJ) 200
 1 Country Roads (DFT) 253
-1 Defend the Rider (DFT) 157
 1 Felhide Spiritbinder (BNG) 96
 1 Fortune, Loyal Steed (OTJ) 12
 1 Guardian Sunmare (DFT) 15
@@ -116,14 +113,12 @@
 1 Roadside Assistance (DFT) 26
 1 Satyr Nyx-Smith (BNG) 109
 1 Seraphic Steed (OTJ) 232
-1 Spire Mechcycle (DFT) 147
 1 Splinter Twin (MM2) 129
 1 Traveling Botanist (TDM) 164
 1 Unswerving Sloth (DFT) 34
 1 Valor's Flagship (DFT) 35
 1 Wylie Duke, Atiin Hero (OTJ) 239
-    Out 
-Paradise Druid 
+    Out  
 Avacyn's Pilgrim 
 Elvish Mystic 
 Fyndhorn Elves
@@ -134,3 +129,11 @@ Paradise Druid
 Hyrax Tower Scout 
 Lumbering Worldwagon 
 Reckoner Bankbuster 
+Trained Arynx
+Venomsac Lagac 
+Scute Swarm 
+Brightfield Mustang 
+Pride of the Roar
+Quilled Charger 
+Paradise Mantle 
+

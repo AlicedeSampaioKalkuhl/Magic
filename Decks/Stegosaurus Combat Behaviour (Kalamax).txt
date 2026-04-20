@@ -83,41 +83,22 @@ Kalamax, the Stormsire
 1 Wort, the Raidmother (C20) 234
 1 Zada, Hedron Grinder (MUL) 25 *F*
 	Check 
-1 Conqueror's Galleon / Conqueror's Foothold (XLN) 234
-1 Fully Grown (IKO) 154
 1 Heightened Reflexes (IKO) 123
-1 Horned Loch-Whale / Lagoon Breach (WOE) 278
 1 Hunting Pack (C20) 179
-1 Moonshae Pixie / Pixie Dust (CLB) 84 *F*
 1 Ram Through (IKO) 170
 1 Tanglepool Bridge (MH2) 257
 1 Temple of the False God (MKC) 305
 1 The Mycosynth Gardens (ONE) 256
-1 Thousand-Year Storm (GRN) 207 *F*
 1 Training Center (CMR) 358
-1 Tree of Tales (DSC) 319
-1 Unwind (DOM) 72
-1 Veyran, Voice of Duality (OTC) 248
-1 Weather the Storm (MH1) 191 *F*
 	In 
-1 Brightcap Badger / Fungus Frolic (BLC) 28
 1 Commando Raid (ONS) 195
-1 Esika's Chariot (KHM) 169
 1 For the Common Good (BLB) 172
+1 Frantic Confrontation (TLE) 117
 1 Hall of Tagsin (BRO) 263
-1 Hoard Hauler (SNC) 109
+1 Iroh, Dragon of the West (TLE) 119
 1 Jetfire, Ingenious Scientist / Jetfire, Air Guardian (BOT) 3
 1 Ketria Triome (PIKO) 250p
-1 Mizzium Tank (WAR) 138
-1 Reef Roads (DFT) 259
-1 Rocky Roads (DFT) 261
-1 Rolling Hamsphere (BLC) 39
-1 Roxanne, Starfall Savant (OTJ) 228
-1 Thopter Fabricator (DFT) 68
-1 Veloheart Bike (DFT) 184
-1 Wild Roads (DFT) 269
-1 Worldwalker Helm (BIG) 7
-
+1 Zuko, Firebending Master (TLE) 127
 	Out 
 Chancellor of Tales 
 Empty the Warrens 
@@ -130,6 +111,7 @@ Sea Hag
 Tempest Hart 
 Urabrask 
 Bioshift 
+Gimbal
 
 	Tokens 
 Beast (CMR)

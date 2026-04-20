@@ -86,7 +86,7 @@
     In 
 1 Court of Ambition (CMR) 114
 1 Court of Embereth (WOC) 24
-1 Dungeon Delver (CLB) 67
+1 Grave Venerations (ECC) 9
 1 Gravestorm (ODY) 141
 1 Marchesa's Decree (CN2) 44
 1 Mox Tantalite (MH1) 226
@@ -106,6 +106,7 @@ Goblin Assault out
 Sol Ring out  
 TARDIS out 
 Cursed Mirror out 
+Endless Ranks of Death out 
     Tokens 
 City's Blessing 
 Clue 

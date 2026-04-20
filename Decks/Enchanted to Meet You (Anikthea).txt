@@ -84,11 +84,11 @@
 1 Woodland Cemetery (ISD) 249
 1 Zombie Infestation (C19) 132
     Check
-
+1 Caretaker's Talent (BLB) 6
+1 Teval's Judgment (TDC) 28
     In 
 1 A Realm Reborn (FIN) 196
 1 Barrensteppe Siege (TDM) 171
-1 Caretaker's Talent (BLB) 6
 1 Case of the Locked Hothouse (MKM) 155
 1 Cream of the Crop (MOR) 117
 1 Dollmaker's Shop / Porcelain Gallery (DSK) 4
@@ -100,12 +100,11 @@
 1 Necromancer's Covenant (C15) 229
 1 Parallel Lives (ISD) 199
 1 Ride the Shoopuf (FIN) 197
+1 Sapling Nursery (ECL) 192
 1 Song of the Dryads (CMA) 147
-1 Teval's Judgment (TDC) 28
     Out 
-Legion Loyalty 
 Martyr's Bond 
-Utopia Sprawl  q
+Utopia Sprawl
 Stony Silence 
 Elemental Bond
 

@@ -1,14 +1,13 @@
     Alesha, Who Smiles At Death 
         Check
 1 Access Tunnel (OTC) 270
+1 Agrus Kos, Spirit of Justice (MKM) 354
 1 Alesha, Who Laughs at Fate (FDN) 115
 1 Anafenza, Kin-Tree Spirit (MUL) 1 *F*
 1 Arcane Signet (DSC) 92
 1 Blood Artist (2X2) 70
-1 Crackling Doom (2X2) 196
-1 Agrus Kos, Spirit of Justice (MKM) 354
 1 Blood of the Martyr (DRK) 2
-1 Nelly Borca, Impulsive Accuser (MKC) 4 *F*
+1 Crackling Doom (2X2) 196
 1 Cruel Celebrant (WAR) 188
 1 Dihada, Binder of Wills (DMC) 1 *F*
 1 Elas il-Kor, Sadistic Pilgrim (DMU) 297 *F*
@@ -22,6 +21,7 @@
 1 Mardu Ascendancy (KTK) 185
 1 Master of Cruelties (2X2) 251
 1 Mentor of the Meek (2X2) 340 *F*
+1 Nelly Borca, Impulsive Accuser (MKC) 4 *F*
 1 Open the Omenpaths (KHM) 143
 1 Panharmonicon (2X2) 310
 1 Reliquary Tower (DSC) 295
@@ -38,5 +38,7 @@
 1 Mardu Monument (TDM) 245
 1 Marshal of the Lost (TDM) 207
 1 Murderous Redcap (UMA) 217
+1 Raphael, Tough Turtle (TMT) 104
+1 Slash, Reptile Rampager (TMT) 108
 1 Smile at Death (TDM) 24
 1 Witch Enchanter / Witch-Blessed Meadow (MH3) 239

@@ -64,44 +64,51 @@
 1 Young Pyromancer (SS3) 8
 
 
-    Lessons 
+    Lessons & Check 
+1 Azula Always Lies (TLA) 84
+1 Collected Conjuring (MH1) 196
 1 Confront the Past (STX) 67
+1 Dream Strix (STX) 42
 1 Elemental Summoning (STX) 183
 1 Environmental Sciences (STX) 1
 1 Expanded Anatomy (STX) 2
 1 Introduction to Annihilation (STX) 3
 1 Introduction to Prophecy (STX) 4
+1 It'll Quench Ya! (TLA) 58
 1 Mascot Exhibition (STX) 5 *F*
+1 Master Pakku (TLA) 63
+1 Muse Vortex (C21) 28
+1 Necromantic Summons (ORI) 110
 1 Necrotic Fumes (STX) 78
+1 Retriever Phoenix (STX) 113 *F*
+1 Skyfire Phoenix (C19) 28
 1 Start from Scratch (STX) 114
 1 Teachings of the Archaics (STX) 299
-
+1 Unexpected Windfall (PIP) 193
+1 Wither and Bloom (MH3) 111 *F*
+    
     In 
-1 Azula Always Lies (TLA) 84
 1 Back from the Brink (ISD) 44
 1 Beacon Bolt (GRN) 154
 1 Burning Wish (CN2) 152
 1 Cast Through Time (ROE) 55
-1 Collected Conjuring (MH1) 196
+1 Chakra Meditation (TLE) 91
 1 Cosmic Epiphany (DMU) 283
 1 Cunning Wish (JUD) 37
 1 Cut / Ribbons (AKH) 223
 1 Death Wish (JUD) 64
-1 Dream Strix (STX) 42
 1 Dual Casting (AVR) 133
+1 Improvisation Capstone (SOS) 120
 1 Invasion of Arcavios / Invocation of the Founders (MOM) 61
-1 It'll Quench Ya! (TLA) 58
+1 Katara, Seeking Revenge (TLE) 148
 1 Malicious Affliction (C14) 25
-1 Master Pakku (TLA) 63
 1 Mastermind's Acquisition (RIX) 77
-1 Muse Vortex (C21) 28
-1 Necromantic Summons (ORI) 110
+1 North Wind Avatar (TMT) 162
+1 Overwhelming Victory (TLE) 123
 1 Ral, Crackling Wit (BLB) 230
+1 Reckless Blaze (TLE) 197
 1 Refuse / Cooperate (C19) 199
-1 Retriever Phoenix (STX) 113
-1 Skyfire Phoenix (C19) 28
 1 Surge to Victory (C21) 58
-1 Unexpected Windfall (AFR) 164
 1 Volcanic Vision (C16) 137
+1 Waterbender's Restoration (TLE) 99
 1 Wild Ricochet (M14) 162
-1 Wither and Bloom (MH3) 111

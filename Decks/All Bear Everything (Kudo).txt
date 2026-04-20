@@ -10,7 +10,6 @@
 1 Bow of Nylea (THS) 153
 1 Brushland (BLC) 295
 1 Carpet of Flowers (WHO) 229
-1 Casal, Lurkwood Pathfinder / Casal, Pathbreaker Owlbear (SLD) 1241 *F*
 1 Collective Blessing (SCD) 222
 1 Command Tower (OTC) 280
 1 Commander's Insignia (SCD) 13
@@ -18,6 +17,7 @@
 1 Copper Host Crusher (MOM) 181
 1 Deafening Silence (SLD) 1219 *F*
 1 Dictate of Heliod (SCD) 19
+1 Doric, Nature's Warden / Doric, Owlbear Avenger (SLD) 1241 *F*
 1 Druid's Familiar (AVR) 175
 1 Everybody Lives! (WHO) 18
 1 Fade from History (BRO) 177
@@ -36,6 +36,7 @@
 1 Owlbear Cub (CLB) 592
 1 Path of Ancestry (OTC) 310
 1 Rally the Ranks (KHM) 20
+1 Rampaging Yao Guai (PIP) 82
 1 Requisition Raid (OTJ) 26
 1 Rest in Peace (WOT) 12
 1 Retreat to Emeria (ZNC) 20
@@ -57,11 +58,12 @@
 1 Absolute Law (USG) 2
 1 Alpha Status (SCG) 110
 1 Anthem of Champions (FDN) 116
-1 Argoth, Sanctum of Nature (BRO) 256a
+1 Argoth, Sanctum of Nature (BRO) 256
 1 Ashes of the Abhorrent (XLN) 2
 1 Aura of Silence (C15) 60
 1 Awaken the Bear (KTK) 129
 1 Ayula's Influence (MH1) 156
+1 Bosco, Just a Bear (TLE) 132
 1 Caller of the Claw (C15) 177
 1 Castle Garenbrig (ELD) 240
 1 Cavern of Souls (LCI) 269
@@ -89,7 +91,6 @@
 1 Nykthos, Shrine to Nyx (THS) 223
 1 Overwhelming Encounter (CLB) 245
 1 Predatory Rampage (CMM) 313
-1 Rampaging Yao Guai (PIP) 82
 1 Razorclaw Bear (P02) 142
 1 Reverence (SOK) 26
 1 River Bear (9ED) 266
@@ -111,8 +112,8 @@
 1 Vivien's Grizzly (WAR) 182
 1 Void Mirror (MH2) 242
 1 Weathered Runestone (KHM) 247
-2 Werebear (DMR) 182
+1 Werebear (DMR) 182
 1 Winter Moon (MH3) 213
 1 Wooded Bastion (2XM) 332
 1 Words of Wilding (ONS) 305
-  Out 
+  Out

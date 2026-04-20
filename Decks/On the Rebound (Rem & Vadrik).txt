@@ -101,11 +101,13 @@
 1 Aurelia's Fury (PLST) GTC-144 *F*
 1 Cast Through Time (ROE) 55
 1 Deafening Clarion (GRN) 165
+1 Disruptor of Currents (ECL) 47
 1 Distortion Strike (PLST) IMA-52
 1 Into the Night (VOW) 163
 1 Lorehold Command (PSTX) 199s *F*
 1 Lost in the Maze (MKM) 64
 1 Mark of Asylum (CON) 10
+1 Omni-Changeling (ECL) 62
 1 Primal Amulet / Primal Wellspring (XLN) 243
 1 Recurring Insight (ROE) 82
 1 Referee Squad (MOM) 327
@@ -113,6 +115,7 @@
 1 Throne of the God-Pharaoh (AKH) 237
 1 To Arms! (RVR) 30
 1 Warleader's Call (MKM) 242
+1 Winnowing (ECL) 43
 
     Out 
 Chief Engineer out 

@@ -33,6 +33,8 @@
 1 Zoyowa Lava-Tongue (LCI) 312 *F*
     In 
 1 Arcbond (FRF) 91
+1 Boggart Cursecrafter (ECL) 206
+1 Boggart Mischief (ECL) 92
 1 Break Through the Line (FRF) 94
 1 Breeches, Eager Pillager (LCI) 137
 1 Brightstone Ritual (ONS) 191

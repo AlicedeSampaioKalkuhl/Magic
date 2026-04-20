@@ -1,0 +1,55 @@
+    Alela, Cunning Conqueror
+
+    Check 
+1 Aboleth Spawn (CLB) 662
+1 Arcane Signet (TDC) 105
+1 Bender's Waterskin (TLA) 255
+1 Blightwing Bandit (WOC) 13
+1 Borne Upon a Wind (LTR) 44
+1 Brazen Borrower / Petty Theft (WOC) 85
+1 Brineborn Cutthroat (GN3) 24
+1 Callidus Assassin (40K) 109
+1 Charcoal Diamond (CLB) 305
+1 Complete the Circuit (MOM) 351
+1 Cunning Nightbonder (IKO) 219
+1 Emergence Zone (WAR) 245
+1 Faerie Mastermind (MOM) 352 *F*
+1 Frantic Search (TDC) 153
+1 Gandalf, Friend of the Shire (LTR) 50 *F*
+1 Geyser Drake (OTJ) 51
+1 Hydroelectric Specimen / Hydroelectric Laboratory (MH3) 240
+1 Kelpie Guide (STX) 45
+1 Malcolm, Alluring Scoundrel (LCI) 63 *F*
+1 Mocking Sprite (FDN) 159
+1 Naiad of Hidden Coves (THB) 56
+1 Notion Thief (ZNC) 96
+1 Nymris, Oona's Trickster (WOC) 141
+1 Obyra, Dreaming Duelist (WOE) 210
+1 Portal Mage (C20) 122
+1 Quickling (WOC) 103
+1 Re-Roll (SLD) 1036
+1 Sky Diamond (CLB) 337
+1 Slitherwisp (IKO) 208
+1 Snap (WOC) 110
+1 Sol Ring (TDC) 106
+1 Stunt Double (CLU) 101
+1 Unwind (DOM) 72
+1 Venser, Shaper Savant (2X2) 66
+1 Victory Chimes (C21) 274
+1 Wavebreak Hippocamp (THB) 80
+    In 
+1 Faerie Tauntings (LRW) 112
+1 Glamermite (ECL) 50
+1 Glen Elendra's Answer (ECL) 52
+1 High Fae Trickster (FDN) 40
+1 Nightmare Sower (ECL) 114
+1 Pore Over the Pages (DDQ) 28
+1 Reset (MB2) 170
+1 Spellstutter Sprite (LRW) 89
+1 Tishana's Tidebinder (PLCI) 81p
+1 Unwelcome Sprite (ECL) 81
+1 Vendilion Clique (A25) 76
+1 Voracious Greatshark (FDN) 600
+1 Voracious Tome-Skimmer (ECL) 250
+1 Wydwen, the Biting Gale (C20) 235
+    Out 

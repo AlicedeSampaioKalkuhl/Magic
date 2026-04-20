@@ -57,7 +57,7 @@
 1 Vigor (LRW) 240
 1 Xenagos, God of Revels (LCC) 295
         In 
-1 Alena, Kessig Trapper (CMR) 160
+1 Alena, Kessig Trapper (CMR) 160 *F*
 1 Anzrag, the Quake-Mole (MKM) 186
 1 Arena (TSB) 117
 1 Arni Slays the Troll (KHM) 201
@@ -73,13 +73,13 @@
 1 Magus of the Arena (C13) 115
 1 Needletooth Raptor (RIX) 107
 1 Nessian Wilds Ravager (BNG) 129
+1 Pitiless Fists (ECL) 187
 1 Pounce (XLN) 200
 1 Ravager Wurm (RNA) 200
 1 Savage Swipe (MH1) 178
 1 Setessan Tactics (JOU) 140
 1 Silverclad Ferocidons (RIX) 115
 1 Stump Stomp / Burnwillow Clearing (MH3) 259
-1 Tail Swipe (SCH) 15
 1 The Tarrasque (AFR) 207
 1 Thorn Mammoth (ELD) 323
 1 Titanic Brawl (RVR) 158

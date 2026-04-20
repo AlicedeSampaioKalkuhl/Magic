@@ -25,9 +25,8 @@
 1 Cultivate (PW23) 6 *F*
 1 Decisive Denial (STX) 177
 1 Deekah, Fractal Theorist (C21) 26
-1 Deserted Temple (LTC) 393 *F*
 1 Drownyard Temple (DSC) 272
-2 Edge of Autumn (FUT) 144
+1 Edge of Autumn (FUT) 144
 1 Erinis, Gloom Stalker (CLB) 515 *E*
 1 Eureka Moment (STX) 184 *F*
 1 Evolution Vat (DIS) 161
@@ -86,6 +85,7 @@
 1 Uyo, Silent Prophet (CHK) 99
 1 Vineglimmer Snarl (DSC) 323
 1 Waterlogged Grove (WHO) 331
+1 Weathertop (LTC) 393 *F*
 1 Wonderscape Sage (M3C) 49
 1 Wrenn and Seven (DSC) 207
 1 Yavimaya Coast (DSC) 327
@@ -99,7 +99,6 @@
 1 Evolving Wilds (BLC) 302
 1 Guildless Commons (CMR) 351
 1 Jungle Basin (C14) 302
-1 Serpentine Curve (STX) 52
     In 
 1 Aggressive Biomancy (M3C) 121
 1 Chocobo Kick (FIN) 178
@@ -108,13 +107,12 @@
 1 Fountainport (BLB) 253
 1 Ghost Town (TMP) 318
 1 Horizon of Progress (M3C) 78
-1 Kasmina, Enigma Sage (STX) 196
-1 Manifestation Sage (STX) 205
 1 Oboro, Palace in the Clouds (SOK) 164
-1 Paradox Zone (C21) 64
+1 Oviya, Automech Artisan (DFT) 173
 1 Realms Uncharted (ROE) 206
 1 Sab-Sunen, Luxa Embodied (DFT) 221
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
+1 Seismic Tutelage (TLE) 254
 1 Shifting Woodland (MH3) 228
 1 Sword of Hours (AFC) 61
 1 Tanazir Quandrix (STX) 240
@@ -127,3 +125,9 @@
 Cultivate out 
 Mossborn Hydra out 
 Open the Way out 
+Oversimplify out 
+Fracal Summoning out 
+Body of Research out 
+Leyline Invocation out 
+Geometric Nexus out 
+Sequence Engine out 

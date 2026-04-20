@@ -88,12 +88,13 @@
 1 Zephid's Embrace (USG) 114
     Check 
 1 Combat Calligrapher (C21) 14
+1 Glasswing Grace / Age-Graced Chapel (MH3) 254
 1 Hunted Lammasu (RAV) 22
+1 Parting Gust (BLB) 24
 1 Puca's Mischief (SHM) 47
     In 
-1 Glasswing Grace / Age-Graced Chapel (MH3) 254
 1 Glyph Elemental (MH3) 27
-1 Parting Gust (BLB) 24
+1 Noggle the Mind (ECL) 60
     out 
 Willbreaker 
 Metamorphic Alteration 

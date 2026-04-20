@@ -91,12 +91,15 @@
     Check 
 1 Blossoming Calm (MH2) 327 *F*
 1 Eldrazi Skyspawner (BFZ) 58
+1 Parting Gust (BLB) 24
 1 Turn to Mist (UMA) 224 *F*
     In 
 1 Another Round (OTJ) 1
 1 Chronatog (VIS) 28
 1 Chronatog Totem (TSP) 252
+1 Daydream (SOS) 9
 1 Delney, Streetwise Lookout (MKM) 12
+1 Don & Leo, Problem Solvers (TMT) 143
 1 Drowner of Hope (BFZ) 57
 1 Eldrazi Displacer (OGW) 13
 1 Extraordinary Journey (WOE) 48
@@ -106,12 +109,14 @@
 1 Idyllic Beachfront (DMU) 249
 1 Inventors' Fair (KLD) 247
 1 Kykar, Zephyr Awakener (FDN) 122
-1 Parting Gust (BLB) 24
 1 Preston, the Vanisher (J22) 8
 1 Restricted Office / Lecture Hall (DSK) 227
 1 Salvager of Secrets (M19) 70
+1 Skycoach Conductor / All Aboard (SOS) 67
 1 Stonehorn Dignitary (M12) 37
 1 Teferi, Time Raveler (BLC) 92
+1 That's Rough Buddy (TLE) 87
 1 Venser, the Sojourner (DDI) 1 *F*
 1 Whir of Invention (AER) 49
     Out 
+

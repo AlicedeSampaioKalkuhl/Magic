@@ -48,6 +48,7 @@
 1 Life's Finale (NPH) 65
 1 Marrow Bats (C13) 82
 1 Mending Touch (DGM) 44
+1 Moonshadow (ECL) 110
 1 Mossbridge Troll (SHM) 123
 1 Nim Shambler (MRD) 72
 1 Reality Ripple (MIR) 87
