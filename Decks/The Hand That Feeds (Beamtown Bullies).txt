@@ -75,6 +75,7 @@
 1 Filth (JUD) 66
 1 Flayer of the Hatebound (C19) 144
 1 God-Eternal Bontu (WAR) 92
+1 Grave Researcher / Reanimate (SOS) 85
 1 Heartwood Storyteller (TSR) 209
 1 Hellcarver Demon (ROE) 113
 1 Hired Giant (MMQ) 194
@@ -84,6 +85,7 @@
 1 Karazikar, the Eye Tyrant (AFC) 49 *F*
 1 Korvold, Gleeful Glutton (WOC) 26
 1 Master of the Feast (JOU) 75
+1 Mindmoil (RAV) 135
 1 Old-Growth Dryads (XLN) 199
 1 Phyrexian Negator (DDE) 1 *F*
 1 Reforge the Soul (INR) 167
