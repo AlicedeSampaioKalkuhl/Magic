@@ -116,6 +116,7 @@
 1 Darksteel Brute (DST) 108
 1 Darksteel Forge (M14) 206
 1 Darksteel Monolith (CMM) 743
+1 Fugitive Droid (TMT) 40
 1 Glint Hawk Idol (MM2) 216
 1 Guardian Idol (IMA) 216
 1 Idol of False Gods (MH3) 210

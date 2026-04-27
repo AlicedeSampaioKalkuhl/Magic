@@ -60,6 +60,7 @@
 1 Cemetery Puca (SHM) 158
 1 Dark Prophecy (M14) 93
 1 Demon's Disciple (CMM) 149
+1 Emeritus of Woe / Demonic Tutor (SOS) 80
 1 Emrakul's Messenger (MH3) 61
 1 Endrek Sahr, Master Breeder (CMM) 155
 1 Enduring Tenacity (DSK) 95

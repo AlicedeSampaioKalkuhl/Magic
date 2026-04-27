@@ -1,50 +1,98 @@
 Dina, Essence Brewer 
-    Check 
+1 Accomplished Alchemist (STX) 119
 1 Ancient Stone Idol (MOC) 347
-1 Bastion of Remembrance (PIP) 182
+1 Arcane Signet (SOC) 127
 1 Beledros Witherbloom (SOC) 296
 1 Blight Mound (SOC) 208
-1 Bow of Nylea (THS) 153
+1 Bojuka Bog (C21) 281
+1 Cauldron of Essence (SOS) 179
 1 Chorale of the Void (EOE) 91
+1 Command Tower (SOC) 129
 1 Containment Breach (STX) 125
+1 Corpsejack Menace (RTR) 152
 1 Creakwood Liege (SOC) 301
+1 Culling Ritual (SOC) 302
 1 Cultivator of Blades (PKLD) 151 *F*
+1 Darkbore Pathway / Slitherbore Pathway (PLST) KHM-254
 1 Deadly Brew (SOC) 303
-1 Defiler of Vigor (DMU) 160
-1 Dina, Soul Steeper (SOC) 305
+1 Deathcap Glade (SOS) 253
+1 Dina, Soul Steeper (MUL) 102 *E*
 1 Doomgape (PLST) DDJ-65
 1 Eccentric Pestfinder / Turn Stones (SOC) 46
 1 ED-E, Lonesome Eyebot (PIP) 131
+1 Elvish Mystic (M14) 169
+1 Exotic Orchard (TDC) 360
 1 Feral Appetite (SOC) 38
-1 Fire Navy Trebuchet (TLA) 100 *F*
+1 Forest (SOS) 271
+5 Forest (SOS) 280
+1 Glorious Decay (SOS) 150 *F*
+1 Golgari Rot Farm (2X2) 406
+1 Golgari Signet (RAV) 262
+1 Grakmaw, Skyclave Ravager (ZNR) 223
 1 Grim Javelineer (DFT) 89
 1 Hill Giant Herdgorger (AFR) 187
 1 Honey Mammoth (IKO) 158
 1 Hunt for Specimens (STX) 73
+1 Immoral Bargain (SOC) 47
+1 Infernal Grasp (SOC) 216
 1 Infuse with Vitality (STX) 194
-1 Jade Seedstones / Jadeheart Attendant (LCI) 195
+1 Jungle Hollow (C21) 295
+1 Llanowar Elves (7ED) 253
+1 Llanowar Wastes (SOC) 383
+1 Lord Dregg, Insect Invader (TMT) 65
+1 Mazirek, Kraul Death Priest (SOC) 319
+1 Memorial to Folly (C19) 259
+1 Merchant of Venom (SOC) 27
 1 Meren of Clan Nel Toth (TDC) 297
 1 Moldervine Reclamation (SOC) 320
+1 Mortuary Mire (C20) 289
+1 Moseo, Vein's New Dean (SOS) 91
+1 Mosswort Bridge (LCC) 342
+1 Mycoloth (SOC) 276
+1 Noxious Newt (SOS) 155
 1 Pawn of Ulamog (SOC) 223
 1 Pest Infestation (SOC) 282
+1 Pest Mascot (SOS) 209
 1 Pest Rescuer (SOC) 42
 1 Pest Summoning (STX) 211
-1 Pestilent Cauldron / Restorative Burst (STX) 154
+1 Pestbrood Sloth (SOS) 157
 1 Professor of Zoomancy (STX) 140
+1 Pull from the Grave (SOS) 95
 1 Ribtruss Roaster (SOC) 43
-1 Savra, Queen of the Golgari (RVR) 218 *F*
-1 Sedgemoor Witch (STX) 86 *F*
+1 Rogue's Passage (C21) 312
+1 Root Manipulation (SOS) 222
+1 Savra, Queen of the Golgari (RAV) 225
+1 Send in the Pest (SOS) 100 *F*
+1 Shopkeeper's Bane (SOS) 159
 1 Sol Ring (SOC) 128
-1 Stensian Sanguinist / Exsanguinate (SOC) 29
-1 Talisman of Resilience (PIP) 250
+1 Solemn Simulacrum (SOC) 355
+1 Study Hall (C21) 80
+1 Swamp (SOS) 269 *F*
+1 Swamp (SOS) 277 *F*
+4 Swamp (SOS) 276
+1 Talisman of Resilience (C21) 270
 1 Teacher's Pest (SOS) 238
-1 Tend the Pests (STX) 242 *F*
-1 Thijarian Witness (WHO) 111
+1 Temple of Malady (OTC) 330
+1 Temple of the False God (VOC) 187
 1 Thought Vessel (BLC) 289
+1 Titan's Grave (SOS) 266
 1 Toxic Deluge (SOC) 120
+1 Tragedy Feaster (SOS) 102
 1 Triarch Stalker (40K) 67
-1 Valentin, Dean of the Vein / Lisette, Dean of the Root (PLST) STX-161
-1 Worldspine Wurm (DSC) 206
+1 Turbulent Fen (SOC) 55
+1 Twilight Mire (SOC) 418
+1 Veinwitch Coven (SOC) 228
+1 Vernal Fen (SOC) 419
+1 Vicious Rivalry (SOS) 241
+1 Vogar, Necropolis Tyrant (GN3) 3 *F*
+1 Witch of the Moors (SOC) 230
+1 Witherbloom Campus (STX) 275
+1 Witherbloom Charm (SOS) 244
+1 Witherbloom Command (SOC) 339
+1 Woodland Cemetery (SOC) 424
+1 Workshop Warchief (GDY) 5 *F*
+    Check 
+
     In
 1 A Killer Among Us (MKM) 167
 1 Balamb T-Rexaur (FIN) 173
@@ -53,7 +101,6 @@ Dina, Essence Brewer
 1 Bristlebane Battler (ECL) 168
 1 Callous Bloodmage (STX) 66
 1 Case of the Trampled Garden (MKM) 156
-1 Cauldron of Essence (SOS) 179
 1 Daemogoth Titan (STX) 174
 1 Death Tyrant (AFC) 23
 1 Deity of Scars (EVE) 118
@@ -63,24 +110,29 @@ Dina, Essence Brewer
 1 Essenceknit Scholar (SOS) 187
 1 Fangren Firstborn (DST) 75
 1 Fangren Pathcutter (5DN) 87
+1 Fire Navy Trebuchet (TLA) 100 *F*
 1 Foul-Tongue Shriek (DTK) 103
 1 Gemini Engine (DST) 121
 1 Grave Venerations (ECC) 9
 1 Host of the Hereafter (TDM) 193
 1 Impervious Greatwurm (2X2) 152
+1 Jade Seedstones / Jadeheart Attendant (LCI) 195
 1 Jumbo Cactuar (FIN) 191
 1 Lluwen, Exchange Student / Pest Friend (SOS) 199
 1 Moonshadow (ECL) 110
-1 Moseo, Vein's New Dean (SOS) 91
 1 Noxious Hatchling (EVE) 124
 1 Obsessive Pursuit (TLA) 112
-1 Pest Mascot (SOS) 209
-1 Pestbrood Sloth (SOS) 157
+1 Pestilent Cauldron / Restorative Burst (STX) 154
 1 Professor Dellian Fel (SOS) 214
-1 Send in the Pest (SOS) 100
-1 Shopkeeper's Bane (SOS) 159
+1 Pull from the Grave (SOS) 95
+1 Sedgemoor Witch (STX) 86 *F*
 1 Shredder, Shadow Master (TMC) 20
-1 Tragedy Feaster (SOS) 102
-1 Vicious Rivalry (SOS) 241
+1 Tend the Pests (STX) 242 *F*
+1 Valentin, Dean of the Vein / Lisette, Dean of the Root (PLST) STX-161
 1 Within Range (TDC) 32
+1 Worldspine Wurm (DSC) 206
     Out 
+Honey Mammoth out 
+Hill Giant Herdgorger out 
+Triarch Stalker out 
+ED-E, Lonesome Eyebot out 

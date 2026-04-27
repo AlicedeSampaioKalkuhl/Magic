@@ -44,6 +44,7 @@
 1 Together Forever (ZNC) 22
 1 Winding Constrictor (PIP) 223
         In 
+1 Abigale, Poet Laureate / Heroic Stanza (SOS) 170
 1 Abzan Advantage (FRF) 2
 1 Abzan Banner (KTK) 215
 1 Ajani, Mentor of Heroes (JOU) 145
@@ -63,6 +64,7 @@
 1 Inspiring Roar (AER) 186
 1 Invasion of Moag / Bloomwielder Dryads (MOM) 237
 1 Jiang Yanggu, Wildcrafter (WAR) 164
+1 Michelangelo, Weirdness to 11 (TMT) 121
 1 Pledge of Unity (WAR) 210
 1 Retribution of the Ancients (KTK) 85
 1 Stalwart Successor (TDM) 227

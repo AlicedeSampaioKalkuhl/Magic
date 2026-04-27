@@ -64,7 +64,9 @@
 1 Barroom Brawl (CLB) 217
 1 Boxing Ring (NCC) 91
 1 Bridgeworks Battle / Tanglespan Bridgeworks (MH3) 249
+1 Burrog Barrage (SOS) 141
 1 Cartouche of Strength (AKH) 158
+1 Chelonian Tackle (SOS) 142
 1 Grothama, All-Devouring (BBD) 71
 1 Gruul Ragebeast (GTC) 170
 1 Guild Feud (RTR) 97
@@ -73,6 +75,7 @@
 1 Magus of the Arena (C13) 115
 1 Needletooth Raptor (RIX) 107
 1 Nessian Wilds Ravager (BNG) 129
+1 Novel Nunchaku (TMT) 127
 1 Pitiless Fists (ECL) 187
 1 Pounce (XLN) 200
 1 Ravager Wurm (RNA) 200

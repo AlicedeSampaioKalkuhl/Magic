@@ -93,8 +93,10 @@
 1 Parting Gust (BLB) 24
 1 Puca's Mischief (SHM) 47
     In 
+1 Emeritus of Truce / Swords to Plowshares (SOS) 13
 1 Glyph Elemental (MH3) 27
 1 Noggle the Mind (ECL) 60
+1 Retro-Mutation (TMT) 51
     out 
 Willbreaker 
 Metamorphic Alteration 

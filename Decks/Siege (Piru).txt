@@ -108,15 +108,19 @@
 1 Cathedral Membrane (NPH) 5
 1 Citadel Gate (CLB) 349
 1 Cliffgate (CLB) 350
+1 Conciliator's Duelist (SOS) 182
 1 Electrodominance (PRNA) 99p
 1 Fiendlash (CMM) 221
 1 Gerrard, Weatherlight Hero (C19) 41
 1 Intimidation Bolt (ARB) 99
+1 Lorehold, the Historian (SOS) 201
 1 Magmaquake (SCD) 149
 1 Martyrdom (ALL) 10a
+1 Molten Note (SOS) 204
 1 Opal-Eye, Konda's Yojimbo (BOK) 17
 1 Pariah (OTP) 5
 1 Pestilent Spirit (RNA) 81
+1 Raphael, Ninja Destroyer (TMT) 102
 1 Rivaz of the Claw (DMU) 215
 1 Savai Triome (PIKO) 253p
 1 Self-Destruct (FIN) 157

@@ -104,8 +104,12 @@ Felix Five-Boots
 1 Crosstown Courier (DDM) 6
 1 Deathcap Glade (VOW) 261
 1 Gorm the Great (BBD) 8
+1 Kaito, Bane of Nightmares (DSK) 220
+1 Krang & Shredder (TMT) 153
+1 Leatherhead, Swamp Stalker (TMT) 117
 1 Master of Predicaments (M15) 67
 1 Mental Vapors (GTC) 72
+1 Michelangelo, Improviser (TMT) 119
 1 Midnight Recovery (GTC) 73
 1 Mindscour Dragon (FRF) 41
 1 Mirelurk Queen (PIP) 33
@@ -119,6 +123,7 @@ Felix Five-Boots
 1 Shriekgeist (IMA) 72
 1 Spring-Leaf Avenger (NEO) 208
 1 Szadek, Lord of Secrets (CM2) 168
+1 The Mindskinner (DSK) 66
 1 Undercity Plague (GTC) 83
 1 Undergrowth Stadium (CMM) 435
 1 Virtus the Veiled (BBD) 7

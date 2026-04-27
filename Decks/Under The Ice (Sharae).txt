@@ -83,6 +83,7 @@ Sharae
 1 Gadwick, the Wizened (ELD) 48
 1 Galvanic Alchemist (AVR) 54
 1 Gideon, Martial Paragon (AKH) 270 *F*
+1 Homesickness (SOS) 53
 1 Hylda's Crown of Winter (WOE) 247
 1 Icy Blast (KTK) 42
 1 Imi Statue (CHK) 255
@@ -96,6 +97,7 @@ Sharae
 1 Plunge into Winter (WOE) 22
 1 Pore Over the Pages (SOI) 79
 1 Quiet Contemplation (KTK) 50
+1 Skateboard (TMT) 178
 1 Skyline Cascade (BFZ) 246
 1 Static Orb (MB2) 234
 1 Summon: Shiva (FIN) 78

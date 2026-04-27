@@ -83,6 +83,7 @@
 1 Astral Cornucopia (CM2) 172
 1 Belt of Giant Strength (AFC) 38
 1 Benevolent Hydra (J22) 38
+1 Berta, Wise Extrapolator (SOS) 175
 1 Blue Sun's Twilight (ONE) 43
 1 Castle Garenbrig (PELD) 240p
 1 Communal Brewing (BLC) 29
@@ -93,6 +94,8 @@
 1 Fanatic of Rhonas (MH3) 152
 1 Festival of the Guildpact (RAV) 17
 1 Finale of Devastation (CMM) 289
+1 Frog Butler (TMT) 114
+1 Geometer's Arthropod (SOS) 191
 1 Green Sun's Zenith (2X2) 150
 1 Hail of Arrows (CN2) 90
 1 Icy Blast (KTK) 42
@@ -102,6 +105,7 @@
 1 Mana Bloom (RTR) 130
 1 March of Otherworldly Light (NEO) 28
 1 Marketback Walker (DFT) 235
+1 Mind into Matter (SOS) 202
 1 Mistcutter Hydra (THS) 162
 1 Neverwinter Hydra (AFC) 41
 1 Noble Hierarch (2XM) 177

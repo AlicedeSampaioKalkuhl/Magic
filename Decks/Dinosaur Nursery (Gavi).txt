@@ -94,7 +94,8 @@
 1 Zenith Flare (IKO) 217
 1 Zetalpa, Primal Dawn (C21) 112
     Check 
-1 Jace's Erasure (M11) 59
+1 Basri, Tomorrow's Champion (DFT) 3
+1 Jace's Erasure (M12) 60
     In 
 1 Altar of the Brood (KTK) 216
 1 Archive Trap (ZEN) 41
@@ -104,6 +105,7 @@
 1 Deem Worthy (AKH) 127
 1 Djeru's Resolve (AKH) 11
 1 Fraying Sanity (WOT) 19
+1 Grindstone (OTP) 62
 1 Huatli, Dinosaur Knight (XLN) 285 *F*
 1 Hunting Velociraptor (REX) 4
 1 Marauding Brinefang (LCI) 64
@@ -114,7 +116,10 @@
 1 Soaring Sandwing (LCI) 35
 1 Swooping Pteranodon (REX) 19
 1 Tectonic Reformation (C20) 162
+1 Triceraton Commander (TMT) 25
 1 Trumpeting Carnosaur (LCI) 171
+1 Yidaro, Wandering Monster (IKO) 141
+1 Zog, Triceraton Castaway (TMT) 111
 
     Out 
 Past in Flames 

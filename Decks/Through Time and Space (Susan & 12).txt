@@ -126,6 +126,7 @@ Feeding Grounds
 1 Loot, the Key to Everything (BIG) 62 *F*
 1 Mox Tantalite (MH1) 226
 1 Orchard Elemental (CN2) 68
+1 Quandrix, the Proof (SOS) 218
 1 Selvala's Stampede (CN2) 71
 1 Twists and Turns / Mycoid Maze (LCI) 217
 

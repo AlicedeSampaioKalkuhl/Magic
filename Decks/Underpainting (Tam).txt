@@ -64,6 +64,7 @@
 1 Bloom Tender (ECL) 166
 1 Brilliant Spectrum (PLST) BFZ-70
 1 Bring to Light (BFZ) 209
+1 Buried Treasure (LCI) 246
 1 Campus Composer / Aqueous Aria (SOS) 40
 1 Case of the Shattered Pact (MKM) 1
 2 Crystalline Crawler (EOC) 133
@@ -110,6 +111,7 @@
 1 Prismatic Undercurrents (ECL) 189
 1 Puca's Eye (ECL) 259
 1 Quickchange (RAV) 62
+1 Rancorous Archaic (SOS) 2
 1 Reap (TMP) 247
 1 Second Wind (FUT) 57
 1 Seedtime (MB2) 73

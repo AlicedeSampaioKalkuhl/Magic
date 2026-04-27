@@ -73,3 +73,5 @@
 1 Unexpected Results (GTC) 203
 1 Vigorspore Wurm (GRN) 147
 1 Withering Curse (SOS) 105
+        Out 
+Illuminor Szeras out

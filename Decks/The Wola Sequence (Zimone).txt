@@ -11,9 +11,7 @@
 1 Barkchannel Pathway / Tidechannel Pathway (SLU) 11 *F*
 1 Biogenic Upgrade (2X2) 137
 1 Biomass Mutation (C19) 187
-1 Biomathematician (STX) 164
 1 Blighted Woodland (NCC) 388
-1 Body of Research (STX) 168
 1 Bonny Pall, Clearcutter (OTJ) 196
 1 Burgeoning (SLD) 408
 1 Cartographer (EXO) 107
@@ -37,9 +35,10 @@
 1 Flooded Grove (DSC) 276
 1 Forest (DSK) 276
 4 Forest (ONE) 266
-1 Fractal Summoning (STX) 187
-1 Geometric Nexus (C21) 77
+1 Garruk's Uprising (BLC) 219
+1 Growth Curve (SOS) 193
 1 Growth Spiral (WHO) 237
+1 Guildless Commons (CMR) 351
 1 Hinterland Harbor (DSC) 284
 1 Hydra's Growth (THB) 172
 1 Invigorating Surge (M21) 190 *F*
@@ -51,22 +50,22 @@
 1 Kalonian Hydra (BLC) 226
 1 Kianne, Corrupted Memory (DSC) 2
 1 Letter of Acceptance (STX) 256
-1 Leyline Invocation (STX) 136
-1 Lotus Cobra (ZNR) 307 *F*
+1 Lotus Cobra (ZNR) 307
 1 Meloku the Clouded Mirror (CHK) 74
 1 Mossborn Hydra (FDN) 107
 1 Mosswort Bridge (DSC) 288
 1 Myriad Landscape (CMM) 660
 1 Oboro Breezecaller (SOK) 48
 1 Oboro Envoy (SOK) 49
-1 Open the Way (MAT) 23 *F*
 1 Oracle of Mul Daya (2X2) 154
 1 Oversimplify (DSC) 228
+1 Ozolith, the Shattered Spire (SOC) 281
+1 Planar Engineering (SOS) 158
 1 Quandrix Campus (STX) 271
 1 Quirion Ranger (MH2) 285
 1 Reliquary Tower (PF23) 3
 1 Scaled Herbalist (AFR) 204 *F*
-1 Sequence Engine (C21) 67
+1 Scepter of Celebration (NCC) 64
 1 Simic Growth Chamber (2X2) 412
 1 Sisterhood of Karn (WHO) 109
 1 Soramaro, First to Dream (SOK) 58
@@ -75,6 +74,7 @@
 1 Stone-Seeder Hierophant (RAV) 184
 1 Summer Bloom (2X2) 160
 1 Sustenance (MMQ) 278
+1 Tanazir Quandrix (SOC) 332
 1 Tatyova, Benthic Druid (CMM) 687
 1 Temple of Mystery (DSC) 311
 1 Temple of the False God (C19) 280
@@ -92,13 +92,11 @@
 1 Yedora, Grave Gardener (DSC) 209
 1 Zimone, Paradox Sculptor (FDN) 126
 1 Zimone, Quandrix Prodigy (STX) 250 *F*
-1 Zimone's Hypothesis (DSC) 15
+1 Zimone's Experiment (SOS) 169
+1 Zimone's Hypothesis (DSC) 46
 1 Zuran Orb (ICE) 350
     Check
-1 Brokers Hideout (SNC) 248
-1 Evolving Wilds (BLC) 302
-1 Guildless Commons (CMR) 351
-1 Jungle Basin (C14) 302
+
     In 
 1 Aggressive Biomancy (M3C) 121
 1 Chocobo Kick (FIN) 178
@@ -106,7 +104,10 @@
 1 Field of the Dead (PM20) 247p
 1 Fountainport (BLB) 253
 1 Ghost Town (TMP) 318
+1 Herd Heirloom (PTDM) 144p
 1 Horizon of Progress (M3C) 78
+1 Hunter's Talent (BLB) 179
+1 Mathemagics (SOS) 58
 1 Oboro, Palace in the Clouds (SOK) 164
 1 Oviya, Automech Artisan (DFT) 173
 1 Realms Uncharted (ROE) 206
@@ -114,20 +115,15 @@
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
 1 Seismic Tutelage (TLE) 254
 1 Shifting Woodland (MH3) 228
+1 Sphere Grid (FIC) 70
 1 Sword of Hours (AFC) 61
-1 Tanazir Quandrix (STX) 240
 1 The Millennium Calendar (LCI) 257
 1 Tifa Lockhart (FIN) 206
 1 Tifa's Limit Break (FIN) 207
 1 Traverse the Outlands (CLB) 258
 1 Visions of Dominance (MIC) 37
+1 Zimone's Experiment (SOS) 169
     Out 
 Cultivate out 
 Mossborn Hydra out 
-Open the Way out 
 Oversimplify out 
-Fracal Summoning out 
-Body of Research out 
-Leyline Invocation out 
-Geometric Nexus out 
-Sequence Engine out 

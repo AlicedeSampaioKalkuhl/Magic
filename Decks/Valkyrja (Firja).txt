@@ -46,11 +46,30 @@
 1 Bitter Ordeal (FUT) 80
 1 Blossoming Calm (MH2) 7
 1 Center Soul (DTK) 8
-1 Coiling Rebirth (BLB) 86
+1 Conciliator's Duelist (SOS) 182
+1 Cut of the Profits (PSNC) 72p
+1 Dig Up the Body (SNC) 76
 1 Emerge Unscathed (IMA) 19
 1 Emeria's Call / Emeria, Shattered Skyclave (ZNR) 12
+1 Foot Headquarters (TMT) 185
+1 Forum Necroscribe (SOS) 84
+1 Graduation Day (SOS) 16
+1 Grisly Sigil (SNC) 82
+1 Illicit Shipment (SNC) 83
+1 Informed Inkwright (SOS) 20
+1 Join the Maestros (SNC) 85
+1 Killian's Confidence (SOS) 197
+1 Lecturing Scornmage (SOS) 87
+1 Melancholic Poet (SOS) 90
+1 Practiced Offense (SOS) 25
 1 Profound Journey (DTK) 30
-1 Silverquill Apprentice (STX) 231
+1 Scathing Shadelock / Venomous Words (SOS) 98
+1 Scheming Silvertongue / Sign in Blood (SOS) 99
+1 Scolding Administrator (SOS) 224
+1 Silverquill, the Disputant (SOS) 226
+1 Snooping Page (SOS) 227
 1 Songs of the Damned (UMA) 115
+1 Stirring Hopesinger (SOS) 35
 1 Tortured Existence (STH) 74
-1 Virulent Swipe (IMA) 113  
+1 Virulent Swipe (IMA) 113
+1 Xander's Pact (NCC) 43

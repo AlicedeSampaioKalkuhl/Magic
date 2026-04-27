@@ -91,8 +91,11 @@
 1 Docent of Perfection / Final Iteration (EMN) 56
 1 Eroded Canyon (OTJ) 256
 1 Gleeful Arsonist (DSC) 27
+1 Great Hall of the Biblioplex (SOS) 257
+1 Hydro-Channeler (SOS) 54
 1 Jagged Barrens (OTJ) 259
 1 Mana Echoes (2XM) 136
+1 Mana Sculpt (SOS) 57
 1 Mistbind Clique (LRW) 75
 1 Molten Echoes (C20) 54
 1 Mysidian Elder (FIN) 145
