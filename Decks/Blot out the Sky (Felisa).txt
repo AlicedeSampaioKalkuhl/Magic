@@ -1,56 +1,106 @@
 Felisa, Fang of Silverquil 
-    Check 
-1 Anafenza, Kin-Tree Spirit (DTK) 2 *F*
-1 Angel of Invention (M3C) 166
 1 Arcane Signet (SOC) 127
-1 Aron, Benalia's Ruin (DMU) 292
-1 Black Sun's Zenith (MKC) 126
+1 Arcbound Mouser (MH2) 3
+1 Axgard Braggart (KHM) 1
+1 Azula Always Lies (TLA) 84
+1 Blade Instructor (PLST) GRN-1
 1 Bloodflow Connoisseur (2X2) 71
 1 Bloodtracker (C21) 137
-1 Carmen, Cruel Skymarcher (LCC) 5 *F*
+1 Bojuka Bog (SOC) 363
+1 Carrier Thrall (2X2) 72 *F*
 1 Carrion Feeder (MH1) 81
+1 Caves of Koilos (SOC) 365
+1 Celebrity Fencer (SNC) 7
+1 Collective Effort (ONC) 61
 1 Combat Calligrapher (SOC) 141
-1 Dramatic Finale (STX) 341 *F*
+1 Command Tower (SOC) 129
+1 Dregscape Zombie (PLST) DDN-5
+1 Dueling Coach (STX) 15
+1 Duty Beyond Death (SOA) 4
+1 Eager Glyphmage (SOS) 11
+1 Eclipsed Steppe (SOC) 53
 1 Elenda, the Dusk Rose (LCC) 268
+1 Emeritus of Truce / Swords to Plowshares (SOS) 13
+1 Essence Infusion (STX) 69
+1 Eternal Student (SOS) 82
+1 Exhilarating Elocution (STX) 185
+1 Exotic Orchard (SOC) 369
+1 Expanded Anatomy (STX) 2
 1 Fain, the Broker (OTC) 133
+1 Fearless Fledgling (ZNR) 291
+1 Feast of the Victorious Dead (MAT) 80 *F*
+1 Feral Deathgorger / Dusk Sight (TDM) 80
+1 Fetid Heath (SOC) 372
 1 Forum Filibuster (SOC) 14
+1 Forum of Amity (SOS) 256 *F*
+1 Gavony Unhallowed (EMN) 89
+1 Guiding Voice (STX) 19
+1 Harsh Annotation (SOS) 18 *F*
+1 Homestead Courage (MID) 24
+1 Hungry Ghoul (FDN) 62
+1 Inkling Mascot (SOS) 196
 1 Inkling Summoning (STX) 195
 1 Inkshield (SOC) 316
 1 Intermediate Chirography (SOC) 26
 1 Iron Apprentice (NEO) 248
-1 Lethal Scheme (TDC) 184
-1 Luminous Broodmoth (BLC) 144
-1 Marionette Master (BRC) 109
-1 Mascot Exhibition (STX) 5 *F*
+1 Isolated Chapel (SOC) 382
+1 Kayla's Command (BRO) 302
+1 Knighted Myr (MH2) 17
+1 Kutzil's Flanker (LCI) 20 *F*
+1 Lethal Scheme (PIP) 185
+1 Light the Way (NEO) 24
+1 Maximum Overdrive (DFT) 96
 1 Mechanical Mobster (SPM) 168
-1 Necropolis Regent (VOC) 132
-1 Raffine's Informant (SNC) 26
+1 Myriad Landscape (WHO) 290
+1 Orzhov Basilica (C17) 268
+1 Phalanx Leader (PTHS) 26
+1 Pirate Peddlers (TLA) 115
+5 Plains (SOS) 273
+1 Plains (SOS) 273 *F*
+1 Plains (SOS) 267 *F*
+1 Plains (SOS) 267
+1 Promising Duskmage (STX) 85
 1 Raffine's Silencer (SNC) 90
-1 Reluctant Role Model (DSK) 26 *F*
-1 Resourceful Defense (NCC) 19
-1 Revel Ruiner (SNC) 91
+1 Requisition Raid (OTJ) 26
 1 Scorpion, Seething Striker (SPM) 64
+1 Scriv, the Obligator (SOC) 9 *F*
+1 Sejiri Steppe (WWK) 142
 1 Shadewing Laureate (STX) 229
 1 Shadrix Silverquill (SOC) 330
-1 Skyclave Shadowcat (ZNR) 126
+1 Sigarda's Summons (VOW) 404 *F*
+1 Silverquill Campus (STX) 273
+1 Silverquill Charm (SOS) 225
 1 Sol Ring (SOC) 128
+1 Spectacular Tactics (SPM) 15
+1 Stromkirk Bloodthief (MID) 123
+1 Study Hall (SOC) 407
+1 Subtle Strike (ZNR) 128
+2 Swamp (SOS) 269
+3 Swamp (SOS) 277
+1 Swamp (SOS) 277 *F*
+1 Swamp (SOS) 276 *F*
+1 Tainted Field (C21) 320
 1 Talisman of Hierarchy (SOC) 358
-1 Teysa Karlov (MUL) 61 *F*
-1 Teysa, Orzhov Scion (RVR) 233 *F*
+1 Temple of Silence (SOC) 415
 1 Together Forever (ZNC) 22
-1 Umbral Juke (STX) 89
-1 Weaponcraft Enthusiast (KLD) 105
+1 Turbulent Moor (SOC) 56
+1 Tyrite Sanctum (KHM) 272
+1 Unbounded Potential (MH2) 36
+1 Unbreakable Formation (CLB) 710
+1 Vengeful Townsfolk (OTJ) 37 *F*
+1 Wake the Reflections (PLST) MM3-28
+1 Windbrisk Heights (PIP) 315
+1 Wingsteed Rider (2X2) 35 *F*
+    Check 
+
     In
 1 Abandoned Air Temple (TLA) 263
 1 Accomplished Automaton (2XM) 230
 1 Blot Out the Sky (STX) 167
 1 Cauldron Haze (EVE) 84
 1 Cosmogrand Zenith (EOE) 9
-1 Eager Glyphmage (SOS) 11
-1 Emeritus of Truce / Swords to Plowshares (SOS) 13
-1 Eternal Student (SOS) 82
+1 Dramatic Finale (STX) 180
 1 Glint-Sleeve Artisan (2XM) 18
-1 Harsh Annotation (SOS) 18
 1 Informed Inkwright (SOS) 20
 1 Iron League Steed (2XM) 263
 1 Leader's Talent (TMT) 13
@@ -63,5 +113,6 @@ Felisa, Fang of Silverquil
 1 Scurrilous Sentry (MH3) 108
 1 Spymaster's Vault (MH3) 230
 1 Syr Vondam, Sunstar Exemplar (EOE) 231
+1 Umbral Juke (STX) 89
 1 Visionary Augmenter (KLD) 34
     Out 
