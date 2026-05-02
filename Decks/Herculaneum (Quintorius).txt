@@ -20,6 +20,7 @@ Quintorius, History Chaser
 1 Dig Site Inventory (SOS) 10
 1 Eiganjo, Seat of the Empire (NEO) 413
 1 Electric Revelation (MID) 135
+1 Eternal Scourge (EMN) 7
 1 Exotic Orchard (SOC) 369
 1 Fabled Passage (SOC) 130
 1 Faithless Looting (SOC) 244
@@ -31,7 +32,6 @@ Quintorius, History Chaser
 1 Hofri Ghostforge (SOC) 314
 1 Ignite the Future (CLB) 797
 1 Increasing Vengeance (DKA) 95
-1 Kami of Celebration (NEC) 20
 1 Kirol, History Buff / Pack a Punch (SOS) 198
 1 Laelia, the Blade Reforged (SOC) 246
 1 Living History (SOS) 121
@@ -44,8 +44,9 @@ Quintorius, History Chaser
 1 Molten Note (SOS) 204
 1 Monologue Tax (SOC) 157
 1 Mountain (SOS) 270 *F*
-5 Mountain (SOS) 278
+1 Mountain (SOS) 270
 1 Mountain (SOS) 278 *F*
+4 Mountain (SOS) 278
 1 Naktamun Lorespinner / Wheel of Fortune (SOC) 33
 1 Past in Flames (SS3) 4
 1 Patchwork Banner (SOC) 353

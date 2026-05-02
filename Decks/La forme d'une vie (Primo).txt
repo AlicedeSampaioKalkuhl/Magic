@@ -3,8 +3,8 @@ Primo, the Unbounded
 1 Arcane Signet (SOC) 127
 1 Berta, Wise Extrapolator (SOS) 175
 1 Biomathematician (STX) 164
-1 Birds of Paradise (LTC) 235
 1 Body of Research (STX) 168
+1 Charix, the Raging Isle (PZNR) 49p *F*
 1 Cloudfin Raptor (RVR) 37
 1 Command Tower (SOC) 129
 1 Crocanura (GTC) 116 *F*
@@ -18,10 +18,10 @@ Primo, the Unbounded
 1 Fathom Mage (PGTC) 162★ *F*
 1 Fertilid (CMR) 226
 1 Flooded Grove (SOC) 373
-1 Forest (SOS) 271 *F*
-1 Forest (SOS) 280 *F*
 2 Forest (SOS) 281 *F*
 5 Forest (SOS) 281
+1 Forest (SOS) 280 *F*
+1 Forest (SOS) 271 *F*
 1 Forgotten Ancient (SOC) 267
 1 Fractal Anomaly (SOS) 50
 1 Fractal Harness (SOC) 268
@@ -39,10 +39,10 @@ Primo, the Unbounded
 1 Incubation Druid (NCC) 296
 1 Inspiring Call (PIP) 203
 1 Invigorating Surge (M21) 190
+1 Island (SOS) 275 *F*
+5 Island (SOS) 275
 1 Island (SOS) 268 *F*
 1 Island (SOS) 274 *F*
-1 Island (SOS) 275 *F*
-6 Island (SOS) 275
 1 Jadzi, Steward of Fate / Oracle's Gift (SOS) 55
 1 Kalonian Hydra (MOC) 305
 1 Kosei, Penitent Warlord (NEC) 26
@@ -54,17 +54,17 @@ Primo, the Unbounded
 1 Ornithopter of Paradise (BLC) 281
 1 Oversimplify (SOC) 322
 1 Paradox Gardens (SOS) 258
-1 Path of Ancestry (WHO) 293
+1 Path of Ancestry (SOC) 393
 1 Pensive Professor (SOS) 63 *F*
 1 Plaxcaster Frogling (C21) 226
 1 Pterafractyl (SOS) 215
 1 Quandrix Campus (SOC) 395
 1 Quandrix Command (SOC) 325
+1 Restless Vinestalk (WOE) 307
 1 Roaring Earth (NEO) 204
 1 Rogue's Passage (SOC) 400
 1 Sequence Engine (C21) 67
 1 Serpentine Curve (STX) 52
-1 Shambleshark (GTC) 193
 1 Sigiled Starfish (PLST) ORI-73
 1 Simic Manipulator (GTC) 50
 1 Snarl Song (SOS) 161
@@ -82,6 +82,7 @@ Primo, the Unbounded
 1 Thrive (PLST) MM2-166
 1 Topiary Lecturer (SOS) 165
 1 Turbulent Wilderness (SOC) 59
+1 Tyranid Prime (40K) 145
 1 Unity of Purpose (OGW) 66
 1 Wave Goodbye (LCC) 79
 1 Wild Hypothesis (SOS) 167
@@ -92,21 +93,23 @@ Primo, the Unbounded
     In 
 1 Ambitious Augmenter (SOS) 140
 1 Applied Geometry (SOS) 172
-1 Arcade Cabinet (TMC) 36
 1 Big Mother Mouser (TMC) 37
 1 Emergent Sequence (STX) 129
 1 Emil, Vastlands Roamer (SOS) 146
 1 Fractal Tender (SOS) 190
-1 Germination Practicum (SOS) 149
 1 Infested Roothold (DST) 76
-1 Ixalli's Diviner (XLN) 192
 1 Kasmina, Enigma Sage (STX) 196
 1 Kianne, Dean of Substance / Imbraham, Dean of Theory (STX) 326 *F*
 1 Manifestation Sage (STX) 205
 1 Paradox Zone (C21) 64
 1 Ray Fillet, Wave Warrior (TMC) 14
-1 Singing Tree (ME1) 130
-1 The Earth Crystal (FIN) 184
-1 The Great Henge (CMM) 294
 1 Transdimensional Bovine (TMT) 134
-1 Tyranid Prime (40K) 145
+    Out 
+Shambleshark out 
+Roaring Earth out
+Fractal Mascot out
+Zamek Guildmage out
+Growth Curve out
+Quandric Command out 
+Sigiled Starfish out 
+Thijarian Witness out
