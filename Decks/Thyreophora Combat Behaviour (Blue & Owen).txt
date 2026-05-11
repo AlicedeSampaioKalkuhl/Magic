@@ -1,79 +1,108 @@
-    Blue, Loyal Raptor & Owen Grady 
+    Blue, Loyal Raptor & Owen Grady with Keruga, the Macrosage
+1 Apex Altisaur (LCC) 232
 1 Arcane Bombardment (OTC) 154
+1 Bear Umbra (WOC) 121
 1 Bonded Horncrest (XLN) 133
 1 Cacophodon (RIX) 123
-1 Fight Rigging (SNC) 145
-1 Gimli's Reckless Might (LTC) 494 *F*
-1 Life Finds a Way (REX) 5
-1 Nesting Grounds (C20) 71
-1 Reliquary Tower (OTC) 312
-1 Restless Ridgeline (LCI) 283
-1 Runic Armasaur (LCC) 256
-1 Shifting Ceratops (LCC) 258
-1 Tranquil Frillback (MAT) 24
-
-    Check 
-Chandra, Spark Hunter
-1 Baral's Expertise (AER) 29
-1 Choose Your Weapon (AFR) 175
+1 Charging Tuskodon (PLST) RIX-97
 1 Clash of Titans (IKO) 111
-1 Command Tower (NCC) 395
-1 Cultivate (M11) 168
-1 Diamond City (PIP) 147
-1 Displaced Dinosaurs (WHO) 100
+1 Command Tower (LCC) 325
+1 Commander's Sphere (LTC) 276
+1 Cultivate (C20) 170
+1 Decisive Denial (OTP) 42
+1 Descendants' Path (LCC) 238
+1 Dinotomaton (LCI) 144
 1 Entish Restoration (LTR) 163
+1 Etali, Primal Conqueror / Etali, Primal Sickness (MOM) 137
+1 Etali, Primal Storm (NCC) 268
 1 Eureka Moment (STX) 184
-1 Exotic Orchard (AFC) 236
-1 Frontier Bivouac (MOC) 402
-1 Hadana's Climb / Winged Temple of Orazca (RIX) 158
-1 Harrow (DDE) 57
-1 Inexorable Tide (PIP) 177
-1 Kari Zev's Expertise (AER) 88
+1 Exotic Orchard (BLC) 131
+1 Fertilid's Favor (MOM) 186 *F*
+1 Fight Rigging (SNC) 145
+1 Forest (BRO) 286 *F*
+3 Forest (BRO) 286
+2 Forest (BRO) 287
+1 Forest (LCI) 291
+1 Frontier Bivouac (PLST) KTK-234
+1 Ghalta, Primal Hunger (CMM) 292
+1 Gift of Paradise (CMR) 229
+1 Gimli's Reckless Might (LTC) 494 *F*
+1 Gruul Turf (CLB) 895
+1 Hedron Archive (MOC) 359
+1 Herald's Horn (40K) 241
+1 Hunter's Edge (M21) 189
+1 Imprisoned in the Moon (AFC) 85
+1 Into the Fire (MOM) 364
+1 Invoke the Ancients (NEO) 193 *F*
+1 Island (ZNR) 271
+2 Island (ZNR) 270
+2 Island (BFZ) 259
+1 Izzet Boilerworks (OTC) 302
 1 Khalni Ambush / Khalni Territory (ZNR) 192
-1 Kodama's Reach (UMA) 171
-1 Last March of the Ents (LTR) 418
-1 Monster Manual / Zoological Study (PCLB) 242s *F*
-1 Mutational Advantage (PIP) 111
+1 Kiora, Behemoth Beckoner (WAR) 232
+1 Knockout Maneuver (SOA) 54
+1 Kodama's Reach (NEC) 120
+1 Kogla and Yidaro (MOM) 311
+1 Lead the Stampede (IKO) 163 *F*
+1 Life Finds a Way (REX) 5
+1 Midnight Clock (VOC) 108
+1 Mosswort Bridge (MOC) 415
+1 Mountain (LCI) 290 *F*
+4 Mountain (LCI) 290
+1 Mouth / Feed (AKH) 214 *F*
+1 Nesting Grounds (C20) 71
+1 New Horizons (40K) 218
 1 Overgrown Armasaur (PLST) RIX-141
-1 Path of Ancestry (MOC) 418
+1 Overgrowth (J22) 702
+1 Path of Ancestry (NCC) 419
+1 Perfect Defense (SLD) 1039
+1 Pugnacious Hammerskull (LCI) 328
 1 Quartzwood Crasher (LCC) 281
 1 Raise the Palisade (LTC) 23
-1 Rampaging Ceratops (LCI) 322
-1 Reflections of Littjara (CLB) 733
+1 Rampaging Brontodon (LCC) 247
+1 Rampaging Geoderm (MOM) 251 *F*
 1 Regal Behemoth (LCC) 251
-1 Rishkar's Expertise (NEC) 127
-1 Rogue's Passage (PIP) 283
-1 Secluded Courtyard (LCC) 350
+1 Reliquary Tower (OTC) 312
+1 Restless Ridgeline (LCI) 283
+1 Rishkar's Expertise (NCC) 306
+1 Rivals' Duel (PCA) 51
+1 Rogue's Passage (LCC) 349
+1 Runic Armasaur (LCC) 256
+1 Savage Stomp (LCC) 257
 1 Shadow in the Warp (40K) 140
+1 Shared Animosity (LTC) 226
+1 Shifting Ceratops (LCC) 258
+1 Simic Growth Chamber (MKC) 293
+1 Simic Locket (RNA) 240
+1 Spike-Tailed Ceratops (XLN) 209 *F*
+1 Split the Spoils (CLB) 257
 1 Stampeding Horncrest (RIX) 116
-1 Swift Kick (KTK) 122
-1 Temple of the False God (MKC) 305
-1 Temur Charm (KTK) 208
-1 Titanoth Rex (IKO) 174
-1 Twinning Staff (C20) 70
-1 Tyrite Sanctum (PKHM) 272p
+1 Temple of Abandon (NEC) 179
+1 Temple of Epiphany (MOC) 433
+1 Temple of Mystery (MOC) 434
+1 Temple of the False God (MOC) 437
+1 Temur Banner (KTK) 226
+1 Temur Charm (C20) 230
+1 Terramorph (CLB) 836
+1 The Skullspore Nexus (LCI) 340
+1 Thundering Spineback (LCC) 260
+1 Tranquil Frillback (MAT) 24
+1 Tyrranax Rex (ONE) 314
 1 Unclaimed Territory (LCC) 366
-1 Valakut Awakening / Valakut Stoneforge (PZNR) 174s *F*
-1 Welcome to . . . / Jurassic Park (REX) 7
+    Check 
+
     In
 1 Arena (TSB) 117
 1 Bonders' Enclave (PIKO) 245p
 1 Castle Garenbrig (PELD) 240p
 1 Cavern of Souls (UMA) 237
-1 Charging Tuskodon (RIX) 97
-1 Dinotomaton (LCI) 144
-1 Domri, Anarch of Bolas (PWAR) 191p
 1 Elminster's Simulacrum (CLB) 68
 1 Kalamax, the Stormsire (SPG) 13
 1 Kiora, Master of the Depths (BFZ) 213
-1 Rampaging Geoderm (MOM) 251
 1 Savage Order (REX) 32 *F*
-1 Savage Stomp (JMP) 427
 1 Sea Gate Restoration / Sea Gate, Reborn (ZNR) 76
-1 Spike-Tailed Ceratops (XLN) 209
 1 Temur Ascendancy (PKTK) 207p
 1 That Which Was Taken (PLST) BOK-162
 1 The Great Henge (PELD) 161p
-1 The Skullspore Nexus (LCI) 212
 1 Traverse the Outlands (CLB) 258
 1 Zendikar Resurgent (OGW) 147

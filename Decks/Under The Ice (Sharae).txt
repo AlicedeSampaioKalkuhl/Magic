@@ -1,65 +1,97 @@
 Sharae
-    Check 
-1 Arcane Signet (CMM) 367
-1 Basalt Monolith (C13) 237
+1 Adarkar Wastes (M3C) 316
+1 Arcane Signet (WOC) 145
+1 Authority of the Consuls (KLD) 5
+1 Azorius Chancery (2X2) 400
+1 Azorius Signet (MKC) 224
 1 Bitter Chill (WOE) 44
-1 Blind Obedience (SLD) 1030
+1 Blind Obedience (WOT) 1
+1 Blossombind (ECL) 45
 1 Blustersquall (RTR) 30
-1 Bond of Discipline (WAR) 6
+1 Chill of the Grave (VOW) 51
 1 Citadel Siege (C21) 85
+1 Command Tower (LTC) 301
+1 Crackdown (MB2) 146
 1 Crippling Chill (KTK) 35 *F*
 1 Dauntless Dismantler (LCI) 8
-1 Dramatic Accusation (MKM) 53
+1 Decision Paralysis (PLST) AKH-50
+1 Dramatic Accusation (MKM) 294
 1 Dramatic Reversal (KLD) 44
-1 Drumbellower (NEC) 6
+1 Drumbellower (SOC) 143
 1 Elvish Mariner (LTR) 283
-1 Eriette's Lullaby (OTJ) 10
-1 Foreboding Statue / Forsaken Thresher (VOW) 256
-1 Frantic Search (WOC) 93
+1 Eriette's Lullaby (OTJ) 10 *F*
+1 Fabled Passage (SOC) 130
+1 Fear of Sleep Paralysis (DSC) 12
 1 Frost Breath (M21) 51
+1 Frostveil Ambush (IKO) 52
+1 Frozen Aether (PLST) PLC-54 *F*
+1 Galestrike (CMR) 70
 1 Giant Killer / Chop Down (ELD) 275
 1 Githzerai Monk (CLB) 20
+1 Glacial Fortress (BLC) 307
 1 Glacial Grasp (ZNR) 59
-1 Hands of Binding (GTC) 37
-1 Hidden Strings (DGM) 12
-1 Honor-Worn Shaku (DMC) 187
+1 Hallowed Fountain (RNA) 251
+1 Hidden Grotto (BLB) 254
+1 Hithlain Knots (LTR) 54
+1 Homesickness (SOS) 53
+1 Hourglass of the Lost (M3C) 92
 1 Hylda of the Icy Crown (WOE) 206
 1 Ice Out (WOE) 54 *F*
 1 Icewrought Sentry (WOE) 55 *F*
-1 Intruder Alarm (SLD) 229 *F*
-1 Involuntary Cooldown (BRO) 53 *F*
-1 Isochron Scepter (2XM) 264
-1 Junk Winder (MH2) 48
+1 Island (BFZ) 259
+1 Island (LTR) 274 *F*
+2 Island (LTR) 275 *F*
+3 Island (LTR) 274
+1 Isochron Scepter (MRD) 188
 1 Kapsho Kitefins (M15) 66
-1 Mana Vapors (PCY) 38
-1 Network Terminal (NEO) 251
+1 Kitnap (BLB) 53
+1 Lodestone Needle / Guidestone Compass (LCI) 62 *F*
+1 Mind Stone (C21) 251
+1 Myriad Landscape (NCC) 416
+1 Nimbus Maze (IMA) 242 *F*
+1 Ojutai's Breath (PLST) DTK-67
+1 Opal Palace (40K) 286
 1 Opposition (DMR) 62 *F*
-1 Patriar's Seal (CLB) 332
+1 Orb of Dreams (BOK) 156
+4 Plains (ONE) 262 *F*
+2 Plains (ONE) 262
+1 Pressure Point (ZNR) 33
+1 Propaganda (CLB) 730
 1 Queen of Ice / Rage of Winter (ELD) 285 *F*
-1 Reconnaissance (SLD) 1575
-1 Relic of Legends (DMU) 236
-1 Reliquary Tower (M3C) 368
-1 Retreat to Coralhelm (SLD) 407
-1 Rewind (SLD) 1036
+1 Rapier Wit (SOS) 28 *F*
+1 Ray of Frost (AFR) 68
+1 Re-Roll (SLD) 1036
+1 Reliquary Tower (PF23) 3
 1 Runic Shot (DMU) 30
 1 Savor the Moment (SLD) 1006
 1 Send to Sleep (PLST) ORI-71
-1 Sleep (PLST) C15-106
-1 Sol Ring (M3C) 305
+1 Silundi Vision / Silundi Isle (ZNR) 80 *F*
+1 Sol Ring (MOC) 381
 1 Solitary Sanctuary (WOE) 30
+1 Stall Out (DFT) 66
 1 Stasis (SLD) 1103
+1 Stop Cold (OTJ) 72
+1 Study Hall (C21) 80
+1 Stunning Strike (CLB) 97
 1 Succumb to the Cold (WOE) 72
 1 Sunblast Angel (SLD) 1290
 1 Sword of the Paruns (C13) 264
-1 Thaumatic Compass / Spires of Orazca (PLST) XLN-249
+1 Talisman of Progress (WHO) 253
+1 Tamiyo's Compleation (NEO) 83 *F*
+1 Temple of Enlightenment (WHO) 315
+1 Temple of the False God (PLST) C18-285
+1 The Fifth Doctor (WHO) 556
+1 Thought Vessel (MKC) 245
 1 Thoughtweft Gambit (SHM) 154
-1 Thunder Lasso (OTJ) 35
+1 Topple the Statue (WAR) 35
+1 Traveler's Amulet (THS) 221
+1 Ty Lee, Chi Blocker (TLA) 76
+1 Unwind (DOM) 72
 1 Verity Circle (VOC) 116
-1 Vhal, Candlekeep Researcher (CLB) 102
 1 Wall of Frost (M10) 80
-1 Wedding Ring (WHO) 213
-1 Wicked Slumber (MOM) 84 *F*
-1 Winter's Rest (MH1) 78   
+1 Wayfarer's Bauble (WHO) 256
+1 You're Confronted by Robbers (CLB) 53
+    Check 
     In 
 1 Amulet of Vigor (WWK) 121
 1 Assassin Gauntlet (ACR) 12
@@ -67,23 +99,17 @@ Sharae
 1 Breaking Wave (INV) 48
 1 Clock of Omens (M13) 202
 1 Cloudcrest Lake (CHK) 274
-1 Cone of Cold (CLB) 61
 1 Dazzling Theater / Prop Room (DSK) 3
 1 Don't Move (REX) 1
-1 Dovin, Architect of Law (RNA) 265 *F*
 1 Downpour (M13) 48
 1 Embargo (MMQ) 77
 1 Energy Arc (ME1) 144
 1 Ensnare (NEM) 32
-1 Fabled Passage (BLB) 252
 1 Floodfarm Verge (DSK) 259
-1 Freeze in Place (WOE) 50
 1 Frost Titan (C14) 112
-1 Frozen Solid (CSP) 35
 1 Gadwick, the Wizened (ELD) 48
 1 Galvanic Alchemist (AVR) 54
 1 Gideon, Martial Paragon (AKH) 270 *F*
-1 Homesickness (SOS) 53
 1 Hylda's Crown of Winter (WOE) 247
 1 Icy Blast (KTK) 42
 1 Imi Statue (CHK) 255
@@ -97,16 +123,13 @@ Sharae
 1 Plunge into Winter (WOE) 22
 1 Pore Over the Pages (SOI) 79
 1 Quiet Contemplation (KTK) 50
-1 Skateboard (TMT) 178
 1 Skyline Cascade (BFZ) 246
+1 Split Up (PDSK) 32p
 1 Static Orb (MB2) 234
 1 Summon: Shiva (FIN) 78
 1 Sword of Feast and Famine (2XM) 296
 1 Tamiyo, the Moon Sage (AVR) 79
-1 Teferi, Temporal Archmage (CMM) 125
 1 Tempest Caller (XLN) 86
 1 Theft of Dreams (EXO) 49
-1 Tranquilize (ACR) 284
-1 Web-Shooters (SPM) 22
 1 Winter Orb (4ED) 358
     Out 

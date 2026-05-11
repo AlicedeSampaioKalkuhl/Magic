@@ -16,9 +16,7 @@
 1 Emergence Zone (WAR) 245
 1 Everflowing Chalice (40K) 238
 1 Exotic Orchard (LTC) 307
-1 Expand the Sphere (ONE) 168
 1 Experimental Augury (ONE) 49
-1 Ezuri's Predation (CMM) 287
 5 Forest (ONE) 266
 1 Forest (MOM) 290 *F*
 1 Forest (MOM) 291 *F*
@@ -49,6 +47,7 @@
 1 Liliana's Talent (MOC) 76
 1 Mutational Advantage (PIP) 111
 1 Nesting Grounds (NCC) 418
+1 Nexus Mentality (SOC) 21
 1 Nissa of Shadowed Boughs (ZNR) 283
 1 Nissa, Ascended Animist (ONE) 327
 1 Nissa, Vastwood Seer / Nissa, Sage Animist (PLST) ORI-189
@@ -72,6 +71,7 @@
 3 Swamp (LCI) 398 *F*
 1 Swiftfoot Boots (BRR) 121
 1 Tamiyo, Collector of Tales (PWAR) 220p
+1 Teferi, Temporal Archmage (CMM) 125
 1 Tezzeret's Gambit (STA) 21
 1 The Chain Veil (M15) 215
 1 Unnatural Restoration (ONE) 191
@@ -90,7 +90,6 @@
 1 Ichormoon Gauntlet (ONE) 56
 1 Kaya's Ghostform (WAR) 94
 1 Kiora, Master of the Depths (BFZ) 213
-1 Liliana, Dreadhorde General (PWAR) 97p
 1 Lolth, Spider Queen (PLST) AFR-112
 1 Luxior, Giada's Gift (PSNC) 240p
 1 Minamo, School at Water's Edge (CHK) 279
@@ -98,7 +97,6 @@
 1 Oath of Liliana (EMN) 99
 1 Oath of Nissa (OGW) 140
 1 Oko, the Trickster (ELD) 309
-1 Teferi, Temporal Archmage (CMM) 125
 1 Teferi's Talent (MOC) 74
 1 Tezzeret, Artifice Master (PLST) M19-79
 1 The Millennium Calendar (LCI) 257
@@ -115,8 +113,6 @@ Garruk Relentless out
 Jace, Mirror Mage out
 Rampant Growth out 
 Cultivate out 
-Expand the Sphere out 
-Ezuri's Predation out 
 Sol Ring out
 Arcane Signet out 
 

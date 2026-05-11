@@ -3,7 +3,7 @@
 1 Abstract Paintmage (SOS) 171
 1 Aether Gale (SOC) 186
 1 Arcane Signet (SOC) 127
-1 Big Score (SOC) 237
+1 Big Score (SOA) 103
 1 Blasphemous Act (SOC) 238
 1 Blazing Firesinger / Seething Song (SOS) 109
 1 Bottle-Cap Blast (PIP) 55
@@ -39,9 +39,9 @@
 1 Mica, Reader of Ruins (SOS) 124
 1 Mirrorwing Dragon (SOC) 249
 1 Molten Tributary (SOC) 387
-1 Mountain (SOS) 270 *F*
 2 Mountain (SOS) 279 *F*
-4 Mountain (SOS) 279
+3 Mountain (SOS) 279
+2 Mountain (SOS) 270 *F*
 1 Muddle, the Ever-Changing (SOC) 5 *F*
 1 Mystic Sanctuary (SOC) 388
 1 Path of Ancestry (SOC) 393
@@ -106,8 +106,10 @@
 1 Savage Beating (CMM) 252
 1 Spectral Denial (TDM) 58
 1 The Emperor of Palamecia / The Lord Master of Hell (FIN) 219
-1 Witchstalker Frenzy (WOE) 159
-1 Zaffai and the Tempests (SOS) 246
     Out 
-Rowdy Research out 
-Mirrorwing Dragon out
+Abtsract Paintmage out 
+Leitmotif Composer out 
+Redoubled Stormsinger out 
+Mica, Reader of Ruins out 
+Muddle, the Ever-Changing otu 
+
