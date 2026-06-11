@@ -27,8 +27,8 @@ col<-colours%>%ggplot(aes(x="",colour,fill=identity))+
   xlab("")+
   coord_polar("y", start=0)+
             scale_fill_manual("Colour Pie", values = c("W"=rgb(249,250,185,maxColorValue=255),"U"=rgb(14,104,171,maxColorValue=255),"B"=rgb(21,11,0,maxColorValue=255),"R"=rgb(211,32,42,maxColorValue=255),"G"=rgb(0,115,62,maxColorValue=255)))
-# col 
-# ggsave("col.png")
+ col 
+ ggsave("col.png")
 
 #deck stats 
 games<-decks%>%filter(type!="Unfinished")%>%ggplot(aes(played,deck,fill=played))+
@@ -37,7 +37,7 @@ games<-decks%>%filter(type!="Unfinished")%>%ggplot(aes(played,deck,fill=played))
         theme(legend.position="none")
 games
 ggsave(filename ="played.png",width=3000,height =2255, dpi=300,units="px",device='png')
-# powerlevel
+# powerlevelhttp://127.0.0.1:17378/graphics/plot_zoom_png?width=1078&height=785
 decks%>%group_by(power)%>%count()
 # playable decks
 decks%>%filter(type!="Unfinished")%>%count()
@@ -52,11 +52,11 @@ LGSplay <- games %>% filter(type=="LGS") %>%
   geom_abline(slope=0.25,intercept=0)+
   scale_x_continuous(limits = c(0,total %>% filter(type=="LGS") %>% pull(max_played)))+
   scale_y_continuous(limits = c(0,total %>% filter(type=="LGS") %>% pull(max_played)))+
-  geom_text_repel(aes(label = commander),size=4,vjust = -1,max.overlaps = 21)+
+  geom_text_repel(aes(label = commander),size=4,vjust = -1,max.overlaps = 25)+
   scale_colour_viridis_d(option="turbo")+
   theme(legend.position = "none")
-# LGSplay 
-# ggsave("LGSplay.png")
+LGSplay 
+ggsave("LGSplay.png")
 
 
 # cEDH stats 
@@ -70,8 +70,8 @@ cEDH_results <- ggplot(cEDH, aes(x=lost,y=won,label=commander)) +
                   geom_text_repel(aes(label = commander),size=4,vjust = -1,max.overlaps = 21)+
                   scale_colour_viridis_d(option="turbo")+
                   theme(legend.position = "none")
-#cEDH_results
-# ggsave('cEDH_results.png')
+cEDH_results
+ggsave('cEDH_results.png')
 
 
 buildme<-decks%>%filter(type=="Unfinished")
@@ -86,12 +86,13 @@ art <-  artists %>%
   geom_text_wordcloud() +
   scale_size_area(max_size = 5)+
   theme_minimal()
-# art
-# ggsave('artists.png')
-# search for a specific artist decks%>%dplyr::filter(str_detect(artist,"Johannes Voss"))%>%arrange(commander)%>%pull(commander) 
+art
+ggsave('artists.png')
+# search for a specific artist 
+decks%>%dplyr::filter(str_detect(artist,"Victor Adame Minguez"))%>%arrange(commander)%>%pull(commander) 
 
 # filter by colour
-# decks%>%dplyr::filter(U==T&W==T)%>%pull(commander)
+decks%>%dplyr::filter(U==T&W==T)%>%pull(commander)
 
 # planes
 planes <- decks %>% separate_rows(plane,sep='&') %>% drop_na() %>% group_by(plane) %>% mutate(n_all=nrow(.)) %>% group_by(n_all,plane)%>% summarise(n=n()) %>% arrange(-n) %>% mutate(prop=n/n_all)
@@ -102,8 +103,8 @@ ggplot(aes(label = plane,color=plane,size=n)) +
   scale_size_area(max_size = 15)+
   theme_minimal()+
   scale_colour_viridis_d(option="plasma")
-# locations 
-# ggsave('locations.png')
+locations 
+ggsave('locations.png')
 
 # themes 
 deck_themes <- decks %>% separate_rows(themes,sep='&') %>% drop_na() %>% group_by(themes) %>% summarise(n=n()) %>% arrange(-n)
@@ -115,8 +116,8 @@ themes_plot<-ggplot(deck_themes, aes(label = themes,color=themes,size=n)) +
   scale_size_area(max_size = 10)+
   theme_minimal()+
   scale_colour_viridis_d(option="turbo")
-# themes_plot
-# ggsave('worldcloud.png')
+themes_plot
+ggsave('worldcloud.png')
 
-write.csv(decks %>% mutate(priority=rownames(.)),"Decks.csv",quote=F,row.names=F) # if you change the csv in here, remember to export it again 
+write.csv(decks |> arrange(commander)) # if you change the csv in here, remember to export it again 
   
