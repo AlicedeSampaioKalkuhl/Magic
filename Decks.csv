@@ -114,7 +114,7 @@ My Turn Now,Maralen,mid,0,0,0,0,Unfinished,F,T,T,F,F,Sultai,Steve Prescott,Lorwy
 Underpainting,Tam,low,0,0,0,0,Unfinished,F,T,F,F,T,Simic,Zoltan Boros,Shandalar,OgX0WvECaEmD1Eosld0y_A,five-colour,Brighton
 Gravemasks,Kestia,mid,0,0,0,0,Unfinished,T,T,F,F,T,Bant,Zezhou Chen,Theros,NKnLE6hOfEyM_UQdaZk_vg,enchantress,Brighton
 Necromancer Tax Collection,Kotis,mid,0,0,0,0,Unfinished,F,T,T,F,T,Sultai,Evyn Fong,Tarkir,GzdjgFmeUkmypvjmhR8z_A,party,Brighton 
-All Bear Everything,Kudo,mid,0,0,0,0,Unfinished,T,F,F,F,T,Selesnya,Peter Diamond,Unknow,rghQdbjR3U6i7iTVu4_jPg,bears,Brighton 
+All Bear Everything,Kudo,mid,0,0,0,0,Unfinished,T,F,F,F,T,Selesnya,Peter Diamond,Unknown,rghQdbjR3U6i7iTVu4_jPg,bears,Brighton 
 Fear Itself,Tayam&Kaheera,mid,0,0,0,0,Unfinished,T,F,T,F,T,Abzan,Sam Burley&Denis Medri,Ikoria&Ikoria,mQIScsRprE6vxNoucVHiAw,nightmares,Brighton
 Tazri Roulette,Tazri,mid,0,0,0,0,Unfinished,T,T,T,T,T,WUBRG,Chris Rahn,Zendikar,y2HsPFqexkOiFgc76DXEjQ,allies,Brighton
 The Blind Bandit Returns,Toph,mid,0,0,0,0,Unfinished,F,F,F,T,T,Gruul,Brian Yuen,Beyond,NLKKFMOsGkubDtumXsj3dw,lands,Brighton
@@ -135,4 +135,21 @@ Underwater Consultation,Tevesh&Thrasios,high,0,0,0,0,Unfinished,F,T,T,F,T,Sultai
 Graveyards of Nyx,Narci,mid,0,0,0,0,Unfinished,T,F,T,F,T,Abzan,Miranda Meeks,Theros,1mbU9aAUqk-wnXZZPHOplQ,sagas,Brighton
 Cabaretti Customer Service,Rocco,mid,0,0,0,0,Unfinished,T,F,F,T,T,Naya,Bram Sels,New Capenna,7zOiQKqus0Opd9ULrODqVg,counters&food&impulse,Brighton
 Walkies,Kroxa and Kunoros,high,0,0,0,0,proxied,T,F,T,T,F,Mardu,Jason A. Engle&Jason A. Engle,Theros&Theros,1zEtP2bdNUmeZXs84zx-Ww,graveyard&combat&combo,Brighton
-Ravnica Demolition,Borborygmos and Fblthp,high,0,0,0,0,proxied,F,T,F,T,T,Temur, Justin Hernandez&Alexis Hernandez,Ravnica&Ravnica,oGeS-k4QHEudRYoUkA5ZuA,draw&discard,Brighton
+Ravnica Demolition,Borborygmos and Fblthp,high,0,0,0,0,proxied,F,T,F,T,T,Temur,Justin Hernandez&Alexis Hernandez,Ravnica&Ravnica,oGeS-k4QHEudRYoUkA5ZuA,draw&discard,Brighton
+Filigree Collection,Breya,mid,0,0,0,0,Unfinished,T,T,T,T,F,Yore-Tiler,Clint Cearley,Alara,GvCFohp900aPBG61aFYvTw,artifacts,Brighton
+Cumulative Misery,Sin,mid,0,0,0,0,Unfinished,F,T,T,F,T,Sultai,John Tedrick,Spira,VHlSJbnOPE692MdKR9yTYg,landfall&mill,Brighton
+Counter Intelligence,Inspirit,mid,1,0,0,1,LGS,T,F,T,T,F,Jeskai,Titus Lunter,the Edge,ZieAfhvzXOC_UcPtiozqQ,artifacts&charge,Brighton
+In Vitro,Volrath,mid,0,0,0,0,Unfinished,F,T,T,F,T,Sultai,Heonhwa,Dominaria,CTykquhxYUegSVGMSnfDZg,poison,Brighton
+Civilisation,Phabine,mid,0,0,0,0,Unfinished,T,F,F,T,T,Naya,Ryan Pancoast,New Capenna,KobdigWUs0WxN8XP9fuSJw,citizens&mill,Brighton
+Primordial Elves,Mayael,mid,1,0,1,2,LGS,T,F,F,T,T,Naya,Jason Chan,Alara,KyMPh6AH10-7r2Y-cgRSfw,elves&stomp,Brighton
+Drop It!,Nekusar,mid,0,0,0,0,Unfinished,F,T,T,T,F,Grixis,Mark Winters,Unknown,xvH3Tl_mVkqc6YXWPYhmFA,discard&drawing cards,Brighton
+Kicked When Down,Loot,mid,0,0,0,0,Unfinished,F,T,F,T,T,Temur,Ernanda Souza,Unknown,f4HzsoNV_0Wlyd8L5qaMhg,kicker,Brighton
+Through All Of Time,Amy&11,mid,0,0,0,0,Unfinished,T,T,F,T,F,Jeskai,Greg Staples&Justyna Dura,Tardis&Tardis,gwePuLEanUmQLZxmR6Rj_Q,suspend,Brighton
+Modified Chapstick Collection,Jenny&Vastra,mid,0,0,0,0,Unfinished,F,T,F,T,T,Temur,Syd Mills&Syd Mills,Tardis&Tardis,dVLrJYsHFUelMDjnj0Rmbw,counters,Brighton
+Crossroads,Riku,mid,0,0,0,0,Unfinished,F,T,F,T,T,Temur,Denys Tsiperko,Shandalar,pCd6UTocV0uy0FeZdM2aTw,modular,Brighton
+Tolarian Dropout,Rona,mid,0,0,0,0,Unfinished,F,T,T,F,F,Dimir,Tommy Arnold,Dominaria,wFZGjTBIhEi1uZdLQ9M-qg,historic,Brighton
+Short King,Koll,high,0,0,0,0,Unfinished,T,F,F,T,F,Boros,Nico Delort,Kaldheim,iNxMbqiwmEe--FTMJ40Nog,equipment,Brighton
+Elven Fortress,Thranduil,mid,0,0,0,0,Unfinished,F,T,T,F,T,Sultai,Magali Villeneuve,middle Earth,VdhqZnLW9Eq8DRazwoz4og,elves&landfall,Brighton
+Scared Birds,Derevi,mid,0,0,0,0,Unfinished,T,T,F,F,T,Bant,Michael Komarck,Alara,C5bWi7j7VkCEDb58fKP_-Q,birds,Brighton
+More! More! More!,Ivy,mid,0,0,0,0,Unfinished,F,T,F,F,T,Simic,Evyn Fong,Dominaria,AsJL3-N1KE-aG1imHCLQvQ,spellslinger&copy,Brighton
+Tripped,Feather,mid,0,0,0,0,Unfinished,T,F,F,T,F,Boros,Yuko Shimizu,Earth,3gLBMQt2bUiHzHSSgZvciA,spellslinger&Zada,Brighton
