@@ -41,7 +41,7 @@ We're All Mad Here,Eruth,mid,0,0,0,0,Unfinished,FALSE,TRUE,FALSE,TRUE,FALSE,Izze
 Level Up,Esika with Zirda,mid,7,1,0,6,LGS,TRUE,TRUE,TRUE,TRUE,TRUE,WUBRG,Nana Qi&Jesper Ejsing,Kaldheim,0WLCVK5L7kCZUuW1V2PMtg,level up&legendary creatures,Brighton
 Flying Snakes,Eutropia,mid,0,0,0,0,Unfinished,FALSE,TRUE,FALSE,FALSE,TRUE,Simic,Sara Winters,Theros,SKvQZ_Mqt0qvAG6AQokl3Q,enchantress,Brighton
 Please Collect Your Fblthp,Fblthp,mid,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,FALSE,FALSE,Blue,Marija Tiurina,Ravnica,sETc1gqVvEyt6qWw6Uobag,fblthp,Ennepetal
-Blot out the Sky,Felisa,mid,1,0,0,1,LGS,TRUE,FALSE,TRUE,FALSE,FALSE,Orzhov,Sara Winters,Arcavios,b0rClpplwUmO9l-Zh8rmwA,counters,Brighton
+Blot out the Sky,Felisa,mid,2,0,1,1,LGS,TRUE,FALSE,TRUE,FALSE,FALSE,Orzhov,Sara Winters,Arcavios,b0rClpplwUmO9l-Zh8rmwA,counters,Brighton
 Lucky Luke,Felix,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,FALSE,TRUE,Sultai,Chris Rahn,Thunder Junction,7mSk7lKC_0q_JQ3a9Iwijg,combat,Ennepetal
 Easter Basket,Finneas,mid,4,2,1,1,proxied,TRUE,TRUE,FALSE,FALSE,TRUE,Selesnya,Victor Adame Minguez,Bloomburrow,KwTV7tribUqeQkFXCa2UEQ,group hug&goat&suspect&rabbits,Brighton
 Beast Mode,Gahiji,mid,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,TRUE,TRUE,Naya,Brynn Metheney,Unknown,9s5-Zb5KsEu5UnrCyVrtHw,beasts,Brighton
@@ -61,7 +61,7 @@ Poetry for the Fossilized,Huatli,low,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,TRUE,TR
 Cwtch,Hugs,high,4,2,1,1,LGS,FALSE,FALSE,FALSE,TRUE,TRUE,Gruul,Steve Prescott,Bloomburrow,yuCakJLReUKDkR7vz2RDVg,food chain&landfall,Brighton
 Baby's Got Back,Ikra&Sidar,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,FALSE,TRUE,Abzan,Alexander Lee&Josu Hernaiz,Dominaria&Tarkir,xFaSqWyTwU2I0VtCIYPUOw,toughness,Brighton
 For the Cause,Inalla,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,TRUE,FALSE,Grixis,Yongjae Choi,Unknown,FJULR4wdfUmyeOrQ4wAXFg,wizards,Ennepetal
-Counter Intelligence,Inspirit,mid,2,0,0,2,LGS,TRUE,FALSE,TRUE,TRUE,FALSE,Jeskai,Titus Lunter,the Edge,ZieAfhvzXOC_UcPtiozqQ,artifacts&charge,Brighton
+Counter Intelligence,Kilo,mid,2,0,0,2,LGS,TRUE,FALSE,TRUE,TRUE,FALSE,Jeskai, Tuan Duong Chu,the Edge,ZieAfhvzXOC_UcPtiozqQ,artifacts&charge,Brighton
 The Cure,Ixhel,mid,0,0,0,0,Unfinished,TRUE,FALSE,TRUE,FALSE,TRUE,Abzan,Campbell White,New Phyrexia,,phyrexian&poison,Ennepetal
 Pokémon,Jace,mid,0,0,0,0,LGS,TRUE,TRUE,TRUE,TRUE,FALSE,Artifice,Volkan Baǵa,Vryn,HIpOsoStS0Cy99D35rubog,polymorph&spellslinger,Brighton
 Horseplay,Jandor,mid,2,1,1,0,LGS,TRUE,FALSE,FALSE,TRUE,TRUE,Naya,Justin Gerard,Rabiah,q6OMXkxE-Ua3nkuNPDAgDA,mounts,Brighton
@@ -69,7 +69,7 @@ Tales of the Seven,Jasmine Boreal,mid,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,FALSE,
 Nephalia Nightmares,Jeleva,high,19,7,2,10,LGS,FALSE,TRUE,TRUE,TRUE,FALSE,Grixis,Cynthia Sheppard,Innistrad,wa9WtU4FeEO7RsyPj5zawgm,mill&drawing cards,Brighton
 Modified Chapstick Collection,Jenny&Vastra,mid,0,0,0,0,Unfinished,FALSE,TRUE,FALSE,TRUE,TRUE,Temur,Syd Mills&Syd Mills,Tardis&Tardis,dVLrJYsHFUelMDjnj0Rmbw,counters,Brighton
 The Weatherlight is Under Construction,Jhoira,high,9,0,1,8,Unfinished,FALSE,TRUE,FALSE,TRUE,FALSE,Izzet,Lisa Heidhoff,Dominaria,jLFKB8hsVEalMDUZzieFDQ,artifacts&attractions,Brighton
-Undercity Palace,Kadena,mid,4,0,1,3,LGS,FALSE,TRUE,TRUE,FALSE,TRUE,Sultai,Caio Monteiro,Tarkir,LGds2ftYTkaqJJJMBDpQCw,morph,Brighton
+Undercity Palace,Kadena,mid,6,1,2,3,LGS,FALSE,TRUE,TRUE,FALSE,TRUE,Sultai,Caio Monteiro,Tarkir,LGds2ftYTkaqJJJMBDpQCw,morph,Brighton
 Stegosaurus Combat Behaviour,Kalamax,mid,12,4,0,8,LGS,FALSE,TRUE,FALSE,TRUE,TRUE,Temur,Nicholas Gregory,Ikoria,NfyGFCgkIkK9D-uWsk98pA,Zada&voltron&vehicles&copy&adventures&combat,BrightonR
 Centaur for Disease Control,Karador,mid,7,2,0,5,LGS,TRUE,FALSE,TRUE,FALSE,TRUE,Abzan,Laura Plansker,Theros,LRVblcVLPUK-Kmn4TRrq0w,poison&-1/-1 counters,Brighton
 Tapajos Jungle,Kaseto,mid,0,0,0,0,Unfinished,FALSE,TRUE,FALSE,FALSE,TRUE,Simic,Aaron Miller,Kamigawa,OuB9Zt9n4kmLE-yCVrfmKg,snakes,Brighton
@@ -166,7 +166,7 @@ Tam's New Friends,Tam,mid,3,1,0,2,LGS,T,TRUE,TRUE,T,T,WUBRG,Aleksi Briclot,Archa
 Desecrated,Yarok,mid,0,0,0,0,Unfinished,FALSE,TRUE,TRUE,FALSE,TRUE,Sultai,Jessica Rossier,Zendikar,x_kS9RTez0yyccIMyD22Yg,landfall&etb,Brighton
 Favours,Yume,low,0,0,0,0,Unfinished,TRUE,FALSE,FALSE,FALSE,FALSE,White,Hendry Iwanaga,Kamigawa,f4intwTQXU6ERyEya8ktRQ,stax,Brighton
 Giving Goats Away,Zedruu,PreCon,1,0,0,1,proxied,TRUE,TRUE,FALSE,TRUE,FALSE,Jeskai,Mark Zug,Ikoria,OyJB7Ux9cUyQ8c9tzjDpzg,mutate&gifts,Ennepetal
-The Wola Sequence,Zimone,mid,0,0,0,0,LGS,FALSE,TRUE,FALSE,FALSE,TRUE,Simic,Sam Wolfe Connelly,Arcavios,LHhGpoY6M0OCX3Z-BmTgmw,landfall&counters&maths,Brighton
+The Wola Sequence,Zimone,mid,4,1,1,2,LGS,FALSE,TRUE,FALSE,FALSE,TRUE,Simic,Sam Wolfe Connelly,Arcavios,LHhGpoY6M0OCX3Z-BmTgmw,landfall&counters&maths,Brighton
 Transmission Parameters,Zimone and Dina and Killian,mid,0,0,0,0,LGS,FALSE,TRUE,TRUE,FALSE,TRUE,Witch-Maw,Anato Finnstark&Anato Finnstark&Ryan Pancoast,Arcavios&Arcavios&Arcavios,3SD2dXC_MES5wUsKzdAz5w,sacrifice&graveyard,Brighton
 Vampyrum Spectrum,Zoraline,mid,1,1,0,0,LGS,TRUE,FALSE,TRUE,FALSE,FALSE,Orzhov,Justin Gerard,Bloomburrow,gp6qJC_O3UGVUyBipOARxg,bats,Brighton
 Labyrinth,Zur,low,0,0,0,0,Unfinished,TRUE,TRUE,TRUE,FALSE,FALSE,Esper,Jesper Ejsing,Dominaria,t_5pMTx7gEajbnNbJokEOA,artifacts,Brighton
@@ -183,8 +183,11 @@ Dragons.deck,Karthus,mid,0,0,0,0,Unfinished,F,F,T,T,T,Jund,Sam Burley,Alara,lgbA
 Let's All Get Along,Sen Triplets,mid,0,0,0,0,Unfinished,T,T,T,F,F,Esper,TMRWLND,Alara,l3yHzpWXwUy_BApM0DpRBw,control,Brighton
 Democracy,Karona&Marina,mid,0,0,0,0,Unfinished,T,T,T,T,T,WUBRG,David Robert Hovey&Scott Okumura&Jack Hughes,Dominaria&Duskmourn,3M2MHleQG0Wh0mx2gybPRg,rooms&enchantress,Brighton
 X Factor Investigations,Magik,mid,0,0,0,0,Unfinished,F,F,T,T,F,Rakdos,Fariba Khamseh,Earth-616,xT0E49KZQ0mLGMY92waTAQ,cascade,Brighton
-Imaginary Numbers,Doran,Lorwyn,Carl Critchlow,
-Missed It,Kira,Deep Space Nine,Pauline Voss
-Assimilate Please,Locutus,Borg,
-This Landing Party Violates the Prime Directive,Spock,
-Tribble Adoption Centre,Worf,
+Imaginary Numbers,Doran,mid,0,0,0,0,Unfinished,T,F,T,F,T,Abzan,Carl Critchlow,Lorwyn,GcEv-q-gpUuhyFj9Zy3JGw,toughness&negative power,Brighton
+Missed It,Kira,mid,0,0,0,0,Unfinished,F,T,F,T,F,Boros,Pauline Voss,Deep Space Nine,GeMuwUl6RkaaCc2mwu4K-g,combat,Brighton
+Quest for Ferengigar,Lara Croft,mid,0,0,0,0,F,T,T,F,T,Temur,Unfinished,Greg Staples,Earth,Cyqh_Z2brkO8d9itfAaJ4A,artifacts,Brighton
+This Landing Party Violates the Prime Directive,Pavel Chekov,mid,0,0,0,0,Unfinished,F,T,F,F,T,Simic,Matt Stewart,Earth,1uYAdgm0oEyXSF2nNqe8nw,landfall,Brighton
+Avenging K'Ehleyr,Worf,mid,0,0,0,0,Unfinished,T,F,T,T,F,Mardu,Flavio Greco Paglia,Qo'noS,YpbOtZGNXUGm13lwaT45iw,warriors&combat,Brighton
+Starfleet Academy,Kathryn Janeway,mid,0,0,0,0,Unfinished,T,T,F,T,F,Jeskai,Jason Pastrana,Earth,XIVdk03hpk67IZcRR1A1iQ,voltron,Brighton
+Assimilate Please,Locutus,mid,0,0,0,0,Unfinished,T,T,T,F,F,Esper,Anton Solovianchyk,Borg Cube,SQMpn53U3E2Xi0_xo28Msw,artifacts&borg,Brighton
+S32Jqk3FoE282THYjseTOQ,Perrie,mid,0,0,0,0,Unfinished,T,T,F,F,T,Bant,Joshua Raphael,New Capenna,S32Jqk3FoE282THYjseTOQ,counters,Brighton
